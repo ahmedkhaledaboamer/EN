@@ -28,6 +28,8 @@ export const ESSENTIALS_ORDER = [
   'opposites',
   'frequency-and-connectors',
   'body-parts',
+  'feelings-and-emotions',
+  'jobs-and-professions',
 ];
 
 const registry = createRegistry(
