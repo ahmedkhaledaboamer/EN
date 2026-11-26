@@ -21,7 +21,7 @@ export default function Essentials() {
             Days, numbers, pronouns, prepositions… the small words every situation is built from. Learn them,
             flip the flashcards, then take a quick quiz.
           </p>
-          <p dir="rtl" lang="ar" className="mt-2 max-w-xl text-right text-neutral-500 sm:text-left dark:text-neutral-400">
+          <p dir="rtl" lang="ar" className="mt-2 max-w-xl text-left text-neutral-500 dark:text-neutral-400">
             الكلمات الأساسية اللي بتستخدمها في كل موقف.
           </p>
         </div>

@@ -16,7 +16,8 @@ Frontend only: **React (Vite) + Tailwind CSS**, plain JavaScript. Progress is st
 ```bash
 npm install
 npm run dev        # start the dev server
-npm run validate   # check every topic JSON file
+npm run validate   # check every topic and essentials JSON file
+npm test           # run the Vitest test suite (npm run test:watch while developing)
 npm run build      # production build in dist/
 npm run preview    # serve the production build
 ```
@@ -157,7 +158,9 @@ with `--topics` or `--essentials`.
 - **Today's Topic** = the first topic in `TOPIC_ORDER` that isn't completed.
 - **Completed** = a Practice score of **70% or more**. The best score per topic is saved.
 - **Streak** goes up on each day you mark a word with "Got it" or finish a practice.
-- **Saved words** = words bookmarked on a topic's Words tab.
+- **Saved words** = words bookmarked on any word card (topics or essentials). The `/saved` page lists them
+  grouped by source, with search, flashcards and a quiz built from your list. Flashcard "I know it" updates the
+  progress of the word's own topic or category.
 - **Audio** uses the browser's `speechSynthesis`: it picks an en-US voice, waits for voices that load late, falls back to the default voice, and shows a notice when speech isn't supported.
 - **Essentials**: a category is completed at **70% or more** in its quiz. Its progress is stored separately
   from topics, and the Home stats show completed categories and learned items.

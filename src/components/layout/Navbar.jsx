@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { to: '/', label: 'Home', end: true },
   { to: '/topics', label: 'Topics' },
   { to: '/essentials', label: 'Essentials' },
+  { to: '/saved', label: 'Saved' },
 ];
 
 function DesktopLink({ to, label, end }) {

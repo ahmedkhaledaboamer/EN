@@ -43,7 +43,7 @@ export default function TopicHeader({
             <h1 className="mt-2 text-4xl leading-[1.05] sm:text-5xl lg:text-6xl">
               <HighlightLastWord text={meta.title} />
             </h1>
-            <p dir="rtl" lang="ar" className="mt-1 text-right text-lg text-neutral-600 sm:text-left dark:text-neutral-300">
+            <p dir="rtl" lang="ar" className="mt-1 text-left text-lg text-neutral-600 dark:text-neutral-300">
               {meta.titleAr}
             </p>
           </div>

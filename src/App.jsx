@@ -5,6 +5,7 @@ import Topics from './pages/Topics';
 import TopicPage from './pages/TopicPage';
 import Essentials from './pages/Essentials';
 import EssentialPage from './pages/EssentialPage';
+import Saved from './pages/Saved';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
         <Route path="topics/:slug" element={<TopicPage />} />
         <Route path="essentials" element={<Essentials />} />
         <Route path="essentials/:slug" element={<EssentialPage />} />
+        <Route path="saved" element={<Saved />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

@@ -77,7 +77,7 @@ export default function TodayTopic({ topic, progress, allDone }) {
                   <h3 className="text-3xl sm:text-4xl">
                     <HighlightLastWord text={topic.title} />
                   </h3>
-                  <p dir="rtl" lang="ar" className="mt-1 text-right text-lg text-neutral-600 sm:text-left dark:text-neutral-300">
+                  <p dir="rtl" lang="ar" className="mt-1 text-left text-lg text-neutral-600 dark:text-neutral-300">
                     {topic.titleAr}
                   </p>
                 </div>

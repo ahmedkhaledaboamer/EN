@@ -41,4 +41,9 @@ function contentMetaPlugin() {
 
 export default defineConfig({
   plugins: [contentMetaPlugin(), react()],
+  test: {
+    environment: 'jsdom',
+    globals: true, // lets Testing Library clean up the DOM after each test
+    include: ['src/**/*.test.{js,jsx}'],
+  },
 });

@@ -12,7 +12,8 @@ function headline(percent) {
   return ['Keep', 'practicing.'];
 }
 
-export default function ScoreScreen({ correct, total, result, mistakes, next, review, onRetry }) {
+/** messages (optional): { pass, fail } to replace the default topic wording. */
+export default function ScoreScreen({ correct, total, result, mistakes, next, review, onRetry, messages }) {
   const { percent, passed, isNewBest } = result;
   const [first, gold] = headline(percent);
 
@@ -53,8 +54,8 @@ export default function ScoreScreen({ correct, total, result, mistakes, next, re
 
       <p className="mx-auto mt-4 max-w-md">
         {passed
-          ? 'This topic is marked as completed. Great job!'
-          : `You need ${PASS_PERCENT}% to complete this topic. Review the words and try again.`}
+          ? messages?.pass ?? 'This topic is marked as completed. Great job!'
+          : messages?.fail ?? `You need ${PASS_PERCENT}% to complete this topic. Review the words and try again.`}
       </p>
 
       {mistakes.length > 0 && (

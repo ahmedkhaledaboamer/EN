@@ -32,7 +32,7 @@ function CardTitle({ topic }) {
   return (
     <div className="mt-6">
       <h3 className="text-2xl">{topic.title}</h3>
-      <p dir="rtl" lang="ar" className="mt-0.5 text-right text-sm text-neutral-500 sm:text-left dark:text-neutral-400">
+      <p dir="rtl" lang="ar" className="mt-0.5 text-left text-sm text-neutral-500 dark:text-neutral-400">
         {topic.titleAr}
       </p>
     </div>

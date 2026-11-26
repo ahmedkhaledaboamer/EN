@@ -6,9 +6,9 @@ import Reveal from '../ui/Reveal';
 /** essentials: { completed, total, learnedItems } */
 export default function StatsRow({ streak, best, studiedToday, savedCount, completedCount, readyCount, essentials }) {
   const streakHint = studiedToday
-    ? 'You studied today. Nice!'
+    ? 'Studied today ✓'
     : streak > 0
-      ? 'Study today to keep it going'
+      ? 'Study today to keep it'
       : 'Learn one word to start';
 
   return (
@@ -24,14 +24,16 @@ export default function StatsRow({ streak, best, studiedToday, savedCount, compl
         />
       </Reveal>
       <Reveal delay={0.08}>
-        <StatCard
-          icon={Bookmark}
-          iconClass="bg-brand-purple/40 text-violet-800 dark:bg-violet-500/20 dark:text-violet-300"
-          label="Saved words"
-          value={savedCount}
-          suffix={savedCount === 1 ? 'word' : 'words'}
-          hint={savedCount ? 'Your personal word list' : 'Bookmark words on a topic page'}
-        />
+        <Link to="/saved" className="block rounded-3xl">
+          <StatCard
+            icon={Bookmark}
+            iconClass="bg-brand-purple/40 text-violet-800 dark:bg-violet-500/20 dark:text-violet-300"
+            label="Saved words"
+            value={savedCount}
+            suffix={savedCount === 1 ? 'word' : 'words'}
+            hint={savedCount ? 'Open your word list' : 'Bookmark words on any word card'}
+          />
+        </Link>
       </Reveal>
       <Reveal delay={0.16}>
         <StatCard
