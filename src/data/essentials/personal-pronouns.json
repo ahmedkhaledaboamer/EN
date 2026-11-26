@@ -1,0 +1,35 @@
+{
+  "slug": "personal-pronouns",
+  "title": "Personal Pronouns",
+  "titleAr": "الضمائر الشخصية",
+  "emoji": "🙋",
+  "level": "A1",
+  "intro": "ضمائر الفاعل بتيجي قبل الفعل وبتقول مين اللي بيعمل الحاجة: I work، she works. خلي بالك إن you واحدة للمفرد والجمع، و it للحاجات والحيوانات.",
+  "items": [
+    { "en": "I", "ar": "أنا", "phonetic": "/aɪ/", "example": "I am a developer.", "exampleAr": "أنا مبرمج." },
+    { "en": "you", "ar": "أنتَ / أنتِ / أنتم (إنت، إنتي، إنتو)", "phonetic": "/ju/", "example": "Are you ready?", "exampleAr": "إنت جاهز؟" },
+    { "en": "he", "ar": "هو (لراجل أو ولد)", "phonetic": "/hi/", "example": "He is my brother.", "exampleAr": "هو أخويا." },
+    { "en": "she", "ar": "هي (لست أو بنت)", "phonetic": "/ʃi/", "example": "She works at a bank.", "exampleAr": "هي بتشتغل في بنك." },
+    { "en": "it", "ar": "هو / هي (لحاجة أو حيوان)", "phonetic": "/ɪt/", "example": "It is a beautiful city.", "exampleAr": "دي مدينة جميلة." },
+    { "en": "we", "ar": "نحن / إحنا", "phonetic": "/wi/", "example": "We live in Giza.", "exampleAr": "إحنا ساكنين في الجيزة." },
+    { "en": "they", "ar": "هم / هما", "phonetic": "/ðeɪ/", "example": "They are my neighbors.", "exampleAr": "هما جيراني." }
+  ],
+  "table": {
+    "columns": ["Pronoun", "to be", "Example", "Arabic"],
+    "rows": [
+      ["I", "am", "I am tired.", "أنا"],
+      ["you", "are", "You are kind.", "إنت / إنتي / إنتو"],
+      ["he", "is", "He is late.", "هو"],
+      ["she", "is", "She is a nurse.", "هي"],
+      ["it", "is", "It is cold.", "هو / هي (حاجة)"],
+      ["we", "are", "We are friends.", "إحنا"],
+      ["they", "are", "They are here.", "هما"]
+    ]
+  },
+  "tips": [
+    "I بتتكتب دايماً بحرف كبير، حتى في نص الجملة.",
+    "مع he و she و it الفعل في المضارع بياخد s: she works مش she work.",
+    "استخدم it للحيوانات والحاجات، ومتقولش he للعربية أو التليفون.",
+    "ما ينفعش تشيل الضمير زي العربي: قول It is hot مش Is hot."
+  ]
+}

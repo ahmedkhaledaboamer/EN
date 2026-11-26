@@ -1,0 +1,32 @@
+{
+  "slug": "seasons",
+  "title": "Seasons",
+  "titleAr": "فصول السنة",
+  "emoji": "🍂",
+  "level": "A1",
+  "intro": "السنة فيها أربع فصول: spring و summer و fall و winter. الفصول بتتكتب بحرف صغير، وبنستخدم معاها in: in summer.",
+  "items": [
+    { "en": "spring", "ar": "الربيع", "phonetic": "/sprɪŋ/", "example": "The flowers open in spring.", "exampleAr": "الورد بيفتّح في الربيع." },
+    { "en": "summer", "ar": "الصيف", "phonetic": "/ˈsʌmər/", "example": "We travel to Alexandria every summer.", "exampleAr": "بنسافر إسكندرية كل صيف." },
+    { "en": "fall", "ar": "الخريف (أمريكي)", "phonetic": "/fɔl/", "example": "The leaves turn yellow in the fall.", "exampleAr": "ورق الشجر بيصفرّ في الخريف." },
+    { "en": "winter", "ar": "الشتاء / الشتا", "phonetic": "/ˈwɪntər/", "example": "I drink hot tea in winter.", "exampleAr": "بشرب شاي سخن في الشتا." },
+    { "en": "season", "ar": "فصل (من فصول السنة) / موسم", "phonetic": "/ˈsizən/", "example": "Which season do you like best?", "exampleAr": "بتحب أنهي فصل أكتر؟" },
+    { "en": "warm", "ar": "دافئ / دافي", "phonetic": "/wɔrm/", "example": "The weather is warm in May.", "exampleAr": "الجو دافي في مايو." },
+    { "en": "cool", "ar": "منعش / بارد شوية", "phonetic": "/kul/", "example": "The evenings are cool in October.", "exampleAr": "بالليل الجو بيبقى بارد شوية في أكتوبر." },
+    { "en": "all year", "ar": "طوال السنة / طول السنة", "phonetic": "/ˈɔl ˈjɪr/", "example": "The sun shines here all year.", "exampleAr": "الشمس طالعة هنا طول السنة." }
+  ],
+  "table": {
+    "columns": ["Season", "Months (Egypt)", "Arabic"],
+    "rows": [
+      ["spring", "March – May", "الربيع"],
+      ["summer", "June – August", "الصيف"],
+      ["fall / autumn", "September – November", "الخريف"],
+      ["winter", "December – February", "الشتاء"]
+    ]
+  },
+  "tips": [
+    "fall كلمة أمريكية، و autumn كلمة بريطانية، والاتنين معناهم الخريف.",
+    "الفصول بحرف صغير: summer مش Summer (إلا في أول الجملة).",
+    "قول in summer أو in the summer، الاتنين صح."
+  ]
+}

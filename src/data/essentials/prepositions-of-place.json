@@ -1,0 +1,29 @@
+{
+  "slug": "prepositions-of-place",
+  "title": "Prepositions of Place",
+  "titleAr": "حروف الجر للمكان",
+  "emoji": "📦",
+  "level": "A1",
+  "intro": "حروف الجر دي بتقول الحاجة فين بالظبط: in (جوه)، on (على)، under (تحت)، next to (جنب). بتيجي قبل الاسم: The keys are on the table. حاول تتخيل الصورة وإنت بتتعلمها.",
+  "items": [
+    { "en": "in", "ar": "في (جوه حاجة)", "phonetic": "/ɪn/", "example": "The keys are in my bag.", "exampleAr": "المفاتيح في شنطتي." },
+    { "en": "on", "ar": "على (فوق وملامس)", "phonetic": "/ɑn/", "example": "The book is on the table.", "exampleAr": "الكتاب على الترابيزة." },
+    { "en": "under", "ar": "تحت", "phonetic": "/ˈʌndər/", "example": "The cat is under the bed.", "exampleAr": "القطة تحت السرير." },
+    { "en": "next to", "ar": "بجانب / جنب (لازق فيه)", "phonetic": "/ˈnɛkst tu/", "example": "The bank is next to the pharmacy.", "exampleAr": "البنك جنب الصيدلية." },
+    { "en": "near", "ar": "قريب من", "phonetic": "/nɪr/", "example": "I live near the station.", "exampleAr": "أنا ساكن قريب من المحطة." },
+    { "en": "between", "ar": "بين", "phonetic": "/bɪˈtwin/", "example": "The café is between the bank and the hotel.", "exampleAr": "الكافيه بين البنك والفندق." },
+    { "en": "behind", "ar": "خلف / ورا", "phonetic": "/bɪˈhaɪnd/", "example": "The garden is behind the house.", "exampleAr": "الجنينة ورا البيت." },
+    { "en": "in front of", "ar": "أمام / قدام", "phonetic": "/ɪn ˈfrʌnt əv/", "example": "Wait for me in front of the school.", "exampleAr": "استناني قدام المدرسة." },
+    { "en": "above", "ar": "فوق (من غير ما يلمس)", "phonetic": "/əˈbʌv/", "example": "There is a lamp above the table.", "exampleAr": "فيه لمبة فوق الترابيزة." },
+    { "en": "below", "ar": "أسفل / تحت مستوى (من غير ما يلمس)", "phonetic": "/bɪˈloʊ/", "example": "My neighbor lives below me.", "exampleAr": "جاري ساكن في الدور اللي تحتي." },
+    { "en": "opposite", "ar": "مقابل / قصاد", "phonetic": "/ˈɑpəzɪt/", "example": "The mosque is opposite the park.", "exampleAr": "الجامع قصاد الجنينة." },
+    { "en": "inside", "ar": "داخل / من جوه", "phonetic": "/ˌɪnˈsaɪd/", "example": "It's cold. Let's go inside.", "exampleAr": "الجو برد. يلا ندخل جوه." },
+    { "en": "outside", "ar": "خارج / بره", "phonetic": "/ˌaʊtˈsaɪd/", "example": "The children are playing outside.", "exampleAr": "العيال بيلعبوا بره." }
+  ],
+  "tips": [
+    "on يعني الحاجة لامسة السطح، و above يعني فوقه من غير ما تلمسه.",
+    "next to يعني لازق فيه، و near يعني قريب بس مش لازم لازق.",
+    "قول in front of مش in the front of لما تقصد قدام حاجة.",
+    "between بنستخدمها مع حاجتين: between the bank and the hotel."
+  ]
+}

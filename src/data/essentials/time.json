@@ -1,0 +1,45 @@
+{
+  "slug": "time",
+  "title": "Telling the Time",
+  "titleAr": "الوقت والساعة",
+  "emoji": "🕒",
+  "level": "A1",
+  "intro": "عشان تسأل عن الساعة قول: What time is it? والرد بيبدأ بـ It's. ممكن تقول الوقت بطريقتين: It's half past seven أو It's seven thirty، والاتنين صح. وبنستخدم at قبل الساعة: at 8 o'clock.",
+  "items": [
+    { "en": "o'clock", "ar": "تماماً (الساعة بالظبط)", "phonetic": "/əˈklɑk/", "example": "The class starts at nine o'clock.", "exampleAr": "الحصة بتبدأ الساعة تسعة بالظبط." },
+    { "en": "half past", "ar": "ونصف / ونص", "phonetic": "/ˈhæf ˌpæst/", "example": "It's half past seven.", "exampleAr": "الساعة سبعة ونص." },
+    { "en": "quarter past", "ar": "وربع", "phonetic": "/ˈkwɔrtər ˌpæst/", "example": "The bus leaves at quarter past eight.", "exampleAr": "الأتوبيس بيمشي الساعة تمانية وربع." },
+    { "en": "quarter to", "ar": "إلا ربع", "phonetic": "/ˈkwɔrtər tu/", "example": "It's quarter to nine.", "exampleAr": "الساعة تسعة إلا ربع." },
+    { "en": "minute", "ar": "دقيقة", "phonetic": "/ˈmɪnɪt/", "example": "Wait a minute, please.", "exampleAr": "استنى دقيقة لو سمحت." },
+    { "en": "hour", "ar": "ساعة (مدة)", "phonetic": "/ˈaʊər/", "example": "The trip takes one hour.", "exampleAr": "المشوار بياخد ساعة." },
+    { "en": "a.m.", "ar": "صباحاً (من نص الليل للضهر)", "phonetic": "/ˌeɪ ˈɛm/", "example": "I wake up at 7 a.m.", "exampleAr": "بصحى الساعة سبعة الصبح." },
+    { "en": "p.m.", "ar": "مساءً (من الضهر لنص الليل)", "phonetic": "/ˌpi ˈɛm/", "example": "The shop closes at 10 p.m.", "exampleAr": "المحل بيقفل الساعة عشرة بالليل." },
+    { "en": "noon", "ar": "الظهر (الساعة 12)", "phonetic": "/nun/", "example": "Let's meet at noon.", "exampleAr": "يلا نتقابل الضهر." },
+    { "en": "midnight", "ar": "منتصف الليل / نص الليل", "phonetic": "/ˈmɪdˌnaɪt/", "example": "I go to bed at midnight.", "exampleAr": "بنام الساعة اطناشر بالليل." },
+    { "en": "morning", "ar": "الصباح / الصبح", "phonetic": "/ˈmɔrnɪŋ/", "example": "I drink coffee in the morning.", "exampleAr": "بشرب قهوة الصبح." },
+    { "en": "afternoon", "ar": "بعد الظهر / بعد الضهر", "phonetic": "/ˌæftərˈnun/", "example": "I study in the afternoon.", "exampleAr": "بذاكر بعد الضهر." },
+    { "en": "evening", "ar": "المساء / بالليل بدري", "phonetic": "/ˈivnɪŋ/", "example": "We watch TV in the evening.", "exampleAr": "بنتفرج على التليفزيون بالليل." },
+    { "en": "night", "ar": "الليل", "phonetic": "/naɪt/", "example": "The city is quiet at night.", "exampleAr": "المدينة بتبقى هادية بالليل." },
+    { "en": "on time", "ar": "في الميعاد بالظبط", "phonetic": "/ɑn ˈtaɪm/", "example": "Please be on time for the meeting.", "exampleAr": "لو سمحت تعالى في الميعاد بتاع الاجتماع." },
+    { "en": "late", "ar": "متأخر", "phonetic": "/leɪt/", "example": "Sorry, I'm late.", "exampleAr": "آسف، أنا اتأخرت." },
+    { "en": "early", "ar": "بدري / مبكراً", "phonetic": "/ˈərli/", "example": "The train arrived early.", "exampleAr": "القطر وصل بدري." },
+    { "en": "now", "ar": "الآن / دلوقتي", "phonetic": "/naʊ/", "example": "I'm busy now.", "exampleAr": "أنا مشغول دلوقتي." }
+  ],
+  "table": {
+    "columns": ["Time", "Way 1", "Way 2", "Arabic"],
+    "rows": [
+      ["7:00", "seven o'clock", "seven", "سبعة بالظبط"],
+      ["7:10", "ten past seven", "seven ten", "سبعة وعشرة"],
+      ["7:15", "quarter past seven", "seven fifteen", "سبعة وربع"],
+      ["7:30", "half past seven", "seven thirty", "سبعة ونص"],
+      ["7:45", "quarter to eight", "seven forty-five", "تمانية إلا ربع"],
+      ["7:50", "ten to eight", "seven fifty", "تمانية إلا عشرة"]
+    ]
+  },
+  "tips": [
+    "قول at 8 o'clock مش in 8 o'clock.",
+    "o'clock بنقولها مع الساعة بالظبط بس: seven o'clock، مش seven thirty o'clock.",
+    "in the morning و in the afternoon و in the evening، لكن at night.",
+    "a.m. يعني الصبح و p.m. يعني بعد الضهر وبالليل."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "months",
+  "title": "Months of the Year",
+  "titleAr": "شهور السنة",
+  "emoji": "🗓️",
+  "level": "A1",
+  "intro": "الشهور في الإنجليزي بتبدأ بحرف كبير زي الأيام. بنستخدم in قبل الشهر: in May. ولو معاه يوم محدد بنستخدم on: on May 5th.",
+  "items": [
+    { "en": "January", "ar": "يناير (كانون الثاني)", "phonetic": "/ˈdʒænjuˌɛri/", "example": "It is very cold in January.", "exampleAr": "الجو بيبقى برد جداً في يناير." },
+    { "en": "February", "ar": "فبراير (شباط)", "phonetic": "/ˈfɛbjuˌɛri/", "example": "February is the shortest month.", "exampleAr": "فبراير أقصر شهر في السنة." },
+    { "en": "March", "ar": "مارس (آذار)", "phonetic": "/mɑrtʃ/", "example": "My exams start in March.", "exampleAr": "امتحاناتي بتبدأ في مارس." },
+    { "en": "April", "ar": "أبريل (نيسان)", "phonetic": "/ˈeɪprəl/", "example": "The weather is nice in April.", "exampleAr": "الجو حلو في أبريل." },
+    { "en": "May", "ar": "مايو (أيار)", "phonetic": "/meɪ/", "example": "My birthday is in May.", "exampleAr": "عيد ميلادي في مايو." },
+    { "en": "June", "ar": "يونيو (حزيران)", "phonetic": "/dʒun/", "example": "School finishes in June.", "exampleAr": "الدراسة بتخلص في يونيو." },
+    { "en": "July", "ar": "يوليو (تموز)", "phonetic": "/dʒʊˈlaɪ/", "example": "We go to the beach in July.", "exampleAr": "بنروح البحر في يوليو." },
+    { "en": "August", "ar": "أغسطس (آب)", "phonetic": "/ˈɔɡəst/", "example": "August is very hot in Egypt.", "exampleAr": "أغسطس حر جداً في مصر." },
+    { "en": "September", "ar": "سبتمبر (أيلول)", "phonetic": "/sɛpˈtɛmbər/", "example": "The new school year starts in September.", "exampleAr": "السنة الدراسية الجديدة بتبدأ في سبتمبر." },
+    { "en": "October", "ar": "أكتوبر (تشرين الأول)", "phonetic": "/ɑkˈtoʊbər/", "example": "I moved to Cairo in October.", "exampleAr": "اتنقلت القاهرة في أكتوبر." },
+    { "en": "November", "ar": "نوفمبر (تشرين الثاني)", "phonetic": "/noʊˈvɛmbər/", "example": "The days get shorter in November.", "exampleAr": "الأيام بتقصر في نوفمبر." },
+    { "en": "December", "ar": "ديسمبر (كانون الأول)", "phonetic": "/dɪˈsɛmbər/", "example": "December is the last month of the year.", "exampleAr": "ديسمبر آخر شهر في السنة." }
+  ],
+  "table": {
+    "columns": ["#", "Month", "Short", "Arabic"],
+    "rows": [
+      ["1", "January", "Jan", "يناير"],
+      ["2", "February", "Feb", "فبراير"],
+      ["3", "March", "Mar", "مارس"],
+      ["4", "April", "Apr", "أبريل"],
+      ["5", "May", "May", "مايو"],
+      ["6", "June", "Jun", "يونيو"],
+      ["7", "July", "Jul", "يوليو"],
+      ["8", "August", "Aug", "أغسطس"],
+      ["9", "September", "Sep", "سبتمبر"],
+      ["10", "October", "Oct", "أكتوبر"],
+      ["11", "November", "Nov", "نوفمبر"],
+      ["12", "December", "Dec", "ديسمبر"]
+    ]
+  },
+  "tips": [
+    "قول in May بس لو فيه يوم محدد قول on May 5th.",
+    "الشهر دايماً بحرف كبير: June مش june.",
+    "في أمريكا التاريخ بيتكتب الشهر الأول: 5/3 معناها 3 مايو مش 5 مارس!"
+  ]
+}

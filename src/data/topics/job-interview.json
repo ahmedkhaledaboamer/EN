@@ -1,0 +1,107 @@
+{
+  "slug": "job-interview",
+  "title": "Job Interview",
+  "titleAr": "مقابلة العمل",
+  "emoji": "💼",
+  "level": "B1",
+  "description": "Answer common interview questions with confidence.",
+  "descriptionAr": "أجب عن أسئلة المقابلات الشائعة بثقة.",
+  "words": [
+    { "en": "interview", "ar": "مقابلة (عمل)", "phonetic": "/ˈɪntərˌvju/", "example": "My interview is on Sunday at ten o'clock." },
+    { "en": "resume", "ar": "سيرة ذاتية (CV)", "phonetic": "/ˈrɛzəˌmeɪ/", "example": "Please bring a printed copy of your resume." },
+    { "en": "candidate", "ar": "مرشح (للوظيفة)", "phonetic": "/ˈkændɪˌdeɪt/", "example": "There are five candidates for this job." },
+    { "en": "position", "ar": "وظيفة / منصب", "phonetic": "/pəˈzɪʃən/", "example": "I am applying for the sales position." },
+    { "en": "experience", "ar": "خبرة", "phonetic": "/ɪkˈspɪriəns/", "example": "I have three years of experience in marketing." },
+    { "en": "skills", "ar": "مهارات", "phonetic": "/skɪlz/", "example": "Good communication skills are important in this job." },
+    { "en": "strength", "ar": "نقطة قوة", "phonetic": "/strɛŋkθ/", "example": "My biggest strength is solving problems." },
+    { "en": "weakness", "ar": "نقطة ضعف", "phonetic": "/ˈwiknəs/", "example": "One weakness of mine is public speaking." },
+    { "en": "qualification", "ar": "مؤهل (دراسي أو مهني)", "phonetic": "/ˌkwɑləfəˈkeɪʃən/", "example": "A university degree is the main qualification for this role." },
+    { "en": "reference", "ar": "مرجع / شخص يزكّيك (توصية)", "phonetic": "/ˈrɛfərəns/", "example": "My old manager can give you a reference." },
+    { "en": "salary", "ar": "راتب / مرتب", "phonetic": "/ˈsæləri/", "example": "What salary do you expect?" },
+    { "en": "benefits", "ar": "مزايا (مثل التأمين الصحي والإجازات)", "phonetic": "/ˈbɛnəfɪts/", "example": "The benefits include health insurance." },
+    { "en": "full-time", "ar": "دوام كامل", "phonetic": "/ˈfʊl ˈtaɪm/", "example": "This is a full-time job, from nine to five." },
+    { "en": "part-time", "ar": "دوام جزئي", "phonetic": "/ˈpɑrt ˈtaɪm/", "example": "She has a part-time job while she studies." },
+    { "en": "hire", "ar": "يوظّف / يعيّن", "phonetic": "/haɪər/", "example": "The company wants to hire two new engineers." },
+    { "en": "apply", "ar": "يتقدم (لوظيفة)", "phonetic": "/əˈplaɪ/", "example": "You can apply online before the end of the month." },
+    { "en": "responsibility", "ar": "مسؤولية", "phonetic": "/rɪˌspɑnsəˈbɪləti/", "example": "My main responsibility was training new staff." },
+    { "en": "achievement", "ar": "إنجاز", "phonetic": "/əˈtʃivmənt/", "example": "My greatest achievement was leading a team of ten." },
+    { "en": "career", "ar": "مسيرة مهنية", "phonetic": "/kəˈrɪr/", "example": "I want to build a career in finance." },
+    { "en": "motivated", "ar": "متحمس / لديه دافع", "phonetic": "/ˈmoʊtəˌveɪtɪd/", "example": "I am very motivated to learn new things." }
+  ],
+  "sentences": [
+    { "en": "Tell me a little about yourself.", "ar": "حدثني قليلاً عن نفسك." },
+    { "en": "Why do you want to work for our company?", "ar": "لماذا تريد العمل في شركتنا؟" },
+    { "en": "I have five years of experience in customer service.", "ar": "لدي خمس سنوات من الخبرة في خدمة العملاء." },
+    { "en": "If I got this job, I would work very hard.", "ar": "لو حصلت على هذه الوظيفة، لعملت بجد كبير." },
+    { "en": "What would you do if a customer were angry?", "ar": "ماذا كنت ستفعل لو كان أحد العملاء غاضباً؟" },
+    { "en": "If I had more time, I would learn another language.", "ar": "لو كان لدي وقت أكثر، لتعلمت لغة أخرى." },
+    { "en": "What is your biggest weakness?", "ar": "ما أكبر نقطة ضعف لديك؟" },
+    { "en": "If you hired me, I would bring new ideas to the team.", "ar": "لو وظّفتموني، لجلبت أفكاراً جديدة للفريق." },
+    { "en": "Where do you see yourself in five years?", "ar": "أين ترى نفسك بعد خمس سنوات؟" },
+    { "en": "If I were the manager, I would listen to my team more.", "ar": "لو كنت المدير، لاستمعت إلى فريقي أكثر." }
+  ],
+  "story": {
+    "title": "The Dream Job",
+    "text": "Youssef wants to work at a big technology company. Last week, he decided to apply for a full-time position there. Two days later, they called him for an interview. Youssef was nervous, so he prepared carefully. He read his resume again and practiced answers with his sister. On the day of the interview, he wore a dark suit and arrived early. The manager asked about his experience and his skills. Youssef talked about his last job and his biggest achievement. Then she asked a tough question: \"What is your biggest weakness?\" Youssef took a breath. \"Sometimes I work too slowly because I check everything twice,\" he said. \"But I'm learning to manage my time better.\" The manager smiled. Then she asked, \"If we hired you, what would you change first?\" Youssef answered, \"I would talk to every person on the team.\" A week later, the company called him back. They wanted to hire him!",
+    "translation": "يريد يوسف أن يعمل في شركة تكنولوجيا كبيرة. الأسبوع الماضي، قرر أن يتقدم لوظيفة بدوام كامل هناك. بعد يومين، اتصلوا به لإجراء مقابلة. كان يوسف متوتراً، لذلك استعد بعناية. قرأ سيرته الذاتية مرة أخرى وتدرب على الإجابات مع أخته. في يوم المقابلة، ارتدى بدلة داكنة ووصل مبكراً. سألته المديرة عن خبرته ومهاراته. تحدث يوسف عن وظيفته السابقة وأكبر إنجاز له. ثم سألته سؤالاً صعباً: «ما أكبر نقطة ضعف لديك؟» أخذ يوسف نفساً عميقاً. قال: «أحياناً أعمل ببطء شديد لأنني أراجع كل شيء مرتين. لكنني أتعلم أن أنظم وقتي بشكل أفضل.» ابتسمت المديرة. ثم سألته: «لو وظّفناك، ما أول شيء ستغيّره؟» أجاب يوسف: «سأتحدث مع كل شخص في الفريق.» بعد أسبوع، اتصلت به الشركة مرة أخرى. لقد أرادوا توظيفه!"
+  },
+  "grammar": {
+    "title": "Second Conditional",
+    "explanationAr": "نستخدم الشرط الثاني Second conditional للحديث عن موقف خيالي أو غير مرجّح الآن أو في المستقبل. نضع الفعل بعد If في الماضي البسيط، ونستخدم would مع الفعل في الجملة الثانية: If I got the job, I would move to Cairo. مع الفعل to be نستخدم were مع كل الضمائر في الكلام الرسمي: If I were you. وفي المقابلات يُسأل المرشح كثيراً بصيغة What would you do if ...?",
+    "rule": "If + past simple, would + verb\nIf I got the job, I would move to Cairo.\nIf I were you, I would ...\nWhat would you do if + past simple?",
+    "examples": [
+      { "en": "If I got the position, I would start next month.", "ar": "لو حصلت على الوظيفة، لبدأت الشهر القادم." },
+      { "en": "If the salary were higher, I would accept the offer.", "ar": "لو كان الراتب أعلى، لقبلت العرض." },
+      { "en": "If I had more experience, I would apply for the manager job.", "ar": "لو كان لدي خبرة أكثر، لتقدمت لوظيفة المدير." },
+      { "en": "What would you do if you had a problem with a colleague?", "ar": "ماذا كنت ستفعل لو كانت لديك مشكلة مع زميل؟" },
+      { "en": "If they hired me, I would take more responsibility.", "ar": "لو وظّفوني، لتحملت مسؤولية أكبر." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "If I got the job, I ___ buy a new car.",
+      "options": ["will", "would", "am", "did"],
+      "answer": "would"
+    },
+    {
+      "type": "fill",
+      "sentence": "Please send us your ___ with a list of your jobs and education.",
+      "answer": "resume",
+      "hint": "سيرة ذاتية"
+    },
+    {
+      "type": "order",
+      "words": ["years", "I", "experience.", "of", "three", "have"],
+      "answer": "I have three years of experience."
+    },
+    {
+      "type": "mcq",
+      "question": "A job where you work only some hours each week is ___.",
+      "options": ["full-time", "overtime", "part-time", "on time"],
+      "answer": "part-time"
+    },
+    {
+      "type": "fill",
+      "sentence": "My biggest ___ is that I am very organized.",
+      "answer": "strength",
+      "hint": "نقطة قوة"
+    },
+    {
+      "type": "order",
+      "words": ["would", "you,", "I", "If", "apply.", "were", "I"],
+      "answer": "If I were you, I would apply."
+    },
+    {
+      "type": "mcq",
+      "question": "What ___ you do if you lost your job?",
+      "options": ["will", "do", "are", "would"],
+      "answer": "would"
+    },
+    {
+      "type": "listen",
+      "audioText": "Why do you want this position?",
+      "answer": "Why do you want this position?"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "developer-workday",
+  "title": "A Developer's Day",
+  "titleAr": "يوم مبرمج",
+  "emoji": "💻",
+  "level": "B1",
+  "description": "English for stand-ups, code reviews, bugs, and deployments.",
+  "descriptionAr": "إنجليزية الاجتماعات اليومية القصيرة ومراجعات الكود والأخطاء البرمجية ونشر التطبيقات.",
+  "words": [
+    { "en": "bug", "ar": "خطأ برمجي (bug)", "phonetic": "/bʌɡ/", "example": "I found a bug in the login page." },
+    { "en": "feature", "ar": "ميزة / خاصية جديدة (feature)", "phonetic": "/ˈfitʃər/", "example": "We are adding a new search feature." },
+    { "en": "deploy", "ar": "ينشر التطبيق على السيرفر (deploy)", "phonetic": "/dɪˈplɔɪ/", "example": "We usually deploy on Tuesday afternoons." },
+    { "en": "release", "ar": "إصدار (نسخة جديدة من البرنامج)", "phonetic": "/rɪˈlis/", "example": "The next release is planned for June." },
+    { "en": "pull request", "ar": "طلب دمج الكود (pull request / PR)", "phonetic": "/ˈpʊl rɪˌkwɛst/", "example": "Can you look at my pull request today?" },
+    { "en": "code review", "ar": "مراجعة الكود (code review)", "phonetic": "/ˈkoʊd rɪˌvju/", "example": "Every change needs a code review first." },
+    { "en": "merge", "ar": "دمج (merge)", "phonetic": "/mərdʒ/", "example": "I will merge your changes after lunch." },
+    { "en": "branch", "ar": "فرع في نظام Git (branch)", "phonetic": "/bræntʃ/", "example": "Create a new branch for this feature." },
+    { "en": "commit", "ar": "حفظ تعديل في Git (commit)", "phonetic": "/kəˈmɪt/", "example": "Write a clear message for every commit." },
+    { "en": "stand-up", "ar": "اجتماع يومي قصير (stand-up)", "phonetic": "/ˈstændˌʌp/", "example": "Our stand-up starts at ten every morning." },
+    { "en": "sprint", "ar": "دورة عمل قصيرة (sprint)", "phonetic": "/sprɪnt/", "example": "This sprint ends next Thursday." },
+    { "en": "ticket", "ar": "تذكرة مهمة / طلب عمل (ticket)", "phonetic": "/ˈtɪkɪt/", "example": "I opened a ticket for the payment problem." },
+    { "en": "backlog", "ar": "قائمة المهام المؤجلة (backlog)", "phonetic": "/ˈbækˌlɔɡ/", "example": "We moved this idea to the backlog." },
+    { "en": "refactor", "ar": "إعادة هيكلة الكود (refactor)", "phonetic": "/riˈfæktər/", "example": "This old function is hard to read, so let's refactor it." },
+    { "en": "documentation", "ar": "التوثيق (documentation / docs)", "phonetic": "/ˌdɑkjəmɛnˈteɪʃən/", "example": "Please update the documentation for the new API." },
+    { "en": "testing", "ar": "الاختبار (testing)", "phonetic": "/ˈtɛstɪŋ/", "example": "Testing takes time, but it saves us from problems." },
+    { "en": "production", "ar": "بيئة التشغيل الفعلية (production / prod)", "phonetic": "/prəˈdʌkʃən/", "example": "Never test new code directly in production." },
+    { "en": "rollback", "ar": "التراجع إلى النسخة السابقة (rollback)", "phonetic": "/ˈroʊlˌbæk/", "example": "The update broke the site, so we did a rollback." },
+    { "en": "blocker", "ar": "عائق يوقف العمل (blocker)", "phonetic": "/ˈblɑkər/", "example": "I have no blockers today." },
+    { "en": "estimate", "ar": "تقدير (للوقت أو الجهد)", "phonetic": "/ˈɛstəmət/", "example": "My estimate for this task is two days." }
+  ],
+  "sentences": [
+    { "en": "Yesterday I worked on the login bug, and today I'm writing tests.", "ar": "أمس عملت على خطأ تسجيل الدخول، واليوم أكتب الاختبارات." },
+    { "en": "I've been working on this feature since Monday.", "ar": "أنا أعمل على هذه الميزة منذ يوم الاثنين." },
+    { "en": "Could you review my pull request when you have time?", "ar": "هل يمكنك مراجعة طلب الدمج الخاص بي عندما يكون لديك وقت؟" },
+    { "en": "I've been testing the payment page all morning.", "ar": "أنا أختبر صفحة الدفع طوال الصباح." },
+    { "en": "I have a blocker: I'm waiting for access to the server.", "ar": "لديّ عائق: أنتظر صلاحية الدخول إلى السيرفر." },
+    { "en": "We've been having problems with the build since yesterday.", "ar": "نواجه مشاكل في البناء (build) منذ أمس." },
+    { "en": "Is it safe to deploy to production today?", "ar": "هل من الآمن النشر على بيئة التشغيل اليوم؟" },
+    { "en": "How long have you been fixing this bug?", "ar": "منذ متى وأنت تصلح هذا الخطأ؟" },
+    { "en": "My estimate is about three days.", "ar": "تقديري حوالي ثلاثة أيام." },
+    { "en": "I've been reading the documentation, but it's not clear.", "ar": "كنت أقرأ التوثيق، لكنه غير واضح." }
+  ],
+  "story": {
+    "title": "The Bug Before the Release",
+    "text": "Omar is a developer at a small company. The big release is tomorrow, and the team is ready. But at four o'clock, the tester finds a bug. Users cannot pay with their cards. This is a blocker for the release. Omar opens a new branch and starts looking at the code. He finds the problem in an old function. He fixes it and writes a short commit message. Then he opens a pull request. His colleague Lina does a quick code review. \"It looks good,\" she says. \"Let's merge it.\" They run the testing again, and everything works. The next morning, they deploy the new version to production. No rollback is needed. At the stand-up, the team lead asks, \"What have you been doing, Omar?\" Omar answers, \"I've been fixing the payment bug since yesterday afternoon. It's done now. Today I'm updating the documentation.\" Everyone claps.",
+    "translation": "عمر مبرمج في شركة صغيرة. الإصدار الكبير غداً، والفريق جاهز. لكن في الساعة الرابعة، يجد المختبِر خطأً برمجياً. المستخدمون لا يستطيعون الدفع ببطاقاتهم. هذا عائق يمنع الإصدار. يفتح عمر فرعاً جديداً ويبدأ في فحص الكود. يجد المشكلة في دالة قديمة. يصلحها ويكتب رسالة commit قصيرة. ثم يفتح طلب دمج. تقوم زميلته لينا بمراجعة سريعة للكود. تقول: «يبدو جيداً. لندمجه.» يشغّلون الاختبارات مرة أخرى، وكل شيء يعمل. في الصباح التالي، ينشرون النسخة الجديدة على بيئة التشغيل الفعلية. لا حاجة للتراجع إلى النسخة السابقة. في الاجتماع اليومي، يسأل قائد الفريق: «ماذا كنت تفعل يا عمر؟» يجيب عمر: «أنا أصلح خطأ الدفع منذ ظهر أمس. لقد انتهى الآن. اليوم أحدّث التوثيق.» الجميع يصفقون."
+  },
+  "grammar": {
+    "title": "Present Perfect Continuous for Status Updates",
+    "explanationAr": "نستخدم المضارع التام المستمر Present perfect continuous لنتحدث عن عمل بدأ في الماضي وما زال مستمراً حتى الآن. نكوّنه بـ have been أو has been ثم الفعل مع ing، مثل I've been working. نستخدم معه غالباً since مع نقطة بداية (since Monday) و for مع مدة (for two hours). وهو مفيد جداً في الـ stand-up لتعطي تحديثاً عن حالة عملك.",
+    "rule": "I / You / We / They + have been + verb-ing\nHe / She / It + has been + verb-ing\n... since + start time (since Monday)\n... for + period (for two hours)\nHow long have you been + verb-ing?",
+    "examples": [
+      { "en": "I've been fixing this bug for two hours.", "ar": "أنا أصلح هذا الخطأ منذ ساعتين." },
+      { "en": "She has been working on the new feature since Monday.", "ar": "هي تعمل على الميزة الجديدة منذ يوم الاثنين." },
+      { "en": "We've been testing the release all day.", "ar": "نحن نختبر الإصدار طوال اليوم." },
+      { "en": "How long have you been waiting for the code review?", "ar": "منذ متى وأنت تنتظر مراجعة الكود؟" },
+      { "en": "They have been writing the documentation this week.", "ar": "هم يكتبون التوثيق هذا الأسبوع." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "I've ___ working on this ticket since Monday.",
+      "options": ["be", "being", "was", "been"],
+      "answer": "been"
+    },
+    {
+      "type": "fill",
+      "sentence": "The new version broke the site, so we did a ___ to the old version.",
+      "answer": "rollback",
+      "hint": "التراجع إلى النسخة السابقة"
+    },
+    {
+      "type": "order",
+      "words": ["been", "bug.", "I've", "this", "fixing"],
+      "answer": "I've been fixing this bug."
+    },
+    {
+      "type": "mcq",
+      "question": "What do you call a short daily meeting where developers give updates?",
+      "options": ["A stand-up", "A backlog", "A commit", "A rollback"],
+      "answer": "A stand-up"
+    },
+    {
+      "type": "fill",
+      "sentence": "Please review my ___ request before I merge it.",
+      "answer": "pull",
+      "hint": "سحب (طلب الدمج pull request)"
+    },
+    {
+      "type": "order",
+      "words": ["How", "waiting?", "have", "been", "long", "you"],
+      "answer": "How long have you been waiting?"
+    },
+    {
+      "type": "mcq",
+      "question": "Something stops you from finishing your work. It is a ___.",
+      "options": ["feature", "blocker", "sprint", "release"],
+      "answer": "blocker"
+    },
+    {
+      "type": "listen",
+      "audioText": "We will deploy to production tomorrow.",
+      "answer": "We will deploy to production tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "slug": "clothes-shopping",
+  "title": "Clothes Shopping",
+  "titleAr": "شراء الملابس",
+  "emoji": "👕",
+  "level": "A1",
+  "description": "Ask for sizes, try things on, and talk about prices.",
+  "descriptionAr": "اسأل عن المقاسات، وجرّب الملابس، وتحدّث عن الأسعار.",
+  "words": [
+    {
+      "en": "shirt",
+      "ar": "قميص",
+      "phonetic": "/ʃərt/",
+      "example": "I like this white shirt."
+    },
+    {
+      "en": "trousers",
+      "ar": "بنطلون / سروال",
+      "phonetic": "/ˈtraʊzərz/",
+      "example": "These trousers are too long."
+    },
+    {
+      "en": "jacket",
+      "ar": "جاكيت / سترة",
+      "phonetic": "/ˈdʒækɪt/",
+      "example": "I need a warm jacket for winter."
+    },
+    {
+      "en": "shoes",
+      "ar": "حذاء / أحذية",
+      "phonetic": "/ʃuz/",
+      "example": "How much are those black shoes?"
+    },
+    {
+      "en": "dress",
+      "ar": "فستان",
+      "phonetic": "/drɛs/",
+      "example": "She wants a red dress for the party."
+    },
+    {
+      "en": "size",
+      "ar": "مقاس",
+      "phonetic": "/saɪz/",
+      "example": "What size are you?"
+    },
+    {
+      "en": "fitting room",
+      "ar": "غرفة القياس / البروفة",
+      "phonetic": "/ˈfɪtɪŋ rum/",
+      "example": "The fitting room is at the back of the store."
+    },
+    {
+      "en": "try on",
+      "ar": "يجرّب (الملابس) / يقيس",
+      "phonetic": "/ˈtraɪ ˌɑn/",
+      "example": "Can I try on this jacket?"
+    },
+    {
+      "en": "fit",
+      "ar": "يناسب (في المقاس) / يكون على المقاس",
+      "phonetic": "/fɪt/",
+      "example": "These shoes fit me well."
+    },
+    {
+      "en": "tight",
+      "ar": "ضيّق",
+      "phonetic": "/taɪt/",
+      "example": "This shirt is a little tight."
+    },
+    {
+      "en": "loose",
+      "ar": "واسع",
+      "phonetic": "/lus/",
+      "example": "The trousers are too loose for me."
+    },
+    {
+      "en": "color",
+      "ar": "لون",
+      "phonetic": "/ˈkʌlər/",
+      "example": "Do you have this dress in another color?"
+    },
+    {
+      "en": "price",
+      "ar": "سعر",
+      "phonetic": "/praɪs/",
+      "example": "The price is on the label."
+    },
+    {
+      "en": "sale",
+      "ar": "تخفيضات / أوكازيون",
+      "phonetic": "/seɪl/",
+      "example": "All the jackets are on sale this week."
+    },
+    {
+      "en": "discount",
+      "ar": "خصم / تخفيض",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "example": "Is there a discount on these shoes?"
+    },
+    {
+      "en": "cheap",
+      "ar": "رخيص",
+      "phonetic": "/tʃip/",
+      "example": "This T-shirt is very cheap."
+    },
+    {
+      "en": "expensive",
+      "ar": "غالٍ / غالي الثمن",
+      "phonetic": "/ɪkˈspɛnsɪv/",
+      "example": "That coat is too expensive."
+    },
+    {
+      "en": "cash",
+      "ar": "نقداً / كاش",
+      "phonetic": "/kæʃ/",
+      "example": "I want to pay in cash."
+    },
+    {
+      "en": "card",
+      "ar": "بطاقة (بنكية)",
+      "phonetic": "/kɑrd/",
+      "example": "Do you take card?"
+    },
+    {
+      "en": "refund",
+      "ar": "استرداد المال / استرجاع الفلوس",
+      "phonetic": "/ˈrifʌnd/",
+      "example": "Can I get a refund for this shirt?"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How much is this shirt?",
+      "ar": "بكم هذا القميص؟"
+    },
+    {
+      "en": "How much are those shoes?",
+      "ar": "بكم ذلك الحذاء؟"
+    },
+    {
+      "en": "Can I try this on, please?",
+      "ar": "هل يمكنني تجربة هذا من فضلك؟"
+    },
+    {
+      "en": "Where is the fitting room?",
+      "ar": "أين غرفة القياس؟"
+    },
+    {
+      "en": "Do you have this in a bigger size?",
+      "ar": "هل لديكم هذا بمقاس أكبر؟"
+    },
+    {
+      "en": "These trousers are too tight.",
+      "ar": "هذا البنطلون ضيّق جداً."
+    },
+    {
+      "en": "Do you have that jacket in black?",
+      "ar": "هل لديكم تلك الجاكيت باللون الأسود؟"
+    },
+    {
+      "en": "How many shirts can I take into the fitting room?",
+      "ar": "كم قميصاً يمكنني أن آخذ إلى غرفة القياس؟"
+    },
+    {
+      "en": "Is this dress on sale?",
+      "ar": "هل هذا الفستان عليه تخفيض؟"
+    },
+    {
+      "en": "Can I pay by card?",
+      "ar": "هل يمكنني الدفع بالبطاقة؟"
+    }
+  ],
+  "story": {
+    "title": "The Perfect Jacket",
+    "text": "Omar has a wedding on Friday. He needs a new jacket. He goes to a big clothes store in the city. A shop assistant asks, \"Can I help you?\" Omar says, \"Yes, I need a jacket. What size is this one?\" She looks at the label and says, \"It's a medium.\" Omar goes to the fitting room and tries it on. It is too tight. Then he tries on a large one, but it is too loose. \"Do you have a different color?\" he asks. The assistant shows him a dark blue jacket. \"How about this one?\" Omar tries it on, and it fits perfectly. \"How much is it?\" he asks. \"It's usually ninety dollars, but it's on sale today. There is a thirty percent discount.\" Omar smiles. It is not cheap, but it is not expensive now. \"Can I pay by card?\" he asks. \"Of course,\" she says. Omar is very happy with his new jacket.",
+    "translation": "عند عمر حفل زفاف يوم الجمعة. يحتاج إلى جاكيت جديدة. يذهب إلى متجر ملابس كبير في المدينة. تسأله موظفة المتجر: «هل يمكنني مساعدتك؟» يقول عمر: «نعم، أحتاج إلى جاكيت. ما مقاس هذه؟» تنظر إلى البطاقة وتقول: «إنها مقاس متوسط.» يذهب عمر إلى غرفة القياس ويجرّبها. إنها ضيّقة جداً. ثم يجرّب مقاساً كبيراً، لكنه واسع جداً. يسأل: «هل لديكم لون مختلف؟» تُريه الموظفة جاكيت زرقاء داكنة. «ما رأيك في هذه؟» يجرّبها عمر، وتناسبه تماماً. يسأل: «بكم هي؟» «سعرها عادةً تسعون دولاراً، لكن عليها تخفيض اليوم. هناك خصم ثلاثون بالمئة.» يبتسم عمر. إنها ليست رخيصة، لكنها ليست غالية الآن. يسأل: «هل يمكنني الدفع بالبطاقة؟» تقول: «بالطبع.» عمر سعيد جداً بجاكيته الجديدة."
+  },
+  "grammar": {
+    "title": "How much / How many & this / that / these / those",
+    "explanationAr": "نستخدم How much للسؤال عن السعر: How much is this shirt? ونستخدم How many للسؤال عن العدد مع الأسماء الجمع: How many shirts? نستخدم this للشيء المفرد القريب، و that للشيء المفرد البعيد. ونستخدم these للأشياء الجمع القريبة، و those للأشياء الجمع البعيدة. انتبه: نقول How much is مع المفرد، و How much are مع الجمع مثل shoes و trousers.",
+    "rule": "How much is + this / that + singular noun?\nHow much are + these / those + plural noun?\nHow many + plural noun?\nthis / these = near   that / those = far",
+    "examples": [
+      {
+        "en": "How much is this dress?",
+        "ar": "بكم هذا الفستان؟"
+      },
+      {
+        "en": "How much are these shoes?",
+        "ar": "بكم هذا الحذاء؟"
+      },
+      {
+        "en": "That jacket is very expensive.",
+        "ar": "تلك الجاكيت غالية جداً."
+      },
+      {
+        "en": "Those trousers are on sale.",
+        "ar": "ذلك البنطلون عليه تخفيض."
+      },
+      {
+        "en": "How many shirts do you want?",
+        "ar": "كم قميصاً تريد؟"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Where do you try on clothes in a store?",
+      "options": [
+        "At the checkout",
+        "In the fitting room",
+        "In the window",
+        "At the door"
+      ],
+      "answer": "In the fitting room"
+    },
+    {
+      "type": "fill",
+      "sentence": "This shirt is too small. Do you have a bigger ___?",
+      "answer": "size",
+      "hint": "مقاس"
+    },
+    {
+      "type": "order",
+      "words": [
+        "these",
+        "How",
+        "shoes?",
+        "are",
+        "much"
+      ],
+      "answer": "How much are these shoes?"
+    },
+    {
+      "type": "mcq",
+      "question": "I like ___ shoes over there.",
+      "options": [
+        "this",
+        "these",
+        "that",
+        "those"
+      ],
+      "answer": "those"
+    },
+    {
+      "type": "fill",
+      "sentence": "These trousers are not tight. They are ___.",
+      "answer": "loose",
+      "hint": "واسع",
+      "accept": [
+        "big"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "on",
+        "I",
+        "this",
+        "Can",
+        "try",
+        "jacket?"
+      ],
+      "answer": "Can I try on this jacket?"
+    },
+    {
+      "type": "mcq",
+      "question": "The jacket was 100 dollars. Now it is 70 dollars. It is ___.",
+      "options": [
+        "on sale",
+        "too tight",
+        "expensive",
+        "a refund"
+      ],
+      "answer": "on sale"
+    },
+    {
+      "type": "listen",
+      "audioText": "How much is this red dress?",
+      "answer": "How much is this red dress?"
+    }
+  ]
+}

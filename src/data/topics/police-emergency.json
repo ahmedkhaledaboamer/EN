@@ -1,0 +1,284 @@
+{
+  "slug": "police-emergency",
+  "title": "Emergencies & Police",
+  "titleAr": "الطوارئ والشرطة",
+  "emoji": "🚨",
+  "level": "B1",
+  "description": "Report problems and ask for urgent help calmly.",
+  "descriptionAr": "أبلغ عن المشاكل واطلب المساعدة العاجلة بهدوء.",
+  "words": [
+    {
+      "en": "emergency",
+      "ar": "حالة طوارئ",
+      "phonetic": "/ɪˈmərdʒənsi/",
+      "example": "Call 911 in an emergency."
+    },
+    {
+      "en": "police",
+      "ar": "الشرطة / البوليس",
+      "phonetic": "/pəˈlis/",
+      "example": "The police arrived in five minutes."
+    },
+    {
+      "en": "ambulance",
+      "ar": "سيارة إسعاف",
+      "phonetic": "/ˈæmbjələns/",
+      "example": "Please send an ambulance quickly!"
+    },
+    {
+      "en": "fire",
+      "ar": "حريق / نار",
+      "phonetic": "/faɪər/",
+      "example": "There is a fire in the building next door."
+    },
+    {
+      "en": "accident",
+      "ar": "حادث",
+      "phonetic": "/ˈæksɪdənt/",
+      "example": "I saw a car accident on my way home."
+    },
+    {
+      "en": "witness",
+      "ar": "شاهد (على حادث أو جريمة)",
+      "phonetic": "/ˈwɪtnəs/",
+      "example": "Was there a witness to the accident?"
+    },
+    {
+      "en": "report",
+      "ar": "يبلّغ عن / بلاغ",
+      "phonetic": "/rɪˈpɔrt/",
+      "example": "I want to report a stolen phone."
+    },
+    {
+      "en": "stolen",
+      "ar": "مسروق",
+      "phonetic": "/ˈstoʊlən/",
+      "example": "My bike was stolen last night."
+    },
+    {
+      "en": "thief",
+      "ar": "لص / حرامي",
+      "phonetic": "/θif/",
+      "example": "The thief ran into a small street."
+    },
+    {
+      "en": "injured",
+      "ar": "مصاب / جريح",
+      "phonetic": "/ˈɪndʒərd/",
+      "example": "Two people were injured in the crash."
+    },
+    {
+      "en": "danger",
+      "ar": "خطر",
+      "phonetic": "/ˈdeɪndʒər/",
+      "example": "Stay back, you are in danger here."
+    },
+    {
+      "en": "help",
+      "ar": "مساعدة / يساعد",
+      "phonetic": "/hɛlp/",
+      "example": "Help! Someone is hurt!"
+    },
+    {
+      "en": "suspect",
+      "ar": "مشتبه به",
+      "phonetic": "/ˈsʌspɛkt/",
+      "example": "The police are looking for a suspect."
+    },
+    {
+      "en": "statement",
+      "ar": "إفادة / أقوال (عند الشرطة)",
+      "phonetic": "/ˈsteɪtmənt/",
+      "example": "You need to give a statement at the station."
+    },
+    {
+      "en": "lost",
+      "ar": "مفقود / ضائع",
+      "phonetic": "/lɔst/",
+      "example": "I lost my passport at the airport."
+    },
+    {
+      "en": "missing",
+      "ar": "مفقود / غائب (شخص أو شيء)",
+      "phonetic": "/ˈmɪsɪŋ/",
+      "example": "A little boy is missing from the park."
+    },
+    {
+      "en": "crime",
+      "ar": "جريمة",
+      "phonetic": "/kraɪm/",
+      "example": "Crime is low in this area."
+    },
+    {
+      "en": "safe",
+      "ar": "آمن / في أمان",
+      "phonetic": "/seɪf/",
+      "example": "Are you safe now?"
+    },
+    {
+      "en": "evidence",
+      "ar": "دليل / أدلة",
+      "phonetic": "/ˈɛvɪdəns/",
+      "example": "The camera video is important evidence."
+    },
+    {
+      "en": "describe",
+      "ar": "يصف",
+      "phonetic": "/dɪˈskraɪb/",
+      "example": "Can you describe the man?"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Help! Please call the police!",
+      "ar": "النجدة! من فضلك اتصل بالشرطة!"
+    },
+    {
+      "en": "I'd like to report a stolen bag.",
+      "ar": "أود الإبلاغ عن حقيبة مسروقة."
+    },
+    {
+      "en": "I was walking home when a man took my phone.",
+      "ar": "كنت أمشي إلى البيت عندما أخذ رجل هاتفي."
+    },
+    {
+      "en": "There's been an accident. We need an ambulance.",
+      "ar": "وقع حادث. نحتاج إلى سيارة إسعاف."
+    },
+    {
+      "en": "She was crossing the street when the car hit her.",
+      "ar": "كانت تعبر الشارع عندما صدمتها السيارة."
+    },
+    {
+      "en": "Is anyone injured?",
+      "ar": "هل هناك أي مصاب؟"
+    },
+    {
+      "en": "What were you doing when you saw the thief?",
+      "ar": "ماذا كنت تفعل عندما رأيت اللص؟"
+    },
+    {
+      "en": "Can you describe the suspect?",
+      "ar": "هل يمكنك وصف المشتبه به؟"
+    },
+    {
+      "en": "We were sleeping when the fire started.",
+      "ar": "كنا نائمين عندما بدأ الحريق."
+    },
+    {
+      "en": "Stay calm. You are safe now.",
+      "ar": "حافظ على هدوئك. أنت في أمان الآن."
+    }
+  ],
+  "story": {
+    "title": "The Stolen Bag",
+    "text": "Last Friday evening, Tarek was sitting in a café in the city center. He was drinking coffee and reading the news on his phone. His bag was on the chair next to him. Suddenly, a young man walked past quickly. When Tarek looked down, his bag was gone! He shouted, \"Help! Stop that thief!\" But the man was already running down the street. A waiter called the police. Ten minutes later, two officers arrived. \"Is anyone injured?\" one officer asked. \"No, but my bag was stolen,\" Tarek said. \"My laptop and my wallet were in it.\" The officer asked, \"Can you describe the man?\" Tarek said, \"He was tall, and he was wearing a black jacket.\" A woman at the next table was a witness. She gave a statement too. The café had a camera, so the police had good evidence. The next day, they called Tarek. \"We found the suspect and your bag,\" they said.",
+    "translation": "مساء يوم الجمعة الماضي، كان طارق جالساً في مقهى في وسط المدينة. كان يشرب القهوة ويقرأ الأخبار على هاتفه. كانت حقيبته على الكرسي المجاور له. فجأة، مرّ شاب بسرعة. عندما نظر طارق إلى الأسفل، كانت حقيبته قد اختفت! صرخ: «النجدة! أوقفوا ذلك اللص!» لكن الرجل كان يجري بالفعل في الشارع. اتصل أحد النُّدُل بالشرطة. بعد عشر دقائق، وصل شرطيان. سأل أحدهما: «هل هناك أي مصاب؟» قال طارق: «لا، لكن حقيبتي سُرقت. كان فيها اللابتوب ومحفظتي.» سأل الشرطي: «هل يمكنك وصف الرجل؟» قال طارق: «كان طويلاً، وكان يرتدي سترة سوداء.» كانت امرأة على الطاولة المجاورة شاهدة. وقد أدلت بإفادتها أيضاً. كان في المقهى كاميرا، لذلك كان لدى الشرطة دليل جيد. في اليوم التالي، اتصلوا بطارق. قالوا: «وجدنا المشتبه به وحقيبتك.»"
+  },
+  "grammar": {
+    "title": "Past Continuous vs. Past Simple",
+    "explanationAr": "نستخدم الماضي المستمر Past continuous لنصف حدثاً كان مستمراً في وقت معين في الماضي، ونكوّنه بـ was أو were مع الفعل منتهياً بـ ing. ونستخدم الماضي البسيط Past simple لحدث قصير وقع في أثناء ذلك وقطعه. نربط بينهما غالباً بـ when أو while: I was walking when I saw the accident. وهذا التركيب مهم جداً عندما تحكي للشرطة ما حدث.",
+    "rule": "I / He / She / It + was + verb-ing\nYou / We / They + were + verb-ing\nlong action (past continuous) + when + short action (past simple)\nWhile + past continuous, past simple",
+    "examples": [
+      {
+        "en": "I was walking home when I saw the accident.",
+        "ar": "كنت أمشي إلى البيت عندما رأيت الحادث."
+      },
+      {
+        "en": "The thief took my wallet while I was sleeping on the train.",
+        "ar": "أخذ اللص محفظتي بينما كنت نائماً في القطار."
+      },
+      {
+        "en": "We were watching TV when the fire alarm rang.",
+        "ar": "كنا نشاهد التلفاز عندما رنّ إنذار الحريق."
+      },
+      {
+        "en": "What were you doing when the police arrived?",
+        "ar": "ماذا كنت تفعل عندما وصلت الشرطة؟"
+      },
+      {
+        "en": "The suspect was wearing a red cap.",
+        "ar": "كان المشتبه به يرتدي قبعة حمراء."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "I ___ walking in the park when I saw the thief.",
+      "options": [
+        "was",
+        "were",
+        "am",
+        "did"
+      ],
+      "answer": "was"
+    },
+    {
+      "type": "fill",
+      "sentence": "There was a car accident, and a man is hurt. Please call an ___!",
+      "answer": "ambulance",
+      "hint": "سيارة إسعاف"
+    },
+    {
+      "type": "order",
+      "words": [
+        "bag",
+        "was",
+        "My",
+        "the",
+        "on",
+        "stolen",
+        "train."
+      ],
+      "answer": "My bag was stolen on the train."
+    },
+    {
+      "type": "mcq",
+      "question": "A person who saw a crime or an accident is a ___.",
+      "options": [
+        "suspect",
+        "thief",
+        "witness",
+        "tenant"
+      ],
+      "answer": "witness"
+    },
+    {
+      "type": "fill",
+      "sentence": "We were sleeping when the fire ___.",
+      "answer": "started",
+      "hint": "بدأ",
+      "accept": [
+        "began"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "describe",
+        "you",
+        "man?",
+        "Can",
+        "the"
+      ],
+      "answer": "Can you describe the man?"
+    },
+    {
+      "type": "mcq",
+      "question": "She was driving to work when she ___ the accident.",
+      "options": [
+        "was seeing",
+        "sees",
+        "is seeing",
+        "saw"
+      ],
+      "answer": "saw"
+    },
+    {
+      "type": "listen",
+      "audioText": "Someone stole my bag in the café.",
+      "answer": "Someone stole my bag in the café."
+    }
+  ]
+}

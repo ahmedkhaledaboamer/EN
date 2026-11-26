@@ -1,0 +1,42 @@
+{
+  "slug": "directions-and-positions",
+  "title": "Directions & Positions",
+  "titleAr": "الاتجاهات والأماكن",
+  "emoji": "🧭",
+  "level": "A1",
+  "intro": "الكلمات دي بتساعدك توصف مكان حاجة أو توصف الطريق: left و right و straight. وكمان أماكن زي top (فوق) و bottom (تحت) و middle (النص)، والاتجاهات الأربعة north و south و east و west.",
+  "items": [
+    { "en": "left", "ar": "يسار / شمال (عكس اليمين)", "phonetic": "/lɛft/", "example": "Turn left at the bank.", "exampleAr": "خد شمال عند البنك." },
+    { "en": "right", "ar": "يمين", "phonetic": "/raɪt/", "example": "The pharmacy is on your right.", "exampleAr": "الصيدلية على إيدك اليمين." },
+    { "en": "straight", "ar": "على طول / دُغري", "phonetic": "/streɪt/", "example": "Go straight for two blocks.", "exampleAr": "امشي على طول شارعين." },
+    { "en": "turn", "ar": "يلف / يحوّد", "phonetic": "/tərn/", "example": "Turn right at the traffic light.", "exampleAr": "حوّد يمين عند الإشارة." },
+    { "en": "top", "ar": "أعلى / فوق خالص", "phonetic": "/tɑp/", "example": "The salt is on the top shelf.", "exampleAr": "الملح على الرف اللي فوق خالص." },
+    { "en": "bottom", "ar": "أسفل / تحت خالص", "phonetic": "/ˈbɑtəm/", "example": "Write your name at the bottom of the page.", "exampleAr": "اكتب اسمك تحت خالص في الصفحة." },
+    { "en": "middle", "ar": "وسط / نص", "phonetic": "/ˈmɪdəl/", "example": "Sit in the middle of the row.", "exampleAr": "اقعد في نص الصف." },
+    { "en": "corner", "ar": "ناصية / ركن", "phonetic": "/ˈkɔrnər/", "example": "The café is on the corner.", "exampleAr": "الكافيه على الناصية." },
+    { "en": "side", "ar": "جانب / ناحية", "phonetic": "/saɪd/", "example": "Park on the other side of the street.", "exampleAr": "اركن في الناحية التانية من الشارع." },
+    { "en": "front", "ar": "الأمام / قدام", "phonetic": "/frʌnt/", "example": "I like to sit at the front of the class.", "exampleAr": "بحب أقعد قدام في الفصل." },
+    { "en": "back", "ar": "الخلف / ورا", "phonetic": "/bæk/", "example": "Put the bags in the back of the car.", "exampleAr": "حط الشنط ورا في العربية." },
+    { "en": "north", "ar": "الشمال (اتجاه البوصلة)", "phonetic": "/nɔrθ/", "example": "Alexandria is north of Cairo.", "exampleAr": "إسكندرية شمال القاهرة." },
+    { "en": "south", "ar": "الجنوب", "phonetic": "/saʊθ/", "example": "Aswan is in the south of Egypt.", "exampleAr": "أسوان في جنوب مصر." },
+    { "en": "east", "ar": "الشرق", "phonetic": "/ist/", "example": "The sun rises in the east.", "exampleAr": "الشمس بتطلع من الشرق." },
+    { "en": "west", "ar": "الغرب", "phonetic": "/wɛst/", "example": "The sun sets in the west.", "exampleAr": "الشمس بتغرب في الغرب." },
+    { "en": "upstairs", "ar": "في الدور اللي فوق", "phonetic": "/ˌʌpˈstɛrz/", "example": "My bedroom is upstairs.", "exampleAr": "أوضة نومي في الدور اللي فوق." },
+    { "en": "downstairs", "ar": "في الدور اللي تحت", "phonetic": "/ˌdaʊnˈstɛrz/", "example": "The kitchen is downstairs.", "exampleAr": "المطبخ في الدور اللي تحت." }
+  ],
+  "table": {
+    "columns": ["Instruction", "Arabic"],
+    "rows": [
+      ["Turn left.", "حوّد شمال."],
+      ["Turn right.", "حوّد يمين."],
+      ["Go straight.", "امشي على طول."],
+      ["It's on the corner.", "على الناصية."],
+      ["It's on your left.", "على إيدك الشمال."]
+    ]
+  },
+  "tips": [
+    "on the left / on the right: قول on مش in.",
+    "في العامية بنقول شمال لليسار وللاتجاه، لكن في الإنجليزي left غير north خالص.",
+    "upstairs و downstairs ما قبلهمش to: قول go upstairs مش go to upstairs."
+  ]
+}

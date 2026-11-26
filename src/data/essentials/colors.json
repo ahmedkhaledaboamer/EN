@@ -1,0 +1,29 @@
+{
+  "slug": "colors",
+  "title": "Colors",
+  "titleAr": "الألوان",
+  "emoji": "🎨",
+  "level": "A1",
+  "intro": "اللون في الإنجليزي بييجي قبل الاسم: a red car (عربية حمرا). وعشان تسأل عن اللون قول: What color is it? وممكن تستخدم dark و light عشان تقول غامق وفاتح: dark blue، light green.",
+  "items": [
+    { "en": "red", "ar": "أحمر", "phonetic": "/rɛd/", "example": "Stop at the red light.", "exampleAr": "اقف عند الإشارة الحمرا." },
+    { "en": "blue", "ar": "أزرق", "phonetic": "/blu/", "example": "The sky is blue today.", "exampleAr": "السما زرقا النهارده." },
+    { "en": "green", "ar": "أخضر", "phonetic": "/ɡrin/", "example": "I like green tea.", "exampleAr": "بحب الشاي الأخضر." },
+    { "en": "yellow", "ar": "أصفر", "phonetic": "/ˈjɛloʊ/", "example": "Taxis in New York are yellow.", "exampleAr": "التاكسيات في نيويورك صفرا." },
+    { "en": "black", "ar": "أسود", "phonetic": "/blæk/", "example": "He always wears a black jacket.", "exampleAr": "هو دايماً لابس جاكيت إسود." },
+    { "en": "white", "ar": "أبيض", "phonetic": "/waɪt/", "example": "The walls are white.", "exampleAr": "الحيطان بيضا." },
+    { "en": "orange", "ar": "برتقالي", "phonetic": "/ˈɔrɪndʒ/", "example": "She has an orange bag.", "exampleAr": "معاها شنطة برتقاني." },
+    { "en": "purple", "ar": "بنفسجي / موف", "phonetic": "/ˈpərpəl/", "example": "Purple is my sister's favorite color.", "exampleAr": "الموف هو اللون المفضل لأختي." },
+    { "en": "pink", "ar": "وردي / بمبي", "phonetic": "/pɪŋk/", "example": "The baby has a pink dress.", "exampleAr": "البيبي عندها فستان بمبي." },
+    { "en": "brown", "ar": "بني", "phonetic": "/braʊn/", "example": "He has brown eyes.", "exampleAr": "عينيه بني." },
+    { "en": "gray", "ar": "رمادي / رصاصي", "phonetic": "/ɡreɪ/", "example": "My laptop is gray.", "exampleAr": "اللابتوب بتاعي رصاصي." },
+    { "en": "dark", "ar": "غامق", "phonetic": "/dɑrk/", "example": "I want a dark blue shirt.", "exampleAr": "عايز قميص أزرق غامق." },
+    { "en": "light", "ar": "فاتح", "phonetic": "/laɪt/", "example": "The room is light green.", "exampleAr": "الأوضة لونها أخضر فاتح." }
+  ],
+  "tips": [
+    "اللون قبل الاسم: a red car مش a car red.",
+    "الألوان ما بتتجمعش: two black cats مش two blacks cats.",
+    "gray الكتابة الأمريكية، و grey الكتابة البريطانية، والاتنين صح.",
+    "اسأل: What color is your car? مش What is the color of your car (دي صح بس أطول)."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "object-pronouns",
+  "title": "Object Pronouns",
+  "titleAr": "ضمائر المفعول",
+  "emoji": "🎯",
+  "level": "A1",
+  "intro": "ضمائر المفعول بتيجي بعد الفعل أو بعد حرف الجر، وهي اللي بيقع عليها الفعل: Call me (كلمني)، I love her (بحبها). في العربي بتبقى غالباً حروف بتتلزق في آخر الكلمة زي ـني و ـه و ـها.",
+  "items": [
+    { "en": "me", "ar": "ـني / ليّ (أنا كمفعول)", "phonetic": "/mi/", "example": "Can you help me?", "exampleAr": "ممكن تساعدني؟" },
+    { "en": "you", "ar": "ـك (إنت كمفعول)", "phonetic": "/ju/", "example": "I will call you later.", "exampleAr": "هكلمك بعدين." },
+    { "en": "him", "ar": "ـه (هو كمفعول)", "phonetic": "/hɪm/", "example": "I see him every day.", "exampleAr": "بشوفه كل يوم." },
+    { "en": "her", "ar": "ـها (هي كمفعول)", "phonetic": "/hər/", "example": "Please give the book to her.", "exampleAr": "لو سمحت اديها الكتاب." },
+    { "en": "it", "ar": "ـه / ـها (لحاجة أو حيوان)", "phonetic": "/ɪt/", "example": "I like this song. Play it again!", "exampleAr": "بحب الأغنية دي. شغلها تاني!" },
+    { "en": "us", "ar": "ـنا (إحنا كمفعول)", "phonetic": "/ʌs/", "example": "Come with us to the cinema.", "exampleAr": "تعالى معانا السينما." },
+    { "en": "them", "ar": "ـهم (هما كمفعول)", "phonetic": "/ðɛm/", "example": "I miss them a lot.", "exampleAr": "وحشوني أوي." }
+  ],
+  "table": {
+    "columns": ["Subject", "Object", "Example", "Arabic"],
+    "rows": [
+      ["I", "me", "She called me.", "ـني"],
+      ["you", "you", "I know you.", "ـك"],
+      ["he", "him", "Ask him.", "ـه"],
+      ["she", "her", "I met her.", "ـها"],
+      ["it", "it", "Open it.", "ـه / ـها"],
+      ["we", "us", "Help us!", "ـنا"],
+      ["they", "them", "Tell them.", "ـهم"]
+    ]
+  },
+  "tips": [
+    "بعد حروف الجر استخدم ضمير المفعول: with me مش with I.",
+    "قول Between you and me مش between you and I.",
+    "her ممكن تبقى ضمير مفعول (I see her) أو ملكية (her name)، والمعنى بيبان من الجملة."
+  ]
+}

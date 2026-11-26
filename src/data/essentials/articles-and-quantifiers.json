@@ -1,0 +1,36 @@
+{
+  "slug": "articles-and-quantifiers",
+  "title": "Articles & Quantifiers",
+  "titleAr": "أدوات التعريف والكميات",
+  "emoji": "⚖️",
+  "level": "A1",
+  "intro": "a و an معناهم (واحد/أي) وبييجوا قبل الاسم المفرد المعدود: a car، an apple. و the زي (الـ) في العربي لحاجة معروفة. وكلمات الكمية زي some و any و much و many بتقول (قد إيه)، وبتختلف حسب الاسم معدود ولا لأ.",
+  "items": [
+    { "en": "a", "ar": "أداة نكرة قبل حرف ساكن (عربية = a car)", "phonetic": "/ə/", "example": "I have a car.", "exampleAr": "عندي عربية." },
+    { "en": "an", "ar": "أداة نكرة قبل حرف متحرك (تفاحة = an apple)", "phonetic": "/ən/", "example": "She eats an apple every day.", "exampleAr": "هي بتاكل تفاحة كل يوم." },
+    { "en": "the", "ar": "الـ (أداة التعريف لحاجة معروفة)", "phonetic": "/ðə/", "example": "Close the door, please.", "exampleAr": "اقفل الباب لو سمحت." },
+    { "en": "some", "ar": "بعض / شوية (في الجملة المثبتة)", "phonetic": "/sʌm/", "example": "I need some water.", "exampleAr": "محتاج شوية مية." },
+    { "en": "any", "ar": "أي / خالص (في النفي والسؤال)", "phonetic": "/ˈɛni/", "example": "Do you have any questions?", "exampleAr": "عندك أي أسئلة؟" },
+    { "en": "much", "ar": "كثير (مع غير المعدود، في النفي والسؤال)", "phonetic": "/mʌtʃ/", "example": "I don't have much time.", "exampleAr": "معنديش وقت كتير." },
+    { "en": "many", "ar": "كثير (مع المعدود)", "phonetic": "/ˈmɛni/", "example": "There are many people here.", "exampleAr": "فيه ناس كتير هنا." },
+    { "en": "a lot of", "ar": "كتير (مع المعدود وغير المعدود)", "phonetic": "/ə ˈlɑt əv/", "example": "She drinks a lot of coffee.", "exampleAr": "هي بتشرب قهوة كتير." },
+    { "en": "a few", "ar": "قليل من / كام (مع المعدود)", "phonetic": "/ə ˈfju/", "example": "I have a few friends in London.", "exampleAr": "عندي كام صاحب في لندن." },
+    { "en": "a little", "ar": "قليل من / شوية صغيرين (مع غير المعدود)", "phonetic": "/ə ˈlɪtəl/", "example": "Add a little salt.", "exampleAr": "حط شوية ملح." },
+    { "en": "every", "ar": "كل (واحد لوحده) + مفرد", "phonetic": "/ˈɛvri/", "example": "I go to the gym every day.", "exampleAr": "بروح الجيم كل يوم." },
+    { "en": "all", "ar": "كل / جميع + جمع", "phonetic": "/ɔl/", "example": "All the students are here.", "exampleAr": "كل الطلبة هنا." }
+  ],
+  "table": {
+    "columns": ["Use", "Countable (apples)", "Uncountable (water)"],
+    "rows": [
+      ["positive", "some apples / a lot of apples", "some water / a lot of water"],
+      ["negative / question", "any apples / many apples", "any water / much water"],
+      ["small amount", "a few apples", "a little water"]
+    ]
+  },
+  "tips": [
+    "an قبل صوت متحرك مش حرف: an hour (الـ h مش بتتنطق)، و a university (بتتنطق يو).",
+    "ما تحطش a قبل الجمع أو غير المعدود: some water مش a water.",
+    "much غالباً في النفي والسؤال، وفي الجملة المثبتة قول a lot of.",
+    "a few و a little معناهم شوية (إيجابي)، لكن few و little من غير a معناهم تقريباً مفيش."
+  ]
+}

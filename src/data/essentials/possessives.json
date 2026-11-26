@@ -1,0 +1,40 @@
+{
+  "slug": "possessives",
+  "title": "Possessives",
+  "titleAr": "الملكية",
+  "emoji": "🔖",
+  "level": "A1",
+  "intro": "فيه نوعين من كلمات الملكية: النوع الأول بييجي قبل الاسم زي my phone (تليفوني). والنوع التاني بييجي لوحده من غير اسم بعده زي The phone is mine (التليفون بتاعي).",
+  "items": [
+    { "en": "my", "ar": "ـي (قبل الاسم): تليفوني", "phonetic": "/maɪ/", "example": "This is my phone.", "exampleAr": "ده تليفوني." },
+    { "en": "your", "ar": "ـك (قبل الاسم): شنطتك", "phonetic": "/jʊr/", "example": "Is this your bag?", "exampleAr": "دي شنطتك؟" },
+    { "en": "his", "ar": "ـه / بتاعه (له هو)", "phonetic": "/hɪz/", "example": "His car is blue.", "exampleAr": "عربيته زرقا." },
+    { "en": "her", "ar": "ـها (قبل الاسم): اسمها", "phonetic": "/hər/", "example": "Her name is Mona.", "exampleAr": "اسمها منى." },
+    { "en": "its", "ar": "ـه / ـها (لحاجة أو حيوان)", "phonetic": "/ɪts/", "example": "The cat is eating its food.", "exampleAr": "القطة بتاكل أكلها." },
+    { "en": "our", "ar": "ـنا (قبل الاسم): بيتنا", "phonetic": "/ˈaʊər/", "example": "Our house is near the park.", "exampleAr": "بيتنا جنب الجنينة." },
+    { "en": "their", "ar": "ـهم (قبل الاسم): أولادهم", "phonetic": "/ðɛr/", "example": "Their children are at school.", "exampleAr": "ولادهم في المدرسة." },
+    { "en": "mine", "ar": "ملكي / بتاعي (من غير اسم بعدها)", "phonetic": "/maɪn/", "example": "The phone is mine.", "exampleAr": "التليفون ده بتاعي." },
+    { "en": "yours", "ar": "ملكك / بتاعك (من غير اسم بعدها)", "phonetic": "/jʊrz/", "example": "Is this bag yours?", "exampleAr": "الشنطة دي بتاعتك؟" },
+    { "en": "hers", "ar": "ملكها / بتاعها (من غير اسم بعدها)", "phonetic": "/hərz/", "example": "The red coat is hers.", "exampleAr": "البالطو الأحمر بتاعها." },
+    { "en": "ours", "ar": "ملكنا / بتاعنا (من غير اسم بعدها)", "phonetic": "/ˈaʊərz/", "example": "The white car is ours.", "exampleAr": "العربية البيضا بتاعتنا." },
+    { "en": "theirs", "ar": "ملكهم / بتاعهم (من غير اسم بعدها)", "phonetic": "/ðɛrz/", "example": "This garden is theirs.", "exampleAr": "الجنينة دي بتاعتهم." }
+  ],
+  "table": {
+    "columns": ["Subject", "Before a noun", "Alone", "Arabic"],
+    "rows": [
+      ["I", "my", "mine", "ـي / بتاعي"],
+      ["you", "your", "yours", "ـك / بتاعك"],
+      ["he", "his", "his", "ـه / بتاعه"],
+      ["she", "her", "hers", "ـها / بتاعها"],
+      ["it", "its", "—", "ـه / ـها"],
+      ["we", "our", "ours", "ـنا / بتاعنا"],
+      ["they", "their", "theirs", "ـهم / بتاعهم"]
+    ]
+  },
+  "tips": [
+    "its من غير apostrophe معناها (بتاعه/بتاعها)، و it's معناها it is.",
+    "ما تقولش the mine أو a mine، قول mine بس.",
+    "yours و hers و ours و theirs ما فيهمش apostrophe أبداً: yours مش your's.",
+    "his زي ما هي في النوعين: his car و The car is his."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "days-of-week",
+  "title": "Days of the Week",
+  "titleAr": "أيام الأسبوع",
+  "emoji": "📅",
+  "level": "A1",
+  "intro": "أيام الأسبوع في الإنجليزي بتبدأ دايماً بحرف كبير. بنستخدم on قبل اليوم: on Monday. وكلمة weekend معناها آخر الأسبوع (السبت والحد في أغلب الدول الأجنبية).",
+  "items": [
+    { "en": "Monday", "ar": "الاثنين / الاتنين", "phonetic": "/ˈmʌndeɪ/", "example": "I start work on Monday.", "exampleAr": "أنا ببدأ الشغل يوم الاتنين." },
+    { "en": "Tuesday", "ar": "الثلاثاء / التلات", "phonetic": "/ˈtuzdeɪ/", "example": "We have a meeting on Tuesday.", "exampleAr": "عندنا اجتماع يوم التلات." },
+    { "en": "Wednesday", "ar": "الأربعاء / الأربع", "phonetic": "/ˈwɛnzdeɪ/", "example": "The shop is closed on Wednesday.", "exampleAr": "المحل مقفول يوم الأربع." },
+    { "en": "Thursday", "ar": "الخميس", "phonetic": "/ˈθərzdeɪ/", "example": "I go to the gym on Thursday.", "exampleAr": "بروح الجيم يوم الخميس." },
+    { "en": "Friday", "ar": "الجمعة", "phonetic": "/ˈfraɪdeɪ/", "example": "Friday is my favorite day.", "exampleAr": "الجمعة هو يومي المفضل." },
+    { "en": "Saturday", "ar": "السبت", "phonetic": "/ˈsætərdeɪ/", "example": "We visit my grandmother on Saturday.", "exampleAr": "بنزور جدتي يوم السبت." },
+    { "en": "Sunday", "ar": "الأحد / الحد", "phonetic": "/ˈsʌndeɪ/", "example": "The bank opens on Sunday.", "exampleAr": "البنك بيفتح يوم الحد." },
+    { "en": "weekend", "ar": "عطلة نهاية الأسبوع / الويك إند", "phonetic": "/ˈwikˌɛnd/", "example": "What are you doing this weekend?", "exampleAr": "هتعمل إيه الويك إند ده؟" },
+    { "en": "weekday", "ar": "يوم عمل (من أيام الأسبوع العادية)", "phonetic": "/ˈwikˌdeɪ/", "example": "The museum is quiet on a weekday.", "exampleAr": "المتحف بيبقى هادي في أيام الشغل العادية." },
+    { "en": "today", "ar": "اليوم / النهارده", "phonetic": "/təˈdeɪ/", "example": "Today is Monday.", "exampleAr": "النهارده الاتنين." },
+    { "en": "tomorrow", "ar": "غداً / بكرة", "phonetic": "/təˈmɑroʊ/", "example": "See you tomorrow!", "exampleAr": "أشوفك بكرة!" },
+    { "en": "yesterday", "ar": "أمس / امبارح", "phonetic": "/ˈjɛstərdeɪ/", "example": "I was very busy yesterday.", "exampleAr": "كنت مشغول جداً امبارح." }
+  ],
+  "table": {
+    "columns": ["Day", "Short", "Arabic"],
+    "rows": [
+      ["Monday", "Mon", "الاثنين"],
+      ["Tuesday", "Tue", "الثلاثاء"],
+      ["Wednesday", "Wed", "الأربعاء"],
+      ["Thursday", "Thu", "الخميس"],
+      ["Friday", "Fri", "الجمعة"],
+      ["Saturday", "Sat", "السبت"],
+      ["Sunday", "Sun", "الأحد"]
+    ]
+  },
+  "tips": [
+    "اكتب اليوم بحرف كبير دايماً: Monday مش monday.",
+    "قول on Monday مش in Monday.",
+    "Wednesday بتتنطق (وِنزداي): حرف d الأول مش بيتنطق.",
+    "ما تقولش on today أو on tomorrow، قول today و tomorrow من غير on."
+  ]
+}

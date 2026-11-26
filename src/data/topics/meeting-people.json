@@ -1,0 +1,107 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "titleAr": "التعارف",
+  "emoji": "🤝",
+  "level": "A1",
+  "description": "Introduce yourself, greet people, and make small talk.",
+  "descriptionAr": "عرّف بنفسك، وحيِّ الناس، وتبادل أطراف الحديث معهم.",
+  "words": [
+    { "en": "hello", "ar": "مرحباً / أهلاً", "phonetic": "/həˈloʊ/", "example": "Hello, how are you?" },
+    { "en": "nice to meet you", "ar": "سعيد بلقائك / تشرفنا", "phonetic": "/ˈnaɪs tə ˈmit ju/", "example": "I'm Ali. Nice to meet you." },
+    { "en": "name", "ar": "اسم", "phonetic": "/neɪm/", "example": "What is your name?" },
+    { "en": "from", "ar": "من (مكان)", "phonetic": "/frʌm/", "example": "I am from Egypt." },
+    { "en": "country", "ar": "بلد / دولة", "phonetic": "/ˈkʌntri/", "example": "Which country are you from?" },
+    { "en": "age", "ar": "عمر / سن", "phonetic": "/eɪdʒ/", "example": "Please write your name and age here." },
+    { "en": "job", "ar": "وظيفة / عمل", "phonetic": "/dʒɑb/", "example": "What is your job?" },
+    { "en": "student", "ar": "طالب", "phonetic": "/ˈstudənt/", "example": "She is a student at Cairo University." },
+    { "en": "friend", "ar": "صديق", "phonetic": "/frɛnd/", "example": "This is my friend Omar." },
+    { "en": "neighbor", "ar": "جار", "phonetic": "/ˈneɪbər/", "example": "My neighbor is very kind." },
+    { "en": "colleague", "ar": "زميل (في العمل)", "phonetic": "/ˈkɑliɡ/", "example": "Mona is my colleague at the bank." },
+    { "en": "introduce", "ar": "يُعرِّف (شخصاً بآخر) / يقدِّم", "phonetic": "/ˌɪntrəˈdus/", "example": "Let me introduce my wife, Hana." },
+    { "en": "welcome", "ar": "أهلاً وسهلاً / مرحباً بك", "phonetic": "/ˈwɛlkəm/", "example": "Welcome to our home!" },
+    { "en": "married", "ar": "متزوج", "phonetic": "/ˈmɛrid/", "example": "Are you married?" },
+    { "en": "single", "ar": "أعزب / غير متزوج", "phonetic": "/ˈsɪŋɡəl/", "example": "No, I'm single." },
+    { "en": "language", "ar": "لغة", "phonetic": "/ˈlæŋɡwɪdʒ/", "example": "Arabic is my first language." },
+    { "en": "speak", "ar": "يتكلم / يتحدث", "phonetic": "/spik/", "example": "Do you speak English?" },
+    { "en": "live", "ar": "يسكن / يعيش", "phonetic": "/lɪv/", "example": "I live in Alexandria." },
+    { "en": "born", "ar": "مولود (وُلِد)", "phonetic": "/bɔrn/", "example": "I was born in 1995." },
+    { "en": "hobby", "ar": "هواية", "phonetic": "/ˈhɑbi/", "example": "My hobby is reading." }
+  ],
+  "sentences": [
+    { "en": "Hi, I'm Sara. What's your name?", "ar": "مرحباً، أنا سارة. ما اسمك؟" },
+    { "en": "Nice to meet you, too.", "ar": "سعيد بلقائك أيضاً." },
+    { "en": "Where are you from?", "ar": "من أين أنت؟" },
+    { "en": "I'm from Egypt, but I live in Dubai.", "ar": "أنا من مصر، لكني أسكن في دبي." },
+    { "en": "What do you do?", "ar": "ماذا تعمل؟" },
+    { "en": "I'm a student. I'm not married.", "ar": "أنا طالب. أنا لست متزوجاً." },
+    { "en": "Are you new here?", "ar": "هل أنت جديد هنا؟" },
+    { "en": "This is my colleague, Ahmed.", "ar": "هذا زميلي أحمد." },
+    { "en": "How old are you?", "ar": "كم عمرك؟" },
+    { "en": "Do you speak Arabic?", "ar": "هل تتكلم العربية؟" }
+  ],
+  "story": {
+    "title": "The First Day",
+    "text": "It is Monday morning. Sam is at his new office. It is his first day, and he is a little nervous. A young woman comes to his desk. \"Hello! Welcome to the team,\" she says. \"My name is Lina.\" Sam smiles. \"Nice to meet you, Lina. I'm Sam.\" \"Are you from London?\" Lina asks. \"No, I'm not. I'm from Canada, but I live here now,\" Sam says. \"Where are you from?\" \"I'm from Egypt. I was born in Cairo,\" Lina says. \"I speak Arabic and English.\" \"Arabic is a beautiful language!\" Sam says. Then Lina asks, \"What is your hobby?\" \"I love football. And you?\" \"My hobby is photography,\" she says. Later, Lina introduces Sam to the other people in the office. \"This is Omar. He is our manager. He is very friendly.\" Sam is not nervous now. He has a new colleague and a new friend.",
+    "translation": "إنه صباح يوم الاثنين. سام في مكتبه الجديد. إنه يومه الأول، وهو متوتر قليلاً. تأتي امرأة شابة إلى مكتبه. «مرحباً! أهلاً بك في الفريق»، تقول. «اسمي لينا.» يبتسم سام. «سعيد بلقائك يا لينا. أنا سام.» تسأل لينا: «هل أنت من لندن؟» يقول سام: «لا، لست من لندن. أنا من كندا، لكني أسكن هنا الآن. من أين أنتِ؟» تقول لينا: «أنا من مصر. وُلدت في القاهرة. أتكلم العربية والإنجليزية.» يقول سام: «العربية لغة جميلة!» ثم تسأل لينا: «ما هوايتك؟» «أحب كرة القدم. وأنتِ؟» تقول: «هوايتي التصوير.» لاحقاً، تُعرِّف لينا سام على باقي الناس في المكتب. «هذا عمر. إنه مديرنا. إنه ودود جداً.» سام لم يعد متوتراً الآن. لديه زميلة جديدة وصديقة جديدة."
+  },
+  "grammar": {
+    "title": "The verb to be: am / is / are",
+    "explanationAr": "نستخدم الفعل to be لنقول من نحن، ومن أين نحن، وما عملنا. نستخدم am مع I، ونستخدم is مع he و she و it، ونستخدم are مع you و we و they. للنفي نضيف not بعد الفعل، مثل I am not married. وللسؤال نضع الفعل في أول الجملة، مثل Are you a student? وفي الكلام نستخدم الاختصارات كثيراً مثل I'm و he's و you're.",
+    "rule": "I am (I'm) + ...\nHe / She / It is (he's, she's) + ...\nYou / We / They are (you're, we're) + ...\nNegative: I am not / He isn't / You aren't\nQuestion: Am I ...? / Is he ...? / Are you ...?",
+    "examples": [
+      { "en": "I'm a student.", "ar": "أنا طالب." },
+      { "en": "She is my neighbor.", "ar": "إنها جارتي." },
+      { "en": "Are you married?", "ar": "هل أنت متزوج؟" },
+      { "en": "We are from the same country.", "ar": "نحن من نفس البلد." },
+      { "en": "He isn't my colleague. He's my friend.", "ar": "هو ليس زميلي. هو صديقي." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "She ___ from Egypt.",
+      "options": ["am", "is", "are", "be"],
+      "answer": "is"
+    },
+    {
+      "type": "fill",
+      "sentence": "Hi, I'm Ali. Nice to ___ you.",
+      "answer": "meet",
+      "hint": "يقابل / يلتقي"
+    },
+    {
+      "type": "order",
+      "words": ["from?", "you", "are", "Where"],
+      "answer": "Where are you from?"
+    },
+    {
+      "type": "mcq",
+      "question": "\"Are you married?\" \"No, I'm ___.\"",
+      "options": ["single", "student", "welcome", "hobby"],
+      "answer": "single"
+    },
+    {
+      "type": "fill",
+      "sentence": "Mona works with me. She is my ___.",
+      "answer": "colleague",
+      "hint": "زميل (في العمل)"
+    },
+    {
+      "type": "order",
+      "words": ["is", "My", "reading.", "hobby"],
+      "answer": "My hobby is reading."
+    },
+    {
+      "type": "mcq",
+      "question": "___ you a student?",
+      "options": ["Is", "Am", "Be", "Are"],
+      "answer": "Are"
+    },
+    {
+      "type": "listen",
+      "audioText": "I live in Cairo with my family.",
+      "answer": "I live in Cairo with my family."
+    }
+  ]
+}

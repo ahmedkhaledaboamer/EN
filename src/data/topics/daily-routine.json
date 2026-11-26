@@ -1,0 +1,280 @@
+{
+  "slug": "daily-routine",
+  "title": "Daily Routine",
+  "titleAr": "الروتين اليومي",
+  "emoji": "⏰",
+  "level": "A1",
+  "description": "Talk about what you do every day, from waking up to going to sleep.",
+  "descriptionAr": "تحدث عما تفعله كل يوم، من الاستيقاظ حتى الذهاب إلى النوم.",
+  "words": [
+    {
+      "en": "wake up",
+      "ar": "يستيقظ (يصحو من النوم)",
+      "phonetic": "/ˌweɪk ˈʌp/",
+      "example": "I wake up at seven o'clock."
+    },
+    {
+      "en": "get up",
+      "ar": "ينهض من السرير",
+      "phonetic": "/ˌɡɛt ˈʌp/",
+      "example": "I get up ten minutes after my alarm."
+    },
+    {
+      "en": "brush",
+      "ar": "يُنظِّف بالفرشاة / يُمشِّط (الشعر)",
+      "phonetic": "/brʌʃ/",
+      "example": "I brush my teeth twice a day."
+    },
+    {
+      "en": "shower",
+      "ar": "دُش / يستحم",
+      "phonetic": "/ˈʃaʊər/",
+      "example": "I take a shower every morning."
+    },
+    {
+      "en": "breakfast",
+      "ar": "الفطور / الإفطار",
+      "phonetic": "/ˈbrɛkfəst/",
+      "example": "I eat eggs and bread for breakfast."
+    },
+    {
+      "en": "commute",
+      "ar": "المشوار اليومي إلى العمل / يتنقّل",
+      "phonetic": "/kəˈmjut/",
+      "example": "My commute is thirty minutes by bus."
+    },
+    {
+      "en": "lunch",
+      "ar": "الغداء",
+      "phonetic": "/lʌntʃ/",
+      "example": "We have lunch at two o'clock."
+    },
+    {
+      "en": "dinner",
+      "ar": "العشاء",
+      "phonetic": "/ˈdɪnər/",
+      "example": "My family eats dinner together."
+    },
+    {
+      "en": "relax",
+      "ar": "يسترخي / يرتاح",
+      "phonetic": "/rɪˈlæks/",
+      "example": "I relax on the sofa after work."
+    },
+    {
+      "en": "sleep",
+      "ar": "ينام / النوم",
+      "phonetic": "/slip/",
+      "example": "I sleep eight hours every night."
+    },
+    {
+      "en": "alarm",
+      "ar": "منبّه",
+      "phonetic": "/əˈlɑrm/",
+      "example": "My alarm rings at six thirty."
+    },
+    {
+      "en": "morning",
+      "ar": "الصباح",
+      "phonetic": "/ˈmɔrnɪŋ/",
+      "example": "I drink coffee in the morning."
+    },
+    {
+      "en": "afternoon",
+      "ar": "بعد الظهر",
+      "phonetic": "/ˌæftərˈnun/",
+      "example": "She goes to the gym in the afternoon."
+    },
+    {
+      "en": "evening",
+      "ar": "المساء",
+      "phonetic": "/ˈivnɪŋ/",
+      "example": "We watch TV in the evening."
+    },
+    {
+      "en": "usually",
+      "ar": "عادةً",
+      "phonetic": "/ˈjuʒuəli/",
+      "example": "I usually walk to work."
+    },
+    {
+      "en": "always",
+      "ar": "دائماً",
+      "phonetic": "/ˈɔlweɪz/",
+      "example": "He always drinks tea with breakfast."
+    },
+    {
+      "en": "sometimes",
+      "ar": "أحياناً",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "example": "I sometimes cook dinner."
+    },
+    {
+      "en": "never",
+      "ar": "أبداً / لا ... أبداً",
+      "phonetic": "/ˈnɛvər/",
+      "example": "She never eats fast food."
+    },
+    {
+      "en": "late",
+      "ar": "متأخر",
+      "phonetic": "/leɪt/",
+      "example": "Hurry up! We are late."
+    },
+    {
+      "en": "early",
+      "ar": "مبكراً / باكراً",
+      "phonetic": "/ˈərli/",
+      "example": "My father goes to bed early."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What time do you wake up?",
+      "ar": "متى تستيقظ؟"
+    },
+    {
+      "en": "I usually get up at seven.",
+      "ar": "عادةً أنهض في السابعة."
+    },
+    {
+      "en": "I take a shower every morning.",
+      "ar": "أستحم كل صباح."
+    },
+    {
+      "en": "I never skip breakfast.",
+      "ar": "لا أترك الفطور أبداً."
+    },
+    {
+      "en": "How do you get to work?",
+      "ar": "كيف تذهب إلى العمل؟"
+    },
+    {
+      "en": "She takes the metro to work.",
+      "ar": "هي تركب المترو إلى العمل."
+    },
+    {
+      "en": "I'm sorry, I'm late.",
+      "ar": "آسف، لقد تأخرت."
+    },
+    {
+      "en": "He always has lunch at his desk.",
+      "ar": "هو دائماً يتناول الغداء على مكتبه."
+    },
+    {
+      "en": "What do you do in the evening?",
+      "ar": "ماذا تفعل في المساء؟"
+    },
+    {
+      "en": "I go to bed at eleven.",
+      "ar": "أذهب إلى السرير في الحادية عشرة."
+    }
+  ],
+  "story": {
+    "title": "Karim and Monday",
+    "text": "Karim is a programmer. He loves coffee, but he hates Mondays. Every morning, his alarm rings at seven o'clock. He always wakes up, but he never gets up quickly. On Mondays, he is usually very tired. He takes a shower and brushes his teeth. Then he makes a big cup of coffee. He sometimes eats eggs for breakfast. His commute is long. He takes the bus to work, and the trip is forty minutes. At the office, he writes code all morning. He has lunch with his team at one o'clock. In the afternoon, he drinks more coffee. His friend asks, \"How many cups is that?\" Karim laughs and says, \"Only four!\" He usually finishes work at six. He is never late for dinner with his family. In the evening, he relaxes and watches TV. He goes to sleep at eleven. Monday is over, and Karim is happy.",
+    "translation": "كريم مبرمج. يحب القهوة، لكنه يكره أيام الاثنين. كل صباح، يرنّ منبّهه في الساعة السابعة. هو دائماً يستيقظ، لكنه لا ينهض من السرير بسرعة أبداً. في أيام الاثنين، يكون عادةً متعباً جداً. يستحم ويفرّش أسنانه. ثم يعدّ كوباً كبيراً من القهوة. أحياناً يأكل البيض على الفطور. مشواره إلى العمل طويل. يركب الحافلة إلى العمل، والرحلة أربعون دقيقة. في المكتب، يكتب الأكواد طوال الصباح. يتناول الغداء مع فريقه في الساعة الواحدة. بعد الظهر، يشرب المزيد من القهوة. يسأله صديقه: «كم كوباً هذا؟» يضحك كريم ويقول: «أربعة فقط!» عادةً ينهي عمله في السادسة. لا يتأخر أبداً عن العشاء مع عائلته. في المساء، يسترخي ويشاهد التلفاز. يذهب إلى النوم في الحادية عشرة. انتهى يوم الاثنين، وكريم سعيد."
+  },
+  "grammar": {
+    "title": "Present simple and adverbs of frequency",
+    "explanationAr": "نستخدم المضارع البسيط للحديث عن العادات والأشياء التي نفعلها كل يوم. مع I و you و we و they نستخدم الفعل كما هو، مثل I wake up. ومع he و she و it نضيف s أو es للفعل، مثل he wakes up و she brushes. ظروف التكرار مثل always و usually و sometimes و never تأتي قبل الفعل الأساسي، مثل I always eat breakfast. لكنها تأتي بعد الفعل to be، مثل He is never late.",
+    "rule": "I / You / We / They + verb (I wake up)\nHe / She / It + verb + s/es (he wakes up, she brushes)\nalways > usually > sometimes > never\nAdverb + main verb (I usually walk)\nbe + adverb (He is never late)",
+    "examples": [
+      {
+        "en": "I always wake up at six.",
+        "ar": "أستيقظ دائماً في السادسة."
+      },
+      {
+        "en": "She usually has lunch at work.",
+        "ar": "هي عادةً تتناول الغداء في العمل."
+      },
+      {
+        "en": "We sometimes relax in the garden.",
+        "ar": "نحن أحياناً نسترخي في الحديقة."
+      },
+      {
+        "en": "He never brushes his teeth at night.",
+        "ar": "هو لا يفرّش أسنانه ليلاً أبداً."
+      },
+      {
+        "en": "My brother is always late.",
+        "ar": "أخي دائماً متأخر."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "She ___ up at six every day.",
+      "options": [
+        "wake",
+        "waking",
+        "wakes",
+        "to wake"
+      ],
+      "answer": "wakes"
+    },
+    {
+      "type": "fill",
+      "sentence": "I eat eggs and bread for ___ in the morning.",
+      "answer": "breakfast",
+      "hint": "الفطور"
+    },
+    {
+      "type": "order",
+      "words": [
+        "walk",
+        "I",
+        "work.",
+        "usually",
+        "to"
+      ],
+      "answer": "I usually walk to work."
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "He late is never.",
+        "He never is late.",
+        "Never he is late.",
+        "He is never late."
+      ],
+      "answer": "He is never late."
+    },
+    {
+      "type": "fill",
+      "sentence": "My ___ rings at seven, but I don't get up.",
+      "answer": "alarm",
+      "hint": "منبّه"
+    },
+    {
+      "type": "order",
+      "words": [
+        "a",
+        "every",
+        "takes",
+        "He",
+        "morning.",
+        "shower"
+      ],
+      "answer": "He takes a shower every morning."
+    },
+    {
+      "type": "mcq",
+      "question": "We eat ___ in the evening.",
+      "options": [
+        "breakfast",
+        "dinner",
+        "alarm",
+        "commute"
+      ],
+      "answer": "dinner"
+    },
+    {
+      "type": "listen",
+      "audioText": "I sometimes cook dinner for my family.",
+      "answer": "I sometimes cook dinner for my family."
+    }
+  ]
+}

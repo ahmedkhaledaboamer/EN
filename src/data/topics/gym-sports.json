@@ -1,0 +1,107 @@
+{
+  "slug": "gym-sports",
+  "title": "Gym & Sports",
+  "titleAr": "الرياضة",
+  "emoji": "🏋️",
+  "level": "A2",
+  "description": "Talk about exercise, sports, and staying healthy.",
+  "descriptionAr": "تحدّث عن التمارين والرياضة والحفاظ على صحتك.",
+  "words": [
+    { "en": "gym", "ar": "صالة الألعاب الرياضية / الجيم", "phonetic": "/dʒɪm/", "example": "I go to the gym three times a week." },
+    { "en": "exercise", "ar": "تمرين / ممارسة الرياضة", "phonetic": "/ˈɛksərˌsaɪz/", "example": "Exercise is good for your heart." },
+    { "en": "workout", "ar": "حصة تمرين", "phonetic": "/ˈwərkˌaʊt/", "example": "My workout takes one hour." },
+    { "en": "weights", "ar": "أثقال / أوزان", "phonetic": "/weɪts/", "example": "He lifts weights every Monday." },
+    { "en": "treadmill", "ar": "جهاز المشي (المشّاية)", "phonetic": "/ˈtrɛdˌmɪl/", "example": "She walks on the treadmill for twenty minutes." },
+    { "en": "trainer", "ar": "مدرب", "phonetic": "/ˈtreɪnər/", "example": "My trainer is very patient with me." },
+    { "en": "muscle", "ar": "عضلة", "phonetic": "/ˈmʌsəl/", "example": "My leg muscle hurts after the run." },
+    { "en": "stretch", "ar": "يُطيل العضلات / تمارين الإطالة", "phonetic": "/strɛtʃ/", "example": "Stretch your arms before you start." },
+    { "en": "warm up", "ar": "يُسخّن / إحماء", "phonetic": "/ˌwɔrm ˈʌp/", "example": "We always warm up for ten minutes." },
+    { "en": "run", "ar": "يجري / يركض", "phonetic": "/rʌn/", "example": "I run in the park every morning." },
+    { "en": "jump", "ar": "يقفز", "phonetic": "/dʒʌmp/", "example": "Can you jump higher than your brother?" },
+    { "en": "team", "ar": "فريق", "phonetic": "/tim/", "example": "Our team plays on Friday." },
+    { "en": "match", "ar": "مباراة / ماتش", "phonetic": "/mætʃ/", "example": "The match starts at eight o'clock." },
+    { "en": "score", "ar": "النتيجة / يُسجّل (هدفاً)", "phonetic": "/skɔr/", "example": "What's the score now?" },
+    { "en": "win", "ar": "يفوز / يكسب", "phonetic": "/wɪn/", "example": "I hope we win tonight." },
+    { "en": "lose", "ar": "يخسر", "phonetic": "/luz/", "example": "Nobody likes to lose a game." },
+    { "en": "referee", "ar": "حَكَم", "phonetic": "/ˌrɛfəˈri/", "example": "The referee stopped the game." },
+    { "en": "stadium", "ar": "استاد / ملعب كبير", "phonetic": "/ˈsteɪdiəm/", "example": "The stadium is full of fans." },
+    { "en": "stamina", "ar": "قدرة على التحمّل / نَفَس طويل", "phonetic": "/ˈstæmənə/", "example": "Swimming gives you more stamina." },
+    { "en": "membership", "ar": "اشتراك / عضوية", "phonetic": "/ˈmɛmbərˌʃɪp/", "example": "How much is a monthly membership?" }
+  ],
+  "sentences": [
+    { "en": "How much is a membership for one month?", "ar": "بكم الاشتراك لمدة شهر؟" },
+    { "en": "Can you show me how to use this machine?", "ar": "هل يمكنك أن تريني كيف أستخدم هذا الجهاز؟" },
+    { "en": "I want to get fitter and stronger.", "ar": "أريد أن أصبح أكثر لياقة وأقوى." },
+    { "en": "This exercise is harder than the last one.", "ar": "هذا التمرين أصعب من التمرين السابق." },
+    { "en": "Running is better for your heart than walking.", "ar": "الجري أفضل لقلبك من المشي." },
+    { "en": "He's the fastest player on the team.", "ar": "إنه أسرع لاعب في الفريق." },
+    { "en": "What's the score?", "ar": "كم النتيجة؟" },
+    { "en": "That was the best match of the year!", "ar": "كانت تلك أفضل مباراة في السنة!" },
+    { "en": "Don't forget to warm up first.", "ar": "لا تنسَ أن تقوم بالإحماء أولاً." },
+    { "en": "I'm more tired today than yesterday.", "ar": "أنا متعب اليوم أكثر من أمس." }
+  ],
+  "story": {
+    "title": "Stronger Than Before",
+    "text": "Omar is thirty years old, and he wants to get fit. Today he joins a gym near his house. He buys a membership for three months. His friend Karim comes with him. Karim is taller and stronger than Omar, and he has bigger muscles. First, the trainer says, \"Always warm up and stretch before your workout.\" Omar runs on the treadmill for ten minutes. Karim runs for thirty minutes! \"Your stamina is much better than mine,\" Omar says. Then they lift weights. Karim lifts the heaviest weights in the gym. Omar feels weak and a little sad. The trainer smiles and says, \"Don't compare yourself to him. Karim started two years ago. Exercise gets easier when you do it every week.\" Omar listens to his trainer. He comes to the gym four times a week. After two months, Omar is healthier and happier. He is not the strongest man in the gym, but he is stronger than before. And that is the most important thing.",
+    "translation": "عمر عمره ثلاثون عاماً، ويريد أن يصبح لائقاً بدنياً. اليوم يشترك في صالة رياضية قريبة من بيته. يشتري اشتراكاً لمدة ثلاثة أشهر. يأتي معه صديقه كريم. كريم أطول وأقوى من عمر، وعضلاته أكبر. أولاً، يقول المدرب: «قوموا دائماً بالإحماء وتمارين الإطالة قبل التمرين.» يجري عمر على جهاز المشي لمدة عشر دقائق. أما كريم فيجري لمدة ثلاثين دقيقة! يقول عمر: «قدرتك على التحمّل أفضل بكثير من قدرتي.» ثم يرفعان الأثقال. يرفع كريم أثقل الأوزان في الصالة. يشعر عمر بالضعف وببعض الحزن. يبتسم المدرب ويقول: «لا تقارن نفسك به. كريم بدأ منذ سنتين. التمرين يصبح أسهل عندما تمارسه كل أسبوع.» يستمع عمر إلى مدربه. يأتي إلى الصالة أربع مرات في الأسبوع. بعد شهرين، أصبح عمر أكثر صحة وأكثر سعادة. هو ليس أقوى رجل في الصالة، لكنه أقوى من قبل. وهذا هو الأهم."
+  },
+  "grammar": {
+    "title": "Comparatives and superlatives",
+    "explanationAr": "نستخدم صيغة المقارنة لنقارن بين شيئين أو شخصين، ونضيف er للصفة القصيرة ثم than، مثل faster than و stronger than. ومع الصفات الطويلة نستخدم more قبل الصفة، مثل more difficult than. ونستخدم صيغة التفضيل لنقول إن شيئاً هو الأعلى في مجموعة كاملة، فنضيف the قبل الصفة و est في آخرها، مثل the strongest، أو نستخدم the most مع الصفات الطويلة. انتبه لبعض الصفات الشاذة: good ← better ← the best و bad ← worse ← the worst.",
+    "rule": "Short adjective + -er + than (fast → faster than)\nmore + long adjective + than (more difficult than)\nthe + short adjective + -est (the strongest)\nthe most + long adjective (the most exciting)\ngood → better → the best / bad → worse → the worst",
+    "examples": [
+      { "en": "Karim is stronger than Omar.", "ar": "كريم أقوى من عمر." },
+      { "en": "The treadmill is easier than the weights.", "ar": "جهاز المشي أسهل من الأثقال." },
+      { "en": "She is the fastest runner on our team.", "ar": "هي أسرع عدّاءة في فريقنا." },
+      { "en": "This is the most exciting match of the season.", "ar": "هذه أكثر مباراة مثيرة في الموسم." },
+      { "en": "My stamina is better than last year.", "ar": "قدرتي على التحمّل أفضل من العام الماضي." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Ali is ___ than his little brother.",
+      "options": ["strong", "stronger", "strongest", "more strong"],
+      "answer": "stronger"
+    },
+    {
+      "type": "fill",
+      "sentence": "I walk on the ___ at the gym every morning.",
+      "answer": "treadmill",
+      "hint": "جهاز المشي"
+    },
+    {
+      "type": "order",
+      "words": ["strongest", "here.", "is", "Karim", "man", "the"],
+      "answer": "Karim is the strongest man here."
+    },
+    {
+      "type": "mcq",
+      "question": "Who controls the match and stops the game?",
+      "options": ["The score", "The stadium", "The referee", "The treadmill"],
+      "answer": "The referee"
+    },
+    {
+      "type": "fill",
+      "sentence": "Running is ___ than walking.",
+      "answer": "faster",
+      "hint": "أسرع"
+    },
+    {
+      "type": "order",
+      "words": ["best", "in", "This", "gym", "town.", "is", "the"],
+      "answer": "This is the best gym in town."
+    },
+    {
+      "type": "mcq",
+      "question": "This is the ___ match of the season!",
+      "options": ["exciting", "more exciting", "excitingest", "most exciting"],
+      "answer": "most exciting"
+    },
+    {
+      "type": "listen",
+      "audioText": "Our team won the match yesterday.",
+      "answer": "Our team won the match yesterday."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "common-verbs",
+  "title": "Common Verbs",
+  "titleAr": "أفعال أساسية",
+  "emoji": "⚡",
+  "level": "A1",
+  "intro": "دي أكتر أفعال بتتقال في الإنجليزي كل يوم. احفظها كويس لأنها هتساعدك تعمل جمل كتير. خلي بالك إن كتير منها شاذ في الماضي: go ← went، eat ← ate.",
+  "items": [
+    { "en": "be", "ar": "يكون", "phonetic": "/bi/", "example": "I want to be a doctor.", "exampleAr": "عايز أبقى دكتور." },
+    { "en": "have", "ar": "يملك / عنده", "phonetic": "/hæv/", "example": "I have two sisters.", "exampleAr": "عندي أختين." },
+    { "en": "do", "ar": "يفعل / يعمل", "phonetic": "/du/", "example": "I do my homework after dinner.", "exampleAr": "بعمل الواجب بعد العشا." },
+    { "en": "go", "ar": "يذهب / يروح", "phonetic": "/ɡoʊ/", "example": "I go to work by metro.", "exampleAr": "بروح الشغل بالمترو." },
+    { "en": "come", "ar": "يأتي / ييجي", "phonetic": "/kʌm/", "example": "Can you come to my party?", "exampleAr": "ممكن تيجي حفلتي؟" },
+    { "en": "get", "ar": "يحصل على / يجيب", "phonetic": "/ɡɛt/", "example": "Where can I get a ticket?", "exampleAr": "أجيب تذكرة منين؟" },
+    { "en": "make", "ar": "يصنع / يعمل (حاجة جديدة)", "phonetic": "/meɪk/", "example": "I make breakfast every morning.", "exampleAr": "بعمل الفطار كل يوم الصبح." },
+    { "en": "take", "ar": "يأخذ / ياخد", "phonetic": "/teɪk/", "example": "Take your umbrella. It's raining.", "exampleAr": "خد الشمسية بتاعتك. الدنيا بتمطر." },
+    { "en": "give", "ar": "يعطي / يدّي", "phonetic": "/ɡɪv/", "example": "Please give me the pen.", "exampleAr": "لو سمحت اديني القلم." },
+    { "en": "want", "ar": "يريد / عايز", "phonetic": "/wɑnt/", "example": "I want a cup of tea.", "exampleAr": "عايز كوباية شاي." },
+    { "en": "need", "ar": "يحتاج / محتاج", "phonetic": "/nid/", "example": "I need your help.", "exampleAr": "محتاج مساعدتك." },
+    { "en": "like", "ar": "يحب / يعجبه", "phonetic": "/laɪk/", "example": "I like football.", "exampleAr": "بحب الكورة." },
+    { "en": "know", "ar": "يعرف", "phonetic": "/noʊ/", "example": "I know the answer.", "exampleAr": "أنا عارف الإجابة." },
+    { "en": "think", "ar": "يعتقد / يفكر", "phonetic": "/θɪŋk/", "example": "I think it's a good idea.", "exampleAr": "أعتقد إنها فكرة حلوة." },
+    { "en": "see", "ar": "يرى / يشوف", "phonetic": "/si/", "example": "I can see the Nile from my window.", "exampleAr": "بشوف النيل من شباكي." },
+    { "en": "say", "ar": "يقول", "phonetic": "/seɪ/", "example": "What did you say?", "exampleAr": "إنت قلت إيه؟" },
+    { "en": "eat", "ar": "يأكل / ياكل", "phonetic": "/it/", "example": "We eat dinner at eight.", "exampleAr": "بناكل العشا الساعة تمانية." },
+    { "en": "drink", "ar": "يشرب", "phonetic": "/drɪŋk/", "example": "Drink a lot of water in summer.", "exampleAr": "اشرب مية كتير في الصيف." },
+    { "en": "work", "ar": "يعمل / يشتغل", "phonetic": "/wərk/", "example": "I work in an office.", "exampleAr": "بشتغل في مكتب." },
+    { "en": "live", "ar": "يعيش / يسكن", "phonetic": "/lɪv/", "example": "We live in Cairo.", "exampleAr": "إحنا ساكنين في القاهرة." }
+  ],
+  "table": {
+    "columns": ["Verb", "Past", "Arabic"],
+    "rows": [
+      ["be", "was / were", "كان"],
+      ["have", "had", "كان عنده"],
+      ["do", "did", "عمل"],
+      ["go", "went", "راح"],
+      ["come", "came", "جه"],
+      ["get", "got", "جاب / حصل على"],
+      ["make", "made", "عمل / صنع"],
+      ["take", "took", "خد"],
+      ["give", "gave", "ادّى"],
+      ["know", "knew", "عرف"],
+      ["think", "thought", "فكّر"],
+      ["see", "saw", "شاف"],
+      ["say", "said", "قال"],
+      ["eat", "ate", "كل"],
+      ["drink", "drank", "شرب"]
+    ]
+  },
+  "tips": [
+    "make لما تعمل حاجة جديدة (make a cake)، و do للشغل والمهام (do homework).",
+    "مع he و she و it زوّد s: he works، she goes، it has (مش it haves).",
+    "بعد want و need بييجي to قبل الفعل: I want to go مش I want go."
+  ]
+}

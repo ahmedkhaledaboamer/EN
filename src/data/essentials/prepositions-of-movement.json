@@ -1,0 +1,30 @@
+{
+  "slug": "prepositions-of-movement",
+  "title": "Prepositions of Movement",
+  "titleAr": "حروف الجر للحركة",
+  "emoji": "🏃",
+  "level": "A1",
+  "intro": "الحروف دي بتوصف الحركة رايحة فين: to (لـ)، into (لجوه)، out of (لبره)، across (للناحية التانية). بتيجي غالباً بعد أفعال الحركة زي go و walk و run و drive و jump.",
+  "items": [
+    { "en": "to", "ar": "إلى / لـ (اتجاه)", "phonetic": "/tu/", "example": "I walk to work every day.", "exampleAr": "بمشي للشغل كل يوم." },
+    { "en": "into", "ar": "إلى داخل / لجوه", "phonetic": "/ˈɪntu/", "example": "She jumped into the pool.", "exampleAr": "نطت جوه البيسين." },
+    { "en": "out of", "ar": "إلى خارج / لبره من", "phonetic": "/ˈaʊt əv/", "example": "He ran out of the room.", "exampleAr": "جري بره الأوضة." },
+    { "en": "across", "ar": "عبر / للناحية التانية", "phonetic": "/əˈkrɔs/", "example": "Walk across the bridge.", "exampleAr": "اعدي الكوبري مشي." },
+    { "en": "through", "ar": "خلال / من جوه (نفق أو باب)", "phonetic": "/θru/", "example": "The train goes through a long tunnel.", "exampleAr": "القطر بيعدي من جوه نفق طويل." },
+    { "en": "along", "ar": "على طول (جنب حاجة)", "phonetic": "/əˈlɔŋ/", "example": "We walked along the river.", "exampleAr": "اتمشينا على طول النيل." },
+    { "en": "up", "ar": "لأعلى / لفوق", "phonetic": "/ʌp/", "example": "Go up the stairs to the second floor.", "exampleAr": "اطلع السلم للدور التاني." },
+    { "en": "down", "ar": "لأسفل / لتحت", "phonetic": "/daʊn/", "example": "Come down the stairs slowly.", "exampleAr": "انزل السلم بالراحة." },
+    { "en": "past", "ar": "من جنب (وتعدّيه)", "phonetic": "/pæst/", "example": "Drive past the bank and turn left.", "exampleAr": "عدّي من جنب البنك وخد شمال." },
+    { "en": "around", "ar": "حول / حوالين", "phonetic": "/əˈraʊnd/", "example": "We walked around the lake.", "exampleAr": "اتمشينا حوالين البحيرة." },
+    { "en": "over", "ar": "فوق (من فوق حاجة)", "phonetic": "/ˈoʊvər/", "example": "The cat jumped over the wall.", "exampleAr": "القطة نطت من فوق السور." },
+    { "en": "toward", "ar": "نحو / ناحية", "phonetic": "/tɔrd/", "example": "He ran toward the door.", "exampleAr": "جري ناحية الباب." },
+    { "en": "off", "ar": "من على / نزول من", "phonetic": "/ɔf/", "example": "Get off the bus at the next stop.", "exampleAr": "انزل من الأتوبيس في المحطة الجاية." },
+    { "en": "onto", "ar": "إلى سطح / على (حركة لفوق حاجة)", "phonetic": "/ˈɑntu/", "example": "The cat jumped onto the table.", "exampleAr": "القطة نطت على الترابيزة." }
+  ],
+  "tips": [
+    "in يعني مكان ثابت (I am in the room)، و into يعني حركة لجوه (I go into the room).",
+    "get on و get off للأتوبيس والقطر، لكن get in و get out of للعربية والتاكسي.",
+    "مع home ما بنقولش to: قول go home مش go to home.",
+    "toward أمريكي و towards بريطاني، والاتنين صح."
+  ]
+}

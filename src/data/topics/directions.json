@@ -1,0 +1,280 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "titleAr": "السؤال عن الاتجاهات",
+  "emoji": "🗺️",
+  "level": "A1",
+  "description": "Ask for and give directions in a city.",
+  "descriptionAr": "اسأل عن الطريق وصِفه للآخرين في المدينة.",
+  "words": [
+    {
+      "en": "left",
+      "ar": "يسار / شمال",
+      "phonetic": "/lɛft/",
+      "example": "The bank is on the left."
+    },
+    {
+      "en": "right",
+      "ar": "يمين",
+      "phonetic": "/raɪt/",
+      "example": "Turn right at the pharmacy."
+    },
+    {
+      "en": "straight",
+      "ar": "على طول / بشكل مستقيم",
+      "phonetic": "/streɪt/",
+      "example": "Go straight for two minutes."
+    },
+    {
+      "en": "turn",
+      "ar": "ينعطف / يلف",
+      "phonetic": "/tərn/",
+      "example": "Turn left at the end of the road."
+    },
+    {
+      "en": "corner",
+      "ar": "ناصية / زاوية الشارع",
+      "phonetic": "/ˈkɔrnər/",
+      "example": "There is a café on the corner."
+    },
+    {
+      "en": "street",
+      "ar": "شارع",
+      "phonetic": "/strit/",
+      "example": "My hotel is on this street."
+    },
+    {
+      "en": "crossroad",
+      "ar": "تقاطع طرق",
+      "phonetic": "/ˈkrɔsˌroʊd/",
+      "example": "Stop at the crossroad and look both ways."
+    },
+    {
+      "en": "traffic light",
+      "ar": "إشارة المرور",
+      "phonetic": "/ˈtræfɪk ˌlaɪt/",
+      "example": "Turn right at the second traffic light."
+    },
+    {
+      "en": "roundabout",
+      "ar": "دوّار / ميدان",
+      "phonetic": "/ˈraʊndəˌbaʊt/",
+      "example": "Take the first exit at the roundabout."
+    },
+    {
+      "en": "bridge",
+      "ar": "جسر / كوبري",
+      "phonetic": "/brɪdʒ/",
+      "example": "Walk across the bridge to the museum."
+    },
+    {
+      "en": "block",
+      "ar": "بلوك (المسافة بين شارعين)",
+      "phonetic": "/blɑk/",
+      "example": "The park is two blocks from here."
+    },
+    {
+      "en": "near",
+      "ar": "قريب من",
+      "phonetic": "/nɪr/",
+      "example": "Is there a pharmacy near here?"
+    },
+    {
+      "en": "far",
+      "ar": "بعيد",
+      "phonetic": "/fɑr/",
+      "example": "The airport is far from the city center."
+    },
+    {
+      "en": "opposite",
+      "ar": "مقابل / أمام",
+      "phonetic": "/ˈɑpəzɪt/",
+      "example": "The bank is opposite the mosque."
+    },
+    {
+      "en": "behind",
+      "ar": "خلف / وراء",
+      "phonetic": "/bɪˈhaɪnd/",
+      "example": "The parking lot is behind the mall."
+    },
+    {
+      "en": "between",
+      "ar": "بين",
+      "phonetic": "/bɪˈtwin/",
+      "example": "The bakery is between the bank and the school."
+    },
+    {
+      "en": "map",
+      "ar": "خريطة",
+      "phonetic": "/mæp/",
+      "example": "Can you show me on the map?"
+    },
+    {
+      "en": "address",
+      "ar": "عنوان",
+      "phonetic": "/ˈæˌdrɛs/",
+      "example": "What is the address of the hotel?"
+    },
+    {
+      "en": "lost",
+      "ar": "تائه / ضائع",
+      "phonetic": "/lɔst/",
+      "example": "Excuse me, I'm lost."
+    },
+    {
+      "en": "landmark",
+      "ar": "معلم بارز / علامة مميزة",
+      "phonetic": "/ˈlændˌmɑrk/",
+      "example": "The big tower is a famous landmark."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Excuse me, how do I get to the train station?",
+      "ar": "عفواً، كيف أصل إلى محطة القطار؟"
+    },
+    {
+      "en": "Is it far from here?",
+      "ar": "هل هي بعيدة من هنا؟"
+    },
+    {
+      "en": "Go straight and turn left at the traffic light.",
+      "ar": "امشِ على طول وانعطف يساراً عند إشارة المرور."
+    },
+    {
+      "en": "Take the second street on the right.",
+      "ar": "خذ الشارع الثاني على اليمين."
+    },
+    {
+      "en": "Go across the bridge.",
+      "ar": "اعبر الجسر."
+    },
+    {
+      "en": "Walk past the bank and turn right at the corner.",
+      "ar": "امشِ بعد البنك وانعطف يميناً عند الناصية."
+    },
+    {
+      "en": "It's opposite the post office.",
+      "ar": "إنها مقابل مكتب البريد."
+    },
+    {
+      "en": "Can you show me on the map?",
+      "ar": "هل يمكنك أن تريني على الخريطة؟"
+    },
+    {
+      "en": "Sorry, I'm lost. Can you help me?",
+      "ar": "آسف، أنا تائه. هل يمكنك مساعدتي؟"
+    },
+    {
+      "en": "It's about five minutes on foot.",
+      "ar": "إنها حوالي خمس دقائق سيراً على الأقدام."
+    }
+  ],
+  "story": {
+    "title": "The Way to the Station",
+    "text": "Ben is a tourist from Canada. He is in Cairo for the first time. His train leaves at four o'clock, but he is lost. He has a map, but the streets look the same. He sees an old man near a small shop. \"Excuse me, sir. How do I get to the train station?\" The man smiles. \"It's not far. Go straight down this street. At the traffic light, turn left.\" Ben listens carefully. \"Then walk across the bridge. You can see a big roundabout. Go around it and take the second street on the right.\" \"Is the station on that street?\" asks Ben. \"Yes. It's opposite a tall hotel, between a bank and a pharmacy. The hotel is a good landmark.\" Ben writes it on his map. \"Thank you so much!\" \"You're welcome. Have a good trip!\" Ben walks fast. He turns left, crosses the bridge, and finds the station at the corner. He is just in time.",
+    "translation": "بن سائح من كندا. إنه في القاهرة لأول مرة. يغادر قطاره في الساعة الرابعة، لكنه تائه. معه خريطة، لكن الشوارع تبدو متشابهة. يرى رجلاً عجوزاً بالقرب من متجر صغير. «عفواً يا سيدي. كيف أصل إلى محطة القطار؟» يبتسم الرجل. «إنها ليست بعيدة. امشِ على طول في هذا الشارع. عند إشارة المرور، انعطف يساراً.» يستمع بن بانتباه. «ثم اعبر الجسر. سترى دوّاراً كبيراً. لُف حوله وخذ الشارع الثاني على اليمين.» يسأل بن: «هل المحطة في ذلك الشارع؟» «نعم. إنها مقابل فندق عالٍ، بين بنك وصيدلية. الفندق علامة مميزة جيدة.» يكتب بن ذلك على خريطته. «شكراً جزيلاً!» «عفواً. رحلة سعيدة!» يمشي بن بسرعة. ينعطف يساراً، ويعبر الجسر، ويجد المحطة عند الناصية. لقد وصل في الوقت المناسب تماماً."
+  },
+  "grammar": {
+    "title": "Imperatives & prepositions of movement",
+    "explanationAr": "عندما نصف الطريق نستخدم صيغة الأمر، أي الفعل في أول الجملة بدون فاعل، مثل Go straight و Turn left. ونستخدم حروف جر تدل على الحركة: across للعبور من جانب إلى آخر مثل across the bridge، و along للمشي بطول الشارع، و past للمرور بجانب شيء، و around للالتفاف حول شيء. ونستخدم into للدخول و out of للخروج. ولكي يكون الكلام مهذباً نبدأ بـ Excuse me ونختم بـ please.",
+    "rule": "Go / Walk / Turn + direction (Go straight. Turn left.)\nGo + across / along / past / around / into + place\nTake + the first / second + street on the left / right",
+    "examples": [
+      {
+        "en": "Walk along this street for two blocks.",
+        "ar": "امشِ بطول هذا الشارع لمسافة بلوكين."
+      },
+      {
+        "en": "Go across the bridge and turn right.",
+        "ar": "اعبر الجسر وانعطف يميناً."
+      },
+      {
+        "en": "Go past the traffic light.",
+        "ar": "تجاوز إشارة المرور."
+      },
+      {
+        "en": "Go around the roundabout and take the first exit.",
+        "ar": "لُف حول الدوّار وخذ المخرج الأول."
+      },
+      {
+        "en": "Turn left at the corner and go into the station.",
+        "ar": "انعطف يساراً عند الناصية وادخل المحطة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The light is red, yellow, and green. What is it?",
+      "options": [
+        "A bridge",
+        "A traffic light",
+        "A roundabout",
+        "A corner"
+      ],
+      "answer": "A traffic light"
+    },
+    {
+      "type": "fill",
+      "sentence": "Excuse me, I'm ___. Where is the hotel?",
+      "answer": "lost",
+      "hint": "تائه"
+    },
+    {
+      "type": "order",
+      "words": [
+        "the",
+        "Turn",
+        "corner.",
+        "at",
+        "left"
+      ],
+      "answer": "Turn left at the corner."
+    },
+    {
+      "type": "mcq",
+      "question": "Go ___ the bridge to the other side of the river.",
+      "options": [
+        "across",
+        "between",
+        "behind",
+        "opposite"
+      ],
+      "answer": "across"
+    },
+    {
+      "type": "fill",
+      "sentence": "The bank is ___ the café and the school.",
+      "answer": "between",
+      "hint": "بين"
+    },
+    {
+      "type": "order",
+      "words": [
+        "station",
+        "far",
+        "the",
+        "Is",
+        "here?",
+        "from"
+      ],
+      "answer": "Is the station far from here?"
+    },
+    {
+      "type": "mcq",
+      "question": "The museum is ten kilometers from here. It is ___.",
+      "options": [
+        "near",
+        "behind",
+        "straight",
+        "far"
+      ],
+      "answer": "far"
+    },
+    {
+      "type": "listen",
+      "audioText": "Go straight and turn right.",
+      "answer": "Go straight and turn right."
+    }
+  ]
+}

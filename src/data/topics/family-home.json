@@ -1,0 +1,107 @@
+{
+  "slug": "family-home",
+  "title": "Family & Home",
+  "titleAr": "العائلة والمنزل",
+  "emoji": "🏠",
+  "level": "A1",
+  "description": "Describe your family, your house, and the rooms in it.",
+  "descriptionAr": "صِف عائلتك وبيتك والغرف الموجودة فيه.",
+  "words": [
+    { "en": "mother", "ar": "أم", "phonetic": "/ˈmʌðər/", "example": "My mother is a teacher." },
+    { "en": "father", "ar": "أب", "phonetic": "/ˈfɑðər/", "example": "My father works in a bank." },
+    { "en": "brother", "ar": "أخ", "phonetic": "/ˈbrʌðər/", "example": "I have one brother." },
+    { "en": "sister", "ar": "أخت", "phonetic": "/ˈsɪstər/", "example": "My sister is twelve years old." },
+    { "en": "parents", "ar": "الوالدان / الأب والأم", "phonetic": "/ˈpɛrənts/", "example": "I live with my parents." },
+    { "en": "grandfather", "ar": "جَدّ", "phonetic": "/ˈɡrænˌfɑðər/", "example": "My grandfather tells great stories." },
+    { "en": "uncle", "ar": "عمّ / خال", "phonetic": "/ˈʌŋkəl/", "example": "My uncle lives in Aswan." },
+    { "en": "cousin", "ar": "ابن العم / ابن الخال (أو بنتهما)", "phonetic": "/ˈkʌzən/", "example": "My cousin and I are the same age." },
+    { "en": "bedroom", "ar": "غرفة النوم", "phonetic": "/ˈbɛdˌrum/", "example": "My bedroom is small but nice." },
+    { "en": "bathroom", "ar": "الحمّام", "phonetic": "/ˈbæθˌrum/", "example": "The bathroom is next to the kitchen." },
+    { "en": "living room", "ar": "غرفة المعيشة / الصالة", "phonetic": "/ˈlɪvɪŋ ˌrum/", "example": "We watch TV in the living room." },
+    { "en": "kitchen", "ar": "المطبخ", "phonetic": "/ˈkɪtʃən/", "example": "My mother is in the kitchen." },
+    { "en": "door", "ar": "باب", "phonetic": "/dɔr/", "example": "Please close the door." },
+    { "en": "window", "ar": "شبّاك / نافذة", "phonetic": "/ˈwɪndoʊ/", "example": "There is a big window in my room." },
+    { "en": "sofa", "ar": "كَنَبة", "phonetic": "/ˈsoʊfə/", "example": "The cat is on the sofa." },
+    { "en": "table", "ar": "طاولة / ترابيزة", "phonetic": "/ˈteɪbəl/", "example": "The keys are on the table." },
+    { "en": "chair", "ar": "كرسي", "phonetic": "/tʃɛr/", "example": "There are six chairs in the kitchen." },
+    { "en": "garden", "ar": "حديقة / جنينة", "phonetic": "/ˈɡɑrdən/", "example": "There are flowers in the garden." },
+    { "en": "floor", "ar": "أرضية / طابق (دور)", "phonetic": "/flɔr/", "example": "We live on the third floor." },
+    { "en": "roof", "ar": "سطح / سقف المبنى", "phonetic": "/ruf/", "example": "The roof of our house is red." }
+  ],
+  "sentences": [
+    { "en": "How many brothers and sisters do you have?", "ar": "كم أخاً وأختاً لديك؟" },
+    { "en": "I have two sisters and one brother.", "ar": "لدي أختان وأخ واحد." },
+    { "en": "There are three bedrooms in my house.", "ar": "يوجد ثلاث غرف نوم في بيتي." },
+    { "en": "Is there a garden?", "ar": "هل توجد حديقة؟" },
+    { "en": "There is a sofa in the living room.", "ar": "توجد كنبة في غرفة المعيشة." },
+    { "en": "The bathroom is next to my bedroom.", "ar": "الحمّام بجوار غرفة نومي." },
+    { "en": "My keys are on the kitchen table.", "ar": "مفاتيحي على طاولة المطبخ." },
+    { "en": "Your shoes are under the chair.", "ar": "حذاؤك تحت الكرسي." },
+    { "en": "We live on the second floor.", "ar": "نسكن في الطابق الثاني." },
+    { "en": "Come in and sit down, please.", "ar": "تفضل بالدخول واجلس من فضلك." }
+  ],
+  "story": {
+    "title": "The New House",
+    "text": "Ahmed has a new house. He calls his friend Tom. \"Hi, Tom! I'm in my new house,\" he says. \"Great! Tell me about it,\" Tom says. \"Well, there are three bedrooms and two bathrooms. There is a big kitchen with a table and six chairs.\" \"Is there a garden?\" Tom asks. \"Yes, there is. There is a small garden next to the house. My father loves it.\" \"Who lives with you?\" \"My parents, my sister, and my brother. My grandfather visits us every Friday.\" \"Where is everyone now?\" \"My mother and my sister are in the living room. They are on the sofa. My brother is in his bedroom.\" \"And your uncle?\" Tom asks. \"My uncle and my cousin live in the house next to us.\" \"That's nice! Are there any pets?\" Ahmed looks out of the window and laughs. \"Yes, there is a cat on the roof!\"",
+    "translation": "لدى أحمد بيت جديد. يتصل بصديقه توم. يقول: «مرحباً يا توم! أنا في بيتي الجديد.» يقول توم: «رائع! أخبرني عنه.» «حسناً، يوجد ثلاث غرف نوم وحمّامان. ويوجد مطبخ كبير فيه طاولة وستة كراسٍ.» يسأل توم: «هل توجد حديقة؟» «نعم، توجد. هناك حديقة صغيرة بجوار البيت. أبي يحبها.» «من يعيش معك؟» «والداي وأختي وأخي. جدي يزورنا كل يوم جمعة.» «أين الجميع الآن؟» «أمي وأختي في غرفة المعيشة. إنهما على الكنبة. أخي في غرفة نومه.» يسأل توم: «وعمّك؟» «عمي وابن عمي يسكنان في البيت المجاور لنا.» «هذا جميل! هل توجد حيوانات أليفة؟» ينظر أحمد من النافذة ويضحك. «نعم، توجد قطة على السطح!»"
+  },
+  "grammar": {
+    "title": "There is / There are + prepositions of place",
+    "explanationAr": "نستخدم There is مع الاسم المفرد لنقول إن شيئاً موجوداً، مثل There is a sofa. ونستخدم There are مع الجمع، مثل There are two bedrooms. للسؤال نقول Is there ...? أو Are there ...? ونستخدم حروف الجر لنقول أين الشيء: in تعني «في»، و on تعني «على»، و under تعني «تحت»، و next to تعني «بجوار».",
+    "rule": "There is + a / an + singular noun\nThere are + plural noun\nIs there ...? / Are there ...?\nin (في) / on (على) / under (تحت) / next to (بجوار)",
+    "examples": [
+      { "en": "There is a big window in the living room.", "ar": "توجد نافذة كبيرة في غرفة المعيشة." },
+      { "en": "There are four chairs in the kitchen.", "ar": "توجد أربعة كراسٍ في المطبخ." },
+      { "en": "The cat is under the table.", "ar": "القطة تحت الطاولة." },
+      { "en": "Is there a bathroom on this floor?", "ar": "هل يوجد حمّام في هذا الطابق؟" },
+      { "en": "My bedroom is next to my sister's room.", "ar": "غرفة نومي بجوار غرفة أختي." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "There ___ two bedrooms in my house.",
+      "options": ["is", "be", "are", "am"],
+      "answer": "are"
+    },
+    {
+      "type": "fill",
+      "sentence": "We cook in the ___.",
+      "answer": "kitchen",
+      "hint": "المطبخ"
+    },
+    {
+      "type": "order",
+      "words": ["the", "is", "sofa.", "on", "cat", "The"],
+      "answer": "The cat is on the sofa."
+    },
+    {
+      "type": "mcq",
+      "question": "My father's brother is my ___.",
+      "options": ["cousin", "grandfather", "sister", "uncle"],
+      "answer": "uncle"
+    },
+    {
+      "type": "fill",
+      "sentence": "The shoes are ___ the bed, on the floor.",
+      "answer": "under",
+      "hint": "تحت"
+    },
+    {
+      "type": "order",
+      "words": ["a", "there", "garden?", "Is"],
+      "answer": "Is there a garden?"
+    },
+    {
+      "type": "mcq",
+      "question": "My mother and father are my ___.",
+      "options": ["parents", "cousins", "uncles", "brothers"],
+      "answer": "parents"
+    },
+    {
+      "type": "listen",
+      "audioText": "There are four chairs in the kitchen.",
+      "answer": "There are four chairs in the kitchen."
+    }
+  ]
+}

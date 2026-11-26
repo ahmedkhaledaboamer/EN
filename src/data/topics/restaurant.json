@@ -1,0 +1,279 @@
+{
+  "slug": "restaurant",
+  "title": "Restaurant",
+  "titleAr": "المطعم",
+  "emoji": "🍽️",
+  "level": "A1",
+  "description": "Book a table, order a meal, and ask for the bill.",
+  "descriptionAr": "احجز طاولة، واطلب وجبة، واطلب الحساب.",
+  "words": [
+    {
+      "en": "waiter",
+      "ar": "نادل / جرسون",
+      "phonetic": "/ˈweɪtər/",
+      "example": "The waiter brings our food."
+    },
+    {
+      "en": "table",
+      "ar": "طاولة / ترابيزة",
+      "phonetic": "/ˈteɪbəl/",
+      "example": "A table for four, please."
+    },
+    {
+      "en": "reservation",
+      "ar": "حجز",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
+      "example": "I have a reservation for eight o'clock."
+    },
+    {
+      "en": "menu",
+      "ar": "قائمة الطعام / المنيو",
+      "phonetic": "/ˈmɛnju/",
+      "example": "The menu has many fish dishes."
+    },
+    {
+      "en": "starter",
+      "ar": "مقبّلات / طبق أول",
+      "phonetic": "/ˈstɑrtər/",
+      "example": "We want soup as a starter."
+    },
+    {
+      "en": "main course",
+      "ar": "الطبق الرئيسي",
+      "phonetic": "/ˈmeɪn ˌkɔrs/",
+      "example": "For my main course, I'd like the chicken."
+    },
+    {
+      "en": "dessert",
+      "ar": "حلوى (بعد الأكل)",
+      "phonetic": "/dɪˈzərt/",
+      "example": "Do you have any room for dessert?"
+    },
+    {
+      "en": "drink",
+      "ar": "مشروب / يشرب",
+      "phonetic": "/drɪŋk/",
+      "example": "What would you like to drink?"
+    },
+    {
+      "en": "water",
+      "ar": "ماء / مياه",
+      "phonetic": "/ˈwɔtər/",
+      "example": "Can we have some water, please?"
+    },
+    {
+      "en": "spicy",
+      "ar": "حار (فيه شطة)",
+      "phonetic": "/ˈspaɪsi/",
+      "example": "Is this dish spicy?"
+    },
+    {
+      "en": "delicious",
+      "ar": "لذيذ",
+      "phonetic": "/dɪˈlɪʃəs/",
+      "example": "The fish is delicious."
+    },
+    {
+      "en": "bill",
+      "ar": "الحساب / الفاتورة",
+      "phonetic": "/bɪl/",
+      "example": "The bill is sixty dollars."
+    },
+    {
+      "en": "tip",
+      "ar": "بقشيش / إكرامية",
+      "phonetic": "/tɪp/",
+      "example": "We give the waiter a good tip."
+    },
+    {
+      "en": "plate",
+      "ar": "طبق",
+      "phonetic": "/pleɪt/",
+      "example": "My plate is empty."
+    },
+    {
+      "en": "fork",
+      "ar": "شوكة",
+      "phonetic": "/fɔrk/",
+      "example": "Can I have a clean fork?"
+    },
+    {
+      "en": "knife",
+      "ar": "سكين",
+      "phonetic": "/naɪf/",
+      "example": "I need a knife for my steak."
+    },
+    {
+      "en": "spoon",
+      "ar": "ملعقة",
+      "phonetic": "/spun/",
+      "example": "You eat soup with a spoon."
+    },
+    {
+      "en": "napkin",
+      "ar": "منديل (السفرة)",
+      "phonetic": "/ˈnæpkɪn/",
+      "example": "Could I have a napkin, please?"
+    },
+    {
+      "en": "vegetarian",
+      "ar": "نباتي",
+      "phonetic": "/ˌvɛdʒəˈtɛriən/",
+      "example": "My sister is vegetarian."
+    },
+    {
+      "en": "allergic",
+      "ar": "عنده حساسية (من شيء)",
+      "phonetic": "/əˈlərdʒɪk/",
+      "example": "I'm allergic to nuts."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'd like to book a table for two.",
+      "ar": "أريد حجز طاولة لشخصين."
+    },
+    {
+      "en": "We have a reservation for seven o'clock.",
+      "ar": "لدينا حجز للساعة السابعة."
+    },
+    {
+      "en": "Can we see the menu, please?",
+      "ar": "هل يمكننا رؤية المنيو من فضلك؟"
+    },
+    {
+      "en": "Do you have any vegetarian dishes?",
+      "ar": "هل لديكم أي أطباق نباتية؟"
+    },
+    {
+      "en": "I'd like some rice with the chicken.",
+      "ar": "أريد بعض الأرز مع الدجاج."
+    },
+    {
+      "en": "Is there any meat in this soup?",
+      "ar": "هل يوجد أي لحم في هذه الشوربة؟"
+    },
+    {
+      "en": "Can we have some more bread, please?",
+      "ar": "هل يمكننا الحصول على مزيد من الخبز من فضلك؟"
+    },
+    {
+      "en": "We don't want any dessert, thank you.",
+      "ar": "لا نريد أي حلوى، شكراً لك."
+    },
+    {
+      "en": "Excuse me, we're still waiting for our food.",
+      "ar": "عفواً، ما زلنا ننتظر طعامنا."
+    },
+    {
+      "en": "Can we have the bill, please?",
+      "ar": "هل يمكننا الحصول على الحساب من فضلك؟"
+    }
+  ],
+  "story": {
+    "title": "A Birthday Dinner",
+    "text": "Today is Laila's birthday. Her family goes to a nice restaurant. They have a reservation for six people. The waiter takes them to a big table next to the window. He gives them the menu. \"What would you like to drink?\" he asks. \"Some water and some orange juice, please,\" says Laila's father. For a starter, they order some soup and a salad. Laila's mother is vegetarian, so she orders pasta with vegetables. Laila wants spicy chicken for her main course. The food arrives, and everything is delicious. But there isn't any chicken for Laila! Her plate is not on the table. \"Excuse me,\" her father says. \"We're still waiting for one dish.\" The waiter is very sorry. \"I'm so sorry! It's coming now.\" Five minutes later, he brings the chicken and a free dessert. \"Happy birthday!\" he says. At the end, they ask for the bill and leave a big tip.",
+    "translation": "اليوم عيد ميلاد ليلى. تذهب عائلتها إلى مطعم لطيف. لديهم حجز لستة أشخاص. يأخذهم النادل إلى طاولة كبيرة بجوار النافذة. يعطيهم المنيو. يسأل: «ماذا تحبون أن تشربوا؟» يقول والد ليلى: «بعض الماء وبعض عصير البرتقال من فضلك.» كمقبّلات، يطلبون بعض الشوربة وسلطة. والدة ليلى نباتية، لذلك تطلب مكرونة بالخضار. ليلى تريد دجاجاً حاراً كطبق رئيسي. يصل الطعام، وكل شيء لذيذ. لكن لا يوجد أي دجاج لليلى! طبقها ليس على الطاولة. يقول والدها: «عفواً، ما زلنا ننتظر طبقاً واحداً.» النادل آسف جداً. «أنا آسف جداً! إنه قادم الآن.» بعد خمس دقائق، يحضر الدجاج وحلوى مجانية. يقول: «عيد ميلاد سعيد!» في النهاية، يطلبون الحساب ويتركون بقشيشاً كبيراً."
+  },
+  "grammar": {
+    "title": "Countable and uncountable nouns with some / any",
+    "explanationAr": "الأسماء المعدودة هي أشياء نعدّها مثل a plate و two forks. والأسماء غير المعدودة لا نعدّها، مثل water و rice و bread. نستخدم some في الجمل المثبتة، مثل I'd like some water. ونستخدم any في النفي والأسئلة، مثل We don't have any bread و Do you have any dessert? وعندما نطلب شيئاً بأدب نستخدم some حتى في السؤال، مثل Can I have some water?",
+    "rule": "Countable: a fork / two forks\nUncountable: water, rice, bread (no a / an, no -s)\nPositive: some + plural / uncountable (some water)\nNegative / Question: any (We don't have any bread. / Do you have any desserts?)\nPolite request: Can I have some ...?",
+    "examples": [
+      {
+        "en": "I'd like some water, please.",
+        "ar": "أريد بعض الماء من فضلك."
+      },
+      {
+        "en": "Do you have any spicy dishes?",
+        "ar": "هل لديكم أي أطباق حارة؟"
+      },
+      {
+        "en": "There aren't any napkins on the table.",
+        "ar": "لا توجد أي مناديل على الطاولة."
+      },
+      {
+        "en": "Can we have some spoons, please?",
+        "ar": "هل يمكننا الحصول على بعض الملاعق من فضلك؟"
+      },
+      {
+        "en": "I don't want any dessert.",
+        "ar": "لا أريد أي حلوى."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Do you have ___ vegetarian dishes?",
+      "options": [
+        "any",
+        "a",
+        "an",
+        "much"
+      ],
+      "answer": "any"
+    },
+    {
+      "type": "fill",
+      "sentence": "You eat soup with a ___.",
+      "answer": "spoon",
+      "hint": "ملعقة"
+    },
+    {
+      "type": "order",
+      "words": [
+        "water,",
+        "like",
+        "some",
+        "please.",
+        "I'd"
+      ],
+      "answer": "I'd like some water, please."
+    },
+    {
+      "type": "mcq",
+      "question": "You finish your meal and want to pay. You say:",
+      "options": [
+        "A table for two, please.",
+        "Can we have the bill, please?",
+        "I'm allergic to nuts.",
+        "Is this spicy?"
+      ],
+      "answer": "Can we have the bill, please?"
+    },
+    {
+      "type": "fill",
+      "sentence": "I don't eat meat. I'm ___.",
+      "answer": "vegetarian",
+      "hint": "نباتي"
+    },
+    {
+      "type": "order",
+      "words": [
+        "have",
+        "a",
+        "We",
+        "reservation.",
+        "don't"
+      ],
+      "answer": "We don't have a reservation."
+    },
+    {
+      "type": "mcq",
+      "question": "Which word is uncountable?",
+      "options": [
+        "fork",
+        "plate",
+        "napkin",
+        "water"
+      ],
+      "answer": "water"
+    },
+    {
+      "type": "listen",
+      "audioText": "Is there any meat in this dish?",
+      "answer": "Is there any meat in this dish?"
+    }
+  ]
+}

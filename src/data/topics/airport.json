@@ -1,0 +1,107 @@
+{
+  "slug": "airport",
+  "title": "Airport",
+  "titleAr": "المطار",
+  "emoji": "✈️",
+  "level": "A2",
+  "description": "Check in, pass security, and board your flight.",
+  "descriptionAr": "سجّل رحلتك، ومُرّ من التفتيش الأمني، واصعد إلى طائرتك.",
+  "words": [
+    { "en": "flight", "ar": "رحلة طيران", "phonetic": "/flaɪt/", "example": "Our flight leaves at 6 a.m." },
+    { "en": "ticket", "ar": "تذكرة", "phonetic": "/ˈtɪkɪt/", "example": "I bought my ticket online." },
+    { "en": "boarding pass", "ar": "بطاقة الصعود (إلى الطائرة)", "phonetic": "/ˈbɔrdɪŋ pæs/", "example": "You can print your boarding pass at home." },
+    { "en": "gate", "ar": "بوابة", "phonetic": "/ɡeɪt/", "example": "Our flight is boarding at gate 12." },
+    { "en": "terminal", "ar": "صالة / مبنى الركاب (ترمينال)", "phonetic": "/ˈtərmənəl/", "example": "International flights leave from Terminal 2." },
+    { "en": "check-in", "ar": "تسجيل الرحلة (كاونتر إنهاء الإجراءات)", "phonetic": "/ˈtʃɛk ɪn/", "example": "The check-in desk opens three hours before the flight." },
+    { "en": "security", "ar": "التفتيش الأمني", "phonetic": "/sɪˈkjʊrəti/", "example": "The line at security is very long." },
+    { "en": "customs", "ar": "الجمارك", "phonetic": "/ˈkʌstəmz/", "example": "We waited at customs for twenty minutes." },
+    { "en": "passport control", "ar": "مراقبة الجوازات", "phonetic": "/ˈpæspɔrt kənˈtroʊl/", "example": "Have your passport ready for passport control." },
+    { "en": "luggage", "ar": "أمتعة / شنط السفر", "phonetic": "/ˈlʌɡɪdʒ/", "example": "My luggage is too heavy." },
+    { "en": "carry-on", "ar": "حقيبة اليد (تأخذها معك في الطائرة)", "phonetic": "/ˈkæriˌɑn/", "example": "You can bring one carry-on bag." },
+    { "en": "delay", "ar": "تأخير", "phonetic": "/dɪˈleɪ/", "example": "There is a two-hour delay because of the weather." },
+    { "en": "departure", "ar": "مغادرة / إقلاع", "phonetic": "/dɪˈpɑrtʃər/", "example": "Check the departure time on the screen." },
+    { "en": "arrival", "ar": "وصول", "phonetic": "/əˈraɪvəl/", "example": "The arrival hall is on the ground floor." },
+    { "en": "seat", "ar": "مقعد", "phonetic": "/sit/", "example": "Please stay in your seat." },
+    { "en": "aisle seat", "ar": "مقعد بجانب الممر", "phonetic": "/ˈaɪl sit/", "example": "I prefer an aisle seat on long flights." },
+    { "en": "window seat", "ar": "مقعد بجانب النافذة (الشباك)", "phonetic": "/ˈwɪndoʊ sit/", "example": "My son always wants a window seat." },
+    { "en": "pilot", "ar": "طيار / قائد الطائرة", "phonetic": "/ˈpaɪlət/", "example": "The pilot welcomes everyone on board." },
+    { "en": "cabin crew", "ar": "طاقم الضيافة (المضيفون)", "phonetic": "/ˈkæbɪn kru/", "example": "The cabin crew is very helpful." },
+    { "en": "take off", "ar": "تُقلع (الطائرة)", "phonetic": "/ˌteɪk ˈɔf/", "example": "The plane will take off in ten minutes." }
+  ],
+  "sentences": [
+    { "en": "Where is the check-in desk for this flight?", "ar": "أين كاونتر تسجيل هذه الرحلة؟" },
+    { "en": "Do I have to print my boarding pass?", "ar": "هل يجب أن أطبع بطاقة الصعود؟" },
+    { "en": "Can I have a window seat, please?", "ar": "هل يمكنني الحصول على مقعد بجانب النافذة من فضلك؟" },
+    { "en": "You must show your passport here.", "ar": "يجب أن تُظهر جواز سفرك هنا." },
+    { "en": "Is the flight on time, or is there a delay?", "ar": "هل الرحلة في موعدها، أم هناك تأخير؟" },
+    { "en": "You have to put liquids in a clear bag.", "ar": "يجب أن تضع السوائل في كيس شفاف." },
+    { "en": "You don't have to take off your shoes.", "ar": "ليس عليك أن تخلع حذاءك." },
+    { "en": "Which gate does the flight leave from?", "ar": "من أي بوابة تغادر الرحلة؟" },
+    { "en": "Passengers must stay in their seats now.", "ar": "يجب على الركاب البقاء في مقاعدهم الآن." },
+    { "en": "I have nothing to declare at customs.", "ar": "ليس لديّ ما أصرّح به في الجمارك." }
+  ],
+  "story": {
+    "title": "The Final Call",
+    "text": "Karim's flight to Dubai leaves at 9:15. He arrives at the airport at eight o'clock, so he has to hurry. At the check-in desk, the woman says, \"You have to check your big bag, but you can keep your carry-on.\" She gives him his boarding pass. \"Your gate is B22. Boarding starts at 8:40.\" Then Karim goes to security. The line is very long! A security officer says, \"You must take your laptop out of your bag. And you have to put your liquids in a clear bag.\" Karim also has to put his phone and keys in a box. Finally, he passes passport control. He looks at the screen. Next to his flight, it says \"Final Call.\" Karim starts to run. He hears his name: \"Passenger Karim Adel, please go to Gate B22 now.\" He arrives at the gate, out of breath. The agent smiles. \"Don't worry. You don't have to run anymore. You made it.\" Karim finds his window seat and closes his eyes. Ten minutes later, the plane takes off.",
+    "translation": "تغادر رحلة كريم إلى دبي في الساعة 9:15. يصل إلى المطار في الساعة الثامنة، لذلك عليه أن يُسرع. عند كاونتر تسجيل الرحلة، تقول الموظفة: «يجب أن تشحن حقيبتك الكبيرة، لكن يمكنك الاحتفاظ بحقيبة اليد.» تعطيه بطاقة الصعود. «بوابتك هي B22. يبدأ الصعود في الساعة 8:40.» ثم يذهب كريم إلى التفتيش الأمني. الطابور طويل جداً! يقول أحد ضباط الأمن: «يجب أن تُخرج الكمبيوتر المحمول من حقيبتك. ويجب أن تضع السوائل في كيس شفاف.» وعلى كريم أيضاً أن يضع هاتفه ومفاتيحه في صندوق. أخيراً، يمرّ من مراقبة الجوازات. ينظر إلى الشاشة. بجانب رحلته مكتوب «النداء الأخير». يبدأ كريم في الجري. يسمع اسمه: «الراكب كريم عادل، من فضلك توجّه إلى البوابة B22 الآن.» يصل إلى البوابة وهو يلهث. يبتسم الموظف. «لا تقلق. لم تعد مضطراً للجري. لقد لحقت بالرحلة.» يجد كريم مقعده بجانب النافذة ويغمض عينيه. بعد عشر دقائق، تُقلع الطائرة."
+  },
+  "grammar": {
+    "title": "Must / Have to / Don't have to",
+    "explanationAr": "نستخدم must و have to للحديث عن القواعد والأشياء الضرورية، مثل: You must show your passport. ومع he و she نقول has to. أما don't have to فمعناها «ليس ضرورياً»، أي يمكنك أن تفعل أو لا تفعل، مثل: You don't have to print your ticket. انتبه: mustn't معناها «ممنوع»، وهي تختلف عن don't have to. وللسؤال نقول: Do I have to ...?",
+    "rule": "I / You / We / They + must / have to + verb\nHe / She + must / has to + verb\nmustn't + verb = it is not allowed\ndon't / doesn't have to + verb = it is not necessary\nDo I have to + verb?",
+    "examples": [
+      { "en": "You must show your passport at passport control.", "ar": "يجب أن تُظهر جواز سفرك عند مراقبة الجوازات." },
+      { "en": "You have to be at the gate 30 minutes before departure.", "ar": "يجب أن تكون عند البوابة قبل الإقلاع بثلاثين دقيقة." },
+      { "en": "Passengers mustn't smoke on the plane.", "ar": "ممنوع على الركاب التدخين في الطائرة." },
+      { "en": "You don't have to print your ticket. You can use your phone.", "ar": "ليس عليك أن تطبع تذكرتك. يمكنك استخدام هاتفك." },
+      { "en": "Does she have to pay for extra luggage?", "ar": "هل يجب عليها أن تدفع مقابل الأمتعة الزائدة؟" }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Where do you show your boarding pass before you get on the plane?",
+      "options": ["At customs", "In the arrival hall", "At the gate", "At the check-in desk"],
+      "answer": "At the gate"
+    },
+    {
+      "type": "fill",
+      "sentence": "I always ask for an ___ seat because I like to walk around.",
+      "answer": "aisle",
+      "hint": "ممر"
+    },
+    {
+      "type": "order",
+      "words": ["passport.", "must", "your", "You", "show"],
+      "answer": "You must show your passport."
+    },
+    {
+      "type": "mcq",
+      "question": "You ___ print your boarding pass. It's on your phone.",
+      "options": ["don't have to", "must", "have to", "has to"],
+      "answer": "don't have to"
+    },
+    {
+      "type": "fill",
+      "sentence": "Our flight is late. There is a two-hour ___.",
+      "answer": "delay",
+      "hint": "تأخير"
+    },
+    {
+      "type": "order",
+      "words": ["check", "Do", "bag?", "have", "this", "I", "to"],
+      "answer": "Do I have to check this bag?"
+    },
+    {
+      "type": "mcq",
+      "question": "Who flies the plane?",
+      "options": ["The cabin crew", "The passenger", "The security officer", "The pilot"],
+      "answer": "The pilot"
+    },
+    {
+      "type": "listen",
+      "audioText": "The plane is ready to take off.",
+      "answer": "The plane is ready to take off."
+    }
+  ]
+}

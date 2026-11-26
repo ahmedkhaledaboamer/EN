@@ -1,0 +1,107 @@
+{
+  "slug": "coffee-shop",
+  "title": "Coffee Shop",
+  "titleAr": "الكافيه",
+  "emoji": "☕",
+  "level": "A1",
+  "description": "Order drinks and snacks politely and pay the bill.",
+  "descriptionAr": "اطلب المشروبات والوجبات الخفيفة بأدب وادفع الحساب.",
+  "words": [
+    { "en": "coffee", "ar": "قهوة", "phonetic": "/ˈkɔfi/", "example": "I drink coffee every morning." },
+    { "en": "tea", "ar": "شاي", "phonetic": "/ti/", "example": "A cup of tea, please." },
+    { "en": "latte", "ar": "لاتيه (قهوة بالحليب)", "phonetic": "/ˈlɑteɪ/", "example": "My favorite drink is a latte." },
+    { "en": "espresso", "ar": "إسبريسو (قهوة مركّزة)", "phonetic": "/ɛˈsprɛsoʊ/", "example": "An espresso is small and strong." },
+    { "en": "menu", "ar": "قائمة الطعام / المنيو", "phonetic": "/ˈmɛnju/", "example": "Can I see the menu, please?" },
+    { "en": "order", "ar": "يطلب / طلب", "phonetic": "/ˈɔrdər/", "example": "Are you ready to order?" },
+    { "en": "cup", "ar": "كوب / فنجان", "phonetic": "/kʌp/", "example": "This cup is very hot." },
+    { "en": "sugar", "ar": "سكر", "phonetic": "/ˈʃʊɡər/", "example": "No sugar for me, thanks." },
+    { "en": "milk", "ar": "حليب / لبن", "phonetic": "/mɪlk/", "example": "Do you want milk in your coffee?" },
+    { "en": "cake", "ar": "كعكة / كيك", "phonetic": "/keɪk/", "example": "The chocolate cake is delicious." },
+    { "en": "sandwich", "ar": "ساندويتش / شطيرة", "phonetic": "/ˈsænwɪtʃ/", "example": "I'd like a cheese sandwich." },
+    { "en": "small", "ar": "صغير", "phonetic": "/smɔl/", "example": "A small tea, please." },
+    { "en": "medium", "ar": "متوسط (الحجم)", "phonetic": "/ˈmidiəm/", "example": "Can I have a medium latte?" },
+    { "en": "large", "ar": "كبير", "phonetic": "/lɑrdʒ/", "example": "I need a large coffee today." },
+    { "en": "takeaway", "ar": "تيك أواي (للأخذ خارج المحل)", "phonetic": "/ˈteɪkəˌweɪ/", "example": "Is that for here or takeaway?" },
+    { "en": "bill", "ar": "الحساب / الفاتورة", "phonetic": "/bɪl/", "example": "Can we have the bill, please?" },
+    { "en": "tip", "ar": "بقشيش / إكرامية", "phonetic": "/tɪp/", "example": "I leave a small tip on the table." },
+    { "en": "barista", "ar": "باريستا (صانع القهوة)", "phonetic": "/bəˈristə/", "example": "The barista makes great coffee." },
+    { "en": "receipt", "ar": "إيصال", "phonetic": "/rɪˈsit/", "example": "Do you want the receipt?" },
+    { "en": "change", "ar": "الباقي (من النقود)", "phonetic": "/tʃeɪndʒ/", "example": "Keep the change." }
+  ],
+  "sentences": [
+    { "en": "I'd like a large latte, please.", "ar": "أريد لاتيه كبيراً من فضلك." },
+    { "en": "Can I have a cup of tea?", "ar": "هل يمكنني الحصول على كوب شاي؟" },
+    { "en": "Would you like milk or sugar?", "ar": "هل تريد حليباً أم سكراً؟" },
+    { "en": "Can I see the menu, please?", "ar": "هل يمكنني رؤية المنيو من فضلك؟" },
+    { "en": "For here or to go?", "ar": "هنا أم تيك أواي؟" },
+    { "en": "I'd like a piece of chocolate cake.", "ar": "أريد قطعة من كيك الشوكولاتة." },
+    { "en": "Could I have some water, please?", "ar": "هل يمكنني الحصول على بعض الماء من فضلك؟" },
+    { "en": "How much is a small coffee?", "ar": "بكم القهوة الصغيرة؟" },
+    { "en": "Can I pay by card?", "ar": "هل يمكنني الدفع بالبطاقة؟" },
+    { "en": "Keep the change, thank you.", "ar": "احتفظ بالباقي، شكراً لك." }
+  ],
+  "story": {
+    "title": "The Shy Customer",
+    "text": "Mona is very shy. Today she goes to a new coffee shop. She looks at the menu, but it is very long. The barista smiles at her. \"Hello! What would you like?\" Mona speaks quietly. \"I'd like a latte, please.\" \"Small, medium, or large?\" \"Medium, please. With oat milk.\" \"Would you like sugar?\" \"No sugar, but a little vanilla. And extra hot.\" The barista nods. \"No problem. Anything else?\" Mona looks at the cakes. \"Can I have a piece of chocolate cake?\" \"Of course. For here or takeaway?\" \"Takeaway, please.\" \"Okay. Your order is eight dollars.\" Mona gives him ten dollars. He gives her the change and the receipt. Mona puts one dollar in the tip jar. A few minutes later, the barista calls her name. Her cup is perfect. Mona smiles and says, \"Thank you!\" Next time, she is not shy.",
+    "translation": "منى خجولة جداً. اليوم تذهب إلى كافيه جديد. تنظر إلى المنيو، لكنه طويل جداً. يبتسم لها الباريستا. «مرحباً! ماذا تريدين؟» تتكلم منى بصوت منخفض. «أريد لاتيه من فضلك.» «صغير أم متوسط أم كبير؟» «متوسط من فضلك. بحليب الشوفان.» «هل تريدين سكراً؟» «بدون سكر، لكن مع قليل من الفانيليا. وساخن جداً.» يومئ الباريستا برأسه. «لا مشكلة. أي شيء آخر؟» تنظر منى إلى الكيك. «هل يمكنني الحصول على قطعة كيك شوكولاتة؟» «بالطبع. هنا أم تيك أواي؟» «تيك أواي من فضلك.» «حسناً. طلبك بثمانية دولارات.» تعطيه منى عشرة دولارات. يعطيها الباقي والإيصال. تضع منى دولاراً واحداً في علبة البقشيش. بعد بضع دقائق، ينادي الباريستا اسمها. كوبها مثالي. تبتسم منى وتقول: «شكراً لك!» في المرة القادمة، لن تكون خجولة."
+  },
+  "grammar": {
+    "title": "Polite requests: Would like / Can I have ...?",
+    "explanationAr": "نستخدم I would like أو اختصارها I'd like لنطلب شيئاً بأدب، وهي ألطف من I want. ونستخدم Can I have ...? أو Could I have ...? لنطلب شيئاً في صورة سؤال. ويسأل الباريستا بأدب: Would you like ...? بمعنى «هل تريد ...؟». بعد would like نضع اسماً مثل a coffee، أو to + فعل مثل to order.",
+    "rule": "I'd like (I would like) + a / an + noun\nI'd like + to + verb (I'd like to order)\nCan I have / Could I have + noun ...?\nWould you like + noun ...? (offer)",
+    "examples": [
+      { "en": "I'd like a small espresso, please.", "ar": "أريد إسبريسو صغيراً من فضلك." },
+      { "en": "Can I have a cheese sandwich?", "ar": "هل يمكنني الحصول على ساندويتش جبن؟" },
+      { "en": "Would you like some cake?", "ar": "هل تريد بعض الكيك؟" },
+      { "en": "I'd like to order, please.", "ar": "أريد أن أطلب من فضلك." },
+      { "en": "Could I have the bill, please?", "ar": "هل يمكنني الحصول على الحساب من فضلك؟" }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which is the most polite?",
+      "options": ["Give me a coffee.", "Coffee now.", "I'd like a coffee, please.", "I want coffee."],
+      "answer": "I'd like a coffee, please."
+    },
+    {
+      "type": "fill",
+      "sentence": "Can I ___ a cup of tea, please?",
+      "answer": "have",
+      "hint": "يحصل على / يأخذ"
+    },
+    {
+      "type": "order",
+      "words": ["latte,", "a", "I'd", "please.", "like"],
+      "answer": "I'd like a latte, please."
+    },
+    {
+      "type": "mcq",
+      "question": "The person who makes coffee is a ___.",
+      "options": ["customer", "barista", "menu", "receipt"],
+      "answer": "barista"
+    },
+    {
+      "type": "fill",
+      "sentence": "No ___ in my coffee, please. I don't like it sweet.",
+      "answer": "sugar",
+      "hint": "سكر"
+    },
+    {
+      "type": "order",
+      "words": ["milk?", "like", "you", "Would"],
+      "answer": "Would you like milk?"
+    },
+    {
+      "type": "mcq",
+      "question": "You want to drink your coffee in the car. You say:",
+      "options": ["It's for here.", "Keep the change.", "The bill, please.", "It's takeaway, please."],
+      "answer": "It's takeaway, please."
+    },
+    {
+      "type": "listen",
+      "audioText": "Can I have a medium latte?",
+      "answer": "Can I have a medium latte?"
+    }
+  ]
+}

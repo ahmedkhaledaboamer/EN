@@ -1,0 +1,56 @@
+{
+  "slug": "numbers-and-ordinals",
+  "title": "Numbers & Ordinals",
+  "titleAr": "الأرقام والترتيب",
+  "emoji": "🔢",
+  "level": "A1",
+  "intro": "الأرقام العادية (one, two, three) بنستخدمها في العدّ والأسعار والأعمار. أرقام الترتيب (first, second, third) بنستخدمها في الترتيب والتواريخ والأدوار: the first floor، May 2nd.",
+  "items": [
+    { "en": "one", "ar": "واحد (1)", "phonetic": "/wʌn/", "example": "I have one brother.", "exampleAr": "عندي أخ واحد." },
+    { "en": "two", "ar": "اثنان / اتنين (2)", "phonetic": "/tu/", "example": "Two coffees, please.", "exampleAr": "اتنين قهوة لو سمحت." },
+    { "en": "three", "ar": "ثلاثة / تلاتة (3)", "phonetic": "/θri/", "example": "The hotel has three floors.", "exampleAr": "الفندق فيه تلات أدوار." },
+    { "en": "four", "ar": "أربعة (4)", "phonetic": "/fɔr/", "example": "We are a family of four.", "exampleAr": "إحنا عيلة من أربعة." },
+    { "en": "five", "ar": "خمسة (5)", "phonetic": "/faɪv/", "example": "The ticket costs five dollars.", "exampleAr": "التذكرة بخمسة دولار." },
+    { "en": "six", "ar": "ستة (6)", "phonetic": "/sɪks/", "example": "I wake up at six every day.", "exampleAr": "بصحى الساعة ستة كل يوم." },
+    { "en": "seven", "ar": "سبعة (7)", "phonetic": "/ˈsɛvən/", "example": "A week has seven days.", "exampleAr": "الأسبوع فيه سبع أيام." },
+    { "en": "eight", "ar": "ثمانية / تمانية (8)", "phonetic": "/eɪt/", "example": "I sleep for eight hours.", "exampleAr": "بنام تمن ساعات." },
+    { "en": "nine", "ar": "تسعة (9)", "phonetic": "/naɪn/", "example": "The shop opens at nine.", "exampleAr": "المحل بيفتح الساعة تسعة." },
+    { "en": "ten", "ar": "عشرة (10)", "phonetic": "/tɛn/", "example": "Wait ten minutes, please.", "exampleAr": "استنى عشر دقايق لو سمحت." },
+    { "en": "eleven", "ar": "أحد عشر / حداشر (11)", "phonetic": "/ɪˈlɛvən/", "example": "My son is eleven years old.", "exampleAr": "ابني عنده حداشر سنة." },
+    { "en": "twelve", "ar": "اثنا عشر / اطناشر (12)", "phonetic": "/twɛlv/", "example": "A year has twelve months.", "exampleAr": "السنة فيها اطناشر شهر." },
+    { "en": "thirteen", "ar": "ثلاثة عشر / تلاتاشر (13)", "phonetic": "/ˌθərˈtin/", "example": "Room thirteen is on the left.", "exampleAr": "أوضة تلاتاشر على الشمال." },
+    { "en": "fifteen", "ar": "خمسة عشر / خمستاشر (15)", "phonetic": "/ˌfɪfˈtin/", "example": "The bus comes every fifteen minutes.", "exampleAr": "الأتوبيس بييجي كل ربع ساعة." },
+    { "en": "twenty", "ar": "عشرون / عشرين (20)", "phonetic": "/ˈtwɛnti/", "example": "I am twenty years old.", "exampleAr": "عندي عشرين سنة." },
+    { "en": "thirty", "ar": "ثلاثون / تلاتين (30)", "phonetic": "/ˈθərti/", "example": "This shirt is thirty dollars.", "exampleAr": "القميص ده بتلاتين دولار." },
+    { "en": "fifty", "ar": "خمسون / خمسين (50)", "phonetic": "/ˈfɪfti/", "example": "My father is fifty.", "exampleAr": "أبويا عنده خمسين سنة." },
+    { "en": "hundred", "ar": "مئة / مية (100)", "phonetic": "/ˈhʌndrəd/", "example": "There are a hundred people in the hall.", "exampleAr": "فيه مية واحد في القاعة." },
+    { "en": "thousand", "ar": "ألف (1000)", "phonetic": "/ˈθaʊzənd/", "example": "The phone costs one thousand dollars.", "exampleAr": "التليفون بألف دولار." },
+    { "en": "million", "ar": "مليون", "phonetic": "/ˈmɪljən/", "example": "Cairo has more than twenty million people.", "exampleAr": "القاهرة فيها أكتر من عشرين مليون واحد." },
+    { "en": "first", "ar": "الأول (1st)", "phonetic": "/fərst/", "example": "This is my first day at work.", "exampleAr": "ده أول يوم ليا في الشغل." },
+    { "en": "second", "ar": "الثاني / التاني (2nd)", "phonetic": "/ˈsɛkənd/", "example": "The office is on the second floor.", "exampleAr": "المكتب في الدور التاني." },
+    { "en": "third", "ar": "الثالث / التالت (3rd)", "phonetic": "/θərd/", "example": "She finished third in the race.", "exampleAr": "هي خلّصت التالتة في السباق." },
+    { "en": "fifth", "ar": "الخامس (5th)", "phonetic": "/fɪfθ/", "example": "Take the fifth street on the right.", "exampleAr": "خد خامس شارع على اليمين." },
+    { "en": "twelfth", "ar": "الثاني عشر (12th)", "phonetic": "/twɛlfθ/", "example": "The meeting is on the twelfth of June.", "exampleAr": "الاجتماع يوم اطناشر يونيو." },
+    { "en": "twentieth", "ar": "العشرون (20th)", "phonetic": "/ˈtwɛntiəθ/", "example": "Today is the twentieth of May.", "exampleAr": "النهارده عشرين مايو." }
+  ],
+  "table": {
+    "columns": ["Number", "Cardinal", "Ordinal", "Short"],
+    "rows": [
+      ["1", "one", "first", "1st"],
+      ["2", "two", "second", "2nd"],
+      ["3", "three", "third", "3rd"],
+      ["4", "four", "fourth", "4th"],
+      ["5", "five", "fifth", "5th"],
+      ["8", "eight", "eighth", "8th"],
+      ["9", "nine", "ninth", "9th"],
+      ["12", "twelve", "twelfth", "12th"],
+      ["20", "twenty", "twentieth", "20th"],
+      ["21", "twenty-one", "twenty-first", "21st"]
+    ]
+  },
+  "tips": [
+    "انتبه للفرق بين thirteen (13) و thirty (30): في thirteen الضغط على آخر الكلمة (thir-TEEN)، وفي thirty على أولها (THIR-ty).",
+    "first و second و third شاذين، والباقي غالباً بنزود th: four ← fourth.",
+    "بنقول two hundred مش two hundreds."
+  ]
+}

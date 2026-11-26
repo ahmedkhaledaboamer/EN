@@ -1,0 +1,279 @@
+{
+  "slug": "school",
+  "title": "School",
+  "titleAr": "المدرسة",
+  "emoji": "🎒",
+  "level": "A1",
+  "description": "Talk about classes, teachers, homework, and exams.",
+  "descriptionAr": "تحدّث عن الحصص والمعلمين والواجبات المنزلية والامتحانات.",
+  "words": [
+    {
+      "en": "teacher",
+      "ar": "معلّم / مدرّس",
+      "phonetic": "/ˈtitʃər/",
+      "example": "Our teacher is very kind."
+    },
+    {
+      "en": "student",
+      "ar": "طالب / تلميذ",
+      "phonetic": "/ˈstudənt/",
+      "example": "There are thirty students in my class."
+    },
+    {
+      "en": "classroom",
+      "ar": "فصل / حجرة الدراسة",
+      "phonetic": "/ˈklæsˌrum/",
+      "example": "Our classroom is on the second floor."
+    },
+    {
+      "en": "lesson",
+      "ar": "درس / حصة",
+      "phonetic": "/ˈlɛsən/",
+      "example": "The English lesson starts at nine."
+    },
+    {
+      "en": "homework",
+      "ar": "واجب منزلي",
+      "phonetic": "/ˈhoʊmˌwərk/",
+      "example": "I do my homework after dinner."
+    },
+    {
+      "en": "exam",
+      "ar": "امتحان",
+      "phonetic": "/ɪɡˈzæm/",
+      "example": "We have a big exam next week."
+    },
+    {
+      "en": "subject",
+      "ar": "مادة دراسية",
+      "phonetic": "/ˈsʌbdʒɪkt/",
+      "example": "What is your favorite subject?"
+    },
+    {
+      "en": "math",
+      "ar": "رياضيات",
+      "phonetic": "/mæθ/",
+      "example": "Math is easy for my sister."
+    },
+    {
+      "en": "science",
+      "ar": "علوم",
+      "phonetic": "/ˈsaɪəns/",
+      "example": "We do experiments in science class."
+    },
+    {
+      "en": "history",
+      "ar": "تاريخ (مادة)",
+      "phonetic": "/ˈhɪstəri/",
+      "example": "I love history because of the stories."
+    },
+    {
+      "en": "notebook",
+      "ar": "كراسة / دفتر",
+      "phonetic": "/ˈnoʊtˌbʊk/",
+      "example": "Write the new words in your notebook."
+    },
+    {
+      "en": "pen",
+      "ar": "قلم حبر",
+      "phonetic": "/pɛn/",
+      "example": "Can I borrow your pen?"
+    },
+    {
+      "en": "pencil",
+      "ar": "قلم رصاص",
+      "phonetic": "/ˈpɛnsəl/",
+      "example": "Use a pencil for the drawing."
+    },
+    {
+      "en": "board",
+      "ar": "السبّورة",
+      "phonetic": "/bɔrd/",
+      "example": "The teacher writes on the board."
+    },
+    {
+      "en": "break",
+      "ar": "استراحة / فسحة",
+      "phonetic": "/breɪk/",
+      "example": "We play football during the break."
+    },
+    {
+      "en": "grade",
+      "ar": "درجة / تقدير",
+      "phonetic": "/ɡreɪd/",
+      "example": "She got a good grade in English."
+    },
+    {
+      "en": "test",
+      "ar": "اختبار",
+      "phonetic": "/tɛst/",
+      "example": "There is a short test on Monday."
+    },
+    {
+      "en": "library",
+      "ar": "مكتبة",
+      "phonetic": "/ˈlaɪˌbrɛri/",
+      "example": "You can read quietly in the library."
+    },
+    {
+      "en": "uniform",
+      "ar": "زيّ مدرسي",
+      "phonetic": "/ˈjunəˌfɔrm/",
+      "example": "Our school uniform is blue and white."
+    },
+    {
+      "en": "schedule",
+      "ar": "جدول (الحصص)",
+      "phonetic": "/ˈskɛdʒul/",
+      "example": "Check the schedule for tomorrow's classes."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Open your books to page ten.",
+      "ar": "افتحوا كتبكم على صفحة عشرة."
+    },
+    {
+      "en": "Please be quiet and listen.",
+      "ar": "من فضلكم التزموا الهدوء واستمعوا."
+    },
+    {
+      "en": "Don't forget your homework.",
+      "ar": "لا تنسَ واجبك المنزلي."
+    },
+    {
+      "en": "Can I go to the bathroom, please?",
+      "ar": "هل يمكنني الذهاب إلى الحمام من فضلك؟"
+    },
+    {
+      "en": "Can you say that again, please?",
+      "ar": "هل يمكنك قول ذلك مرة أخرى من فضلك؟"
+    },
+    {
+      "en": "You can't use your phone in class.",
+      "ar": "لا يمكنك استخدام هاتفك في الفصل."
+    },
+    {
+      "en": "Write your name at the top of the paper.",
+      "ar": "اكتب اسمك في أعلى الورقة."
+    },
+    {
+      "en": "I don't understand this question.",
+      "ar": "لا أفهم هذا السؤال."
+    },
+    {
+      "en": "When is the math exam?",
+      "ar": "متى امتحان الرياضيات؟"
+    },
+    {
+      "en": "Can I borrow a pencil?",
+      "ar": "هل يمكنني استعارة قلم رصاص؟"
+    }
+  ],
+  "story": {
+    "title": "Where Is My Homework?",
+    "text": "It is Monday morning. Adam puts on his school uniform and runs to school. The first lesson is math. Mr. Hassan, the teacher, walks into the classroom. \"Good morning, everyone. Open your notebooks, please. Put your homework on my desk.\" Adam opens his bag. He looks for his homework, but it isn't there. He feels very nervous. He raises his hand. \"Mr. Hassan, can I say something?\" \"Yes, Adam. What is it?\" \"I'm sorry. I can't find my homework. I did it, but I forgot it at home.\" The teacher looks at him. \"Don't worry, Adam. You can bring it tomorrow. But don't forget again. This homework is important for the test on Friday.\" Adam smiles. \"Thank you, Mr. Hassan. I can bring it tomorrow morning.\" At the break, Adam writes a note on his hand: \"Homework!\" He doesn't want a bad grade.",
+    "translation": "إنه صباح يوم الاثنين. يرتدي آدم زيّه المدرسي ويجري إلى المدرسة. الحصة الأولى رياضيات. يدخل الأستاذ حسن، المعلّم، إلى الفصل. «صباح الخير جميعاً. افتحوا كراساتكم من فضلكم. ضعوا واجباتكم على مكتبي.» يفتح آدم حقيبته. يبحث عن واجبه، لكنه ليس موجوداً. يشعر بالتوتر الشديد. يرفع يده. «أستاذ حسن، هل يمكنني أن أقول شيئاً؟» «نعم يا آدم. ما الأمر؟» «أنا آسف. لا أستطيع أن أجد واجبي. لقد حللته، لكنني نسيته في البيت.» ينظر إليه المعلّم. «لا تقلق يا آدم. يمكنك أن تحضره غداً. لكن لا تنسَ مرة أخرى. هذا الواجب مهم لاختبار يوم الجمعة.» يبتسم آدم. «شكراً يا أستاذ حسن. أستطيع أن أحضره صباح الغد.» في الفسحة، يكتب آدم ملاحظة على يده: «الواجب!» إنه لا يريد درجة سيئة."
+  },
+  "grammar": {
+    "title": "Imperatives & can / can't",
+    "explanationAr": "نستخدم صيغة الأمر (Imperative) لإعطاء تعليمات، وهي الفعل في أول الجملة بدون فاعل، مثل Open your books. وللنهي نضع Don't قبل الفعل، مثل Don't talk. نستخدم can لطلب الإذن مثل Can I go out? أو للتعبير عن القدرة مثل I can read English. ونستخدم can't للمنع أو لعدم القدرة، مثل You can't eat in the library. بعد can و can't يأتي الفعل في صيغته الأساسية دائماً.",
+    "rule": "Verb + ... (Open your notebook.)\nDon't + verb + ... (Don't run.)\nCan I + verb ...? (permission)\nI / You / He + can / can't + verb (ability or permission)",
+    "examples": [
+      {
+        "en": "Look at the board, please.",
+        "ar": "انظروا إلى السبّورة من فضلكم."
+      },
+      {
+        "en": "Don't write in your book. Use your notebook.",
+        "ar": "لا تكتب في كتابك. استخدم كراستك."
+      },
+      {
+        "en": "Can I go to the library?",
+        "ar": "هل يمكنني الذهاب إلى المكتبة؟"
+      },
+      {
+        "en": "You can't use a pen in this test.",
+        "ar": "لا يمكنك استخدام قلم حبر في هذا الاختبار."
+      },
+      {
+        "en": "My brother can solve difficult math problems.",
+        "ar": "أخي يستطيع حل مسائل رياضيات صعبة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Where do students borrow books at school?",
+      "options": [
+        "In the library",
+        "On the board",
+        "In the notebook",
+        "At the break"
+      ],
+      "answer": "In the library"
+    },
+    {
+      "type": "fill",
+      "sentence": "The teacher writes the new words on the ___.",
+      "answer": "board",
+      "hint": "السبّورة"
+    },
+    {
+      "type": "order",
+      "words": [
+        "I",
+        "the",
+        "Can",
+        "go",
+        "library?",
+        "to"
+      ],
+      "answer": "Can I go to the library?"
+    },
+    {
+      "type": "mcq",
+      "question": "___ talk during the exam!",
+      "options": [
+        "Can't",
+        "Don't",
+        "Not",
+        "No"
+      ],
+      "answer": "Don't"
+    },
+    {
+      "type": "fill",
+      "sentence": "I do my ___ at home every evening.",
+      "answer": "homework",
+      "hint": "واجب منزلي"
+    },
+    {
+      "type": "order",
+      "words": [
+        "notebooks,",
+        "your",
+        "Open",
+        "please."
+      ],
+      "answer": "Open your notebooks, please."
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a school subject?",
+      "options": [
+        "Uniform",
+        "Pencil",
+        "Science",
+        "Break"
+      ],
+      "answer": "Science"
+    },
+    {
+      "type": "listen",
+      "audioText": "You can't use your phone in class.",
+      "answer": "You can't use your phone in class."
+    }
+  ]
+}

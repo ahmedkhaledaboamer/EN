@@ -1,0 +1,107 @@
+{
+  "slug": "phone-internet",
+  "title": "Phone & Internet",
+  "titleAr": "الموبايل والإنترنت",
+  "emoji": "📱",
+  "level": "B1",
+  "description": "Solve phone and internet problems and talk to customer support.",
+  "descriptionAr": "حُلّ مشكلات الموبايل والإنترنت وتحدّث مع خدمة العملاء.",
+  "words": [
+    { "en": "signal", "ar": "إشارة (الشبكة)", "phonetic": "/ˈsɪɡnəl/", "example": "The signal is very weak in the basement." },
+    { "en": "network", "ar": "شبكة", "phonetic": "/ˈnɛtˌwərk/", "example": "Which mobile network do you use?" },
+    { "en": "data", "ar": "باقة الإنترنت / بيانات الموبايل", "phonetic": "/ˈdeɪtə/", "example": "I've used all my data for this month." },
+    { "en": "plan", "ar": "باقة / خطة اشتراك", "phonetic": "/plæn/", "example": "My new plan includes unlimited calls." },
+    { "en": "bill", "ar": "فاتورة", "phonetic": "/bɪl/", "example": "The phone bill arrives at the start of every month." },
+    { "en": "charger", "ar": "شاحن", "phonetic": "/ˈtʃɑrdʒər/", "example": "Can I borrow your charger?" },
+    { "en": "battery", "ar": "بطارية", "phonetic": "/ˈbætəri/", "example": "My battery is almost dead." },
+    { "en": "screen", "ar": "شاشة", "phonetic": "/skrin/", "example": "The screen is too dark to read." },
+    { "en": "crack", "ar": "شرخ / كسر (في الشاشة)", "phonetic": "/kræk/", "example": "There's a long crack in my phone screen." },
+    { "en": "update", "ar": "تحديث", "phonetic": "/ˈʌpˌdeɪt/", "example": "The new update fixed the problem." },
+    { "en": "download", "ar": "يحمّل / تنزيل", "phonetic": "/ˈdaʊnˌloʊd/", "example": "You can download the app for free." },
+    { "en": "app", "ar": "تطبيق", "phonetic": "/æp/", "example": "This app shows your bill and your data." },
+    { "en": "password", "ar": "كلمة السر / كلمة المرور", "phonetic": "/ˈpæsˌwərd/", "example": "What's the Wi-Fi password?" },
+    { "en": "router", "ar": "راوتر (جهاز الإنترنت)", "phonetic": "/ˈraʊtər/", "example": "The router is in the living room." },
+    { "en": "connection", "ar": "اتصال", "phonetic": "/kəˈnɛkʃən/", "example": "The internet connection keeps dropping." },
+    { "en": "slow", "ar": "بطيء", "phonetic": "/sloʊ/", "example": "The internet is really slow tonight." },
+    { "en": "restart", "ar": "يعيد التشغيل", "phonetic": "/riˈstɑrt/", "example": "Restart your phone and try again." },
+    { "en": "support", "ar": "الدعم الفني / المساعدة", "phonetic": "/səˈpɔrt/", "example": "I called support three times today." },
+    { "en": "technician", "ar": "فنّي", "phonetic": "/tɛkˈnɪʃən/", "example": "A technician will come to fix the line." },
+    { "en": "coverage", "ar": "تغطية (الشبكة)", "phonetic": "/ˈkʌvərɪdʒ/", "example": "There's no coverage in the mountains." }
+  ],
+  "sentences": [
+    { "en": "My internet has stopped working.", "ar": "توقف الإنترنت عندي عن العمل." },
+    { "en": "It stopped working yesterday evening.", "ar": "توقف عن العمل مساء أمس." },
+    { "en": "I have already restarted the router.", "ar": "لقد أعدت تشغيل الراوتر بالفعل." },
+    { "en": "I dropped my phone, and now the screen has a crack.", "ar": "أوقعت هاتفي، والآن في الشاشة شرخ." },
+    { "en": "I've forgotten my Wi-Fi password.", "ar": "لقد نسيت كلمة سر الواي فاي." },
+    { "en": "There's no signal in this area.", "ar": "لا توجد إشارة في هذه المنطقة." },
+    { "en": "My battery dies very quickly.", "ar": "بطارية هاتفي تنفد بسرعة كبيرة." },
+    { "en": "Can I change my data plan?", "ar": "هل يمكنني تغيير باقة الإنترنت الخاصة بي؟" },
+    { "en": "Why is my bill so high this month?", "ar": "لماذا فاتورتي مرتفعة جداً هذا الشهر؟" },
+    { "en": "When will the technician come?", "ar": "متى سيأتي الفني؟" }
+  ],
+  "story": {
+    "title": "Two Days Without Internet",
+    "text": "Tarek works from home, so the internet is very important to him. On Monday morning, his connection stopped working. He restarted the router three times, but nothing happened. On Tuesday, the internet was still down. Finally, he called customer support. \"Hello, my internet has been down for two days,\" he said. \"I have restarted the router many times.\" The support agent was polite. \"Have you checked the cables?\" she asked. \"Yes, I checked them yesterday,\" Tarek answered. \"And I haven't changed my password.\" The agent looked at his account. \"I see. There was an issue with our network in your area on Monday. We have fixed most of it, but your line still needs work.\" Tarek was not happy. \"My phone signal is weak too, and my mobile data is very slow.\" \"I'm sorry,\" she said. \"A technician will visit you tomorrow morning. And we'll take two days off your next bill.\" Tarek smiled for the first time in two days.",
+    "translation": "يعمل طارق من البيت، لذلك الإنترنت مهم جداً بالنسبة له. صباح يوم الاثنين، توقف الاتصال عن العمل. أعاد تشغيل الراوتر ثلاث مرات، لكن لم يحدث شيء. يوم الثلاثاء، كان الإنترنت لا يزال مقطوعاً. أخيراً، اتصل بخدمة العملاء. قال: «مرحباً، الإنترنت عندي مقطوع منذ يومين. لقد أعدت تشغيل الراوتر مرات كثيرة.» كانت موظفة الدعم مهذبة. سألت: «هل فحصت الكابلات؟» أجاب طارق: «نعم، فحصتها أمس. ولم أغيّر كلمة السر.» نظرت الموظفة إلى حسابه. «فهمت. حدث عطل في شبكتنا في منطقتك يوم الاثنين. لقد أصلحنا معظمه، لكن خطك لا يزال يحتاج إلى إصلاح.» لم يكن طارق سعيداً. «إشارة هاتفي ضعيفة أيضاً، وإنترنت الموبايل بطيء جداً.» قالت: «أنا آسفة. سيزورك فنّي صباح الغد. وسنخصم يومين من فاتورتك القادمة.» ابتسم طارق لأول مرة منذ يومين."
+  },
+  "grammar": {
+    "title": "Present perfect vs. past simple",
+    "explanationAr": "نستخدم المضارع التام (have/has + التصريف الثالث) عندما تهمنا نتيجة الحدث الآن دون ذكر وقت محدد، مثل: My phone has stopped working. ونستخدم الماضي البسيط عندما نذكر وقتاً محدداً انتهى، مثل yesterday و last week و on Monday، فنقول: It stopped yesterday. لا نستخدم المضارع التام مع كلمات الوقت المنتهي، فلا نقول: It has stopped yesterday. ومع for و since نستخدم المضارع التام لحدث مستمر حتى الآن، مثل: It has been slow since Monday.",
+    "rule": "Present perfect: have / has + past participle (no finished time)\n→ My internet has stopped working.\nPast simple: verb-ed / irregular past + finished time (yesterday, last week, on Monday)\n→ It stopped working yesterday.\nhas / have been + for / since → still true now",
+    "examples": [
+      { "en": "My phone has stopped working.", "ar": "توقف هاتفي عن العمل." },
+      { "en": "It stopped working last night.", "ar": "توقف عن العمل ليلة أمس." },
+      { "en": "I have downloaded the new update.", "ar": "لقد قمت بتنزيل التحديث الجديد." },
+      { "en": "I downloaded the app two days ago.", "ar": "نزّلت التطبيق منذ يومين." },
+      { "en": "The connection has been slow since Monday.", "ar": "الاتصال بطيء منذ يوم الاثنين." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Your phone's battery is empty. What do you need?",
+      "options": ["A router", "A password", "A charger", "A technician"],
+      "answer": "A charger"
+    },
+    {
+      "type": "fill",
+      "sentence": "The internet is very ___ today. The video takes forever to load.",
+      "answer": "slow",
+      "hint": "بطيء"
+    },
+    {
+      "type": "order",
+      "words": ["stopped", "internet", "working.", "My", "has"],
+      "answer": "My internet has stopped working."
+    },
+    {
+      "type": "mcq",
+      "question": "I ___ my phone yesterday, and now the screen is cracked.",
+      "options": ["dropped", "have dropped", "drop", "has dropped"],
+      "answer": "dropped"
+    },
+    {
+      "type": "fill",
+      "sentence": "Turn it off and on again. Please ___ the router.",
+      "answer": "restart",
+      "hint": "يعيد التشغيل"
+    },
+    {
+      "type": "order",
+      "words": ["app", "yesterday.", "I", "the", "downloaded"],
+      "answer": "I downloaded the app yesterday."
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": ["I have called support yesterday.", "I has called support yesterday.", "I calling support yesterday.", "I called support yesterday."],
+      "answer": "I called support yesterday."
+    },
+    {
+      "type": "listen",
+      "audioText": "There is no signal in my area.",
+      "answer": "There is no signal in my area."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "frequency-and-connectors",
+  "title": "Frequency & Connectors",
+  "titleAr": "ظروف التكرار وأدوات الربط",
+  "emoji": "🔗",
+  "level": "A1",
+  "intro": "ظروف التكرار بتقول إنت بتعمل الحاجة قد إيه: always (دايماً) لحد never (أبداً)، وبتيجي قبل الفعل الأساسي: I always drink tea. وأدوات الربط بتوصل الجمل ببعض: and (و)، but (بس)، because (عشان).",
+  "items": [
+    { "en": "always", "ar": "دائماً / على طول", "phonetic": "/ˈɔlweɪz/", "example": "I always drink coffee in the morning.", "exampleAr": "أنا دايماً بشرب قهوة الصبح." },
+    { "en": "usually", "ar": "عادةً", "phonetic": "/ˈjuʒuəli/", "example": "I usually take the metro to work.", "exampleAr": "عادةً باخد المترو للشغل." },
+    { "en": "often", "ar": "غالباً / كتير", "phonetic": "/ˈɔfən/", "example": "We often eat out on Friday.", "exampleAr": "كتير بناكل بره يوم الجمعة." },
+    { "en": "sometimes", "ar": "أحياناً / ساعات", "phonetic": "/ˈsʌmtaɪmz/", "example": "I sometimes work from home.", "exampleAr": "ساعات بشتغل من البيت." },
+    { "en": "rarely", "ar": "نادراً", "phonetic": "/ˈrɛrli/", "example": "She rarely watches TV.", "exampleAr": "هي نادراً ما بتتفرج على التليفزيون." },
+    { "en": "never", "ar": "أبداً / عمري ما", "phonetic": "/ˈnɛvər/", "example": "I never eat fast food.", "exampleAr": "عمري ما باكل أكل سريع." },
+    { "en": "and", "ar": "و", "phonetic": "/ænd/", "example": "I like tea and cake.", "exampleAr": "بحب الشاي والكيك." },
+    { "en": "but", "ar": "لكن / بس", "phonetic": "/bʌt/", "example": "The hotel is nice but expensive.", "exampleAr": "الفندق حلو بس غالي." },
+    { "en": "or", "ar": "أو / ولا (في السؤال)", "phonetic": "/ɔr/", "example": "Do you want tea or coffee?", "exampleAr": "تحب شاي ولا قهوة؟" },
+    { "en": "because", "ar": "لأن / عشان", "phonetic": "/bɪˈkɔz/", "example": "I'm tired because I worked late.", "exampleAr": "أنا تعبان عشان اشتغلت لحد متأخر." },
+    { "en": "so", "ar": "لذلك / فـ / عشان كده", "phonetic": "/soʊ/", "example": "It was raining, so I took a taxi.", "exampleAr": "كانت بتمطر، فأخدت تاكسي." },
+    { "en": "then", "ar": "ثم / بعدين", "phonetic": "/ðɛn/", "example": "I take a shower, then I eat breakfast.", "exampleAr": "باخد دش، وبعدين بفطر." },
+    { "en": "also", "ar": "أيضاً / كمان", "phonetic": "/ˈɔlsoʊ/", "example": "I speak English and I also speak French.", "exampleAr": "بتكلم إنجليزي وكمان بتكلم فرنساوي." }
+  ],
+  "table": {
+    "columns": ["Word", "How often", "Arabic"],
+    "rows": [
+      ["always", "100%", "دايماً"],
+      ["usually", "80%", "عادةً"],
+      ["often", "60%", "كتير"],
+      ["sometimes", "40%", "ساعات"],
+      ["rarely", "10%", "نادراً"],
+      ["never", "0%", "أبداً"]
+    ]
+  },
+  "tips": [
+    "ظرف التكرار قبل الفعل الأساسي (I always eat) لكن بعد am/is/are (I am always late).",
+    "never فيها نفي لوحدها: I never drink coffee مش I don't never drink.",
+    "because بييجي قبل السبب، و so بييجي قبل النتيجة."
+  ]
+}

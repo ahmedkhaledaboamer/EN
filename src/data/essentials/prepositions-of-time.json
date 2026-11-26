@@ -1,0 +1,37 @@
+{
+  "slug": "prepositions-of-time",
+  "title": "Prepositions of Time",
+  "titleAr": "حروف الجر للزمن",
+  "emoji": "⏳",
+  "level": "A1",
+  "intro": "أهم تلات حروف للوقت هما at و on و in. القاعدة سهلة: at للساعة والوقت المحدد، on للأيام والتواريخ، in للشهور والسنين والفصول وأجزاء اليوم. وفيه كلمات تانية زي before و after و for و ago.",
+  "items": [
+    { "en": "at", "ar": "في (مع الساعة والوقت المحدد)", "phonetic": "/æt/", "example": "The meeting starts at 9 o'clock.", "exampleAr": "الاجتماع بيبدأ الساعة تسعة." },
+    { "en": "on", "ar": "في (مع الأيام والتواريخ)", "phonetic": "/ɑn/", "example": "I'll see you on Friday.", "exampleAr": "هشوفك يوم الجمعة." },
+    { "en": "in", "ar": "في (مع الشهور والسنين والفصول)", "phonetic": "/ɪn/", "example": "I was born in 1995.", "exampleAr": "أنا اتولدت سنة 1995." },
+    { "en": "before", "ar": "قبل", "phonetic": "/bɪˈfɔr/", "example": "Wash your hands before dinner.", "exampleAr": "اغسل إيدك قبل العشا." },
+    { "en": "after", "ar": "بعد", "phonetic": "/ˈæftər/", "example": "Let's go out after work.", "exampleAr": "يلا نخرج بعد الشغل." },
+    { "en": "during", "ar": "أثناء / خلال", "phonetic": "/ˈdʊrɪŋ/", "example": "Please turn off your phone during the movie.", "exampleAr": "لو سمحت اقفل تليفونك أثناء الفيلم." },
+    { "en": "until", "ar": "حتى / لحد", "phonetic": "/ənˈtɪl/", "example": "The shop is open until 10 p.m.", "exampleAr": "المحل فاتح لحد الساعة عشرة بالليل." },
+    { "en": "since", "ar": "منذ (من نقطة بداية لحد دلوقتي)", "phonetic": "/sɪns/", "example": "I have lived here since 2020.", "exampleAr": "أنا ساكن هنا من سنة 2020." },
+    { "en": "for", "ar": "لمدة", "phonetic": "/fɔr/", "example": "I studied for two hours.", "exampleAr": "ذاكرت لمدة ساعتين." },
+    { "en": "ago", "ar": "مضى / من (في الماضي): من يومين", "phonetic": "/əˈɡoʊ/", "example": "I met him two years ago.", "exampleAr": "قابلته من سنتين." },
+    { "en": "by", "ar": "في موعد أقصاه / قبل", "phonetic": "/baɪ/", "example": "Please send the report by Monday.", "exampleAr": "لو سمحت ابعت التقرير قبل يوم الاتنين." },
+    { "en": "from", "ar": "من (بداية فترة)", "phonetic": "/frʌm/", "example": "I work from 9 to 5.", "exampleAr": "بشتغل من تسعة لخمسة." }
+  ],
+  "table": {
+    "columns": ["at", "on", "in"],
+    "rows": [
+      ["at 7 o'clock", "on Monday", "in May"],
+      ["at noon", "on May 5th", "in 2025"],
+      ["at night", "on my birthday", "in summer"],
+      ["at the moment", "on the weekend", "in the morning"]
+    ]
+  },
+  "tips": [
+    "for + مدة (for two hours)، و since + نقطة بداية (since Monday).",
+    "ago بتيجي بعد المدة: two days ago مش ago two days.",
+    "قول in the morning لكن at night.",
+    "ما تحطش حرف جر قبل today و tomorrow و next week و last year."
+  ]
+}

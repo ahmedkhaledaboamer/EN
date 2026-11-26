@@ -1,0 +1,215 @@
+{
+  "_readme": "Plan for 30 topics. Each entry gives metadata, ONE grammar focus, a story idea, and 20 core English words. Claude Code must expand each entry into a full topic JSON (same structure as supermarket.json): Arabic meanings, IPA phonetics, an example sentence per word, 10 sentences, a story with Arabic translation, a grammar section, and 8 exercises. The array is ordered as a learning path (easy to harder).",
+  "topics": [
+    {
+      "order": 2, "slug": "meeting-people", "title": "Meeting People", "titleAr": "التعارف", "emoji": "🤝", "level": "A1",
+      "description": "Introduce yourself, greet people, and make small talk.",
+      "grammarFocus": "Verb to be (am / is / are) in statements and questions",
+      "storyIdea": "Sam meets a new colleague on his first day and they introduce themselves.",
+      "keywords": ["hello", "nice to meet you", "name", "from", "country", "age", "job", "student", "friend", "neighbor", "colleague", "introduce", "welcome", "married", "single", "language", "speak", "live", "born", "hobby"]
+    },
+    {
+      "order": 3, "slug": "daily-routine", "title": "Daily Routine", "titleAr": "الروتين اليومي", "emoji": "⏰", "level": "A1",
+      "description": "Talk about what you do every day, from waking up to going to sleep.",
+      "grammarFocus": "Present simple (I wake up / he wakes up) and adverbs of frequency",
+      "storyIdea": "A day in the life of a busy programmer who loves coffee and hates Mondays.",
+      "keywords": ["wake up", "get up", "brush", "shower", "breakfast", "commute", "lunch", "dinner", "relax", "sleep", "alarm", "morning", "afternoon", "evening", "usually", "always", "sometimes", "never", "late", "early"]
+    },
+    {
+      "order": 4, "slug": "family-home", "title": "Family & Home", "titleAr": "العائلة والمنزل", "emoji": "🏠", "level": "A1",
+      "description": "Describe your family, your house, and the rooms in it.",
+      "grammarFocus": "There is / There are and prepositions of place (in, on, under, next to)",
+      "storyIdea": "A man describes his new house and family to a friend over the phone.",
+      "keywords": ["mother", "father", "brother", "sister", "parents", "grandfather", "uncle", "cousin", "bedroom", "bathroom", "living room", "kitchen", "door", "window", "sofa", "table", "chair", "garden", "floor", "roof"]
+    },
+    {
+      "order": 5, "slug": "coffee-shop", "title": "Coffee Shop", "titleAr": "الكافيه", "emoji": "☕", "level": "A1",
+      "description": "Order drinks and snacks politely and pay the bill.",
+      "grammarFocus": "Would like / Can I have ... ? for polite requests",
+      "storyIdea": "A shy customer tries to order a complicated coffee and the barista helps.",
+      "keywords": ["coffee", "tea", "latte", "espresso", "menu", "order", "cup", "sugar", "milk", "cake", "sandwich", "small", "medium", "large", "takeaway", "bill", "tip", "barista", "receipt", "change"]
+    },
+    {
+      "order": 6, "slug": "restaurant", "title": "Restaurant", "titleAr": "المطعم", "emoji": "🍽️", "level": "A1",
+      "description": "Book a table, order a meal, and ask for the bill.",
+      "grammarFocus": "Countable and uncountable nouns with some / any",
+      "storyIdea": "A family celebrates a birthday at a restaurant and the waiter forgets one dish.",
+      "keywords": ["waiter", "table", "reservation", "menu", "starter", "main course", "dessert", "drink", "water", "spicy", "delicious", "bill", "tip", "plate", "fork", "knife", "spoon", "napkin", "vegetarian", "allergic"]
+    },
+    {
+      "order": 7, "slug": "clothes-shopping", "title": "Clothes Shopping", "titleAr": "شراء الملابس", "emoji": "👕", "level": "A1",
+      "description": "Ask for sizes, try things on, and talk about prices.",
+      "grammarFocus": "How much / How many, this / that / these / those",
+      "storyIdea": "A man looks for a jacket for a wedding and finds the perfect size on sale.",
+      "keywords": ["shirt", "trousers", "jacket", "shoes", "dress", "size", "fitting room", "try on", "fit", "tight", "loose", "color", "price", "sale", "discount", "cheap", "expensive", "cash", "card", "refund"]
+    },
+    {
+      "order": 8, "slug": "school", "title": "School", "titleAr": "المدرسة", "emoji": "🎒", "level": "A1",
+      "description": "Talk about classes, teachers, homework, and exams.",
+      "grammarFocus": "Imperatives and can / can't for permission and ability",
+      "storyIdea": "A student forgets his homework and has to explain to the teacher.",
+      "keywords": ["teacher", "student", "classroom", "lesson", "homework", "exam", "subject", "math", "science", "history", "notebook", "pen", "pencil", "board", "break", "grade", "test", "library", "uniform", "schedule"]
+    },
+    {
+      "order": 9, "slug": "weather", "title": "Weather", "titleAr": "الطقس", "emoji": "🌦️", "level": "A1",
+      "description": "Describe the weather and make plans around it.",
+      "grammarFocus": "Present continuous (it is raining) vs present simple (it rains a lot)",
+      "storyIdea": "Two friends plan a picnic but the weather keeps changing.",
+      "keywords": ["sunny", "cloudy", "rainy", "windy", "snowy", "hot", "cold", "warm", "cool", "storm", "fog", "temperature", "degrees", "forecast", "umbrella", "season", "summer", "winter", "humid", "freezing"]
+    },
+    {
+      "order": 10, "slug": "directions", "title": "Asking for Directions", "titleAr": "السؤال عن الاتجاهات", "emoji": "🗺️", "level": "A1",
+      "description": "Ask for and give directions in a city.",
+      "grammarFocus": "Imperatives for directions and prepositions of movement",
+      "storyIdea": "A tourist gets lost looking for the train station and a kind local helps.",
+      "keywords": ["left", "right", "straight", "turn", "corner", "street", "crossroad", "traffic light", "roundabout", "bridge", "block", "near", "far", "opposite", "behind", "between", "map", "address", "lost", "landmark"]
+    },
+    {
+      "order": 11, "slug": "taxi", "title": "Taxi & Ride Apps", "titleAr": "التاكسي", "emoji": "🚕", "level": "A1",
+      "description": "Book a ride, give your destination, and pay the driver.",
+      "grammarFocus": "Can / Could for requests and Wh- questions",
+      "storyIdea": "A traveler takes a taxi to the airport in heavy traffic and worries about time.",
+      "keywords": ["taxi", "driver", "passenger", "ride", "destination", "pickup", "fare", "meter", "trunk", "seat belt", "traffic", "route", "stop", "wait", "airport", "luggage", "rating", "cancel", "receipt", "arrive"]
+    },
+    {
+      "order": 12, "slug": "gym-sports", "title": "Gym & Sports", "titleAr": "الرياضة", "emoji": "🏋️", "level": "A2",
+      "description": "Talk about exercise, sports, and staying healthy.",
+      "grammarFocus": "Comparatives and superlatives (faster, the strongest)",
+      "storyIdea": "A beginner joins a gym and compares himself to his stronger friend.",
+      "keywords": ["gym", "exercise", "workout", "weights", "treadmill", "trainer", "muscle", "stretch", "warm up", "run", "jump", "team", "match", "score", "win", "lose", "referee", "stadium", "stamina", "membership"]
+    },
+    {
+      "order": 13, "slug": "pharmacy", "title": "Pharmacy", "titleAr": "الصيدلية", "emoji": "💊", "level": "A2",
+      "description": "Describe symptoms and ask for medicine safely.",
+      "grammarFocus": "Should / shouldn't for advice",
+      "storyIdea": "A man with a bad cold asks the pharmacist what to take.",
+      "keywords": ["pharmacist", "medicine", "tablet", "syrup", "prescription", "dose", "pain", "headache", "fever", "cough", "cold", "allergy", "side effect", "bandage", "vitamin", "ointment", "painkiller", "symptom", "ill", "recover"]
+    },
+    {
+      "order": 14, "slug": "hospital", "title": "Hospital", "titleAr": "المستشفى", "emoji": "🏥", "level": "A2",
+      "description": "Describe how you feel, see a doctor, and understand instructions.",
+      "grammarFocus": "Have got / have + symptoms, and questions with How long ...?",
+      "storyIdea": "A woman goes to the emergency room with a high fever and talks to the doctor.",
+      "keywords": ["doctor", "nurse", "patient", "emergency", "appointment", "waiting room", "examine", "blood test", "x-ray", "injection", "surgery", "treatment", "diagnosis", "bed", "ward", "ambulance", "insurance", "chest", "stomach", "dizzy"]
+    },
+    {
+      "order": 15, "slug": "dentist", "title": "Dentist", "titleAr": "طبيب الأسنان", "emoji": "🦷", "level": "A2",
+      "description": "Explain tooth problems and understand treatment.",
+      "grammarFocus": "Past simple (regular and irregular verbs)",
+      "storyIdea": "A man avoids the dentist for two years, then finally goes after a toothache.",
+      "keywords": ["tooth", "teeth", "toothache", "cavity", "filling", "crown", "gum", "braces", "cleaning", "dentist", "drill", "numb", "mouthwash", "floss", "toothpaste", "bleeding", "swollen", "sensitive", "check-up", "extract"]
+    },
+    {
+      "order": 16, "slug": "vacation", "title": "Vacation", "titleAr": "الإجازة", "emoji": "🏖️", "level": "A2",
+      "description": "Plan a trip, talk about places, and share holiday stories.",
+      "grammarFocus": "Going to for plans and past simple for holiday stories",
+      "storyIdea": "A family plans and then enjoys a beach holiday, with one funny mishap.",
+      "keywords": ["vacation", "beach", "sea", "sand", "island", "mountain", "tour", "guide", "souvenir", "camera", "sightseeing", "adventure", "trip", "passport", "visa", "backpack", "tent", "sunscreen", "relax", "memories"]
+    },
+    {
+      "order": 17, "slug": "hotel", "title": "Hotel", "titleAr": "الفندق", "emoji": "🏨", "level": "A2",
+      "description": "Book a room, check in, and solve problems during your stay.",
+      "grammarFocus": "Present continuous for arrangements and polite complaints",
+      "storyIdea": "A guest checks in late and finds the air conditioner broken.",
+      "keywords": ["reception", "reservation", "check in", "check out", "single room", "double room", "key card", "floor", "elevator", "breakfast", "towel", "Wi-Fi", "view", "balcony", "service", "complaint", "noisy", "luggage", "available", "deposit"]
+    },
+    {
+      "order": 18, "slug": "airport", "title": "Airport", "titleAr": "المطار", "emoji": "✈️", "level": "A2",
+      "description": "Check in, pass security, and board your flight.",
+      "grammarFocus": "Must / have to / don't have to for rules",
+      "storyIdea": "A traveler rushes through security and almost misses his boarding call.",
+      "keywords": ["flight", "ticket", "boarding pass", "gate", "terminal", "check-in", "security", "customs", "passport control", "luggage", "carry-on", "delay", "departure", "arrival", "seat", "aisle seat", "window seat", "pilot", "cabin crew", "take off"]
+    },
+    {
+      "order": 19, "slug": "public-transport", "title": "Public Transport", "titleAr": "المواصلات العامة", "emoji": "🚇", "level": "A2",
+      "description": "Use buses, trains, and metro, and ask about schedules.",
+      "grammarFocus": "Prepositions of time and transport (at 8, by bus, on the train)",
+      "storyIdea": "A new city resident learns the metro system and takes the wrong line once.",
+      "keywords": ["bus", "metro", "train", "station", "platform", "ticket", "single", "return", "timetable", "route", "line", "transfer", "stop", "driver", "crowded", "rush hour", "seat", "fare", "schedule", "miss"]
+    },
+    {
+      "order": 20, "slug": "cooking", "title": "Cooking at Home", "titleAr": "الطبخ في البيت", "emoji": "🍳", "level": "A2",
+      "description": "Follow a recipe and talk about ingredients and steps.",
+      "grammarFocus": "Sequence words and imperatives for recipes (first, then, after that)",
+      "storyIdea": "A beginner cooks dinner for his friends following a recipe and nearly burns the rice.",
+      "keywords": ["recipe", "ingredient", "chop", "slice", "boil", "fry", "bake", "stir", "pour", "mix", "pan", "pot", "oven", "stove", "spice", "salt", "pepper", "oil", "taste", "serve"]
+    },
+    {
+      "order": 21, "slug": "barber-salon", "title": "Barber & Salon", "titleAr": "الحلاق والصالون", "emoji": "💈", "level": "A2",
+      "description": "Explain what you want and describe your appearance.",
+      "grammarFocus": "Have something done (I want to have my hair cut) and adjectives of appearance",
+      "storyIdea": "A man asks for a small trim and the barber cuts it way too short.",
+      "keywords": ["haircut", "trim", "shave", "beard", "mustache", "scissors", "razor", "comb", "shampoo", "style", "short", "long", "layers", "fade", "appointment", "mirror", "wax", "dye", "gel", "neat"]
+    },
+    {
+      "order": 22, "slug": "party", "title": "Party & Celebrations", "titleAr": "الحفلات والمناسبات", "emoji": "🎉", "level": "A2",
+      "description": "Invite people, accept or decline, and enjoy celebrations.",
+      "grammarFocus": "Will / won't for offers and spontaneous decisions",
+      "storyIdea": "Friends plan a surprise birthday party, but the guest of honor arrives early.",
+      "keywords": ["party", "invite", "invitation", "guest", "host", "birthday", "gift", "cake", "candle", "balloon", "music", "dance", "wedding", "congratulations", "celebrate", "decorations", "surprise", "toast", "cheers", "RSVP"]
+    },
+    {
+      "order": 23, "slug": "movies", "title": "Movies & Entertainment", "titleAr": "الأفلام والترفيه", "emoji": "🎬", "level": "A2",
+      "description": "Talk about films, series, and what you like to watch.",
+      "grammarFocus": "Like / love / hate + -ing and giving opinions",
+      "storyIdea": "Two friends argue about which movie to watch and compromise at the cinema.",
+      "keywords": ["movie", "cinema", "ticket", "screen", "popcorn", "actor", "actress", "director", "plot", "scene", "series", "episode", "trailer", "comedy", "horror", "action", "subtitles", "review", "rating", "sequel"]
+    },
+    {
+      "order": 24, "slug": "bank", "title": "Bank", "titleAr": "البنك", "emoji": "🏦", "level": "B1",
+      "description": "Open an account, transfer money, and solve card problems.",
+      "grammarFocus": "Present perfect (I have lost my card / Have you ever ...?)",
+      "storyIdea": "A customer loses his bank card abroad and calls the bank for help.",
+      "keywords": ["account", "balance", "deposit", "withdraw", "transfer", "ATM", "card", "PIN", "loan", "interest", "savings", "statement", "cashier", "branch", "fee", "currency", "exchange rate", "overdraft", "fraud", "sign"]
+    },
+    {
+      "order": 25, "slug": "phone-internet", "title": "Phone & Internet", "titleAr": "الموبايل والإنترنت", "emoji": "📱", "level": "B1",
+      "description": "Solve phone and internet problems and talk to customer support.",
+      "grammarFocus": "Present perfect vs past simple (It has stopped working / It stopped yesterday)",
+      "storyIdea": "A man calls customer support because his internet has been down for two days.",
+      "keywords": ["signal", "network", "data", "plan", "bill", "charger", "battery", "screen", "crack", "update", "download", "app", "password", "router", "connection", "slow", "restart", "support", "technician", "coverage"]
+    },
+    {
+      "order": 26, "slug": "online-shopping", "title": "Online Shopping", "titleAr": "التسوق أونلاين", "emoji": "🛍️", "level": "B1",
+      "description": "Order online, track a delivery, and return items.",
+      "grammarFocus": "Passive voice (The package was delivered / will be shipped)",
+      "storyIdea": "A customer receives the wrong item and goes through the return process.",
+      "keywords": ["order", "cart", "checkout", "delivery", "shipping", "tracking", "package", "courier", "discount code", "review", "return", "refund", "exchange", "warranty", "damaged", "out of stock", "wishlist", "payment", "invoice", "customer service"]
+    },
+    {
+      "order": 27, "slug": "office-work", "title": "Office Work", "titleAr": "الشغل في المكتب", "emoji": "🖥️", "level": "B1",
+      "description": "Handle meetings, emails, deadlines, and teamwork.",
+      "grammarFocus": "First conditional (If we finish early, we will ...) and workplace requests",
+      "storyIdea": "A team races to meet a deadline and a surprise meeting changes everything.",
+      "keywords": ["meeting", "deadline", "manager", "colleague", "task", "project", "report", "schedule", "agenda", "presentation", "email", "attachment", "feedback", "promotion", "salary", "overtime", "teamwork", "client", "priority", "follow up"]
+    },
+    {
+      "order": 28, "slug": "developer-workday", "title": "A Developer's Day", "titleAr": "يوم مبرمج", "emoji": "💻", "level": "B1",
+      "description": "English for stand-ups, code reviews, bugs, and deployments.",
+      "grammarFocus": "Present perfect continuous and giving status updates (I've been working on ...)",
+      "storyIdea": "A developer fixes a critical bug before release and explains it in the stand-up.",
+      "keywords": ["bug", "feature", "deploy", "release", "pull request", "code review", "merge", "branch", "commit", "stand-up", "sprint", "ticket", "backlog", "refactor", "documentation", "testing", "production", "rollback", "blocker", "estimate"]
+    },
+    {
+      "order": 29, "slug": "job-interview", "title": "Job Interview", "titleAr": "مقابلة العمل", "emoji": "💼", "level": "B1",
+      "description": "Answer common interview questions with confidence.",
+      "grammarFocus": "Second conditional (If I got the job, I would ...) and talking about experience",
+      "storyIdea": "A candidate prepares for his dream job interview and answers a tough question.",
+      "keywords": ["interview", "resume", "candidate", "position", "experience", "skills", "strength", "weakness", "qualification", "reference", "salary", "benefits", "full-time", "part-time", "hire", "apply", "responsibility", "achievement", "career", "motivated"]
+    },
+    {
+      "order": 30, "slug": "renting-apartment", "title": "Renting an Apartment", "titleAr": "إيجار شقة", "emoji": "🔑", "level": "B1",
+      "description": "Talk to landlords, ask about rent, and understand contracts.",
+      "grammarFocus": "Used to / would, and relative clauses (the flat that I saw)",
+      "storyIdea": "A young man searches for his first apartment and negotiates with the landlord.",
+      "keywords": ["landlord", "tenant", "rent", "lease", "contract", "deposit", "furnished", "utilities", "neighborhood", "floor", "elevator", "parking", "maintenance", "notice", "move in", "move out", "roommate", "viewing", "negotiate", "agreement"]
+    },
+    {
+      "order": 31, "slug": "police-emergency", "title": "Emergencies & Police", "titleAr": "الطوارئ والشرطة", "emoji": "🚨", "level": "B1",
+      "description": "Report problems and ask for urgent help calmly.",
+      "grammarFocus": "Past continuous vs past simple (I was walking when I saw ...)",
+      "storyIdea": "A man's bag is stolen and he reports it to the police step by step.",
+      "keywords": ["emergency", "police", "ambulance", "fire", "accident", "witness", "report", "stolen", "thief", "injured", "danger", "help", "suspect", "statement", "lost", "missing", "crime", "safe", "evidence", "describe"]
+    }
+  ]
+}

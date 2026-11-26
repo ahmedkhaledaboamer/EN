@@ -1,0 +1,44 @@
+{
+  "slug": "body-parts",
+  "title": "Parts of the Body",
+  "titleAr": "أجزاء الجسم",
+  "emoji": "🧍",
+  "level": "A1",
+  "intro": "أجزاء الجسم مهمة جداً عند الدكتور أو الصيدلية. بنستخدم معاها كلمات الملكية: my head (راسي)، his hand (إيده). وعشان تقول إن حاجة بتوجعك قول: My ... hurts.",
+  "items": [
+    { "en": "head", "ar": "رأس / راس", "phonetic": "/hɛd/", "example": "My head hurts.", "exampleAr": "راسي بتوجعني." },
+    { "en": "hair", "ar": "شعر", "phonetic": "/hɛr/", "example": "She has long hair.", "exampleAr": "شعرها طويل." },
+    { "en": "face", "ar": "وجه / وش", "phonetic": "/feɪs/", "example": "Wash your face with cold water.", "exampleAr": "اغسل وشك بمية ساقعة." },
+    { "en": "eye", "ar": "عين", "phonetic": "/aɪ/", "example": "I have something in my eye.", "exampleAr": "فيه حاجة في عيني." },
+    { "en": "ear", "ar": "أذن / ودن", "phonetic": "/ɪr/", "example": "My left ear hurts.", "exampleAr": "ودني الشمال بتوجعني." },
+    { "en": "nose", "ar": "أنف / مناخير", "phonetic": "/noʊz/", "example": "I have a runny nose.", "exampleAr": "مناخيري بترشح." },
+    { "en": "mouth", "ar": "فم / بُق", "phonetic": "/maʊθ/", "example": "Open your mouth, please.", "exampleAr": "افتح بُقك لو سمحت." },
+    { "en": "tooth", "ar": "سِن / ضرس", "phonetic": "/tuθ/", "example": "I broke a tooth.", "exampleAr": "سِني اتكسرت." },
+    { "en": "neck", "ar": "رقبة", "phonetic": "/nɛk/", "example": "My neck is stiff.", "exampleAr": "رقبتي متخشبة." },
+    { "en": "shoulder", "ar": "كتف", "phonetic": "/ˈʃoʊldər/", "example": "He put his bag on his shoulder.", "exampleAr": "حط شنطته على كتفه." },
+    { "en": "arm", "ar": "ذراع / دراع", "phonetic": "/ɑrm/", "example": "He broke his arm.", "exampleAr": "دراعه اتكسر." },
+    { "en": "hand", "ar": "يد / إيد", "phonetic": "/hænd/", "example": "Raise your hand if you have a question.", "exampleAr": "ارفع إيدك لو عندك سؤال." },
+    { "en": "finger", "ar": "إصبع / صباع", "phonetic": "/ˈfɪŋɡər/", "example": "I cut my finger.", "exampleAr": "صباعي اتعور." },
+    { "en": "back", "ar": "ظهر / ضهر", "phonetic": "/bæk/", "example": "I have a pain in my back.", "exampleAr": "عندي وجع في ضهري." },
+    { "en": "stomach", "ar": "معدة / بطن", "phonetic": "/ˈstʌmək/", "example": "My stomach hurts after lunch.", "exampleAr": "بطني بتوجعني بعد الغدا." },
+    { "en": "leg", "ar": "ساق / رِجل (من الورك للقدم)", "phonetic": "/lɛɡ/", "example": "He hurt his leg playing football.", "exampleAr": "رجله اتعورت وهو بيلعب كورة." },
+    { "en": "knee", "ar": "ركبة", "phonetic": "/ni/", "example": "My knee hurts when I run.", "exampleAr": "ركبتي بتوجعني لما بجري." },
+    { "en": "foot", "ar": "قدم / رِجل (من تحت)", "phonetic": "/fʊt/", "example": "My right foot is swollen.", "exampleAr": "رجلي اليمين وارمة." }
+  ],
+  "table": {
+    "columns": ["Singular", "Plural", "Arabic"],
+    "rows": [
+      ["eye", "eyes", "عين / عينين"],
+      ["ear", "ears", "ودن / ودان"],
+      ["hand", "hands", "إيد / إيدين"],
+      ["tooth", "teeth", "سِنة / سنان"],
+      ["foot", "feet", "رِجل / رجلين"]
+    ]
+  },
+  "tips": [
+    "tooth جمعها teeth، و foot جمعها feet (مش tooths و foots).",
+    "hair غالباً غير معدود: She has long hair مش long hairs.",
+    "استخدم my/your/his مع أجزاء الجسم: My head hurts مش The head hurts.",
+    "في العامية رِجل بتتقال لـ leg و foot، لكن في الإنجليزي leg من الورك للكعب، و foot القدم بس."
+  ]
+}

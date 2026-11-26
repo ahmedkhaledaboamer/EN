@@ -1,0 +1,28 @@
+{
+  "slug": "demonstratives",
+  "title": "This, That, These, Those",
+  "titleAr": "أسماء الإشارة",
+  "emoji": "👉",
+  "level": "A1",
+  "intro": "this و these للحاجة القريبة منك، و that و those للحاجة البعيدة. this و that للمفرد، و these و those للجمع. في المصري بنقول ده ودي ودول للقريب والبعيد، لكن الإنجليزي بيفرق.",
+  "items": [
+    { "en": "this", "ar": "هذا / هذه (قريب، مفرد) — ده / دي", "phonetic": "/ðɪs/", "example": "This is my friend Ali.", "exampleAr": "ده صاحبي علي." },
+    { "en": "that", "ar": "ذلك / تلك (بعيد، مفرد) — ده / دي اللي هناك", "phonetic": "/ðæt/", "example": "Look at that building!", "exampleAr": "بص على العمارة اللي هناك دي!" },
+    { "en": "these", "ar": "هؤلاء / هذه (قريب، جمع) — دول", "phonetic": "/ðiz/", "example": "These shoes are new.", "exampleAr": "الجزمة دي جديدة." },
+    { "en": "those", "ar": "أولئك / تلك (بعيد، جمع) — دول اللي هناك", "phonetic": "/ðoʊz/", "example": "Who are those people?", "exampleAr": "مين الناس اللي هناك دول؟" },
+    { "en": "here", "ar": "هنا", "phonetic": "/hɪr/", "example": "Come here, please.", "exampleAr": "تعالى هنا لو سمحت." },
+    { "en": "there", "ar": "هناك", "phonetic": "/ðɛr/", "example": "Put the box over there.", "exampleAr": "حط الكرتونة هناك." }
+  ],
+  "table": {
+    "columns": ["Number", "Near (here)", "Far (there)"],
+    "rows": [
+      ["Singular", "this", "that"],
+      ["Plural", "these", "those"]
+    ]
+  },
+  "tips": [
+    "مع الجمع استخدم these و those: these books مش this books.",
+    "this بتتنطق بـ i قصيرة (ذِس)، و these بـ i طويلة (ذيييز).",
+    "في التليفون بنقول This is Ahmed (أنا أحمد) مش I am Ahmed."
+  ]
+}

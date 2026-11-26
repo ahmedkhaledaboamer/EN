@@ -1,0 +1,107 @@
+{
+  "slug": "movies",
+  "title": "Movies & Entertainment",
+  "titleAr": "الأفلام والترفيه",
+  "emoji": "🎬",
+  "level": "A2",
+  "description": "Talk about films, series, and what you like to watch.",
+  "descriptionAr": "تحدّث عن الأفلام والمسلسلات وما تحب مشاهدته.",
+  "words": [
+    { "en": "movie", "ar": "فيلم", "phonetic": "/ˈmuvi/", "example": "Let's watch a movie tonight." },
+    { "en": "cinema", "ar": "سينما / دار عرض", "phonetic": "/ˈsɪnəmə/", "example": "The cinema is near my house." },
+    { "en": "ticket", "ar": "تذكرة", "phonetic": "/ˈtɪkɪt/", "example": "One ticket costs ten dollars." },
+    { "en": "screen", "ar": "شاشة", "phonetic": "/skrin/", "example": "The screen in this cinema is very big." },
+    { "en": "popcorn", "ar": "فشار", "phonetic": "/ˈpɑpˌkɔrn/", "example": "I always eat popcorn at the movies." },
+    { "en": "actor", "ar": "ممثل", "phonetic": "/ˈæktər/", "example": "He is my favorite actor." },
+    { "en": "actress", "ar": "ممثلة", "phonetic": "/ˈæktrəs/", "example": "The actress won a big prize." },
+    { "en": "director", "ar": "مخرج", "phonetic": "/dəˈrɛktər/", "example": "The director makes one movie every year." },
+    { "en": "plot", "ar": "قصة الفيلم / الحبكة", "phonetic": "/plɑt/", "example": "The plot is very easy to understand." },
+    { "en": "scene", "ar": "مشهد", "phonetic": "/sin/", "example": "The last scene is very sad." },
+    { "en": "series", "ar": "مسلسل", "phonetic": "/ˈsɪriz/", "example": "I'm watching a new Turkish series." },
+    { "en": "episode", "ar": "حلقة", "phonetic": "/ˈɛpəˌsoʊd/", "example": "I watch one episode every night." },
+    { "en": "trailer", "ar": "إعلان الفيلم (تريلر)", "phonetic": "/ˈtreɪlər/", "example": "The trailer looks really exciting." },
+    { "en": "comedy", "ar": "كوميديا / فيلم كوميدي", "phonetic": "/ˈkɑmədi/", "example": "This comedy is so funny." },
+    { "en": "horror", "ar": "رعب", "phonetic": "/ˈhɔrər/", "example": "My little brother is scared of horror movies." },
+    { "en": "action", "ar": "أكشن / حركة", "phonetic": "/ˈækʃən/", "example": "There are a lot of car chases in action movies." },
+    { "en": "subtitles", "ar": "الترجمة (المكتوبة على الشاشة)", "phonetic": "/ˈsʌbˌtaɪtəlz/", "example": "I watch English movies with Arabic subtitles." },
+    { "en": "review", "ar": "مراجعة / نقد (للفيلم)", "phonetic": "/rɪˈvju/", "example": "I read a good review of this movie." },
+    { "en": "rating", "ar": "تقييم", "phonetic": "/ˈreɪtɪŋ/", "example": "The movie has a rating of eight out of ten." },
+    { "en": "sequel", "ar": "الجزء الثاني (تكملة الفيلم)", "phonetic": "/ˈsikwəl/", "example": "The sequel comes out next year." }
+  ],
+  "sentences": [
+    { "en": "What kind of movies do you like?", "ar": "أي نوع من الأفلام تحب؟" },
+    { "en": "I love watching comedies.", "ar": "أحب مشاهدة الأفلام الكوميدية كثيراً." },
+    { "en": "I hate watching horror movies alone.", "ar": "أكره مشاهدة أفلام الرعب وحدي." },
+    { "en": "Two tickets for the seven o'clock show, please.", "ar": "تذكرتان لعرض الساعة السابعة من فضلك." },
+    { "en": "Do you like watching series at home?", "ar": "هل تحب مشاهدة المسلسلات في البيت؟" },
+    { "en": "In my opinion, the plot was boring.", "ar": "في رأيي، كانت قصة الفيلم مملة." },
+    { "en": "I think the actor was excellent.", "ar": "أعتقد أن الممثل كان ممتازاً." },
+    { "en": "Can we watch it with subtitles?", "ar": "هل يمكننا مشاهدته مع الترجمة؟" },
+    { "en": "She doesn't like waiting in long lines.", "ar": "هي لا تحب الانتظار في الطوابير الطويلة." },
+    { "en": "Did you like the movie?", "ar": "هل أعجبك الفيلم؟" }
+  ],
+  "story": {
+    "title": "Comedy or Action?",
+    "text": "Adam and Nour want to see a movie on Saturday. Adam loves watching action movies. \"Let's see the new action movie,\" he says. \"The trailer is amazing!\" But Nour hates watching action movies. \"They're too loud,\" she says. \"I like watching comedies.\" Adam doesn't enjoy comedies, and Nour is afraid of horror movies. They check the reviews on Adam's phone. One movie has a great rating. It's a comedy with a lot of action. \"It's the sequel to a movie we both liked,\" Nour says. \"Perfect!\" Adam answers. At the cinema, they buy two tickets and a big bag of popcorn. The screen is huge. The plot is funny and exciting. The actor is very good, and the actress is fantastic. In one scene, everyone in the cinema laughs. After the movie, Adam says, \"I really enjoyed that!\" Nour smiles. \"See? Sometimes we can both be happy.\"",
+    "translation": "يريد آدم ونور مشاهدة فيلم يوم السبت. آدم يحب كثيراً مشاهدة أفلام الأكشن. يقول: «لنشاهد فيلم الأكشن الجديد. إعلانه رائع!» لكن نور تكره مشاهدة أفلام الأكشن. تقول: «إنها صاخبة جداً. أنا أحب مشاهدة الأفلام الكوميدية.» آدم لا يستمتع بالأفلام الكوميدية، ونور تخاف من أفلام الرعب. يتصفحان المراجعات على هاتف آدم. أحد الأفلام له تقييم رائع. إنه فيلم كوميدي فيه الكثير من الأكشن. تقول نور: «إنه الجزء الثاني من فيلم أعجبنا نحن الاثنين.» يجيب آدم: «ممتاز!» في السينما، يشتريان تذكرتين وكيساً كبيراً من الفشار. الشاشة ضخمة. قصة الفيلم مضحكة ومثيرة. الممثل جيد جداً، والممثلة رائعة. في أحد المشاهد، يضحك كل من في السينما. بعد الفيلم، يقول آدم: «لقد استمتعت به حقاً!» تبتسم نور. «أرأيت؟ أحياناً يمكن أن نكون سعيدين نحن الاثنين.»"
+  },
+  "grammar": {
+    "title": "Like / love / hate + -ing",
+    "explanationAr": "نستخدم الأفعال like و love و hate لنقول ما نحبه أو نكرهه. بعد هذه الأفعال نضع الفعل مع ing، مثل: I love watching movies. وللنفي نستخدم don't أو doesn't، مثل: She doesn't like reading subtitles. ولإبداء رأينا نقول I think أو In my opinion، مثل: I think the plot is boring.",
+    "rule": "I / You / We / They + love / like / hate + verb-ing\nHe / She + loves / likes / hates + verb-ing\nI don't like / She doesn't like + verb-ing\nOpinions: I think ... / In my opinion, ...",
+    "examples": [
+      { "en": "I love watching action movies.", "ar": "أحب كثيراً مشاهدة أفلام الأكشن." },
+      { "en": "My sister hates watching horror movies.", "ar": "أختي تكره مشاهدة أفلام الرعب." },
+      { "en": "He doesn't like reading subtitles.", "ar": "هو لا يحب قراءة الترجمة." },
+      { "en": "We like eating popcorn at the cinema.", "ar": "نحب أكل الفشار في السينما." },
+      { "en": "I think the sequel is better than the first movie.", "ar": "أعتقد أن الجزء الثاني أفضل من الفيلم الأول." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "A funny movie is a ___.",
+      "options": ["horror movie", "comedy", "trailer", "sequel"],
+      "answer": "comedy"
+    },
+    {
+      "type": "fill",
+      "sentence": "I don't understand English well, so I watch movies with Arabic ___.",
+      "answer": "subtitles",
+      "hint": "الترجمة"
+    },
+    {
+      "type": "order",
+      "words": ["movies.", "love", "horror", "I", "watching"],
+      "answer": "I love watching horror movies."
+    },
+    {
+      "type": "mcq",
+      "question": "My brother hates ___ in long lines.",
+      "options": ["wait", "waits", "waited", "waiting"],
+      "answer": "waiting"
+    },
+    {
+      "type": "fill",
+      "sentence": "This series has ten ___. I watch one every night.",
+      "answer": "episodes",
+      "hint": "حلقات"
+    },
+    {
+      "type": "order",
+      "words": ["comedies?", "like", "Do", "watching", "you"],
+      "answer": "Do you like watching comedies?"
+    },
+    {
+      "type": "mcq",
+      "question": "The person who tells the actors what to do is the ___.",
+      "options": ["director", "actress", "cashier", "guest"],
+      "answer": "director"
+    },
+    {
+      "type": "listen",
+      "audioText": "I think the plot was very good.",
+      "answer": "I think the plot was very good."
+    }
+  ]
+}

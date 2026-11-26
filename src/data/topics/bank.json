@@ -1,0 +1,107 @@
+{
+  "slug": "bank",
+  "title": "Bank",
+  "titleAr": "البنك",
+  "emoji": "🏦",
+  "level": "B1",
+  "description": "Open an account, transfer money, and solve card problems.",
+  "descriptionAr": "افتح حساباً، وحوّل الأموال، وحُلّ مشكلات البطاقة البنكية.",
+  "words": [
+    { "en": "account", "ar": "حساب (بنكي)", "phonetic": "/əˈkaʊnt/", "example": "I'd like to open a bank account." },
+    { "en": "balance", "ar": "الرصيد", "phonetic": "/ˈbæləns/", "example": "I check my balance on the app every week." },
+    { "en": "deposit", "ar": "يودِع / إيداع", "phonetic": "/dɪˈpɑzɪt/", "example": "I want to deposit this check, please." },
+    { "en": "withdraw", "ar": "يسحب (نقوداً)", "phonetic": "/wɪðˈdrɔ/", "example": "How much can I withdraw in one day?" },
+    { "en": "transfer", "ar": "تحويل (أموال)", "phonetic": "/ˈtrænsfər/", "example": "The transfer usually takes two working days." },
+    { "en": "ATM", "ar": "ماكينة الصرف الآلي / الصرّاف الآلي", "phonetic": "/ˌeɪ ti ˈɛm/", "example": "Is there an ATM near here?" },
+    { "en": "card", "ar": "بطاقة (بنكية)", "phonetic": "/kɑrd/", "example": "My new card will arrive by mail." },
+    { "en": "PIN", "ar": "الرقم السري (للبطاقة)", "phonetic": "/pɪn/", "example": "Never tell anyone your PIN." },
+    { "en": "loan", "ar": "قرض", "phonetic": "/loʊn/", "example": "They took a loan to buy a car." },
+    { "en": "interest", "ar": "فائدة (بنكية)", "phonetic": "/ˈɪntrəst/", "example": "The interest on this loan is very high." },
+    { "en": "savings", "ar": "مدخرات / توفير", "phonetic": "/ˈseɪvɪŋz/", "example": "She keeps her savings in a separate account." },
+    { "en": "statement", "ar": "كشف حساب", "phonetic": "/ˈsteɪtmənt/", "example": "My monthly statement shows every payment." },
+    { "en": "cashier", "ar": "صرّاف / أمين الصندوق", "phonetic": "/kæˈʃɪr/", "example": "The cashier counted the money twice." },
+    { "en": "branch", "ar": "فرع (البنك)", "phonetic": "/bræntʃ/", "example": "The bank has a branch in every city." },
+    { "en": "fee", "ar": "رسوم", "phonetic": "/fi/", "example": "There is a small fee for using another bank's ATM." },
+    { "en": "currency", "ar": "عملة", "phonetic": "/ˈkərənsi/", "example": "The euro is the currency of Spain." },
+    { "en": "exchange rate", "ar": "سعر الصرف", "phonetic": "/ɪksˈtʃeɪndʒ reɪt/", "example": "The exchange rate changes every day." },
+    { "en": "overdraft", "ar": "سحب على المكشوف (السحب بأكثر من الرصيد)", "phonetic": "/ˈoʊvərˌdræft/", "example": "I don't want to use my overdraft this month." },
+    { "en": "fraud", "ar": "احتيال / نصب", "phonetic": "/frɔd/", "example": "Call the bank immediately if you think it's fraud." },
+    { "en": "sign", "ar": "يوقّع", "phonetic": "/saɪn/", "example": "Please sign here at the bottom of the form." }
+  ],
+  "sentences": [
+    { "en": "I'd like to open a savings account.", "ar": "أود فتح حساب توفير." },
+    { "en": "I have lost my bank card.", "ar": "لقد فقدت بطاقتي البنكية." },
+    { "en": "The ATM has kept my card.", "ar": "ماكينة الصرف احتجزت بطاقتي." },
+    { "en": "I've forgotten my PIN.", "ar": "لقد نسيت رقمي السري." },
+    { "en": "Has my transfer arrived yet?", "ar": "هل وصل التحويل الخاص بي بعد؟" },
+    { "en": "What's the exchange rate for dollars today?", "ar": "ما سعر صرف الدولار اليوم؟" },
+    { "en": "I think someone has used my card without permission.", "ar": "أعتقد أن شخصاً ما استخدم بطاقتي دون إذن." },
+    { "en": "Is there a fee for this transfer?", "ar": "هل توجد رسوم على هذا التحويل؟" },
+    { "en": "Could I have a copy of my bank statement?", "ar": "هل يمكنني الحصول على نسخة من كشف حسابي؟" },
+    { "en": "Have you ever taken a loan from a bank?", "ar": "هل سبق لك أن أخذت قرضاً من بنك؟" }
+  ],
+  "story": {
+    "title": "A Lost Card in Spain",
+    "text": "Hassan is on vacation in Spain. One evening, he goes to an ATM to withdraw some money, but he can't find his bank card. He checks his wallet and his bag twice. Then he calls his bank. \"Good evening,\" says the woman on the phone. \"How can I help you?\" \"I think I've lost my card,\" Hassan says. \"I've looked everywhere, but I can't find it.\" The woman asks for his account number and checks his statement. \"Has anyone used my card today?\" Hassan asks nervously. \"Someone has tried to pay three hundred euros at a shop,\" she says. \"But we have stopped the payment. It looks like fraud.\" Hassan feels relieved. \"I have blocked your card,\" she continues. \"Your balance is safe.\" \"Can I get money now?\" he asks. \"Yes. You can go to our partner branch in Madrid tomorrow. The cashier will give you cash. There will be a small fee, and we'll use today's exchange rate.\" \"Thank you so much,\" says Hassan. \"You've really helped me.\"",
+    "translation": "حسن في إجازة في إسبانيا. في إحدى الأمسيات، يذهب إلى ماكينة صرف آلي ليسحب بعض النقود، لكنه لا يجد بطاقته البنكية. يفتّش محفظته وحقيبته مرتين. ثم يتصل بالبنك. تقول المرأة على الهاتف: «مساء الخير. كيف يمكنني مساعدتك؟» يقول حسن: «أعتقد أنني فقدت بطاقتي. لقد بحثت في كل مكان، لكنني لا أستطيع العثور عليها.» تطلب المرأة رقم حسابه وتراجع كشف حسابه. يسأل حسن بقلق: «هل استخدم أحد بطاقتي اليوم؟» تقول: «حاول شخص ما دفع ثلاثمائة يورو في أحد المتاجر. لكننا أوقفنا عملية الدفع. يبدو أنها عملية احتيال.» يشعر حسن بالارتياح. تتابع: «لقد أوقفت بطاقتك. رصيدك في أمان.» يسأل: «هل يمكنني الحصول على نقود الآن؟» «نعم. يمكنك الذهاب إلى الفرع الشريك لنا في مدريد غداً. سيعطيك الصرّاف نقوداً. ستكون هناك رسوم بسيطة، وسنستخدم سعر الصرف لهذا اليوم.» يقول حسن: «شكراً جزيلاً. لقد ساعدتِني حقاً.»"
+  },
+  "grammar": {
+    "title": "Present perfect",
+    "explanationAr": "نستخدم المضارع التام (present perfect) للحديث عن شيء حدث في الماضي لكن نتيجته مهمة الآن، مثل: I have lost my card، أي أن البطاقة ما زالت ضائعة. يتكوّن من have أو has + التصريف الثالث للفعل (past participle) مثل lost و forgotten و used. نستخدم has مع he و she و it، ونستخدم have مع باقي الضمائر. وللسؤال عن التجارب في الحياة نقول Have you ever ...? وفي النفي نقول haven't أو hasn't.",
+    "rule": "I / You / We / They + have ('ve) + past participle\nHe / She / It + has ('s) + past participle\nI haven't / She hasn't + past participle\nHave you ever + past participle ...?",
+    "examples": [
+      { "en": "I have lost my card.", "ar": "لقد فقدت بطاقتي." },
+      { "en": "She has transferred the money to her son.", "ar": "لقد حوّلت المال إلى ابنها." },
+      { "en": "Have you ever used an ATM abroad?", "ar": "هل سبق لك أن استخدمت ماكينة صرف في الخارج؟" },
+      { "en": "We haven't received the bank statement yet.", "ar": "لم نستلم كشف الحساب بعد." },
+      { "en": "The bank has charged me a fee.", "ar": "لقد خصم البنك مني رسوماً." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The bank is closed. Where can you get cash?",
+      "options": ["At the branch", "At an ATM", "At the cashier's desk", "At the post office"],
+      "answer": "At an ATM"
+    },
+    {
+      "type": "fill",
+      "sentence": "I need some cash, so I'll ___ 200 dollars from the ATM.",
+      "answer": "withdraw",
+      "hint": "يسحب"
+    },
+    {
+      "type": "order",
+      "words": ["bank", "lost", "I", "card.", "my", "have"],
+      "answer": "I have lost my bank card."
+    },
+    {
+      "type": "mcq",
+      "question": "She ___ her PIN, so she can't use her card.",
+      "options": ["have forgotten", "has forget", "has forgotten", "forgetting"],
+      "answer": "has forgotten"
+    },
+    {
+      "type": "fill",
+      "sentence": "Please ___ your name here, at the bottom of the form.",
+      "answer": "sign",
+      "hint": "يوقّع"
+    },
+    {
+      "type": "order",
+      "words": ["arrived", "Has", "yet?", "money", "the"],
+      "answer": "Has the money arrived yet?"
+    },
+    {
+      "type": "mcq",
+      "question": "The extra money you pay the bank for a loan is called ___.",
+      "options": ["savings", "balance", "a deposit", "interest"],
+      "answer": "interest"
+    },
+    {
+      "type": "listen",
+      "audioText": "Have you ever used an ATM abroad?",
+      "answer": "Have you ever used an ATM abroad?"
+    }
+  ]
+}

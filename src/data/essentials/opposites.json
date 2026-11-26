@@ -1,0 +1,54 @@
+{
+  "slug": "opposites",
+  "title": "Opposites",
+  "titleAr": "الصفات وعكسها",
+  "emoji": "🔁",
+  "level": "A1",
+  "intro": "أسهل طريقة تحفظ بيها الصفات إنك تحفظ كل صفة مع عكسها: big و small، hot و cold. الصفة في الإنجليزي ثابتة، ما بتتغيرش مع المذكر والمؤنث أو الجمع: a big house و big houses.",
+  "items": [
+    { "en": "big", "ar": "كبير", "phonetic": "/bɪɡ/", "example": "They live in a big house.", "exampleAr": "هما ساكنين في بيت كبير." },
+    { "en": "small", "ar": "صغير", "phonetic": "/smɔl/", "example": "My room is small.", "exampleAr": "أوضتي صغيرة." },
+    { "en": "long", "ar": "طويل", "phonetic": "/lɔŋ/", "example": "It was a long day.", "exampleAr": "كان يوم طويل." },
+    { "en": "short", "ar": "قصير", "phonetic": "/ʃɔrt/", "example": "The meeting was short.", "exampleAr": "الاجتماع كان قصير." },
+    { "en": "hot", "ar": "حار / سخن", "phonetic": "/hɑt/", "example": "Be careful, the tea is hot.", "exampleAr": "خلي بالك، الشاي سخن." },
+    { "en": "cold", "ar": "بارد / ساقع", "phonetic": "/koʊld/", "example": "I want a cold drink.", "exampleAr": "عايز حاجة ساقعة أشربها." },
+    { "en": "new", "ar": "جديد", "phonetic": "/nu/", "example": "I bought a new phone.", "exampleAr": "اشتريت تليفون جديد." },
+    { "en": "old", "ar": "قديم / كبير في السن", "phonetic": "/oʊld/", "example": "This building is very old.", "exampleAr": "العمارة دي قديمة جداً." },
+    { "en": "fast", "ar": "سريع", "phonetic": "/fæst/", "example": "The train is very fast.", "exampleAr": "القطر سريع جداً." },
+    { "en": "slow", "ar": "بطيء", "phonetic": "/sloʊ/", "example": "The internet is slow today.", "exampleAr": "النت بطيء النهارده." },
+    { "en": "cheap", "ar": "رخيص", "phonetic": "/tʃip/", "example": "The food here is cheap.", "exampleAr": "الأكل هنا رخيص." },
+    { "en": "expensive", "ar": "غالي", "phonetic": "/ɪkˈspɛnsɪv/", "example": "This watch is too expensive.", "exampleAr": "الساعة دي غالية أوي." },
+    { "en": "happy", "ar": "سعيد / مبسوط", "phonetic": "/ˈhæpi/", "example": "I'm happy to see you.", "exampleAr": "أنا مبسوط إني شفتك." },
+    { "en": "sad", "ar": "حزين / زعلان", "phonetic": "/sæd/", "example": "Why are you sad?", "exampleAr": "إنت زعلان ليه؟" },
+    { "en": "easy", "ar": "سهل", "phonetic": "/ˈizi/", "example": "The test was easy.", "exampleAr": "الامتحان كان سهل." },
+    { "en": "difficult", "ar": "صعب", "phonetic": "/ˈdɪfɪkəlt/", "example": "English grammar is not difficult.", "exampleAr": "قواعد الإنجليزي مش صعبة." },
+    { "en": "clean", "ar": "نظيف", "phonetic": "/klin/", "example": "The hotel room was very clean.", "exampleAr": "أوضة الفندق كانت نضيفة جداً." },
+    { "en": "dirty", "ar": "متسخ / وسخ", "phonetic": "/ˈdərti/", "example": "My shoes are dirty.", "exampleAr": "جزمتي وسخة." },
+    { "en": "open", "ar": "مفتوح / فاتح", "phonetic": "/ˈoʊpən/", "example": "Is the pharmacy open now?", "exampleAr": "الصيدلية فاتحة دلوقتي؟" },
+    { "en": "closed", "ar": "مغلق / مقفول", "phonetic": "/kloʊzd/", "example": "The bank is closed on Friday.", "exampleAr": "البنك مقفول يوم الجمعة." },
+    { "en": "full", "ar": "ممتلئ / مليان", "phonetic": "/fʊl/", "example": "The bus is full.", "exampleAr": "الأتوبيس مليان." },
+    { "en": "empty", "ar": "فارغ / فاضي", "phonetic": "/ˈɛmpti/", "example": "The fridge is empty.", "exampleAr": "التلاجة فاضية." }
+  ],
+  "table": {
+    "columns": ["Word", "Opposite"],
+    "rows": [
+      ["big", "small"],
+      ["long", "short"],
+      ["hot", "cold"],
+      ["new", "old"],
+      ["fast", "slow"],
+      ["cheap", "expensive"],
+      ["happy", "sad"],
+      ["easy", "difficult"],
+      ["clean", "dirty"],
+      ["open", "closed"],
+      ["full", "empty"]
+    ]
+  },
+  "tips": [
+    "الصفة ما بتتجمعش: big houses مش bigs houses.",
+    "الصفة قبل الاسم: a fast car مش a car fast.",
+    "old ليها عكسين: new (للحاجات) و young (للناس).",
+    "short ممكن تبقى عكس long (طول الحاجة) أو عكس tall (طول الشخص)."
+  ]
+}

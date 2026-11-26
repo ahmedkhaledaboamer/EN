@@ -1,0 +1,107 @@
+{
+  "slug": "vacation",
+  "title": "Vacation",
+  "titleAr": "الإجازة",
+  "emoji": "🏖️",
+  "level": "A2",
+  "description": "Plan a trip, talk about places, and share holiday stories.",
+  "descriptionAr": "خطّط لرحلة، وتحدّث عن الأماكن، واحكِ قصص إجازتك.",
+  "words": [
+    { "en": "vacation", "ar": "إجازة / عطلة", "phonetic": "/veɪˈkeɪʃən/", "example": "We need a vacation this summer." },
+    { "en": "beach", "ar": "شاطئ", "phonetic": "/bitʃ/", "example": "The beach is only five minutes from the hotel." },
+    { "en": "sea", "ar": "بحر", "phonetic": "/si/", "example": "The sea is warm and blue." },
+    { "en": "sand", "ar": "رمل", "phonetic": "/sænd/", "example": "The children played in the sand all day." },
+    { "en": "island", "ar": "جزيرة", "phonetic": "/ˈaɪlənd/", "example": "We took a boat to a small island." },
+    { "en": "mountain", "ar": "جبل", "phonetic": "/ˈmaʊntən/", "example": "There is snow on top of the mountain." },
+    { "en": "tour", "ar": "جولة", "phonetic": "/tʊr/", "example": "The city tour starts at nine." },
+    { "en": "guide", "ar": "مرشد سياحي", "phonetic": "/ɡaɪd/", "example": "Our guide speaks English and Arabic." },
+    { "en": "souvenir", "ar": "تذكار / هدية تذكارية", "phonetic": "/ˌsuvəˈnɪr/", "example": "I bought a souvenir for my mother." },
+    { "en": "camera", "ar": "كاميرا", "phonetic": "/ˈkæmərə/", "example": "Don't forget to bring your camera." },
+    { "en": "sightseeing", "ar": "مشاهدة المعالم السياحية", "phonetic": "/ˈsaɪtˌsiɪŋ/", "example": "We went sightseeing in Luxor." },
+    { "en": "adventure", "ar": "مغامرة", "phonetic": "/ədˈvɛntʃər/", "example": "Climbing the mountain was a real adventure." },
+    { "en": "trip", "ar": "رحلة", "phonetic": "/trɪp/", "example": "How was your trip?" },
+    { "en": "passport", "ar": "جواز السفر", "phonetic": "/ˈpæsˌpɔrt/", "example": "Keep your passport in a safe place." },
+    { "en": "visa", "ar": "تأشيرة / فيزا", "phonetic": "/ˈvizə/", "example": "Do I need a visa for this country?" },
+    { "en": "backpack", "ar": "حقيبة ظهر", "phonetic": "/ˈbækˌpæk/", "example": "I put water and snacks in my backpack." },
+    { "en": "tent", "ar": "خيمة", "phonetic": "/tɛnt/", "example": "We slept in a tent near the lake." },
+    { "en": "sunscreen", "ar": "واقي الشمس / صن بلوك", "phonetic": "/ˈsʌnˌskrin/", "example": "Put on sunscreen before you go out." },
+    { "en": "relax", "ar": "يسترخي / يرتاح", "phonetic": "/rɪˈlæks/", "example": "I just want to relax by the pool." },
+    { "en": "memories", "ar": "ذكريات", "phonetic": "/ˈmɛməriz/", "example": "That holiday gave us happy memories." }
+  ],
+  "sentences": [
+    { "en": "Where are you going to go this summer?", "ar": "إلى أين ستذهب هذا الصيف؟" },
+    { "en": "We're going to spend a week at the beach.", "ar": "سنقضي أسبوعاً على الشاطئ." },
+    { "en": "I'm going to book the hotel tonight.", "ar": "سأحجز الفندق الليلة." },
+    { "en": "Are you going to take the kids with you?", "ar": "هل ستأخذ الأولاد معك؟" },
+    { "en": "Do I need a visa to go there?", "ar": "هل أحتاج إلى تأشيرة للذهاب إلى هناك؟" },
+    { "en": "How was your vacation?", "ar": "كيف كانت إجازتك؟" },
+    { "en": "It was amazing! We swam every day.", "ar": "كانت رائعة! سبحنا كل يوم." },
+    { "en": "We visited the old city and took a lot of photos.", "ar": "زرنا المدينة القديمة والتقطنا الكثير من الصور." },
+    { "en": "What time does the tour start?", "ar": "متى تبدأ الجولة؟" },
+    { "en": "I didn't want to come home!", "ar": "لم أكن أريد العودة إلى البيت!" }
+  ],
+  "story": {
+    "title": "The Beach and the Big Wave",
+    "text": "Last spring, the Nabil family planned a summer vacation. \"We're going to stay by the sea for a week,\" Dad said. \"I'm going to swim every day,\" said Lina. \"And I'm going to build a castle in the sand,\" said her little brother, Ali. In July, they went to a small town on the coast. Every morning, they put on sunscreen and walked to the beach. Mom read books and relaxed under an umbrella. One day, they took a boat tour to an island. The guide told them stories about the old fishermen. Dad took a lot of photos with his new camera. Then something funny happened. A big wave came, and Dad fell into the water with the camera! Everyone laughed, even Dad. The camera stopped working, but the photos were safe on the memory card. On the last day, Lina bought a souvenir for her grandmother. It was a short trip, but it gave them wonderful memories.",
+    "translation": "في الربيع الماضي، خططت عائلة نبيل لإجازة صيفية. قال الأب: «سنقيم بجانب البحر لمدة أسبوع.» قالت لينا: «سأسبح كل يوم.» وقال أخوها الصغير علي: «وأنا سأبني قلعة في الرمل.» في شهر يوليو، ذهبوا إلى بلدة صغيرة على الساحل. كل صباح، كانوا يضعون واقي الشمس ويمشون إلى الشاطئ. كانت الأم تقرأ الكتب وتسترخي تحت مظلة. وفي أحد الأيام، قاموا بجولة بالقارب إلى جزيرة. حكى لهم المرشد قصصاً عن الصيادين القدامى. التقط الأب الكثير من الصور بكاميرته الجديدة. ثم حدث شيء مضحك. جاءت موجة كبيرة، فسقط الأب في الماء ومعه الكاميرا! ضحك الجميع، حتى الأب. توقفت الكاميرا عن العمل، لكن الصور كانت سليمة على بطاقة الذاكرة. في اليوم الأخير، اشترت لينا هدية تذكارية لجدتها. كانت رحلة قصيرة، لكنها منحتهم ذكريات رائعة."
+  },
+  "grammar": {
+    "title": "Going to for plans and past simple for stories",
+    "explanationAr": "نستخدم be going to مع الفعل في صيغته الأساسية للحديث عن خطط قررناها للمستقبل، مثل I'm going to visit Alexandria. ويتغير الفعل be حسب الفاعل: I am و He is و We are. وعندما نحكي ما حدث في الإجازة بعد انتهائها، نستخدم الماضي البسيط، مثل We went و We swam و We visited. فالخطة تكون بـ going to، والقصة تكون بالماضي البسيط.",
+    "rule": "Plans: I am / He is / We are + going to + base verb\nQuestion: Are you going to + base verb ...?\nStories: past simple (visit → visited, go → went, swim → swam)\nNegative past: didn't + base verb",
+    "examples": [
+      { "en": "We're going to visit an island next summer.", "ar": "سنزور جزيرة الصيف القادم." },
+      { "en": "She's going to buy a new backpack for the trip.", "ar": "ستشتري حقيبة ظهر جديدة للرحلة." },
+      { "en": "Are you going to bring your camera?", "ar": "هل ستُحضر الكاميرا معك؟" },
+      { "en": "Last year we went sightseeing in Cairo.", "ar": "في العام الماضي ذهبنا لمشاهدة المعالم في القاهرة." },
+      { "en": "We slept in a tent on the mountain.", "ar": "نمنا في خيمة على الجبل." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Next summer we ___ visit an island.",
+      "options": ["are going to", "went", "going to", "goes to"],
+      "answer": "are going to"
+    },
+    {
+      "type": "fill",
+      "sentence": "Put on ___ at the beach. The sun is very strong.",
+      "answer": "sunscreen",
+      "hint": "واقي الشمس"
+    },
+    {
+      "type": "order",
+      "words": ["climb", "mountain.", "going", "We", "a", "to", "are"],
+      "answer": "We are going to climb a mountain."
+    },
+    {
+      "type": "mcq",
+      "question": "Last year we ___ a great time in Alexandria.",
+      "options": ["have", "are going to have", "had", "has"],
+      "answer": "had"
+    },
+    {
+      "type": "fill",
+      "sentence": "You need your ___ at the airport. It's a small book with your photo.",
+      "answer": "passport",
+      "hint": "جواز السفر"
+    },
+    {
+      "type": "order",
+      "words": ["tent.", "stayed", "a", "We", "in"],
+      "answer": "We stayed in a tent."
+    },
+    {
+      "type": "mcq",
+      "question": "I bought this small gift to remember my trip. It's a ___.",
+      "options": ["visa", "tent", "backpack", "souvenir"],
+      "answer": "souvenir"
+    },
+    {
+      "type": "listen",
+      "audioText": "We swam in the sea every day.",
+      "answer": "We swam in the sea every day."
+    }
+  ]
+}

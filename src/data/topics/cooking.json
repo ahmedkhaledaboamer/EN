@@ -1,0 +1,107 @@
+{
+  "slug": "cooking",
+  "title": "Cooking at Home",
+  "titleAr": "الطبخ في البيت",
+  "emoji": "🍳",
+  "level": "A2",
+  "description": "Follow a recipe and talk about ingredients and steps.",
+  "descriptionAr": "اتبع وصفة طبخ، وتحدّث عن المكونات والخطوات.",
+  "words": [
+    { "en": "recipe", "ar": "وصفة (طبخ)", "phonetic": "/ˈrɛsəpi/", "example": "This recipe is from my grandmother." },
+    { "en": "ingredient", "ar": "مُكوِّن (من مكونات الطبخة)", "phonetic": "/ɪnˈɡridiənt/", "example": "We need five ingredients for this soup." },
+    { "en": "chop", "ar": "يُقطِّع قطعاً صغيرة / يفرم", "phonetic": "/tʃɑp/", "example": "Chop the onions into small pieces." },
+    { "en": "slice", "ar": "يُقطِّع شرائح", "phonetic": "/slaɪs/", "example": "Slice the tomatoes for the salad." },
+    { "en": "boil", "ar": "يغلي / يسلق", "phonetic": "/bɔɪl/", "example": "Boil the eggs for ten minutes." },
+    { "en": "fry", "ar": "يقلي", "phonetic": "/fraɪ/", "example": "Fry the potatoes until they are golden." },
+    { "en": "bake", "ar": "يخبز (في الفرن)", "phonetic": "/beɪk/", "example": "I bake a cake every Friday." },
+    { "en": "stir", "ar": "يقلّب (بالملعقة)", "phonetic": "/stər/", "example": "Stir the soup with a wooden spoon." },
+    { "en": "pour", "ar": "يصبّ", "phonetic": "/pɔr/", "example": "Pour the milk into a bowl." },
+    { "en": "mix", "ar": "يخلط", "phonetic": "/mɪks/", "example": "Mix the flour and the sugar." },
+    { "en": "pan", "ar": "مقلاة / طاسة", "phonetic": "/pæn/", "example": "Heat the pan before you add the eggs." },
+    { "en": "pot", "ar": "حلّة / قِدر", "phonetic": "/pɑt/", "example": "Put the rice in a big pot." },
+    { "en": "oven", "ar": "فرن", "phonetic": "/ˈʌvən/", "example": "The chicken is in the oven." },
+    { "en": "stove", "ar": "موقد / بوتاجاز", "phonetic": "/stoʊv/", "example": "Don't touch the stove. It's hot!" },
+    { "en": "spice", "ar": "تابل / بهار", "phonetic": "/spaɪs/", "example": "Cumin is my favorite spice." },
+    { "en": "salt", "ar": "ملح", "phonetic": "/sɔlt/", "example": "Add a little salt to the water." },
+    { "en": "pepper", "ar": "فلفل (أسود)", "phonetic": "/ˈpɛpər/", "example": "Do you like black pepper on your eggs?" },
+    { "en": "oil", "ar": "زيت", "phonetic": "/ɔɪl/", "example": "Olive oil is good for your health." },
+    { "en": "taste", "ar": "يتذوّق / طَعم", "phonetic": "/teɪst/", "example": "Taste the sauce before you add more salt." },
+    { "en": "serve", "ar": "يقدّم (الطعام)", "phonetic": "/sərv/", "example": "Serve the pasta with cheese." }
+  ],
+  "sentences": [
+    { "en": "What do we need for this recipe?", "ar": "ماذا نحتاج لهذه الوصفة؟" },
+    { "en": "First, wash the vegetables.", "ar": "أولاً، اغسل الخضروات." },
+    { "en": "Then chop the onions and fry them in oil.", "ar": "ثم قطّع البصل واقْلِه في الزيت." },
+    { "en": "How long do I boil the pasta?", "ar": "كم من الوقت أسلق المكرونة؟" },
+    { "en": "After that, add salt and pepper.", "ar": "بعد ذلك، أضف الملح والفلفل." },
+    { "en": "Can you pass me the big pot, please?", "ar": "هل يمكنك أن تناولني الحلّة الكبيرة من فضلك؟" },
+    { "en": "Turn down the heat, or it will burn.", "ar": "اخفض النار، وإلا سيحترق." },
+    { "en": "Stir it every two minutes.", "ar": "قلّبه كل دقيقتين." },
+    { "en": "Is the oven hot yet?", "ar": "هل سخن الفرن بعد؟" },
+    { "en": "Finally, serve it warm.", "ar": "أخيراً، قدّمه دافئاً." }
+  ],
+  "story": {
+    "title": "Dinner for Friends",
+    "text": "Youssef invites three friends for dinner on Friday. He is a beginner in the kitchen, so he finds an easy recipe online: chicken with rice and salad. First, he buys all the ingredients. In the kitchen, he reads the first step: \"Chop the onions and fry them in a little oil.\" He puts a pan on the stove and starts. Then he puts the rice and water in a pot and boils it. \"Stir from time to time,\" says the recipe. But Youssef is busy. He slices tomatoes and cucumbers for the salad. He adds salt, pepper, and a little lemon. Suddenly, he smells something. \"Oh no, the rice!\" He runs to the stove and turns off the heat. The bottom of the pot is black, but the top is fine. He tastes it carefully. It's OK! After that, he puts the chicken in the oven. At eight o'clock, his friends arrive. Youssef serves dinner with a big smile. \"It's delicious!\" says his friend Ali.",
+    "translation": "يدعو يوسف ثلاثة أصدقاء على العشاء يوم الجمعة. إنه مبتدئ في المطبخ، لذلك يجد وصفة سهلة على الإنترنت: دجاج مع أرز وسلطة. أولاً، يشتري كل المكونات. في المطبخ، يقرأ الخطوة الأولى: «قطّع البصل واقْلِه في قليل من الزيت.» يضع مقلاة على البوتاجاز ويبدأ. ثم يضع الأرز والماء في حلّة ويغليه. تقول الوصفة: «قلّب من وقت لآخر.» لكن يوسف مشغول. يقطّع الطماطم والخيار شرائح للسلطة. يضيف الملح والفلفل وقليلاً من الليمون. فجأة، يشمّ رائحة شيء ما. «يا إلهي، الأرز!» يجري إلى البوتاجاز ويطفئ النار. قاع الحلّة أسود، لكن الجزء العلوي سليم. يتذوقه بحذر. إنه جيد! بعد ذلك، يضع الدجاج في الفرن. في الساعة الثامنة، يصل أصدقاؤه. يقدّم يوسف العشاء بابتسامة كبيرة. يقول صديقه علي: «إنه لذيذ!»"
+  },
+  "grammar": {
+    "title": "Recipe Steps: Sequence Words and Imperatives",
+    "explanationAr": "عند شرح وصفة نستخدم صيغة الأمر (imperative)، وهي الفعل في صورته الأساسية بدون فاعل، مثل Chop و Stir و Boil. وللنفي نضع Don't قبل الفعل، مثل: Don't add too much salt. ونرتّب الخطوات بكلمات التسلسل: First (أولاً)، ثم Then (ثم)، ثم After that (بعد ذلك)، وفي النهاية Finally (أخيراً). وعادةً نضع فاصلة بعد First و After that و Finally.",
+    "rule": "Imperative = base verb: Chop the onions. / Stir the soup.\nNegative: Don't + verb: Don't burn the rice.\nFirst, ... → Then ... → After that, ... → Finally, ...",
+    "examples": [
+      { "en": "First, wash the rice.", "ar": "أولاً، اغسل الأرز." },
+      { "en": "Then boil it in a big pot.", "ar": "ثم اغْلِه في حلّة كبيرة." },
+      { "en": "After that, fry the onions in a little oil.", "ar": "بعد ذلك، اقْلِ البصل في قليل من الزيت." },
+      { "en": "Don't put too much salt.", "ar": "لا تضع ملحاً كثيراً." },
+      { "en": "Finally, serve the food hot.", "ar": "أخيراً، قدّم الطعام ساخناً." }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "You bake a cake in the ___.",
+      "options": ["pot", "oven", "pan", "stove"],
+      "answer": "oven"
+    },
+    {
+      "type": "fill",
+      "sentence": "Put a little oil in the ___ and fry the eggs.",
+      "answer": "pan",
+      "hint": "مقلاة / طاسة"
+    },
+    {
+      "type": "order",
+      "words": ["pepper.", "salt", "Then", "and", "add"],
+      "answer": "Then add salt and pepper."
+    },
+    {
+      "type": "mcq",
+      "question": "___, cut the bread. Then put it in the oven.",
+      "options": ["Finally", "After", "Then", "First"],
+      "answer": "First"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ the soup with a spoon so it doesn't burn.",
+      "answer": "Stir",
+      "hint": "قلّب"
+    },
+    {
+      "type": "order",
+      "words": ["the", "pour", "After", "milk.", "that,"],
+      "answer": "After that, pour the milk."
+    },
+    {
+      "type": "mcq",
+      "question": "Which one is a spice?",
+      "options": ["oil", "stove", "pepper", "pot"],
+      "answer": "pepper"
+    },
+    {
+      "type": "listen",
+      "audioText": "Mix the eggs and the sugar.",
+      "answer": "Mix the eggs and the sugar."
+    }
+  ]
+}

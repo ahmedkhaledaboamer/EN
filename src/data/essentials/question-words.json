@@ -1,0 +1,39 @@
+{
+  "slug": "question-words",
+  "title": "Question Words",
+  "titleAr": "أدوات الاستفهام",
+  "emoji": "❓",
+  "level": "A1",
+  "intro": "أدوات الاستفهام بتيجي في أول السؤال وبتحدد إنت بتسأل عن إيه: what (إيه)، where (فين)، when (إمتى)، who (مين)، why (ليه)، how (إزاي). وبعدها بييجي الفعل المساعد: Where do you live?",
+  "items": [
+    { "en": "what", "ar": "ماذا / ما / إيه", "phonetic": "/wʌt/", "example": "What is your name?", "exampleAr": "اسمك إيه؟" },
+    { "en": "where", "ar": "أين / فين", "phonetic": "/wɛr/", "example": "Where do you live?", "exampleAr": "إنت ساكن فين؟" },
+    { "en": "when", "ar": "متى / إمتى", "phonetic": "/wɛn/", "example": "When is the meeting?", "exampleAr": "الاجتماع إمتى؟" },
+    { "en": "who", "ar": "من / مين", "phonetic": "/hu/", "example": "Who is that man?", "exampleAr": "مين الراجل ده؟" },
+    { "en": "why", "ar": "لماذا / ليه", "phonetic": "/waɪ/", "example": "Why are you late?", "exampleAr": "إنت متأخر ليه؟" },
+    { "en": "how", "ar": "كيف / إزاي", "phonetic": "/haʊ/", "example": "How do you go to work?", "exampleAr": "بتروح الشغل إزاي؟" },
+    { "en": "which", "ar": "أيّ / أنهي (اختيار من حاجات)", "phonetic": "/wɪtʃ/", "example": "Which bus goes to the airport?", "exampleAr": "أنهي أتوبيس بيروح المطار؟" },
+    { "en": "whose", "ar": "لمن / بتاع مين", "phonetic": "/huz/", "example": "Whose phone is this?", "exampleAr": "التليفون ده بتاع مين؟" },
+    { "en": "how much", "ar": "كم (للسعر وغير المعدود) / بكام", "phonetic": "/ˌhaʊ ˈmʌtʃ/", "example": "How much is this shirt?", "exampleAr": "القميص ده بكام؟" },
+    { "en": "how many", "ar": "كم (للمعدود) / كام", "phonetic": "/ˌhaʊ ˈmɛni/", "example": "How many brothers do you have?", "exampleAr": "عندك كام أخ؟" },
+    { "en": "how old", "ar": "كم العمر / عنده كام سنة", "phonetic": "/ˌhaʊ ˈoʊld/", "example": "How old is your daughter?", "exampleAr": "بنتك عندها كام سنة؟" },
+    { "en": "how long", "ar": "كم من الوقت / قد إيه (مدة)", "phonetic": "/ˌhaʊ ˈlɔŋ/", "example": "How long is the flight?", "exampleAr": "الرحلة قد إيه؟" }
+  ],
+  "table": {
+    "columns": ["Word", "Asks about", "Arabic"],
+    "rows": [
+      ["what", "a thing", "إيه"],
+      ["where", "a place", "فين"],
+      ["when", "a time", "إمتى"],
+      ["who", "a person", "مين"],
+      ["why", "a reason", "ليه"],
+      ["how", "a way", "إزاي"]
+    ]
+  },
+  "tips": [
+    "بعد أداة الاستفهام بييجي do/does أو is/are: Where do you live? مش Where you live?",
+    "how much مع السعر والحاجات اللي ما بتتعدش، و how many مع الحاجات اللي بتتعد.",
+    "الرد على why بيبدأ غالباً بـ Because.",
+    "what للاختيار المفتوح، و which لما يكون فيه اختيارات محددة قدامك."
+  ]
+}
