@@ -2,16 +2,12 @@ import { useCallback, useEffect } from 'react';
 import { useLocalStorage } from './useLocalStorage';
 import { STORAGE_KEYS } from '../utils/storage';
 
-function getSystemTheme() {
-  try {
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-  } catch {
-    return 'light';
-  }
-}
+// Light is the default. Dark mode only applies when the user turns it on
+// (the choice is saved in localStorage).
+const DEFAULT_THEME = 'light';
 
 export function useTheme() {
-  const [theme, setTheme] = useLocalStorage(STORAGE_KEYS.theme, getSystemTheme());
+  const [theme, setTheme] = useLocalStorage(STORAGE_KEYS.theme, DEFAULT_THEME);
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark');
