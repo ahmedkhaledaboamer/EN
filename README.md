@@ -1,4 +1,6 @@
-# English by Situations
+# Yasmina Khaled
+
+**Learn English by real situations.**
 
 Learn English through real-life situations: one topic a day (supermarket, hotel, job interview…).
 Each topic has **words**, **sentences**, a **story**, **one grammar point** and **practice**.

@@ -79,9 +79,9 @@ export default function Navbar() {
         <Link
           to="/"
           className="font-display text-[11px] font-extrabold uppercase tracking-logo text-brand-gold sm:text-xs dark:text-brand-yellow"
-          aria-label="English by Situations — home"
+          aria-label="Yasmina Khaled — home"
         >
-          English <span className="text-brand-ink/40 dark:text-white/40">by</span> Situations
+          Yasmina <span className="text-brand-ink/40 dark:text-white/40">Khaled</span>
         </Link>
 
         {/* Center links (desktop) */}
