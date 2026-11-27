@@ -161,6 +161,10 @@ with `--topics` or `--essentials`.
 - **Saved words** = words bookmarked on any word card (topics or essentials). The `/saved` page lists them
   grouped by source, with search, flashcards and a quiz built from your list. Flashcard "I know it" updates the
   progress of the word's own topic or category.
+- **Speaking practice (🎤)**: on word cards, on each sentence, and as 2 "Say it" exercises added to every topic's
+  Practice. It uses the browser's `SpeechRecognition` (Chrome, Edge, Safari; not Firefox; needs internet and microphone
+  permission), then compares what you said with the target word by word: green = heard, red = missed. It checks that
+  you are understood; it is not a detailed accent coach. The 🎤 buttons are hidden in browsers without support.
 - **Audio** uses the browser's `speechSynthesis`: it picks an en-US voice, waits for voices that load late, falls back to the default voice, and shows a notice when speech isn't supported.
 - **Essentials**: a category is completed at **70% or more** in its quiz. Its progress is stored separately
   from topics, and the Home stats show completed categories and learned items.

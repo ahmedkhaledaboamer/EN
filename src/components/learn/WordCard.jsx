@@ -1,6 +1,9 @@
 import { motion } from 'framer-motion';
 import { Bookmark, BookmarkCheck, Check } from 'lucide-react';
 import SpeakButton from '../speech/SpeakButton';
+import MicButton from '../speech/MicButton';
+import SpeakFeedback from '../speech/SpeakFeedback';
+import { useSpeakCheck } from '../../hooks/useSpeechRecognition';
 
 const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
@@ -22,6 +25,7 @@ function HighlightedExample({ sentence, word }) {
 
 export default function WordCard({ word, learned, saved, onToggleLearned, onToggleSaved }) {
   const id = `word-${word.en}`;
+  const check = useSpeakCheck(word.en);
   return (
     <motion.article
       layout
@@ -37,8 +41,9 @@ export default function WordCard({ word, learned, saved, onToggleLearned, onTogg
           </h3>
           <p className="mt-1 font-mono text-sm text-neutral-500 dark:text-neutral-400">{word.phonetic}</p>
         </div>
-        <div className="flex shrink-0 gap-2">
+        <div className="flex shrink-0 gap-1.5 sm:gap-2">
           <SpeakButton text={word.en} id={id} label={`Listen to "${word.en}"`} />
+          <MicButton check={check} label={`Say "${word.en}"`} />
           <button
             type="button"
             onClick={onToggleSaved}
@@ -59,6 +64,8 @@ export default function WordCard({ word, learned, saved, onToggleLearned, onTogg
       <p dir="rtl" lang="ar" className="mt-4 text-lg font-semibold text-brand-ink dark:text-white">
         {word.ar}
       </p>
+
+      <SpeakFeedback check={check} compact onRetry={check.start} />
 
       <div className="mt-4 flex items-start gap-2 rounded-2xl bg-white/60 p-3 dark:bg-white/5">
         <div className="flex-1">

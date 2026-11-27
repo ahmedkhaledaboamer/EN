@@ -8,6 +8,7 @@ import McqExercise from './McqExercise';
 import FillExercise from './FillExercise';
 import OrderExercise from './OrderExercise';
 import ListenExercise from './ListenExercise';
+import SpeakExercise from './SpeakExercise';
 import ScoreScreen from './ScoreScreen';
 import { useSpeechContext } from '../speech/SpeechContext';
 
@@ -16,6 +17,7 @@ const TYPES = {
   fill: { label: 'Fill in the blank', Component: FillExercise },
   order: { label: 'Put in order', Component: OrderExercise },
   listen: { label: 'Listen & type', Component: ListenExercise },
+  speak: { label: 'Say it', Component: SpeakExercise },
 };
 
 /** Short description of an exercise, for the mistakes list. */
@@ -23,6 +25,7 @@ function promptOf(ex) {
   if (ex.type === 'mcq') return ex.question;
   if (ex.type === 'fill') return ex.sentence;
   if (ex.type === 'order') return 'Put the words in order';
+  if (ex.type === 'speak') return `Say: ${ex.answer}`;
   return 'Listen & type';
 }
 
