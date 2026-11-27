@@ -7,7 +7,7 @@ export default function Footer() {
           <span className="text-brand-gold dark:text-brand-yellow">~/english</span> $ one situation a day
         </p>
         <p className="text-neutral-500 dark:text-neutral-400">
-          Built with React &amp; Tailwind · {new Date().getFullYear()}
+          Made by <span className="font-semibold text-brand-gold dark:text-brand-yellow">Ahmed Khaled</span> · {new Date().getFullYear()}
         </p>
       </div>
     </footer>
