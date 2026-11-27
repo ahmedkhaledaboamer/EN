@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import { ArrowRight, EyeOff, Headphones, Mic, Repeat, RotateCcw, SkipForward, Square, Trophy } from 'lucide-react';
+import { ArrowRight, EyeOff, Headphones, Mic, Repeat, RotateCcw, SkipForward, Square, Trophy, Waves } from 'lucide-react';
+import ShadowingPanel from '../../speech/ShadowingPanel';
 import Button from '../../ui/Button';
 import HighlightLastWord from '../../ui/HighlightLastWord';
 import SpeakButton from '../../speech/SpeakButton';
@@ -229,6 +230,14 @@ export default function DialogueTab({ topic }) {
 
   const visibleLines = mode === 'practice' ? lines.slice(0, index + 1) : lines;
 
+  if (mode === 'shadow') {
+    return (
+      <div className="mx-auto max-w-3xl">
+        <ShadowingPanel items={lines.map((l) => ({ en: l.en, ar: l.ar }))} onClose={() => setMode('idle')} />
+      </div>
+    );
+  }
+
   return (
     <div className="mx-auto max-w-3xl">
       {/* Scene + controls */}
@@ -281,6 +290,15 @@ export default function DialogueTab({ topic }) {
           )}
           <Button onClick={startPractice}>
             <Mic size={16} aria-hidden="true" /> {mode === 'practice' ? 'Restart role-play' : 'Start role-play'}
+          </Button>
+          <Button
+            variant="ghost"
+            onClick={() => {
+              stopAll();
+              setMode('shadow');
+            }}
+          >
+            <Waves size={16} aria-hidden="true" /> Shadow every line
           </Button>
         </div>
 

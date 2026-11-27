@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import { Languages, Pause, Play, Square, X } from 'lucide-react';
+import { Languages, Mic, Pause, Play, Square, X } from 'lucide-react';
+import ShadowingPanel from '../../speech/ShadowingPanel';
 import HighlightLastWord from '../../ui/HighlightLastWord';
 import ProgressBar from '../../ui/ProgressBar';
 import SpeakButton from '../../speech/SpeakButton';
@@ -142,6 +143,15 @@ export default function StoryTab({ topic }) {
   };
 
   const closePopup = useCallback(() => setSelected(null), []);
+  const [shadowing, setShadowing] = useState(false);
+
+  if (shadowing) {
+    return (
+      <div className="mx-auto max-w-3xl">
+        <ShadowingPanel items={sentences.map((en) => ({ en }))} onClose={() => setShadowing(false)} />
+      </div>
+    );
+  }
 
   return (
     <div className="grid gap-6 lg:grid-cols-[1fr_18rem]">
@@ -265,6 +275,16 @@ export default function StoryTab({ topic }) {
         >
           <Languages size={16} aria-hidden="true" />
           {showTranslation ? 'Hide Arabic translation' : 'Show Arabic translation'}
+        </button>
+        <button
+          type="button"
+          onClick={() => {
+            stop();
+            setShadowing(true);
+          }}
+          className="mt-3 flex w-full items-center justify-center gap-2 rounded-full bg-brand-yellow px-4 py-3 text-sm font-semibold text-brand-ink shadow-yellow transition-transform hover:-translate-y-0.5"
+        >
+          <Mic size={16} aria-hidden="true" /> Shadowing: repeat each sentence
         </button>
       </aside>
 

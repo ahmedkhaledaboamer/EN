@@ -67,7 +67,8 @@ export default function Navbar() {
   const t = useT();
   const { isArabic, toggle: toggleLang } = useUiLanguage();
   const countFor = (link) => (link.badge === 'review' ? dueCount : 0);
-  const startHref = todayTopic ? `/topics/${todayTopic.slug}` : '/topics';
+  // "Start Learning" opens the guided daily session
+  const startHref = todayTopic ? '/today' : '/topics';
   const [menuOpen, setMenuOpen] = useState(false);
   const location = useLocation();
 

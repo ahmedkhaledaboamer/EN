@@ -9,6 +9,7 @@ import FillExercise from './FillExercise';
 import OrderExercise from './OrderExercise';
 import ListenExercise from './ListenExercise';
 import SpeakExercise from './SpeakExercise';
+import WriteExercise from './WriteExercise';
 import ScoreScreen from './ScoreScreen';
 import { useSpeechContext } from '../speech/SpeechContext';
 import { useT } from '../../hooks/useT';
@@ -19,6 +20,7 @@ const TYPES = {
   order: { label: 'Put in order', Component: OrderExercise },
   listen: { label: 'Listen & type', Component: ListenExercise },
   speak: { label: 'Say it', Component: SpeakExercise },
+  write: { label: 'Write it', Component: WriteExercise },
 };
 
 /** Short description of an exercise, for the mistakes list. */
@@ -26,6 +28,7 @@ function promptOf(ex) {
   if (ex.type === 'mcq') return ex.audio ? `Listen: ${ex.audio}` : ex.question;
   if (ex.type === 'fill') return ex.sentence;
   if (ex.type === 'order') return 'Put the words in order';
+  if (ex.type === 'write') return `Write: ${ex.note}`;
   if (ex.type === 'speak') return ex.hideAnswer ? `Say in English: ${ex.note}` : `Say: ${ex.answer}`;
   return 'Listen & type';
 }

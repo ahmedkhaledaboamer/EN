@@ -172,6 +172,13 @@ with `--topics` or `--essentials`.
   question), with an "I don't know" option. A stage is passed with 4/6; the test stops at the first failed stage.
   The result sets your starting level, and Today's Topic skips topics below it. Questions live in
   `src/data/placement.js`.
+- **Today's session (/today)**: a guided ~15-minute routine. Up to 5 review cards → 5 new words from today's topic →
+  mixed practice (2 of your mistakes, 2 listening, 2 "Write it" Arabic → English, 2 "Say it"). "Start Learning" opens it.
+  Plan logic: `src/utils/dailySession.js`.
+- **Write it**: translate an Arabic sentence into English; words are matched in order (contractions and digits
+  accepted) and 75% counts as correct. Added to every topic's Practice and to the daily session.
+- **Shadowing**: in the Story and Dialogue tabs, hear each sentence then repeat it into the microphone, with a score
+  per sentence.
 - **Sounds (/pronunciation)**: 6 minimal-pair groups that Arabic speakers mix up (p/b, f/v, th/s, th/d, ship/sheep,
   pen/pin) with an Arabic tip, a listening quiz ("which word did you hear?") and a "say it" microphone check.
   Content lives in `src/data/pronunciation.js`.
@@ -194,7 +201,7 @@ with `--topics` or `--essentials`.
   from topics, and the Home stats show completed categories and learned items.
 - **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`,
   `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`, `ebs:placement`,
-  `ebs:pronunciation`, `ebs:activity`.
+  `ebs:pronunciation`, `ebs:activity`, `ebs:session`.
   Every access is wrapped in try/catch.
 
 ### Performance

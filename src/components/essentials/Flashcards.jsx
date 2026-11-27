@@ -11,7 +11,7 @@ import { useDailyGoal } from '../../hooks/useDailyGoal';
  * Flip cards. "I know it" marks the item as learned (same progress as "Got it"),
  * "Still learning" un-marks it. Keyboard: Enter/Space flip, → know it, ← still learning.
  */
-export default function Flashcards({ items, isLearned, setLearned, onActivity }) {
+export default function Flashcards({ items, isLearned, setLearned, onActivity, onDone, doneLabel = 'Continue' }) {
   const [deck, setDeck] = useState(items);
   const [pos, setPos] = useState(0);
   const [flipped, setFlipped] = useState(false);
@@ -68,6 +68,11 @@ export default function Flashcards({ items, isLearned, setLearned, onActivity })
         </p>
         <p className="mt-2">cards you already know</p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
+          {onDone && (
+            <Button onClick={onDone}>
+              {doneLabel} →
+            </Button>
+          )}
           {unknown.length > 0 && (
             <Button onClick={() => restart(unknown)}>
               <Undo2 size={16} aria-hidden="true" /> Review {unknown.length} still learning

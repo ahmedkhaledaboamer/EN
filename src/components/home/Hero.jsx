@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { ArrowRight, BookOpen, ClipboardCheck, Flame, Volume2 } from 'lucide-react';
+import { ArrowRight, BookOpen, ClipboardCheck, Flame, Volume2, Zap } from 'lucide-react';
 import { usePlacement } from '../../hooks/usePlacement';
 import { useT } from '../../hooks/useT';
 import Button from '../ui/Button';
@@ -69,11 +69,11 @@ export default function Hero({ todayTopic, streak }) {
           custom={3}
           className="mt-9 flex flex-wrap gap-3"
         >
-          <Button to={todayTopic ? `/topics/${todayTopic.slug}` : '/topics'}>
-            {t("Start Today's Topic")} <ArrowRight size={18} aria-hidden="true" />
+          <Button to={todayTopic ? '/today' : '/topics'}>
+            <Zap size={18} aria-hidden="true" /> {t("Today's session · 15 min")}
           </Button>
-          <Button href="#topics" variant="secondary">
-            {t('Browse Topics')}
+          <Button to={todayTopic ? `/topics/${todayTopic.slug}` : '/topics'} variant="secondary">
+            {t("Start Today's Topic")} <ArrowRight size={18} aria-hidden="true" />
           </Button>
         </motion.div>
 

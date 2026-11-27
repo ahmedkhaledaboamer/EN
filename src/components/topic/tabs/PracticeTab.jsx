@@ -7,7 +7,8 @@ import { isRecognitionSupported } from '../../../hooks/useSpeechRecognition';
 import { getNextTopic } from '../../../data/topics';
 import { shuffle } from '../../../utils/answers';
 
-/** Number of "Say it" exercises added from the topic's sentences (when the browser supports it). */
+/** Extra exercises built from the topic's sentences: "Write it" always, "Say it" when the mic is supported. */
+const WRITE_COUNT = 2;
 const SPEAK_COUNT = 2;
 
 export default function PracticeTab({ topic, onReviewWords }) {
@@ -17,13 +18,15 @@ export default function PracticeTab({ topic, onReviewWords }) {
   const source = { title: topic.title, emoji: topic.emoji, to: `/topics/${topic.slug}?tab=practice` };
   const nextTopic = getNextTopic(topic.slug);
 
-  // The topic's 8 exercises + 2 speaking exercises picked from its sentences
+  // The topic's 8 exercises + 2 "Write it" (Arabic → English) + 2 "Say it", from different sentences
   const exercises = useMemo(() => {
-    if (!isRecognitionSupported || !topic.sentences?.length) return topic.exercises;
-    const speak = shuffle(topic.sentences)
-      .slice(0, SPEAK_COUNT)
-      .map((s) => ({ type: 'speak', answer: s.en, note: s.ar }));
-    return [...topic.exercises, ...speak];
+    if (!topic.sentences?.length) return topic.exercises;
+    const picked = shuffle(topic.sentences);
+    const write = picked.slice(0, WRITE_COUNT).map((s) => ({ type: 'write', answer: s.en, note: s.ar }));
+    const speak = isRecognitionSupported
+      ? picked.slice(WRITE_COUNT, WRITE_COUNT + SPEAK_COUNT).map((s) => ({ type: 'speak', answer: s.en, note: s.ar }))
+      : [];
+    return [...topic.exercises, ...write, ...speak];
   }, [topic]);
 
   const onFinish = (correct, total) => {

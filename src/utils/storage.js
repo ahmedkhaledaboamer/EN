@@ -15,6 +15,7 @@ export const STORAGE_KEYS = {
   placement: 'ebs:placement',
   pronunciation: 'ebs:pronunciation',
   activity: 'ebs:activity',
+  session: 'ebs:session',
 };
 
 /** Fired on window after every write so all hooks in the same tab re-read. */

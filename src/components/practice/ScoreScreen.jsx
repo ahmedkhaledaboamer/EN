@@ -81,9 +81,9 @@ export default function ScoreScreen({ correct, total, result, mistakes, next, re
       )}
 
       <div className="mt-8 flex flex-wrap justify-center gap-3">
-        {passed && next ? (
+        {(passed || next?.always) && next ? (
           <>
-            <Button to={next.to}>
+            <Button to={next.to} onClick={next.onClick}>
               {next.label} <ArrowRight size={18} aria-hidden="true" />
             </Button>
             <Button variant="secondary" onClick={onRetry}>
