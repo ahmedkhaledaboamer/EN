@@ -7,7 +7,7 @@ import Button from '../ui/Button';
 import { useTheme } from '../../hooks/useTheme';
 import { useTodayTopic } from '../../hooks/useTodayTopic';
 import { useReview } from '../../hooks/useReview';
-import { useT, useUiLanguage } from '../../hooks/useT';
+import { useT } from '../../hooks/useT';
 
 const NAV_LINKS = [
   { to: '/', label: 'Home', end: true },
@@ -65,7 +65,6 @@ export default function Navbar() {
   const { topic: todayTopic } = useTodayTopic();
   const { dueCount } = useReview();
   const t = useT();
-  const { isArabic, toggle: toggleLang } = useUiLanguage();
   const countFor = (link) => (link.badge === 'review' ? dueCount : 0);
   // "Start Learning" opens the guided daily session
   const startHref = todayTopic ? '/today' : '/topics';
@@ -123,15 +122,6 @@ export default function Navbar() {
           >
             <SettingsIcon size={19} aria-hidden="true" />
           </Link>
-          <button
-            type="button"
-            onClick={toggleLang}
-            aria-label={isArabic ? 'Switch interface to English' : 'حوّل الواجهة للعربي'}
-            title={isArabic ? 'English interface' : 'الواجهة بالعربي'}
-            className="flex h-10 min-w-10 items-center justify-center rounded-full px-2 font-semibold text-brand-ink transition-colors hover:bg-neutral-200/70 dark:text-white dark:hover:bg-white/10"
-          >
-            {isArabic ? 'EN' : 'ع'}
-          </button>
           <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
           <Button to={startHref} size="sm" className="hidden sm:inline-flex">
             {t('Start Learning')}

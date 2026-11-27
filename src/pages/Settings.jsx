@@ -158,16 +158,6 @@ export default function Settings() {
       )}
 
       <div className="mt-8 space-y-6">
-        <Section title="Interface language" description="Buttons and instructions. The English you learn stays in English.">
-          <Chips
-            label="Interface language"
-            options={['en', 'ar']}
-            value={settings.uiLanguage}
-            onChange={(v) => update({ uiLanguage: v })}
-            format={(v) => (v === 'en' ? 'English' : 'العربية')}
-          />
-        </Section>
-
         <Section title="Voice" description="The voice that reads words, sentences and stories.">
           {isSpeechSupported ? (
             <>
