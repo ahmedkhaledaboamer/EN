@@ -7,38 +7,168 @@
   "description": "Describe the weather and make plans around it.",
   "descriptionAr": "صِف الطقس وضع خططك بناءً عليه.",
   "words": [
-    { "en": "sunny", "ar": "مشمس", "phonetic": "/ˈsʌni/", "example": "It is sunny today, so let's go to the beach." },
-    { "en": "cloudy", "ar": "غائم", "phonetic": "/ˈklaʊdi/", "example": "The sky is cloudy this morning." },
-    { "en": "rainy", "ar": "ممطر", "phonetic": "/ˈreɪni/", "example": "I stay at home on rainy days." },
-    { "en": "windy", "ar": "عاصف / فيه رياح", "phonetic": "/ˈwɪndi/", "example": "It is very windy near the sea." },
-    { "en": "snowy", "ar": "مُثلج", "phonetic": "/ˈsnoʊi/", "example": "Canada is snowy in winter." },
-    { "en": "hot", "ar": "حار", "phonetic": "/hɑt/", "example": "Cairo is very hot in August." },
-    { "en": "cold", "ar": "بارد", "phonetic": "/koʊld/", "example": "Wear a jacket. It's cold outside." },
-    { "en": "warm", "ar": "دافئ", "phonetic": "/wɔrm/", "example": "The weather is warm in spring." },
-    { "en": "cool", "ar": "معتدل البرودة / لطيف", "phonetic": "/kul/", "example": "The evenings are cool in October." },
-    { "en": "storm", "ar": "عاصفة", "phonetic": "/stɔrm/", "example": "There is a big storm tonight." },
-    { "en": "fog", "ar": "ضباب / شبورة", "phonetic": "/fɔɡ/", "example": "Drive slowly in the fog." },
-    { "en": "temperature", "ar": "درجة الحرارة", "phonetic": "/ˈtɛmpərətʃər/", "example": "The temperature is high today." },
-    { "en": "degrees", "ar": "درجات (الحرارة)", "phonetic": "/dɪˈɡriz/", "example": "It is thirty-five degrees in the afternoon." },
-    { "en": "forecast", "ar": "النشرة الجوية / توقعات الطقس", "phonetic": "/ˈfɔrˌkæst/", "example": "The forecast says it will rain tomorrow." },
-    { "en": "umbrella", "ar": "مظلة / شمسية", "phonetic": "/ʌmˈbrɛlə/", "example": "Take an umbrella with you." },
-    { "en": "season", "ar": "فصل (من فصول السنة)", "phonetic": "/ˈsizən/", "example": "Spring is my favorite season." },
-    { "en": "summer", "ar": "الصيف", "phonetic": "/ˈsʌmər/", "example": "We go to Alexandria every summer." },
-    { "en": "winter", "ar": "الشتاء", "phonetic": "/ˈwɪntər/", "example": "It rains a lot here in winter." },
-    { "en": "humid", "ar": "رطب", "phonetic": "/ˈhjumɪd/", "example": "The air is humid near the coast." },
-    { "en": "freezing", "ar": "شديد البرودة / متجمد", "phonetic": "/ˈfrizɪŋ/", "example": "It's freezing! Close the window, please." }
+    {
+      "en": "sunny",
+      "ar": "مشمس",
+      "phonetic": "/ˈsʌni/",
+      "example": "It is sunny today, so let's go to the beach."
+    },
+    {
+      "en": "cloudy",
+      "ar": "غائم",
+      "phonetic": "/ˈklaʊdi/",
+      "example": "The sky is cloudy this morning."
+    },
+    {
+      "en": "rainy",
+      "ar": "ممطر",
+      "phonetic": "/ˈreɪni/",
+      "example": "I stay at home on rainy days."
+    },
+    {
+      "en": "windy",
+      "ar": "عاصف / فيه رياح",
+      "phonetic": "/ˈwɪndi/",
+      "example": "It is very windy near the sea."
+    },
+    {
+      "en": "snowy",
+      "ar": "مُثلج",
+      "phonetic": "/ˈsnoʊi/",
+      "example": "Canada is snowy in winter."
+    },
+    {
+      "en": "hot",
+      "ar": "حار",
+      "phonetic": "/hɑt/",
+      "example": "Cairo is very hot in August."
+    },
+    {
+      "en": "cold",
+      "ar": "بارد",
+      "phonetic": "/koʊld/",
+      "example": "Wear a jacket. It's cold outside."
+    },
+    {
+      "en": "warm",
+      "ar": "دافئ",
+      "phonetic": "/wɔrm/",
+      "example": "The weather is warm in spring."
+    },
+    {
+      "en": "cool",
+      "ar": "معتدل البرودة / لطيف",
+      "phonetic": "/kul/",
+      "example": "The evenings are cool in October."
+    },
+    {
+      "en": "storm",
+      "ar": "عاصفة",
+      "phonetic": "/stɔrm/",
+      "example": "There is a big storm tonight."
+    },
+    {
+      "en": "fog",
+      "ar": "ضباب / شبورة",
+      "phonetic": "/fɔɡ/",
+      "example": "Drive slowly in the fog."
+    },
+    {
+      "en": "temperature",
+      "ar": "درجة الحرارة",
+      "phonetic": "/ˈtɛmpərətʃər/",
+      "example": "The temperature is high today."
+    },
+    {
+      "en": "degrees",
+      "ar": "درجات (الحرارة)",
+      "phonetic": "/dɪˈɡriz/",
+      "example": "It is thirty-five degrees in the afternoon."
+    },
+    {
+      "en": "forecast",
+      "ar": "النشرة الجوية / توقعات الطقس",
+      "phonetic": "/ˈfɔrˌkæst/",
+      "example": "The forecast says it will rain tomorrow."
+    },
+    {
+      "en": "umbrella",
+      "ar": "مظلة / شمسية",
+      "phonetic": "/ʌmˈbrɛlə/",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "en": "season",
+      "ar": "فصل (من فصول السنة)",
+      "phonetic": "/ˈsizən/",
+      "example": "Spring is my favorite season."
+    },
+    {
+      "en": "summer",
+      "ar": "الصيف",
+      "phonetic": "/ˈsʌmər/",
+      "example": "We go to Alexandria every summer."
+    },
+    {
+      "en": "winter",
+      "ar": "الشتاء",
+      "phonetic": "/ˈwɪntər/",
+      "example": "It rains a lot here in winter."
+    },
+    {
+      "en": "humid",
+      "ar": "رطب",
+      "phonetic": "/ˈhjumɪd/",
+      "example": "The air is humid near the coast."
+    },
+    {
+      "en": "freezing",
+      "ar": "شديد البرودة / متجمد",
+      "phonetic": "/ˈfrizɪŋ/",
+      "example": "It's freezing! Close the window, please."
+    }
   ],
   "sentences": [
-    { "en": "What's the weather like today?", "ar": "كيف حال الطقس اليوم؟" },
-    { "en": "It's raining. Take your umbrella.", "ar": "إنها تمطر. خذ مظلتك." },
-    { "en": "It's very hot and humid today.", "ar": "الجو حار جداً ورطب اليوم." },
-    { "en": "The sun is shining now.", "ar": "الشمس مشرقة الآن." },
-    { "en": "It rains a lot in winter here.", "ar": "تمطر كثيراً هنا في الشتاء." },
-    { "en": "It never snows in Cairo.", "ar": "لا يتساقط الثلج أبداً في القاهرة." },
-    { "en": "What's the temperature outside?", "ar": "كم درجة الحرارة في الخارج؟" },
-    { "en": "The wind is blowing hard right now.", "ar": "الرياح تهب بقوة الآن." },
-    { "en": "What does the forecast say for tomorrow?", "ar": "ماذا تقول النشرة الجوية عن الغد؟" },
-    { "en": "It usually gets cool in the evening.", "ar": "عادةً ما يصبح الجو لطيفاً في المساء." }
+    {
+      "en": "What's the weather like today?",
+      "ar": "كيف حال الطقس اليوم؟"
+    },
+    {
+      "en": "It's raining. Take your umbrella.",
+      "ar": "إنها تمطر. خذ مظلتك."
+    },
+    {
+      "en": "It's very hot and humid today.",
+      "ar": "الجو حار جداً ورطب اليوم."
+    },
+    {
+      "en": "The sun is shining now.",
+      "ar": "الشمس مشرقة الآن."
+    },
+    {
+      "en": "It rains a lot in winter here.",
+      "ar": "تمطر كثيراً هنا في الشتاء."
+    },
+    {
+      "en": "It never snows in Cairo.",
+      "ar": "لا يتساقط الثلج أبداً في القاهرة."
+    },
+    {
+      "en": "What's the temperature outside?",
+      "ar": "كم درجة الحرارة في الخارج؟"
+    },
+    {
+      "en": "The wind is blowing hard right now.",
+      "ar": "الرياح تهب بقوة الآن."
+    },
+    {
+      "en": "What does the forecast say for tomorrow?",
+      "ar": "ماذا تقول النشرة الجوية عن الغد؟"
+    },
+    {
+      "en": "It usually gets cool in the evening.",
+      "ar": "عادةً ما يصبح الجو لطيفاً في المساء."
+    }
   ],
   "story": {
     "title": "The Picnic Plan",
@@ -50,18 +180,107 @@
     "explanationAr": "نستخدم المضارع المستمر (am / is / are + verb-ing) لما يحدث الآن، مثل It is raining now. ونستخدم المضارع البسيط للعادات والحقائق والأشياء التي تتكرر، مثل It rains a lot in winter. مع he / she / it نضيف s للفعل في المضارع البسيط: it snows, it rains. كلمات مثل now و right now و today تأتي غالباً مع المستمر، وكلمات مثل usually و often و every winter تأتي مع البسيط.",
     "rule": "Now: It is + verb-ing (It is raining now.)\nHabit / fact: It + verb-s (It rains a lot in winter.)\nNegative: It isn't raining. / It doesn't snow.\nnow, right now → continuous   usually, often, every → simple",
     "examples": [
-      { "en": "Look! It's snowing.", "ar": "انظر! إنها تُثلج." },
-      { "en": "It snows every winter in Canada.", "ar": "يتساقط الثلج كل شتاء في كندا." },
-      { "en": "The wind is blowing hard right now.", "ar": "الرياح تهب بقوة الآن." },
-      { "en": "It doesn't rain much in summer.", "ar": "لا تمطر كثيراً في الصيف." },
-      { "en": "We usually take an umbrella in winter.", "ar": "عادةً ما نأخذ مظلة في الشتاء." }
+      {
+        "en": "Look! It's snowing.",
+        "ar": "انظر! إنها تُثلج."
+      },
+      {
+        "en": "It snows every winter in Canada.",
+        "ar": "يتساقط الثلج كل شتاء في كندا."
+      },
+      {
+        "en": "The wind is blowing hard right now.",
+        "ar": "الرياح تهب بقوة الآن."
+      },
+      {
+        "en": "It doesn't rain much in summer.",
+        "ar": "لا تمطر كثيراً في الصيف."
+      },
+      {
+        "en": "We usually take an umbrella in winter.",
+        "ar": "عادةً ما نأخذ مظلة في الشتاء."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Talking About the Weather",
+    "settingAr": "إنت خارج من البيت الصبح، وبتتكلم مع صاحبك عن الجو النهارده.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Friend",
+        "nameAr": "صاحبك"
+      },
+      {
+        "id": "B",
+        "name": "Neighbor",
+        "nameAr": "الجار (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Good morning! What's the weather like today?",
+        "ar": "صباح الخير! الجو عامل إيه النهارده؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's cloudy, and the wind is blowing hard.",
+        "ar": "الدنيا مغيمة، والهوا جامد أوي."
+      },
+      {
+        "speaker": "B",
+        "en": "Really? It's usually sunny here in the morning.",
+        "ar": "بجد؟ الجو هنا عادةً بيبقى مشمس الصبح."
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, but look. It's raining now.",
+        "ar": "أيوه، بس بص. الدنيا بتمطر دلوقتي."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh no! What's the temperature outside?",
+        "ar": "يا خبر! درجة الحرارة برا كام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's about fifteen degrees. Take your umbrella.",
+        "ar": "حوالي خمستاشر درجة. خد الشمسية معاك."
+      },
+      {
+        "speaker": "B",
+        "en": "Good idea. What does the forecast say for tomorrow?",
+        "ar": "فكرة حلوة. النشرة بتقول إيه عن بكرة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Tomorrow is warm and sunny again.",
+        "ar": "بكرة الجو دافي ومشمس تاني."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. I love the weather in winter here.",
+        "ar": "حلو. أنا بحب الجو هنا في الشتا."
+      },
+      {
+        "speaker": "A",
+        "en": "Me too. It never gets too cold.",
+        "ar": "وأنا كمان. عمره ما بيبقى برد أوي."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "It's raining. What do you need?",
-      "options": ["Sunglasses", "A fan", "An umbrella", "A hat"],
+      "options": [
+        "Sunglasses",
+        "A fan",
+        "An umbrella",
+        "A hat"
+      ],
       "answer": "An umbrella"
     },
     {
@@ -72,13 +291,23 @@
     },
     {
       "type": "order",
-      "words": ["raining", "is", "now.", "It"],
+      "words": [
+        "raining",
+        "is",
+        "now.",
+        "It"
+      ],
       "answer": "It is raining now."
     },
     {
       "type": "mcq",
       "question": "It ___ a lot in winter here.",
-      "options": ["rains", "is raining", "raining", "rain"],
+      "options": [
+        "rains",
+        "is raining",
+        "raining",
+        "rain"
+      ],
       "answer": "rains"
     },
     {
@@ -89,13 +318,25 @@
     },
     {
       "type": "order",
-      "words": ["summer.", "It", "in", "very", "is", "hot"],
+      "words": [
+        "summer.",
+        "It",
+        "in",
+        "very",
+        "is",
+        "hot"
+      ],
       "answer": "It is very hot in summer."
     },
     {
       "type": "mcq",
       "question": "Look outside! The sun ___.",
-      "options": ["shine", "shines", "shining", "is shining"],
+      "options": [
+        "shine",
+        "shines",
+        "shining",
+        "is shining"
+      ],
       "answer": "is shining"
     },
     {

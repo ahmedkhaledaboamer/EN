@@ -3,6 +3,7 @@ import { ArrowRight } from 'lucide-react';
 import Hero from '../components/home/Hero';
 import StatsRow from '../components/home/StatsRow';
 import TodayTopic from '../components/home/TodayTopic';
+import ReviewBanner from '../components/home/ReviewBanner';
 import TopicsGrid from '../components/topics/TopicsGrid';
 import LevelGroupedGrid from '../components/topics/LevelGroupedGrid';
 import LevelChips from '../components/ui/LevelChips';
@@ -16,6 +17,7 @@ import { useProgress } from '../hooks/useProgress';
 import { useSavedWords } from '../hooks/useSavedWords';
 import { useStreak } from '../hooks/useStreak';
 import { useTodayTopic } from '../hooks/useTodayTopic';
+import { useDailyGoal } from '../hooks/useDailyGoal';
 
 const PATH_SIZE = 6;
 
@@ -33,7 +35,8 @@ export default function Home() {
   const { completedCount, getTopicProgress } = useProgress();
   const essentialsProgress = useEssentialsProgress();
   const { savedCount } = useSavedWords();
-  const { streak, best, studiedToday } = useStreak();
+  const { streak, best } = useStreak();
+  const daily = useDailyGoal();
   const { topic: todayTopic, allDone } = useTodayTopic();
   const [level, setLevel] = useState('All');
 
@@ -47,7 +50,7 @@ export default function Home() {
       <StatsRow
         streak={streak}
         best={best}
-        studiedToday={studiedToday}
+        daily={daily}
         savedCount={savedCount}
         completedCount={completedCount}
         readyCount={readyCount}
@@ -57,6 +60,8 @@ export default function Home() {
           learnedItems: essentialsProgress.learnedTotal,
         }}
       />
+
+      <ReviewBanner />
 
       <TodayTopic
         topic={todayTopic}

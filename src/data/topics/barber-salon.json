@@ -7,38 +7,168 @@
   "description": "Explain what you want and describe your appearance.",
   "descriptionAr": "اشرح ما تريده، وصِف مظهرك.",
   "words": [
-    { "en": "haircut", "ar": "قَصّة شعر / حلاقة", "phonetic": "/ˈhɛrˌkʌt/", "example": "I need a haircut before the wedding." },
-    { "en": "trim", "ar": "تهذيب (قصّ خفيف للأطراف)", "phonetic": "/trɪm/", "example": "Just a trim, please." },
-    { "en": "shave", "ar": "حلاقة الذقن / يحلق", "phonetic": "/ʃeɪv/", "example": "The barber gives me a clean shave." },
-    { "en": "beard", "ar": "لحية / ذقن", "phonetic": "/bɪrd/", "example": "My brother has a thick black beard." },
-    { "en": "mustache", "ar": "شارب / شنب", "phonetic": "/ˈmʌstæʃ/", "example": "My grandfather has a gray mustache." },
-    { "en": "scissors", "ar": "مقص", "phonetic": "/ˈsɪzərz/", "example": "The barber cuts my hair with scissors." },
-    { "en": "razor", "ar": "موس الحلاقة", "phonetic": "/ˈreɪzər/", "example": "Be careful, the razor is very sharp." },
-    { "en": "comb", "ar": "مشط", "phonetic": "/koʊm/", "example": "I always carry a small comb." },
-    { "en": "shampoo", "ar": "شامبو", "phonetic": "/ʃæmˈpu/", "example": "This shampoo smells nice." },
-    { "en": "style", "ar": "تسريحة / ستايل", "phonetic": "/staɪl/", "example": "I want a new style for the summer." },
-    { "en": "short", "ar": "قصير", "phonetic": "/ʃɔrt/", "example": "She has short curly hair." },
-    { "en": "long", "ar": "طويل", "phonetic": "/lɔŋ/", "example": "His hair is long and straight." },
-    { "en": "layers", "ar": "طبقات / درجات (في قَصّة الشعر)", "phonetic": "/ˈleɪərz/", "example": "The hairdresser adds layers to my hair." },
-    { "en": "fade", "ar": "فيد (تدريج الشعر من القصير إلى الأطول)", "phonetic": "/feɪd/", "example": "A fade is very popular with young men." },
-    { "en": "appointment", "ar": "موعد / حجز", "phonetic": "/əˈpɔɪntmənt/", "example": "I have an appointment at five o'clock." },
-    { "en": "mirror", "ar": "مرآة", "phonetic": "/ˈmɪrər/", "example": "Look in the mirror. Do you like it?" },
-    { "en": "wax", "ar": "واكس (كريم تصفيف الشعر)", "phonetic": "/wæks/", "example": "He puts some wax in his hair." },
-    { "en": "dye", "ar": "صبغة / يصبغ", "phonetic": "/daɪ/", "example": "My mother wants to dye her hair brown." },
-    { "en": "gel", "ar": "جِل (للشعر)", "phonetic": "/dʒɛl/", "example": "Too much gel makes your hair hard." },
-    { "en": "neat", "ar": "مُرتَّب / أنيق", "phonetic": "/nit/", "example": "Your beard looks neat now." }
+    {
+      "en": "haircut",
+      "ar": "قَصّة شعر / حلاقة",
+      "phonetic": "/ˈhɛrˌkʌt/",
+      "example": "I need a haircut before the wedding."
+    },
+    {
+      "en": "trim",
+      "ar": "تهذيب (قصّ خفيف للأطراف)",
+      "phonetic": "/trɪm/",
+      "example": "Just a trim, please."
+    },
+    {
+      "en": "shave",
+      "ar": "حلاقة الذقن / يحلق",
+      "phonetic": "/ʃeɪv/",
+      "example": "The barber gives me a clean shave."
+    },
+    {
+      "en": "beard",
+      "ar": "لحية / ذقن",
+      "phonetic": "/bɪrd/",
+      "example": "My brother has a thick black beard."
+    },
+    {
+      "en": "mustache",
+      "ar": "شارب / شنب",
+      "phonetic": "/ˈmʌstæʃ/",
+      "example": "My grandfather has a gray mustache."
+    },
+    {
+      "en": "scissors",
+      "ar": "مقص",
+      "phonetic": "/ˈsɪzərz/",
+      "example": "The barber cuts my hair with scissors."
+    },
+    {
+      "en": "razor",
+      "ar": "موس الحلاقة",
+      "phonetic": "/ˈreɪzər/",
+      "example": "Be careful, the razor is very sharp."
+    },
+    {
+      "en": "comb",
+      "ar": "مشط",
+      "phonetic": "/koʊm/",
+      "example": "I always carry a small comb."
+    },
+    {
+      "en": "shampoo",
+      "ar": "شامبو",
+      "phonetic": "/ʃæmˈpu/",
+      "example": "This shampoo smells nice."
+    },
+    {
+      "en": "style",
+      "ar": "تسريحة / ستايل",
+      "phonetic": "/staɪl/",
+      "example": "I want a new style for the summer."
+    },
+    {
+      "en": "short",
+      "ar": "قصير",
+      "phonetic": "/ʃɔrt/",
+      "example": "She has short curly hair."
+    },
+    {
+      "en": "long",
+      "ar": "طويل",
+      "phonetic": "/lɔŋ/",
+      "example": "His hair is long and straight."
+    },
+    {
+      "en": "layers",
+      "ar": "طبقات / درجات (في قَصّة الشعر)",
+      "phonetic": "/ˈleɪərz/",
+      "example": "The hairdresser adds layers to my hair."
+    },
+    {
+      "en": "fade",
+      "ar": "فيد (تدريج الشعر من القصير إلى الأطول)",
+      "phonetic": "/feɪd/",
+      "example": "A fade is very popular with young men."
+    },
+    {
+      "en": "appointment",
+      "ar": "موعد / حجز",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "example": "I have an appointment at five o'clock."
+    },
+    {
+      "en": "mirror",
+      "ar": "مرآة",
+      "phonetic": "/ˈmɪrər/",
+      "example": "Look in the mirror. Do you like it?"
+    },
+    {
+      "en": "wax",
+      "ar": "واكس (كريم تصفيف الشعر)",
+      "phonetic": "/wæks/",
+      "example": "He puts some wax in his hair."
+    },
+    {
+      "en": "dye",
+      "ar": "صبغة / يصبغ",
+      "phonetic": "/daɪ/",
+      "example": "My mother wants to dye her hair brown."
+    },
+    {
+      "en": "gel",
+      "ar": "جِل (للشعر)",
+      "phonetic": "/dʒɛl/",
+      "example": "Too much gel makes your hair hard."
+    },
+    {
+      "en": "neat",
+      "ar": "مُرتَّب / أنيق",
+      "phonetic": "/nit/",
+      "example": "Your beard looks neat now."
+    }
   ],
   "sentences": [
-    { "en": "I'd like to have my hair cut, please.", "ar": "أريد أن أقصّ شعري من فضلك." },
-    { "en": "Just a small trim, please. Not too short.", "ar": "تهذيب خفيف فقط من فضلك. ليس قصيراً جداً." },
-    { "en": "Can you cut the sides short and leave the top long?", "ar": "هل يمكنك أن تقصّ الجوانب قصيرة وتترك الجزء العلوي طويلاً؟" },
-    { "en": "I want to have my beard trimmed too.", "ar": "أريد أن أهذّب لحيتي أيضاً." },
-    { "en": "Do I need an appointment, or can I wait?", "ar": "هل أحتاج إلى موعد، أم يمكنني الانتظار؟" },
-    { "en": "How much is a haircut and a shave?", "ar": "بكم قصّة الشعر مع حلاقة الذقن؟" },
-    { "en": "My sister is having her hair dyed today.", "ar": "أختي تصبغ شعرها اليوم (في الصالون)." },
-    { "en": "Please use scissors on the top.", "ar": "من فضلك استخدم المقص في الجزء العلوي." },
-    { "en": "I usually have my hair cut every month.", "ar": "عادةً أقصّ شعري كل شهر." },
-    { "en": "Can I see the back in the mirror?", "ar": "هل يمكنني أن أرى الخلف في المرآة؟" }
+    {
+      "en": "I'd like to have my hair cut, please.",
+      "ar": "أريد أن أقصّ شعري من فضلك."
+    },
+    {
+      "en": "Just a small trim, please. Not too short.",
+      "ar": "تهذيب خفيف فقط من فضلك. ليس قصيراً جداً."
+    },
+    {
+      "en": "Can you cut the sides short and leave the top long?",
+      "ar": "هل يمكنك أن تقصّ الجوانب قصيرة وتترك الجزء العلوي طويلاً؟"
+    },
+    {
+      "en": "I want to have my beard trimmed too.",
+      "ar": "أريد أن أهذّب لحيتي أيضاً."
+    },
+    {
+      "en": "Do I need an appointment, or can I wait?",
+      "ar": "هل أحتاج إلى موعد، أم يمكنني الانتظار؟"
+    },
+    {
+      "en": "How much is a haircut and a shave?",
+      "ar": "بكم قصّة الشعر مع حلاقة الذقن؟"
+    },
+    {
+      "en": "My sister is having her hair dyed today.",
+      "ar": "أختي تصبغ شعرها اليوم (في الصالون)."
+    },
+    {
+      "en": "Please use scissors on the top.",
+      "ar": "من فضلك استخدم المقص في الجزء العلوي."
+    },
+    {
+      "en": "I usually have my hair cut every month.",
+      "ar": "عادةً أقصّ شعري كل شهر."
+    },
+    {
+      "en": "Can I see the back in the mirror?",
+      "ar": "هل يمكنني أن أرى الخلف في المرآة؟"
+    }
   ],
   "story": {
     "title": "Just a Small Trim",
@@ -50,18 +180,117 @@
     "explanationAr": "عندما يقوم شخص آخر بعمل شيء لك، مثل الحلاق، نستخدم have + الشيء + التصريف الثالث للفعل، مثل: I have my hair cut. هذا يعني أن الحلاق هو الذي يقصّ شعرك، وليس أنت. ونقول أيضاً I want to have my beard trimmed و She is having her hair dyed. ولوصف المظهر نستخدم صفات مثل short و long و neat و curly، وتأتي الصفة قبل الاسم: short hair و a neat beard.",
     "rule": "have + object + past participle\nI have my hair cut. / He has his beard shaved.\nI want to have my hair dyed.\nadjective + noun: short hair, a long beard, a neat style",
     "examples": [
-      { "en": "I have my hair cut every three weeks.", "ar": "أقصّ شعري (عند الحلاق) كل ثلاثة أسابيع." },
-      { "en": "He wants to have his beard trimmed.", "ar": "يريد أن يهذّب لحيته (عند الحلاق)." },
-      { "en": "She is having her hair dyed brown.", "ar": "هي تصبغ شعرها باللون البني (في الصالون)." },
-      { "en": "I like your new short style.", "ar": "تعجبني تسريحتك القصيرة الجديدة." },
-      { "en": "His mustache looks neat now.", "ar": "شاربه يبدو مرتّباً الآن." }
+      {
+        "en": "I have my hair cut every three weeks.",
+        "ar": "أقصّ شعري (عند الحلاق) كل ثلاثة أسابيع."
+      },
+      {
+        "en": "He wants to have his beard trimmed.",
+        "ar": "يريد أن يهذّب لحيته (عند الحلاق)."
+      },
+      {
+        "en": "She is having her hair dyed brown.",
+        "ar": "هي تصبغ شعرها باللون البني (في الصالون)."
+      },
+      {
+        "en": "I like your new short style.",
+        "ar": "تعجبني تسريحتك القصيرة الجديدة."
+      },
+      {
+        "en": "His mustache looks neat now.",
+        "ar": "شاربه يبدو مرتّباً الآن."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Haircut and a Trim",
+    "settingAr": "إنت عند الحلاق وعايز تقص شعرك وتظبط دقنك، فبتشرحله إنت عايز إيه.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Barber",
+        "nameAr": "الحلاق"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hi, please have a seat. What would you like today?",
+        "ar": "أهلاً، اتفضل اقعد. عايز تعمل إيه النهارده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'd like to have my hair cut, please.",
+        "ar": "عايز أقص شعري لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. How short do you want it?",
+        "ar": "أكيد. عايزه قصير قد إيه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Cut the sides short and leave the top long.",
+        "ar": "قصّر الجناب وسيب الشعر من فوق طويل."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay. Would you like a fade on the sides?",
+        "ar": "تمام. تحب أعملك فيد على الجناب؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, a light fade. Not too short, please.",
+        "ar": "أيوه، فيد خفيف. مش قصير أوي لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "No problem. Anything else?",
+        "ar": "ماشي. حاجة تانية؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I want to have my beard trimmed too.",
+        "ar": "وعايز أظبط دقني كمان."
+      },
+      {
+        "speaker": "A",
+        "en": "All done. Would you like some gel or wax?",
+        "ar": "خلصنا. تحب أحطلك جل ولا واكس؟"
+      },
+      {
+        "speaker": "B",
+        "en": "A little wax, please. It looks really neat!",
+        "ar": "شوية واكس لو سمحت. شكله مترتب جداً!"
+      },
+      {
+        "speaker": "A",
+        "en": "Thanks! That's twenty dollars for both.",
+        "ar": "شكراً! الاتنين بعشرين دولار."
+      },
+      {
+        "speaker": "B",
+        "en": "Here you are. See you next month!",
+        "ar": "اتفضل. أشوفك الشهر الجاي!"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "The barber uses ___ to cut your hair.",
-      "options": ["shampoo", "a mirror", "scissors", "gel"],
+      "options": [
+        "shampoo",
+        "a mirror",
+        "scissors",
+        "gel"
+      ],
       "answer": "scissors"
     },
     {
@@ -72,13 +301,26 @@
     },
     {
       "type": "order",
-      "words": ["have", "cut.", "want", "my", "I", "to", "hair"],
+      "words": [
+        "have",
+        "cut.",
+        "want",
+        "my",
+        "I",
+        "to",
+        "hair"
+      ],
       "answer": "I want to have my hair cut."
     },
     {
       "type": "mcq",
       "question": "She wants to have her hair ___ red.",
-      "options": ["dye", "dyed", "dyeing", "dyes"],
+      "options": [
+        "dye",
+        "dyed",
+        "dyeing",
+        "dyes"
+      ],
       "answer": "dyed"
     },
     {
@@ -89,13 +331,24 @@
     },
     {
       "type": "order",
-      "words": ["neat.", "beard", "very", "His", "looks"],
+      "words": [
+        "neat.",
+        "beard",
+        "very",
+        "His",
+        "looks"
+      ],
       "answer": "His beard looks very neat."
     },
     {
       "type": "mcq",
       "question": "The hair on a man's chin and cheeks is his ___.",
-      "options": ["beard", "comb", "fade", "razor"],
+      "options": [
+        "beard",
+        "comb",
+        "fade",
+        "razor"
+      ],
       "answer": "beard"
     },
     {

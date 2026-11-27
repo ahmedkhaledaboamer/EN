@@ -5,6 +5,7 @@ import SpeakButton from '../../speech/SpeakButton';
 import MicButton from '../../speech/MicButton';
 import SpeakFeedback from '../../speech/SpeakFeedback';
 import { isRecognitionSupported, useSpeakCheck } from '../../../hooks/useSpeechRecognition';
+import { useSettings } from '../../../hooks/useSettings';
 
 function SentenceRow({ sentence, index, open, onToggle }) {
   const check = useSpeakCheck(sentence.en);
@@ -53,7 +54,10 @@ function SentenceRow({ sentence, index, open, onToggle }) {
 }
 
 export default function SentencesTab({ topic }) {
-  const [revealed, setRevealed] = useState(() => new Set());
+  const { settings } = useSettings();
+  const [revealed, setRevealed] = useState(() =>
+    settings.showArabic ? new Set(topic.sentences.map((_, i) => i)) : new Set(),
+  );
   const allShown = revealed.size === topic.sentences.length;
 
   const toggleOne = (i) =>

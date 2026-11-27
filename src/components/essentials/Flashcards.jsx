@@ -5,6 +5,7 @@ import Button from '../ui/Button';
 import ProgressBar from '../ui/ProgressBar';
 import SpeakButton from '../speech/SpeakButton';
 import { shuffle } from '../../utils/answers';
+import { useDailyGoal } from '../../hooks/useDailyGoal';
 
 /**
  * Flip cards. "I know it" marks the item as learned (same progress as "Got it"),
@@ -15,6 +16,7 @@ export default function Flashcards({ items, isLearned, setLearned, onActivity })
   const [pos, setPos] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [session, setSession] = useState({}); // en → 'known' | 'unknown'
+  const { addWord } = useDailyGoal();
 
   const card = deck[pos];
   const done = pos >= deck.length;
@@ -30,12 +32,15 @@ export default function Flashcards({ items, isLearned, setLearned, onActivity })
     (known) => {
       if (!card) return;
       setLearned(card.en, known);
-      if (known) onActivity?.();
+      if (known) {
+        onActivity?.();
+        addWord();
+      }
       setSession((s) => ({ ...s, [card.en]: known ? 'known' : 'unknown' }));
       setFlipped(false);
       setPos((p) => p + 1);
     },
-    [card, setLearned, onActivity],
+    [card, setLearned, onActivity, addWord],
   );
 
   useEffect(() => {

@@ -7,38 +7,168 @@
   "description": "Open an account, transfer money, and solve card problems.",
   "descriptionAr": "افتح حساباً، وحوّل الأموال، وحُلّ مشكلات البطاقة البنكية.",
   "words": [
-    { "en": "account", "ar": "حساب (بنكي)", "phonetic": "/əˈkaʊnt/", "example": "I'd like to open a bank account." },
-    { "en": "balance", "ar": "الرصيد", "phonetic": "/ˈbæləns/", "example": "I check my balance on the app every week." },
-    { "en": "deposit", "ar": "يودِع / إيداع", "phonetic": "/dɪˈpɑzɪt/", "example": "I want to deposit this check, please." },
-    { "en": "withdraw", "ar": "يسحب (نقوداً)", "phonetic": "/wɪðˈdrɔ/", "example": "How much can I withdraw in one day?" },
-    { "en": "transfer", "ar": "تحويل (أموال)", "phonetic": "/ˈtrænsfər/", "example": "The transfer usually takes two working days." },
-    { "en": "ATM", "ar": "ماكينة الصرف الآلي / الصرّاف الآلي", "phonetic": "/ˌeɪ ti ˈɛm/", "example": "Is there an ATM near here?" },
-    { "en": "card", "ar": "بطاقة (بنكية)", "phonetic": "/kɑrd/", "example": "My new card will arrive by mail." },
-    { "en": "PIN", "ar": "الرقم السري (للبطاقة)", "phonetic": "/pɪn/", "example": "Never tell anyone your PIN." },
-    { "en": "loan", "ar": "قرض", "phonetic": "/loʊn/", "example": "They took a loan to buy a car." },
-    { "en": "interest", "ar": "فائدة (بنكية)", "phonetic": "/ˈɪntrəst/", "example": "The interest on this loan is very high." },
-    { "en": "savings", "ar": "مدخرات / توفير", "phonetic": "/ˈseɪvɪŋz/", "example": "She keeps her savings in a separate account." },
-    { "en": "statement", "ar": "كشف حساب", "phonetic": "/ˈsteɪtmənt/", "example": "My monthly statement shows every payment." },
-    { "en": "cashier", "ar": "صرّاف / أمين الصندوق", "phonetic": "/kæˈʃɪr/", "example": "The cashier counted the money twice." },
-    { "en": "branch", "ar": "فرع (البنك)", "phonetic": "/bræntʃ/", "example": "The bank has a branch in every city." },
-    { "en": "fee", "ar": "رسوم", "phonetic": "/fi/", "example": "There is a small fee for using another bank's ATM." },
-    { "en": "currency", "ar": "عملة", "phonetic": "/ˈkərənsi/", "example": "The euro is the currency of Spain." },
-    { "en": "exchange rate", "ar": "سعر الصرف", "phonetic": "/ɪksˈtʃeɪndʒ reɪt/", "example": "The exchange rate changes every day." },
-    { "en": "overdraft", "ar": "سحب على المكشوف (السحب بأكثر من الرصيد)", "phonetic": "/ˈoʊvərˌdræft/", "example": "I don't want to use my overdraft this month." },
-    { "en": "fraud", "ar": "احتيال / نصب", "phonetic": "/frɔd/", "example": "Call the bank immediately if you think it's fraud." },
-    { "en": "sign", "ar": "يوقّع", "phonetic": "/saɪn/", "example": "Please sign here at the bottom of the form." }
+    {
+      "en": "account",
+      "ar": "حساب (بنكي)",
+      "phonetic": "/əˈkaʊnt/",
+      "example": "I'd like to open a bank account."
+    },
+    {
+      "en": "balance",
+      "ar": "الرصيد",
+      "phonetic": "/ˈbæləns/",
+      "example": "I check my balance on the app every week."
+    },
+    {
+      "en": "deposit",
+      "ar": "يودِع / إيداع",
+      "phonetic": "/dɪˈpɑzɪt/",
+      "example": "I want to deposit this check, please."
+    },
+    {
+      "en": "withdraw",
+      "ar": "يسحب (نقوداً)",
+      "phonetic": "/wɪðˈdrɔ/",
+      "example": "How much can I withdraw in one day?"
+    },
+    {
+      "en": "transfer",
+      "ar": "تحويل (أموال)",
+      "phonetic": "/ˈtrænsfər/",
+      "example": "The transfer usually takes two working days."
+    },
+    {
+      "en": "ATM",
+      "ar": "ماكينة الصرف الآلي / الصرّاف الآلي",
+      "phonetic": "/ˌeɪ ti ˈɛm/",
+      "example": "Is there an ATM near here?"
+    },
+    {
+      "en": "card",
+      "ar": "بطاقة (بنكية)",
+      "phonetic": "/kɑrd/",
+      "example": "My new card will arrive by mail."
+    },
+    {
+      "en": "PIN",
+      "ar": "الرقم السري (للبطاقة)",
+      "phonetic": "/pɪn/",
+      "example": "Never tell anyone your PIN."
+    },
+    {
+      "en": "loan",
+      "ar": "قرض",
+      "phonetic": "/loʊn/",
+      "example": "They took a loan to buy a car."
+    },
+    {
+      "en": "interest",
+      "ar": "فائدة (بنكية)",
+      "phonetic": "/ˈɪntrəst/",
+      "example": "The interest on this loan is very high."
+    },
+    {
+      "en": "savings",
+      "ar": "مدخرات / توفير",
+      "phonetic": "/ˈseɪvɪŋz/",
+      "example": "She keeps her savings in a separate account."
+    },
+    {
+      "en": "statement",
+      "ar": "كشف حساب",
+      "phonetic": "/ˈsteɪtmənt/",
+      "example": "My monthly statement shows every payment."
+    },
+    {
+      "en": "cashier",
+      "ar": "صرّاف / أمين الصندوق",
+      "phonetic": "/kæˈʃɪr/",
+      "example": "The cashier counted the money twice."
+    },
+    {
+      "en": "branch",
+      "ar": "فرع (البنك)",
+      "phonetic": "/bræntʃ/",
+      "example": "The bank has a branch in every city."
+    },
+    {
+      "en": "fee",
+      "ar": "رسوم",
+      "phonetic": "/fi/",
+      "example": "There is a small fee for using another bank's ATM."
+    },
+    {
+      "en": "currency",
+      "ar": "عملة",
+      "phonetic": "/ˈkərənsi/",
+      "example": "The euro is the currency of Spain."
+    },
+    {
+      "en": "exchange rate",
+      "ar": "سعر الصرف",
+      "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+      "example": "The exchange rate changes every day."
+    },
+    {
+      "en": "overdraft",
+      "ar": "سحب على المكشوف (السحب بأكثر من الرصيد)",
+      "phonetic": "/ˈoʊvərˌdræft/",
+      "example": "I don't want to use my overdraft this month."
+    },
+    {
+      "en": "fraud",
+      "ar": "احتيال / نصب",
+      "phonetic": "/frɔd/",
+      "example": "Call the bank immediately if you think it's fraud."
+    },
+    {
+      "en": "sign",
+      "ar": "يوقّع",
+      "phonetic": "/saɪn/",
+      "example": "Please sign here at the bottom of the form."
+    }
   ],
   "sentences": [
-    { "en": "I'd like to open a savings account.", "ar": "أود فتح حساب توفير." },
-    { "en": "I have lost my bank card.", "ar": "لقد فقدت بطاقتي البنكية." },
-    { "en": "The ATM has kept my card.", "ar": "ماكينة الصرف احتجزت بطاقتي." },
-    { "en": "I've forgotten my PIN.", "ar": "لقد نسيت رقمي السري." },
-    { "en": "Has my transfer arrived yet?", "ar": "هل وصل التحويل الخاص بي بعد؟" },
-    { "en": "What's the exchange rate for dollars today?", "ar": "ما سعر صرف الدولار اليوم؟" },
-    { "en": "I think someone has used my card without permission.", "ar": "أعتقد أن شخصاً ما استخدم بطاقتي دون إذن." },
-    { "en": "Is there a fee for this transfer?", "ar": "هل توجد رسوم على هذا التحويل؟" },
-    { "en": "Could I have a copy of my bank statement?", "ar": "هل يمكنني الحصول على نسخة من كشف حسابي؟" },
-    { "en": "Have you ever taken a loan from a bank?", "ar": "هل سبق لك أن أخذت قرضاً من بنك؟" }
+    {
+      "en": "I'd like to open a savings account.",
+      "ar": "أود فتح حساب توفير."
+    },
+    {
+      "en": "I have lost my bank card.",
+      "ar": "لقد فقدت بطاقتي البنكية."
+    },
+    {
+      "en": "The ATM has kept my card.",
+      "ar": "ماكينة الصرف احتجزت بطاقتي."
+    },
+    {
+      "en": "I've forgotten my PIN.",
+      "ar": "لقد نسيت رقمي السري."
+    },
+    {
+      "en": "Has my transfer arrived yet?",
+      "ar": "هل وصل التحويل الخاص بي بعد؟"
+    },
+    {
+      "en": "What's the exchange rate for dollars today?",
+      "ar": "ما سعر صرف الدولار اليوم؟"
+    },
+    {
+      "en": "I think someone has used my card without permission.",
+      "ar": "أعتقد أن شخصاً ما استخدم بطاقتي دون إذن."
+    },
+    {
+      "en": "Is there a fee for this transfer?",
+      "ar": "هل توجد رسوم على هذا التحويل؟"
+    },
+    {
+      "en": "Could I have a copy of my bank statement?",
+      "ar": "هل يمكنني الحصول على نسخة من كشف حسابي؟"
+    },
+    {
+      "en": "Have you ever taken a loan from a bank?",
+      "ar": "هل سبق لك أن أخذت قرضاً من بنك؟"
+    }
   ],
   "story": {
     "title": "A Lost Card in Spain",
@@ -50,18 +180,117 @@
     "explanationAr": "نستخدم المضارع التام (present perfect) للحديث عن شيء حدث في الماضي لكن نتيجته مهمة الآن، مثل: I have lost my card، أي أن البطاقة ما زالت ضائعة. يتكوّن من have أو has + التصريف الثالث للفعل (past participle) مثل lost و forgotten و used. نستخدم has مع he و she و it، ونستخدم have مع باقي الضمائر. وللسؤال عن التجارب في الحياة نقول Have you ever ...? وفي النفي نقول haven't أو hasn't.",
     "rule": "I / You / We / They + have ('ve) + past participle\nHe / She / It + has ('s) + past participle\nI haven't / She hasn't + past participle\nHave you ever + past participle ...?",
     "examples": [
-      { "en": "I have lost my card.", "ar": "لقد فقدت بطاقتي." },
-      { "en": "She has transferred the money to her son.", "ar": "لقد حوّلت المال إلى ابنها." },
-      { "en": "Have you ever used an ATM abroad?", "ar": "هل سبق لك أن استخدمت ماكينة صرف في الخارج؟" },
-      { "en": "We haven't received the bank statement yet.", "ar": "لم نستلم كشف الحساب بعد." },
-      { "en": "The bank has charged me a fee.", "ar": "لقد خصم البنك مني رسوماً." }
+      {
+        "en": "I have lost my card.",
+        "ar": "لقد فقدت بطاقتي."
+      },
+      {
+        "en": "She has transferred the money to her son.",
+        "ar": "لقد حوّلت المال إلى ابنها."
+      },
+      {
+        "en": "Have you ever used an ATM abroad?",
+        "ar": "هل سبق لك أن استخدمت ماكينة صرف في الخارج؟"
+      },
+      {
+        "en": "We haven't received the bank statement yet.",
+        "ar": "لم نستلم كشف الحساب بعد."
+      },
+      {
+        "en": "The bank has charged me a fee.",
+        "ar": "لقد خصم البنك مني رسوماً."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Reporting a Lost Card",
+    "settingAr": "إنت في البنك عشان كارت البنك بتاعك ضاع، وبتكلم موظف البنك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Bank Clerk",
+        "nameAr": "موظف البنك"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "العميل (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good morning. How can I help you today?",
+        "ar": "صباح الخير. أقدر أساعدك إزاي النهارده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Good morning. I think I've lost my bank card.",
+        "ar": "صباح النور. أنا شكلي ضيّعت كارت البنك بتاعي."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm sorry to hear that. When did you last use it?",
+        "ar": "آسف إني أسمع كده. آخر مرة استخدمته إمتى؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I used it at the ATM yesterday evening.",
+        "ar": "استخدمته في مكنة الـATM امبارح بالليل."
+      },
+      {
+        "speaker": "A",
+        "en": "Can I see your ID, please?",
+        "ar": "ممكن أشوف بطاقتك الشخصية لو سمحت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Here you are. Has anyone used my card since then?",
+        "ar": "اتفضل. حد استخدم الكارت بتاعي من ساعتها؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Let me check your account. No, there are no new payments.",
+        "ar": "خليني أشوف حسابك. لأ، مفيش أي مدفوعات جديدة."
+      },
+      {
+        "speaker": "B",
+        "en": "That's a relief. Can you block the card, please?",
+        "ar": "الحمد لله. ممكن توقّف الكارت لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "I've blocked it. We'll send you a new card.",
+        "ar": "وقّفته خلاص. هنبعتلك كارت جديد."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Is there a fee for the new card?",
+        "ar": "شكراً. فيه رسوم على الكارت الجديد؟"
+      },
+      {
+        "speaker": "A",
+        "en": "No, it's free. It will arrive in about a week.",
+        "ar": "لأ، ببلاش. هيوصلك في حوالي أسبوع."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Thanks for your help.",
+        "ar": "تمام. شكراً على مساعدتك."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "The bank is closed. Where can you get cash?",
-      "options": ["At the branch", "At an ATM", "At the cashier's desk", "At the post office"],
+      "options": [
+        "At the branch",
+        "At an ATM",
+        "At the cashier's desk",
+        "At the post office"
+      ],
       "answer": "At an ATM"
     },
     {
@@ -72,13 +301,25 @@
     },
     {
       "type": "order",
-      "words": ["bank", "lost", "I", "card.", "my", "have"],
+      "words": [
+        "bank",
+        "lost",
+        "I",
+        "card.",
+        "my",
+        "have"
+      ],
       "answer": "I have lost my bank card."
     },
     {
       "type": "mcq",
       "question": "She ___ her PIN, so she can't use her card.",
-      "options": ["have forgotten", "has forget", "has forgotten", "forgetting"],
+      "options": [
+        "have forgotten",
+        "has forget",
+        "has forgotten",
+        "forgetting"
+      ],
       "answer": "has forgotten"
     },
     {
@@ -89,13 +330,24 @@
     },
     {
       "type": "order",
-      "words": ["arrived", "Has", "yet?", "money", "the"],
+      "words": [
+        "arrived",
+        "Has",
+        "yet?",
+        "money",
+        "the"
+      ],
       "answer": "Has the money arrived yet?"
     },
     {
       "type": "mcq",
       "question": "The extra money you pay the bank for a loan is called ___.",
-      "options": ["savings", "balance", "a deposit", "interest"],
+      "options": [
+        "savings",
+        "balance",
+        "a deposit",
+        "interest"
+      ],
       "answer": "interest"
     },
     {

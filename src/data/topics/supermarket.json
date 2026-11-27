@@ -7,38 +7,168 @@
   "description": "Find products, ask about prices, and pay at the checkout.",
   "descriptionAr": "ابحث عن المنتجات، واسأل عن الأسعار، وادفع عند الكاشير.",
   "words": [
-    { "en": "cashier", "ar": "كاشير / أمين الصندوق", "phonetic": "/kæˈʃɪr/", "example": "The cashier is very friendly." },
-    { "en": "aisle", "ar": "ممر (بين الرفوف)", "phonetic": "/aɪl/", "example": "The rice is in aisle five." },
-    { "en": "shelf", "ar": "رف", "phonetic": "/ʃɛlf/", "example": "The milk is on the bottom shelf." },
-    { "en": "cart", "ar": "عربة التسوق", "phonetic": "/kɑrt/", "example": "I put the water bottles in the cart." },
-    { "en": "basket", "ar": "سلة", "phonetic": "/ˈbæskɪt/", "example": "I only need a small basket today." },
-    { "en": "receipt", "ar": "إيصال / فاتورة", "phonetic": "/rɪˈsit/", "example": "Can I have the receipt, please?" },
-    { "en": "discount", "ar": "خصم / تخفيض", "phonetic": "/ˈdɪskaʊnt/", "example": "There is a 20% discount on fruit today." },
-    { "en": "checkout", "ar": "مكان الدفع", "phonetic": "/ˈtʃɛkaʊt/", "example": "The line at the checkout is very long." },
-    { "en": "groceries", "ar": "مشتريات البقالة", "phonetic": "/ˈɡroʊsəriz/", "example": "I buy groceries every Saturday." },
-    { "en": "price", "ar": "سعر", "phonetic": "/praɪs/", "example": "What is the price of this cheese?" },
-    { "en": "bag", "ar": "كيس", "phonetic": "/bæɡ/", "example": "Do you need a bag?" },
-    { "en": "cash", "ar": "نقداً / كاش", "phonetic": "/kæʃ/", "example": "I will pay in cash." },
-    { "en": "card", "ar": "بطاقة (بنكية)", "phonetic": "/kɑrd/", "example": "Can I pay by card?" },
-    { "en": "change", "ar": "الباقي (من النقود)", "phonetic": "/tʃeɪndʒ/", "example": "Here is your change." },
-    { "en": "bakery", "ar": "المخبز", "phonetic": "/ˈbeɪkəri/", "example": "The bread comes from the bakery every morning." },
-    { "en": "dairy", "ar": "منتجات الألبان", "phonetic": "/ˈdɛri/", "example": "Yogurt is in the dairy section." },
-    { "en": "frozen", "ar": "مُجمَّد", "phonetic": "/ˈfroʊzən/", "example": "I need some frozen vegetables." },
-    { "en": "fresh", "ar": "طازج", "phonetic": "/frɛʃ/", "example": "These tomatoes are very fresh." },
-    { "en": "expiration date", "ar": "تاريخ انتهاء الصلاحية", "phonetic": "/ˌɛkspəˈreɪʃən deɪt/", "example": "Always check the expiration date." },
-    { "en": "customer", "ar": "زبون / عميل", "phonetic": "/ˈkʌstəmər/", "example": "The customer is asking for help." }
+    {
+      "en": "cashier",
+      "ar": "كاشير / أمين الصندوق",
+      "phonetic": "/kæˈʃɪr/",
+      "example": "The cashier is very friendly."
+    },
+    {
+      "en": "aisle",
+      "ar": "ممر (بين الرفوف)",
+      "phonetic": "/aɪl/",
+      "example": "The rice is in aisle five."
+    },
+    {
+      "en": "shelf",
+      "ar": "رف",
+      "phonetic": "/ʃɛlf/",
+      "example": "The milk is on the bottom shelf."
+    },
+    {
+      "en": "cart",
+      "ar": "عربة التسوق",
+      "phonetic": "/kɑrt/",
+      "example": "I put the water bottles in the cart."
+    },
+    {
+      "en": "basket",
+      "ar": "سلة",
+      "phonetic": "/ˈbæskɪt/",
+      "example": "I only need a small basket today."
+    },
+    {
+      "en": "receipt",
+      "ar": "إيصال / فاتورة",
+      "phonetic": "/rɪˈsit/",
+      "example": "Can I have the receipt, please?"
+    },
+    {
+      "en": "discount",
+      "ar": "خصم / تخفيض",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "example": "There is a 20% discount on fruit today."
+    },
+    {
+      "en": "checkout",
+      "ar": "مكان الدفع",
+      "phonetic": "/ˈtʃɛkaʊt/",
+      "example": "The line at the checkout is very long."
+    },
+    {
+      "en": "groceries",
+      "ar": "مشتريات البقالة",
+      "phonetic": "/ˈɡroʊsəriz/",
+      "example": "I buy groceries every Saturday."
+    },
+    {
+      "en": "price",
+      "ar": "سعر",
+      "phonetic": "/praɪs/",
+      "example": "What is the price of this cheese?"
+    },
+    {
+      "en": "bag",
+      "ar": "كيس",
+      "phonetic": "/bæɡ/",
+      "example": "Do you need a bag?"
+    },
+    {
+      "en": "cash",
+      "ar": "نقداً / كاش",
+      "phonetic": "/kæʃ/",
+      "example": "I will pay in cash."
+    },
+    {
+      "en": "card",
+      "ar": "بطاقة (بنكية)",
+      "phonetic": "/kɑrd/",
+      "example": "Can I pay by card?"
+    },
+    {
+      "en": "change",
+      "ar": "الباقي (من النقود)",
+      "phonetic": "/tʃeɪndʒ/",
+      "example": "Here is your change."
+    },
+    {
+      "en": "bakery",
+      "ar": "المخبز",
+      "phonetic": "/ˈbeɪkəri/",
+      "example": "The bread comes from the bakery every morning."
+    },
+    {
+      "en": "dairy",
+      "ar": "منتجات الألبان",
+      "phonetic": "/ˈdɛri/",
+      "example": "Yogurt is in the dairy section."
+    },
+    {
+      "en": "frozen",
+      "ar": "مُجمَّد",
+      "phonetic": "/ˈfroʊzən/",
+      "example": "I need some frozen vegetables."
+    },
+    {
+      "en": "fresh",
+      "ar": "طازج",
+      "phonetic": "/frɛʃ/",
+      "example": "These tomatoes are very fresh."
+    },
+    {
+      "en": "expiration date",
+      "ar": "تاريخ انتهاء الصلاحية",
+      "phonetic": "/ˌɛkspəˈreɪʃən deɪt/",
+      "example": "Always check the expiration date."
+    },
+    {
+      "en": "customer",
+      "ar": "زبون / عميل",
+      "phonetic": "/ˈkʌstəmər/",
+      "example": "The customer is asking for help."
+    }
   ],
   "sentences": [
-    { "en": "Where can I find the milk?", "ar": "أين أجد الحليب؟" },
-    { "en": "Excuse me, which aisle is the rice in?", "ar": "عفواً، في أي ممر يوجد الأرز؟" },
-    { "en": "How much is this?", "ar": "بكم هذا؟" },
-    { "en": "Is this on sale?", "ar": "هل عليه تخفيض؟" },
-    { "en": "Can I pay by card?", "ar": "هل يمكنني الدفع بالبطاقة؟" },
-    { "en": "Do you have a smaller size?", "ar": "هل لديكم حجم أصغر؟" },
-    { "en": "I'd like a bag, please.", "ar": "أريد كيساً من فضلك." },
-    { "en": "Could I have the receipt, please?", "ar": "هل يمكنني الحصول على الإيصال من فضلك؟" },
-    { "en": "I think there's a mistake in the price.", "ar": "أعتقد أن هناك خطأ في السعر." },
-    { "en": "Do you sell fresh bread here?", "ar": "هل تبيعون خبزاً طازجاً هنا؟" }
+    {
+      "en": "Where can I find the milk?",
+      "ar": "أين أجد الحليب؟"
+    },
+    {
+      "en": "Excuse me, which aisle is the rice in?",
+      "ar": "عفواً، في أي ممر يوجد الأرز؟"
+    },
+    {
+      "en": "How much is this?",
+      "ar": "بكم هذا؟"
+    },
+    {
+      "en": "Is this on sale?",
+      "ar": "هل عليه تخفيض؟"
+    },
+    {
+      "en": "Can I pay by card?",
+      "ar": "هل يمكنني الدفع بالبطاقة؟"
+    },
+    {
+      "en": "Do you have a smaller size?",
+      "ar": "هل لديكم حجم أصغر؟"
+    },
+    {
+      "en": "I'd like a bag, please.",
+      "ar": "أريد كيساً من فضلك."
+    },
+    {
+      "en": "Could I have the receipt, please?",
+      "ar": "هل يمكنني الحصول على الإيصال من فضلك؟"
+    },
+    {
+      "en": "I think there's a mistake in the price.",
+      "ar": "أعتقد أن هناك خطأ في السعر."
+    },
+    {
+      "en": "Do you sell fresh bread here?",
+      "ar": "هل تبيعون خبزاً طازجاً هنا؟"
+    }
   ],
   "story": {
     "title": "A Busy Saturday",
@@ -50,18 +180,107 @@
     "explanationAr": "نستخدم How many مع الأسماء المعدودة، وهي الأشياء التي يمكن عدّها وتأتي بصيغة الجمع مثل bags و apples و customers. ونستخدم How much مع الأسماء غير المعدودة، وهي الأشياء التي لا نعدّها مثل milk و rice و bread و cash. وفي السوبرماركت نستخدم How much أيضاً للسؤال عن السعر: How much is this?",
     "rule": "How many + plural countable noun (bags, apples)\nHow much + uncountable noun (milk, rice, cash)\nHow much is / are …? = What is the price?",
     "examples": [
-      { "en": "How many bags do you need?", "ar": "كم كيساً تحتاج؟" },
-      { "en": "How much milk do we have at home?", "ar": "كم لدينا من الحليب في البيت؟" },
-      { "en": "How much is the fresh bread?", "ar": "بكم الخبز الطازج؟" },
-      { "en": "How many customers are at the checkout?", "ar": "كم زبوناً عند مكان الدفع؟" },
-      { "en": "How much cash do you have?", "ar": "كم معك من النقود؟" }
+      {
+        "en": "How many bags do you need?",
+        "ar": "كم كيساً تحتاج؟"
+      },
+      {
+        "en": "How much milk do we have at home?",
+        "ar": "كم لدينا من الحليب في البيت؟"
+      },
+      {
+        "en": "How much is the fresh bread?",
+        "ar": "بكم الخبز الطازج؟"
+      },
+      {
+        "en": "How many customers are at the checkout?",
+        "ar": "كم زبوناً عند مكان الدفع؟"
+      },
+      {
+        "en": "How much cash do you have?",
+        "ar": "كم معك من النقود؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the Checkout",
+    "settingAr": "إنت في السوبرماركت ومحتاج تلاقي الحليب، وبعدين بتدفع عند الكاشير.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Cashier",
+        "nameAr": "الكاشير"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Excuse me, where can I find the milk?",
+        "ar": "لو سمحت، ألاقي الحليب فين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's in the dairy section, aisle four.",
+        "ar": "في قسم الألبان، الممر الرابع."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Is this coffee on sale?",
+        "ar": "شكراً. هي القهوة دي عليها خصم؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, there is a twenty percent discount today.",
+        "ar": "أيوه، عليها خصم عشرين في المية النهارده."
+      },
+      {
+        "speaker": "B",
+        "en": "Great, I'll take two, please.",
+        "ar": "تمام، هاخد اتنين لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "Do you need a bag?",
+        "ar": "محتاج كيس؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, one bag, please. Can I pay by card?",
+        "ar": "أيوه، كيس واحد لو سمحت. ممكن أدفع بالكارت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. That's forty-two dollars.",
+        "ar": "طبعاً. الحساب اتنين وأربعين دولار."
+      },
+      {
+        "speaker": "B",
+        "en": "Could I have the receipt, please?",
+        "ar": "ممكن الإيصال لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Here you are. Have a nice day!",
+        "ar": "اتفضل. يومك سعيد!"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "Where do you pay for your groceries?",
-      "options": ["At the checkout", "In the aisle", "On the shelf", "In the bakery"],
+      "options": [
+        "At the checkout",
+        "In the aisle",
+        "On the shelf",
+        "In the bakery"
+      ],
       "answer": "At the checkout"
     },
     {
@@ -72,7 +291,14 @@
     },
     {
       "type": "order",
-      "words": ["can", "the", "Where", "milk?", "I", "find"],
+      "words": [
+        "can",
+        "the",
+        "Where",
+        "milk?",
+        "I",
+        "find"
+      ],
       "answer": "Where can I find the milk?"
     },
     {
@@ -83,7 +309,12 @@
     {
       "type": "mcq",
       "question": "___ milk do we need?",
-      "options": ["How many", "How much", "How long", "How often"],
+      "options": [
+        "How many",
+        "How much",
+        "How long",
+        "How often"
+      ],
       "answer": "How much"
     },
     {
@@ -94,7 +325,13 @@
     },
     {
       "type": "order",
-      "words": ["by", "pay", "Can", "card?", "I"],
+      "words": [
+        "by",
+        "pay",
+        "Can",
+        "card?",
+        "I"
+      ],
       "answer": "Can I pay by card?"
     },
     {

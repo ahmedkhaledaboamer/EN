@@ -1,20 +1,33 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { ArrowRight, Menu, X } from 'lucide-react';
+import { ArrowRight, Menu, Settings as SettingsIcon, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
 import Button from '../ui/Button';
 import { useTheme } from '../../hooks/useTheme';
 import { useTodayTopic } from '../../hooks/useTodayTopic';
+import { useReview } from '../../hooks/useReview';
 
 const NAV_LINKS = [
   { to: '/', label: 'Home', end: true },
   { to: '/topics', label: 'Topics' },
   { to: '/essentials', label: 'Essentials' },
+  { to: '/review', label: 'Review', badge: 'review' },
   { to: '/saved', label: 'Saved' },
 ];
 
-function DesktopLink({ to, label, end }) {
+/** Small yellow count bubble (e.g. words due for review). */
+function CountBadge({ count }) {
+  if (!count) return null;
+  return (
+    <span className="ml-1.5 inline-flex min-w-[1.25rem] items-center justify-center rounded-full bg-brand-yellow px-1.5 text-[11px] font-bold text-brand-ink">
+      {count > 99 ? '99+' : count}
+      <span className="sr-only"> due</span>
+    </span>
+  );
+}
+
+function DesktopLink({ to, label, end, count }) {
   return (
     <NavLink
       to={to}
@@ -37,6 +50,7 @@ function DesktopLink({ to, label, end }) {
             />
           )}
           {label}
+          <CountBadge count={count} />
         </>
       )}
     </NavLink>
@@ -46,6 +60,8 @@ function DesktopLink({ to, label, end }) {
 export default function Navbar() {
   const { isDark, toggleTheme } = useTheme();
   const { topic: todayTopic } = useTodayTopic();
+  const { dueCount } = useReview();
+  const countFor = (link) => (link.badge === 'review' ? dueCount : 0);
   const startHref = todayTopic ? `/topics/${todayTopic.slug}` : '/topics';
   const [menuOpen, setMenuOpen] = useState(false);
   const location = useLocation();
@@ -69,14 +85,22 @@ export default function Navbar() {
         </Link>
 
         {/* Center links (desktop) */}
-        <div className="isolate hidden items-center gap-1 md:flex">
+        <div className="isolate hidden items-center gap-1 lg:flex">
           {NAV_LINKS.map((link) => (
-            <DesktopLink key={link.to} {...link} />
+            <DesktopLink key={link.to} {...link} count={countFor(link)} />
           ))}
         </div>
 
         {/* Right side */}
         <div className="flex items-center gap-2 sm:gap-3">
+          <Link
+            to="/settings"
+            aria-label="Settings"
+            title="Settings"
+            className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-ink transition-colors hover:bg-neutral-200/70 sm:flex dark:text-white dark:hover:bg-white/10"
+          >
+            <SettingsIcon size={19} aria-hidden="true" />
+          </Link>
           <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
           <Button to={startHref} size="sm" className="hidden sm:inline-flex">
             Start Learning
@@ -87,7 +111,7 @@ export default function Navbar() {
             aria-label={menuOpen ? 'Close menu' : 'Open menu'}
             aria-expanded={menuOpen}
             aria-controls="mobile-menu"
-            className="flex h-10 w-10 items-center justify-center rounded-full text-brand-ink hover:bg-neutral-200/70 md:hidden dark:text-white dark:hover:bg-white/10"
+            className="flex h-10 w-10 items-center justify-center rounded-full text-brand-ink hover:bg-neutral-200/70 lg:hidden dark:text-white dark:hover:bg-white/10"
           >
             {menuOpen ? <X size={20} /> : <Menu size={20} />}
           </button>
@@ -103,10 +127,10 @@ export default function Navbar() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -8 }}
             transition={{ duration: 0.2 }}
-            className="px-4 pb-4 md:hidden"
+            className="px-4 pb-4 lg:hidden"
           >
             <div className="glass-card flex flex-col gap-1 p-3">
-              {NAV_LINKS.map(({ to, label, end }) => (
+              {NAV_LINKS.map(({ to, label, end, badge }) => (
                 <NavLink
                   key={to}
                   to={to}
@@ -120,8 +144,21 @@ export default function Navbar() {
                   }
                 >
                   {label}
+                  <CountBadge count={countFor({ badge })} />
                 </NavLink>
               ))}
+              <NavLink
+                to="/settings"
+                className={({ isActive }) =>
+                  `rounded-2xl px-4 py-3 text-sm font-medium ${
+                    isActive
+                      ? 'bg-neutral-200/80 text-brand-ink dark:bg-white/10 dark:text-white'
+                      : 'text-neutral-600 dark:text-neutral-300'
+                  }`
+                }
+              >
+                Settings
+              </NavLink>
               <Button to={startHref} className="mt-2 w-full">
                 Start Learning <ArrowRight size={16} aria-hidden="true" />
               </Button>

@@ -1,7 +1,7 @@
 import { useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { BookA, BookOpen, Clock, Lightbulb, MessageSquareText, Target } from 'lucide-react';
+import { BookA, BookOpen, Clock, Lightbulb, MessageSquareText, MessagesSquare, Target } from 'lucide-react';
 import TopicHeader from '../components/topic/TopicHeader';
 import Tabs from '../components/ui/Tabs';
 import SpeechNotice from '../components/speech/SpeechNotice';
@@ -9,6 +9,7 @@ import { SpeechProvider } from '../components/speech/SpeechContext';
 import WordsTab from '../components/topic/tabs/WordsTab';
 import SentencesTab from '../components/topic/tabs/SentencesTab';
 import StoryTab from '../components/topic/tabs/StoryTab';
+import DialogueTab from '../components/topic/tabs/DialogueTab';
 import GrammarTab from '../components/topic/tabs/GrammarTab';
 import PracticeTab from '../components/topic/tabs/PracticeTab';
 import Button from '../components/ui/Button';
@@ -21,6 +22,7 @@ const TABS = [
   { id: 'words', label: 'Words', icon: BookA },
   { id: 'sentences', label: 'Sentences', icon: MessageSquareText },
   { id: 'story', label: 'Story', icon: BookOpen },
+  { id: 'dialogue', label: 'Dialogue', icon: MessagesSquare },
   { id: 'grammar', label: 'Grammar', icon: Lightbulb },
   { id: 'practice', label: 'Practice', icon: Target },
 ];
@@ -60,8 +62,10 @@ export default function TopicPage() {
   const { getTopicProgress } = useProgress();
   const [params, setParams] = useSearchParams();
 
+  // The Dialogue tab only appears for topics that have a dialogue
+  const tabs = topic && !topic.dialogue ? TABS.filter((t) => t.id !== 'dialogue') : TABS;
   const requested = params.get('tab');
-  const tab = TABS.some((t) => t.id === requested) ? requested : 'words';
+  const tab = tabs.some((t) => t.id === requested) ? requested : 'words';
   const setTab = useCallback(
     (id) => setParams(id === 'words' ? {} : { tab: id }, { replace: true }),
     [setParams],
@@ -81,12 +85,13 @@ export default function TopicPage() {
       words: <WordsTab topic={topic} />,
       sentences: <SentencesTab topic={topic} />,
       story: <StoryTab topic={topic} />,
+      dialogue: topic.dialogue ? <DialogueTab topic={topic} /> : null,
       grammar: <GrammarTab topic={topic} />,
       practice: <PracticeTab topic={topic} onReviewWords={() => setTab('words')} />,
     };
     body = (
       <>
-        <Tabs tabs={TABS} active={tab} onChange={setTab} label="Topic sections" pillId="topic-tab-pill" />
+        <Tabs tabs={tabs} active={tab} onChange={setTab} label="Topic sections" pillId="topic-tab-pill" />
         <SpeechNotice />
         <AnimatePresence mode="wait">
           <motion.section

@@ -7,38 +7,168 @@
   "description": "Handle meetings, emails, deadlines, and teamwork.",
   "descriptionAr": "تعامل مع الاجتماعات والبريد الإلكتروني والمواعيد النهائية والعمل الجماعي.",
   "words": [
-    { "en": "meeting", "ar": "اجتماع", "phonetic": "/ˈmitɪŋ/", "example": "We have a team meeting every Monday morning." },
-    { "en": "deadline", "ar": "موعد نهائي / آخر موعد للتسليم", "phonetic": "/ˈdɛdlaɪn/", "example": "The deadline for this project is Friday." },
-    { "en": "manager", "ar": "مدير", "phonetic": "/ˈmænɪdʒər/", "example": "My manager wants to see me after lunch." },
-    { "en": "colleague", "ar": "زميل عمل", "phonetic": "/ˈkɑliɡ/", "example": "My colleague helped me with the new software." },
-    { "en": "task", "ar": "مهمة", "phonetic": "/tæsk/", "example": "I have three tasks to finish today." },
-    { "en": "project", "ar": "مشروع", "phonetic": "/ˈprɑdʒɛkt/", "example": "Our team is starting a new project next month." },
-    { "en": "report", "ar": "تقرير", "phonetic": "/rɪˈpɔrt/", "example": "Please send me the sales report by noon." },
-    { "en": "schedule", "ar": "جدول مواعيد", "phonetic": "/ˈskɛdʒul/", "example": "Let me check my schedule for tomorrow." },
-    { "en": "agenda", "ar": "جدول أعمال (الاجتماع)", "phonetic": "/əˈdʒɛndə/", "example": "The first item on the agenda is the budget." },
-    { "en": "presentation", "ar": "عرض تقديمي (presentation)", "phonetic": "/ˌprɛzənˈteɪʃən/", "example": "She is giving a presentation to the clients." },
-    { "en": "email", "ar": "بريد إلكتروني / إيميل", "phonetic": "/ˈimeɪl/", "example": "I will answer your email this afternoon." },
-    { "en": "attachment", "ar": "مرفق (ملف مرفق بالإيميل)", "phonetic": "/əˈtætʃmənt/", "example": "I forgot to add the attachment to my email." },
-    { "en": "feedback", "ar": "ملاحظات / تقييم (رأي في العمل)", "phonetic": "/ˈfidbæk/", "example": "Thanks for your feedback on my report." },
-    { "en": "promotion", "ar": "ترقية", "phonetic": "/prəˈmoʊʃən/", "example": "He got a promotion after two years." },
-    { "en": "salary", "ar": "راتب / مرتب", "phonetic": "/ˈsæləri/", "example": "My salary arrives at the end of each month." },
-    { "en": "overtime", "ar": "عمل إضافي / ساعات إضافية", "phonetic": "/ˈoʊvərˌtaɪm/", "example": "We worked overtime to finish the order." },
-    { "en": "teamwork", "ar": "عمل جماعي / روح الفريق", "phonetic": "/ˈtimˌwərk/", "example": "Good teamwork makes hard jobs easier." },
-    { "en": "client", "ar": "عميل", "phonetic": "/ˈklaɪənt/", "example": "The client is happy with our work." },
-    { "en": "priority", "ar": "أولوية", "phonetic": "/praɪˈɔrəti/", "example": "This task is our top priority this week." },
-    { "en": "follow up", "ar": "يتابع (موضوعاً أو طلباً)", "phonetic": "/ˈfɑloʊ ˈʌp/", "example": "I will follow up with the client tomorrow." }
+    {
+      "en": "meeting",
+      "ar": "اجتماع",
+      "phonetic": "/ˈmitɪŋ/",
+      "example": "We have a team meeting every Monday morning."
+    },
+    {
+      "en": "deadline",
+      "ar": "موعد نهائي / آخر موعد للتسليم",
+      "phonetic": "/ˈdɛdlaɪn/",
+      "example": "The deadline for this project is Friday."
+    },
+    {
+      "en": "manager",
+      "ar": "مدير",
+      "phonetic": "/ˈmænɪdʒər/",
+      "example": "My manager wants to see me after lunch."
+    },
+    {
+      "en": "colleague",
+      "ar": "زميل عمل",
+      "phonetic": "/ˈkɑliɡ/",
+      "example": "My colleague helped me with the new software."
+    },
+    {
+      "en": "task",
+      "ar": "مهمة",
+      "phonetic": "/tæsk/",
+      "example": "I have three tasks to finish today."
+    },
+    {
+      "en": "project",
+      "ar": "مشروع",
+      "phonetic": "/ˈprɑdʒɛkt/",
+      "example": "Our team is starting a new project next month."
+    },
+    {
+      "en": "report",
+      "ar": "تقرير",
+      "phonetic": "/rɪˈpɔrt/",
+      "example": "Please send me the sales report by noon."
+    },
+    {
+      "en": "schedule",
+      "ar": "جدول مواعيد",
+      "phonetic": "/ˈskɛdʒul/",
+      "example": "Let me check my schedule for tomorrow."
+    },
+    {
+      "en": "agenda",
+      "ar": "جدول أعمال (الاجتماع)",
+      "phonetic": "/əˈdʒɛndə/",
+      "example": "The first item on the agenda is the budget."
+    },
+    {
+      "en": "presentation",
+      "ar": "عرض تقديمي (presentation)",
+      "phonetic": "/ˌprɛzənˈteɪʃən/",
+      "example": "She is giving a presentation to the clients."
+    },
+    {
+      "en": "email",
+      "ar": "بريد إلكتروني / إيميل",
+      "phonetic": "/ˈimeɪl/",
+      "example": "I will answer your email this afternoon."
+    },
+    {
+      "en": "attachment",
+      "ar": "مرفق (ملف مرفق بالإيميل)",
+      "phonetic": "/əˈtætʃmənt/",
+      "example": "I forgot to add the attachment to my email."
+    },
+    {
+      "en": "feedback",
+      "ar": "ملاحظات / تقييم (رأي في العمل)",
+      "phonetic": "/ˈfidbæk/",
+      "example": "Thanks for your feedback on my report."
+    },
+    {
+      "en": "promotion",
+      "ar": "ترقية",
+      "phonetic": "/prəˈmoʊʃən/",
+      "example": "He got a promotion after two years."
+    },
+    {
+      "en": "salary",
+      "ar": "راتب / مرتب",
+      "phonetic": "/ˈsæləri/",
+      "example": "My salary arrives at the end of each month."
+    },
+    {
+      "en": "overtime",
+      "ar": "عمل إضافي / ساعات إضافية",
+      "phonetic": "/ˈoʊvərˌtaɪm/",
+      "example": "We worked overtime to finish the order."
+    },
+    {
+      "en": "teamwork",
+      "ar": "عمل جماعي / روح الفريق",
+      "phonetic": "/ˈtimˌwərk/",
+      "example": "Good teamwork makes hard jobs easier."
+    },
+    {
+      "en": "client",
+      "ar": "عميل",
+      "phonetic": "/ˈklaɪənt/",
+      "example": "The client is happy with our work."
+    },
+    {
+      "en": "priority",
+      "ar": "أولوية",
+      "phonetic": "/praɪˈɔrəti/",
+      "example": "This task is our top priority this week."
+    },
+    {
+      "en": "follow up",
+      "ar": "يتابع (موضوعاً أو طلباً)",
+      "phonetic": "/ˈfɑloʊ ˈʌp/",
+      "example": "I will follow up with the client tomorrow."
+    }
   ],
   "sentences": [
-    { "en": "Could you send me the report by Friday?", "ar": "هل يمكنك أن ترسل لي التقرير قبل يوم الجمعة؟" },
-    { "en": "If we finish early, we will start the next task.", "ar": "إذا انتهينا مبكراً، سنبدأ المهمة التالية." },
-    { "en": "What's on the agenda for today's meeting?", "ar": "ما الموجود على جدول أعمال اجتماع اليوم؟" },
-    { "en": "I'm afraid I can't make the deadline.", "ar": "أخشى أنني لن أستطيع الالتزام بالموعد النهائي." },
-    { "en": "If you need help, I will stay late.", "ar": "إذا احتجت مساعدة، سأبقى لوقت متأخر." },
-    { "en": "Please find the file in the attachment.", "ar": "تجد الملف في المرفق من فضلك." },
-    { "en": "If the client agrees, we will sign the contract next week.", "ar": "إذا وافق العميل، سنوقّع العقد الأسبوع القادم." },
-    { "en": "Would you mind checking my presentation?", "ar": "هل تمانع أن تراجع العرض التقديمي الخاص بي؟" },
-    { "en": "I'll follow up with you after lunch.", "ar": "سأتابع معك بعد الغداء." },
-    { "en": "If we don't hurry, we will miss the deadline.", "ar": "إذا لم نسرع، سنفوّت الموعد النهائي." }
+    {
+      "en": "Could you send me the report by Friday?",
+      "ar": "هل يمكنك أن ترسل لي التقرير قبل يوم الجمعة؟"
+    },
+    {
+      "en": "If we finish early, we will start the next task.",
+      "ar": "إذا انتهينا مبكراً، سنبدأ المهمة التالية."
+    },
+    {
+      "en": "What's on the agenda for today's meeting?",
+      "ar": "ما الموجود على جدول أعمال اجتماع اليوم؟"
+    },
+    {
+      "en": "I'm afraid I can't make the deadline.",
+      "ar": "أخشى أنني لن أستطيع الالتزام بالموعد النهائي."
+    },
+    {
+      "en": "If you need help, I will stay late.",
+      "ar": "إذا احتجت مساعدة، سأبقى لوقت متأخر."
+    },
+    {
+      "en": "Please find the file in the attachment.",
+      "ar": "تجد الملف في المرفق من فضلك."
+    },
+    {
+      "en": "If the client agrees, we will sign the contract next week.",
+      "ar": "إذا وافق العميل، سنوقّع العقد الأسبوع القادم."
+    },
+    {
+      "en": "Would you mind checking my presentation?",
+      "ar": "هل تمانع أن تراجع العرض التقديمي الخاص بي؟"
+    },
+    {
+      "en": "I'll follow up with you after lunch.",
+      "ar": "سأتابع معك بعد الغداء."
+    },
+    {
+      "en": "If we don't hurry, we will miss the deadline.",
+      "ar": "إذا لم نسرع، سنفوّت الموعد النهائي."
+    }
   ],
   "story": {
     "title": "The Surprise Meeting",
@@ -50,18 +180,107 @@
     "explanationAr": "نستخدم الشرط الأول First conditional للحديث عن شيء ممكن أن يحدث في المستقبل ونتيجته. نضع الفعل بعد If في المضارع البسيط، ونستخدم will مع الفعل في الجملة الثانية: If we finish early, we will go home. لا نستخدم will بعد If مباشرة. وفي العمل نطلب الأشياء بأدب باستخدام Could you ...? أو Would you mind + فعل ينتهي بـ ing.",
     "rule": "If + present simple, will + verb\nIf we finish early, we will start the next task.\nCould you + verb ...? (polite request)\nWould you mind + verb-ing ...?",
     "examples": [
-      { "en": "If the meeting ends early, I will call the client.", "ar": "إذا انتهى الاجتماع مبكراً، سأتصل بالعميل." },
-      { "en": "If you send me the attachment, I will check it today.", "ar": "إذا أرسلت لي المرفق، سأراجعه اليوم." },
-      { "en": "If we miss the deadline, the manager will be angry.", "ar": "إذا فوّتنا الموعد النهائي، سيغضب المدير." },
-      { "en": "Could you send me the agenda, please?", "ar": "هل يمكنك أن ترسل لي جدول الأعمال من فضلك؟" },
-      { "en": "Would you mind giving me some feedback?", "ar": "هل تمانع أن تعطيني بعض الملاحظات؟" }
+      {
+        "en": "If the meeting ends early, I will call the client.",
+        "ar": "إذا انتهى الاجتماع مبكراً، سأتصل بالعميل."
+      },
+      {
+        "en": "If you send me the attachment, I will check it today.",
+        "ar": "إذا أرسلت لي المرفق، سأراجعه اليوم."
+      },
+      {
+        "en": "If we miss the deadline, the manager will be angry.",
+        "ar": "إذا فوّتنا الموعد النهائي، سيغضب المدير."
+      },
+      {
+        "en": "Could you send me the agenda, please?",
+        "ar": "هل يمكنك أن ترسل لي جدول الأعمال من فضلك؟"
+      },
+      {
+        "en": "Would you mind giving me some feedback?",
+        "ar": "هل تمانع أن تعطيني بعض الملاحظات؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Talking About a Deadline",
+    "settingAr": "إنت موظف في شركة، والمدير بيسألك عن تقرير لازم يخلص قبل الاجتماع مع العميل.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Manager",
+        "nameAr": "المدير"
+      },
+      {
+        "id": "B",
+        "name": "Employee",
+        "nameAr": "الموظف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good morning. How is the report for the client going?",
+        "ar": "صباح الخير. التقرير بتاع العميل ماشي إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It's almost done, but I need a little more time.",
+        "ar": "قرب يخلص، بس محتاج وقت زيادة شوية."
+      },
+      {
+        "speaker": "A",
+        "en": "The deadline is Thursday. Can you make it?",
+        "ar": "الديدلاين يوم الخميس. هتلحق؟"
+      },
+      {
+        "speaker": "B",
+        "en": "If Sara helps me with the numbers, I will finish on time.",
+        "ar": "لو سارة ساعدتني في الأرقام، هخلص في الميعاد."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay, I'll ask her. Is it a priority for you?",
+        "ar": "تمام، هكلمها. هو ده أولوية عندك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, it's my top priority this week.",
+        "ar": "أيوه، ده أهم حاجة عندي الأسبوع ده."
+      },
+      {
+        "speaker": "A",
+        "en": "Good. Could you also prepare a short presentation?",
+        "ar": "كويس. ممكن كمان تجهز presentation قصير؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Sure. Would you mind giving me feedback on Wednesday?",
+        "ar": "أكيد. ممكن تديني رأيك يوم الأربع؟"
+      },
+      {
+        "speaker": "A",
+        "en": "No problem. Send it to me as an attachment.",
+        "ar": "مفيش مشكلة. ابعتهولي attachment على الإيميل."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. I'll follow up with an email after the meeting.",
+        "ar": "تمام. هبعتلك إيميل متابعة بعد الاجتماع."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "If we finish the report early, we ___ go home at five.",
-      "options": ["went", "will", "would", "are"],
+      "options": [
+        "went",
+        "will",
+        "would",
+        "are"
+      ],
       "answer": "will"
     },
     {
@@ -72,13 +291,25 @@
     },
     {
       "type": "order",
-      "words": ["the", "Could", "report?", "send", "you", "me"],
+      "words": [
+        "the",
+        "Could",
+        "report?",
+        "send",
+        "you",
+        "me"
+      ],
       "answer": "Could you send me the report?"
     },
     {
       "type": "mcq",
       "question": "What do you call the list of topics for a meeting?",
-      "options": ["The salary", "The attachment", "The agenda", "The promotion"],
+      "options": [
+        "The salary",
+        "The attachment",
+        "The agenda",
+        "The promotion"
+      ],
       "answer": "The agenda"
     },
     {
@@ -89,13 +320,26 @@
     },
     {
       "type": "order",
-      "words": ["will", "If", "start.", "client", "the", "we", "agrees,"],
+      "words": [
+        "will",
+        "If",
+        "start.",
+        "client",
+        "the",
+        "we",
+        "agrees,"
+      ],
       "answer": "If the client agrees, we will start."
     },
     {
       "type": "mcq",
       "question": "Hassan works extra hours after five o'clock. He works ___.",
-      "options": ["teamwork", "feedback", "priority", "overtime"],
+      "options": [
+        "teamwork",
+        "feedback",
+        "priority",
+        "overtime"
+      ],
       "answer": "overtime"
     },
     {

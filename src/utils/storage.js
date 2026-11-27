@@ -8,6 +8,10 @@ export const STORAGE_KEYS = {
   savedWords: 'ebs:saved-words',
   streak: 'ebs:streak',
   essentialsProgress: 'ebs:essentials-progress',
+  review: 'ebs:review',
+  mistakes: 'ebs:mistakes',
+  settings: 'ebs:settings',
+  daily: 'ebs:daily',
 };
 
 /** Fired on window after every write so all hooks in the same tab re-read. */

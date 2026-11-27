@@ -202,6 +202,80 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "Finding the Train Station",
+    "settingAr": "إنت تايه في الشارع ومش عارف توصل لمحطة القطر، فبتسأل حد معدي.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Passer-by",
+        "nameAr": "واحد معدي"
+      },
+      {
+        "id": "B",
+        "name": "Visitor",
+        "nameAr": "الزائر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Excuse me, I'm lost. Can you help me?",
+        "ar": "لو سمحت، أنا تايه. ممكن تساعدني؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. Where do you want to go?",
+        "ar": "أكيد. عايز تروح فين؟"
+      },
+      {
+        "speaker": "B",
+        "en": "How do I get to the train station?",
+        "ar": "أوصل لمحطة القطر إزاي؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Go straight and turn left at the traffic light.",
+        "ar": "امشي على طول واطلع شمال عند الإشارة."
+      },
+      {
+        "speaker": "B",
+        "en": "Left at the traffic light. Then what?",
+        "ar": "شمال عند الإشارة. وبعدين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Go across the bridge and walk past the bank.",
+        "ar": "اعدي الكوبري وامشي لحد ما تعدي البنك."
+      },
+      {
+        "speaker": "B",
+        "en": "Is it far from here?",
+        "ar": "هي بعيدة من هنا؟"
+      },
+      {
+        "speaker": "A",
+        "en": "No, it's about five minutes on foot.",
+        "ar": "لأ، حوالي خمس دقايق مشي."
+      },
+      {
+        "speaker": "B",
+        "en": "Can you show me on the map, please?",
+        "ar": "ممكن توريني على الخريطة لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Here. It's opposite the post office.",
+        "ar": "هنا أهي. قصاد مكتب البريد."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you so much!",
+        "ar": "شكراً جداً!"
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

@@ -7,38 +7,168 @@
   "description": "Book a ride, give your destination, and pay the driver.",
   "descriptionAr": "احجز رحلة، وأخبر السائق بوجهتك، وادفع له الأجرة.",
   "words": [
-    { "en": "taxi", "ar": "تاكسي / سيارة أجرة", "phonetic": "/ˈtæksi/", "example": "Let's take a taxi to the hotel." },
-    { "en": "driver", "ar": "سائق", "phonetic": "/ˈdraɪvər/", "example": "The driver is very friendly." },
-    { "en": "passenger", "ar": "راكب", "phonetic": "/ˈpæsɪndʒər/", "example": "The taxi has space for four passengers." },
-    { "en": "ride", "ar": "مشوار / رحلة (بالسيارة)", "phonetic": "/raɪd/", "example": "I book a ride on my phone." },
-    { "en": "destination", "ar": "وجهة / المكان المقصود", "phonetic": "/ˌdɛstəˈneɪʃən/", "example": "Please enter your destination in the app." },
-    { "en": "pickup", "ar": "مكان الركوب / نقطة الالتقاء", "phonetic": "/ˈpɪkˌʌp/", "example": "The pickup point is in front of the mall." },
-    { "en": "fare", "ar": "أجرة (التوصيل)", "phonetic": "/fɛr/", "example": "The fare is fifty pounds." },
-    { "en": "meter", "ar": "العدّاد", "phonetic": "/ˈmitər/", "example": "Can you turn on the meter, please?" },
-    { "en": "trunk", "ar": "شنطة السيارة", "phonetic": "/trʌŋk/", "example": "Put the bags in the trunk." },
-    { "en": "seat belt", "ar": "حزام الأمان", "phonetic": "/ˈsit ˌbɛlt/", "example": "Please wear your seat belt." },
-    { "en": "traffic", "ar": "زحمة المرور / حركة السير", "phonetic": "/ˈtræfɪk/", "example": "There is a lot of traffic in the morning." },
-    { "en": "route", "ar": "طريق / مسار", "phonetic": "/rut/", "example": "Is there a faster route?" },
-    { "en": "stop", "ar": "يتوقف / يقف", "phonetic": "/stɑp/", "example": "Please stop at the next corner." },
-    { "en": "wait", "ar": "ينتظر", "phonetic": "/weɪt/", "example": "Can you wait here for five minutes?" },
-    { "en": "airport", "ar": "المطار", "phonetic": "/ˈɛrˌpɔrt/", "example": "How long does it take to get to the airport?" },
-    { "en": "luggage", "ar": "أمتعة / شنط السفر", "phonetic": "/ˈlʌɡɪdʒ/", "example": "I have two pieces of luggage." },
-    { "en": "rating", "ar": "تقييم", "phonetic": "/ˈreɪtɪŋ/", "example": "The driver has a five-star rating." },
-    { "en": "cancel", "ar": "يُلغي", "phonetic": "/ˈkænsəl/", "example": "I need to cancel my ride." },
-    { "en": "receipt", "ar": "إيصال / فاتورة", "phonetic": "/rɪˈsit/", "example": "Could I have a receipt, please?" },
-    { "en": "arrive", "ar": "يصل", "phonetic": "/əˈraɪv/", "example": "When do we arrive at the hotel?" }
+    {
+      "en": "taxi",
+      "ar": "تاكسي / سيارة أجرة",
+      "phonetic": "/ˈtæksi/",
+      "example": "Let's take a taxi to the hotel."
+    },
+    {
+      "en": "driver",
+      "ar": "سائق",
+      "phonetic": "/ˈdraɪvər/",
+      "example": "The driver is very friendly."
+    },
+    {
+      "en": "passenger",
+      "ar": "راكب",
+      "phonetic": "/ˈpæsɪndʒər/",
+      "example": "The taxi has space for four passengers."
+    },
+    {
+      "en": "ride",
+      "ar": "مشوار / رحلة (بالسيارة)",
+      "phonetic": "/raɪd/",
+      "example": "I book a ride on my phone."
+    },
+    {
+      "en": "destination",
+      "ar": "وجهة / المكان المقصود",
+      "phonetic": "/ˌdɛstəˈneɪʃən/",
+      "example": "Please enter your destination in the app."
+    },
+    {
+      "en": "pickup",
+      "ar": "مكان الركوب / نقطة الالتقاء",
+      "phonetic": "/ˈpɪkˌʌp/",
+      "example": "The pickup point is in front of the mall."
+    },
+    {
+      "en": "fare",
+      "ar": "أجرة (التوصيل)",
+      "phonetic": "/fɛr/",
+      "example": "The fare is fifty pounds."
+    },
+    {
+      "en": "meter",
+      "ar": "العدّاد",
+      "phonetic": "/ˈmitər/",
+      "example": "Can you turn on the meter, please?"
+    },
+    {
+      "en": "trunk",
+      "ar": "شنطة السيارة",
+      "phonetic": "/trʌŋk/",
+      "example": "Put the bags in the trunk."
+    },
+    {
+      "en": "seat belt",
+      "ar": "حزام الأمان",
+      "phonetic": "/ˈsit ˌbɛlt/",
+      "example": "Please wear your seat belt."
+    },
+    {
+      "en": "traffic",
+      "ar": "زحمة المرور / حركة السير",
+      "phonetic": "/ˈtræfɪk/",
+      "example": "There is a lot of traffic in the morning."
+    },
+    {
+      "en": "route",
+      "ar": "طريق / مسار",
+      "phonetic": "/rut/",
+      "example": "Is there a faster route?"
+    },
+    {
+      "en": "stop",
+      "ar": "يتوقف / يقف",
+      "phonetic": "/stɑp/",
+      "example": "Please stop at the next corner."
+    },
+    {
+      "en": "wait",
+      "ar": "ينتظر",
+      "phonetic": "/weɪt/",
+      "example": "Can you wait here for five minutes?"
+    },
+    {
+      "en": "airport",
+      "ar": "المطار",
+      "phonetic": "/ˈɛrˌpɔrt/",
+      "example": "How long does it take to get to the airport?"
+    },
+    {
+      "en": "luggage",
+      "ar": "أمتعة / شنط السفر",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "example": "I have two pieces of luggage."
+    },
+    {
+      "en": "rating",
+      "ar": "تقييم",
+      "phonetic": "/ˈreɪtɪŋ/",
+      "example": "The driver has a five-star rating."
+    },
+    {
+      "en": "cancel",
+      "ar": "يُلغي",
+      "phonetic": "/ˈkænsəl/",
+      "example": "I need to cancel my ride."
+    },
+    {
+      "en": "receipt",
+      "ar": "إيصال / فاتورة",
+      "phonetic": "/rɪˈsit/",
+      "example": "Could I have a receipt, please?"
+    },
+    {
+      "en": "arrive",
+      "ar": "يصل",
+      "phonetic": "/əˈraɪv/",
+      "example": "When do we arrive at the hotel?"
+    }
   ],
   "sentences": [
-    { "en": "Can you take me to the airport, please?", "ar": "هل يمكنك أن توصلني إلى المطار من فضلك؟" },
-    { "en": "How much is the fare to downtown?", "ar": "كم الأجرة إلى وسط البلد؟" },
-    { "en": "Could you turn on the meter, please?", "ar": "هل يمكنك تشغيل العدّاد من فضلك؟" },
-    { "en": "Where are you going?", "ar": "إلى أين أنت ذاهب؟" },
-    { "en": "How long will it take?", "ar": "كم من الوقت ستستغرق الرحلة؟" },
-    { "en": "Could you open the trunk, please?", "ar": "هل يمكنك فتح شنطة السيارة من فضلك؟" },
-    { "en": "Can you stop here, please?", "ar": "هل يمكنك التوقف هنا من فضلك؟" },
-    { "en": "Where is the pickup point?", "ar": "أين مكان الركوب؟" },
-    { "en": "Could you drive a little faster? I'm late.", "ar": "هل يمكنك القيادة أسرع قليلاً؟ أنا متأخر." },
-    { "en": "Can I pay by card or only cash?", "ar": "هل يمكنني الدفع بالبطاقة أم نقداً فقط؟" }
+    {
+      "en": "Can you take me to the airport, please?",
+      "ar": "هل يمكنك أن توصلني إلى المطار من فضلك؟"
+    },
+    {
+      "en": "How much is the fare to downtown?",
+      "ar": "كم الأجرة إلى وسط البلد؟"
+    },
+    {
+      "en": "Could you turn on the meter, please?",
+      "ar": "هل يمكنك تشغيل العدّاد من فضلك؟"
+    },
+    {
+      "en": "Where are you going?",
+      "ar": "إلى أين أنت ذاهب؟"
+    },
+    {
+      "en": "How long will it take?",
+      "ar": "كم من الوقت ستستغرق الرحلة؟"
+    },
+    {
+      "en": "Could you open the trunk, please?",
+      "ar": "هل يمكنك فتح شنطة السيارة من فضلك؟"
+    },
+    {
+      "en": "Can you stop here, please?",
+      "ar": "هل يمكنك التوقف هنا من فضلك؟"
+    },
+    {
+      "en": "Where is the pickup point?",
+      "ar": "أين مكان الركوب؟"
+    },
+    {
+      "en": "Could you drive a little faster? I'm late.",
+      "ar": "هل يمكنك القيادة أسرع قليلاً؟ أنا متأخر."
+    },
+    {
+      "en": "Can I pay by card or only cash?",
+      "ar": "هل يمكنني الدفع بالبطاقة أم نقداً فقط؟"
+    }
   ],
   "story": {
     "title": "Racing to the Airport",
@@ -50,18 +180,117 @@
     "explanationAr": "نستخدم Can you ...? لطلب شيء بشكل عادي، ونستخدم Could you ...? لطلب أكثر تهذيباً، وبعدهما يأتي الفعل في صيغته الأساسية مثل Could you stop here? ونستخدم Can I ...? عندما نطلب شيئاً لأنفسنا مثل Can I pay by card? ونسأل عن المعلومات بكلمات الاستفهام Wh-: Where للمكان، و When للوقت، و How much للسعر، و How long للمدة. أضف please في آخر الطلب ليكون مهذباً.",
     "rule": "Can / Could you + verb ..., please?\nCan I + verb ...?\nWhere / When / What + are / is / do ...?\nHow much is ...? (price)   How long ...? (time)",
     "examples": [
-      { "en": "Could you put my luggage in the trunk, please?", "ar": "هل يمكنك وضع أمتعتي في شنطة السيارة من فضلك؟" },
-      { "en": "Can you wait here for a minute?", "ar": "هل يمكنك الانتظار هنا لدقيقة؟" },
-      { "en": "Where is your destination?", "ar": "ما هي وجهتك؟" },
-      { "en": "How much is the fare to the airport?", "ar": "كم الأجرة إلى المطار؟" },
-      { "en": "When will we arrive?", "ar": "متى سنصل؟" }
+      {
+        "en": "Could you put my luggage in the trunk, please?",
+        "ar": "هل يمكنك وضع أمتعتي في شنطة السيارة من فضلك؟"
+      },
+      {
+        "en": "Can you wait here for a minute?",
+        "ar": "هل يمكنك الانتظار هنا لدقيقة؟"
+      },
+      {
+        "en": "Where is your destination?",
+        "ar": "ما هي وجهتك؟"
+      },
+      {
+        "en": "How much is the fare to the airport?",
+        "ar": "كم الأجرة إلى المطار؟"
+      },
+      {
+        "en": "When will we arrive?",
+        "ar": "متى سنصل؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Ride to the Airport",
+    "settingAr": "إنت راكب تاكسي ورايح المطار، ومعاك شنطة سفر.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Driver",
+        "nameAr": "السواق"
+      },
+      {
+        "id": "B",
+        "name": "Passenger",
+        "nameAr": "الراكب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hello! Where are you going?",
+        "ar": "أهلاً! رايح فين؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Can you take me to the airport, please?",
+        "ar": "ممكن توديني المطار لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. Do you have any luggage?",
+        "ar": "أكيد. معاك شنط؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, one bag. Could you open the trunk, please?",
+        "ar": "أيوه، شنطة واحدة. ممكن تفتح شنطة العربية لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "No problem. Please put on your seat belt.",
+        "ar": "ولا يهمك. اربط الحزام لو سمحت."
+      },
+      {
+        "speaker": "B",
+        "en": "OK. Could you turn on the meter, please?",
+        "ar": "حاضر. ممكن تشغل العداد لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. It's on now.",
+        "ar": "طبعاً. اشتغل أهو."
+      },
+      {
+        "speaker": "B",
+        "en": "How long will it take?",
+        "ar": "هناخد قد إيه؟"
+      },
+      {
+        "speaker": "A",
+        "en": "About thirty minutes. There's a lot of traffic today.",
+        "ar": "حوالي نص ساعة. فيه زحمة كبيرة النهارده."
+      },
+      {
+        "speaker": "B",
+        "en": "Can you stop here, please? How much is the fare?",
+        "ar": "ممكن تقف هنا لو سمحت؟ الأجرة كام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's twenty dollars, please.",
+        "ar": "عشرين دولار لو سمحت."
+      },
+      {
+        "speaker": "B",
+        "en": "Can I pay by card? And can I have a receipt?",
+        "ar": "ممكن أدفع بالكارت؟ وممكن إيصال؟"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "Where do you put your luggage in a taxi?",
-      "options": ["In the trunk", "On the meter", "In the seat belt", "On the route"],
+      "options": [
+        "In the trunk",
+        "On the meter",
+        "In the seat belt",
+        "On the route"
+      ],
       "answer": "In the trunk"
     },
     {
@@ -72,13 +301,24 @@
     },
     {
       "type": "order",
-      "words": ["stop", "you", "here,", "Could", "please?"],
+      "words": [
+        "stop",
+        "you",
+        "here,",
+        "Could",
+        "please?"
+      ],
       "answer": "Could you stop here, please?"
     },
     {
       "type": "mcq",
       "question": "___ is the fare to the airport?",
-      "options": ["Where", "When", "How much", "Who"],
+      "options": [
+        "Where",
+        "When",
+        "How much",
+        "Who"
+      ],
       "answer": "How much"
     },
     {
@@ -89,13 +329,23 @@
     },
     {
       "type": "order",
-      "words": ["you", "are", "going?", "Where"],
+      "words": [
+        "you",
+        "are",
+        "going?",
+        "Where"
+      ],
       "answer": "Where are you going?"
     },
     {
       "type": "mcq",
       "question": "I don't need the ride now. I want to ___ it.",
-      "options": ["arrive", "wait", "stop", "cancel"],
+      "options": [
+        "arrive",
+        "wait",
+        "stop",
+        "cancel"
+      ],
       "answer": "cancel"
     },
     {

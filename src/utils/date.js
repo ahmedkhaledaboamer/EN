@@ -15,3 +15,9 @@ export function yesterdayKey() {
   d.setDate(d.getDate() - 1);
   return toDateKey(d);
 }
+
+/** Date key `days` days after `fromKey` (YYYY-MM-DD). */
+export function addDays(fromKey, days) {
+  const [y, m, d] = fromKey.split('-').map(Number);
+  return toDateKey(new Date(y, m - 1, d + days));
+}

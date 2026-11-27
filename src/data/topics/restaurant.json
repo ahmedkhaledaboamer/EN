@@ -202,6 +202,80 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "Dinner for Two",
+    "settingAr": "إنت رايح مطعم مع صاحبك وعامل حجز، والجرسون جاي ياخد الطلب.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Waiter",
+        "nameAr": "الجرسون"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good evening! Do you have a reservation?",
+        "ar": "مساء الخير! حضرتك عامل حجز؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, a table for two at seven o'clock.",
+        "ar": "أيوه، ترابيزة لاتنين الساعة سبعة."
+      },
+      {
+        "speaker": "A",
+        "en": "This way, please. Here is the menu.",
+        "ar": "من هنا لو سمحت. اتفضل المنيو."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Do you have any vegetarian dishes?",
+        "ar": "شكراً. عندكم أكل نباتي؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, the vegetable pasta is very good.",
+        "ar": "أيوه، المكرونة بالخضار حلوة جداً."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Is it spicy? I'm allergic to some peppers.",
+        "ar": "تمام. هي حراقة؟ عندي حساسية من شوية أنواع فلفل."
+      },
+      {
+        "speaker": "A",
+        "en": "No, it isn't spicy. Anything to drink?",
+        "ar": "لأ، مش حراقة. تحب تشرب حاجة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Some water, please. And chicken with rice for my friend.",
+        "ar": "شوية مية لو سمحت. وفراخ برز لصاحبي."
+      },
+      {
+        "speaker": "A",
+        "en": "Would you like any dessert?",
+        "ar": "تحبوا حلو؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No dessert, thank you. Can we have the bill?",
+        "ar": "لأ مش عايزين حلو، شكراً. ممكن الحساب؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. I'll bring it right away.",
+        "ar": "طبعاً. هجيبه حالاً."
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

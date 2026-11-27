@@ -4,6 +4,7 @@ import BrandBackground from './BrandBackground';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import ScrollToTop from './ScrollToTop';
+import SettingsSync from './SettingsSync';
 
 export default function Layout() {
   const location = useLocation();
@@ -11,6 +12,7 @@ export default function Layout() {
   return (
     <div className="relative flex min-h-screen flex-col">
       <ScrollToTop />
+      <SettingsSync />
       <BrandBackground />
       <a
         href="#main"

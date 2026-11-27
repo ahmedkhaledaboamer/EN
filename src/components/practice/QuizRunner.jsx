@@ -37,8 +37,9 @@ function promptOf(ex) {
  *   review    – optional { label, onClick } shown when failed
  *   onRetry   – optional; if given, the parent rebuilds the quiz (e.g. new random questions)
  *   messages  – optional { pass, fail } text for the score screen
+ *   onAnswer  – optional (exercise, { correct, given }) => void, called after every answer (mistakes notebook)
  */
-export default function QuizRunner({ exercises: all, onFinish, next, review, onRetry, messages }) {
+export default function QuizRunner({ exercises: all, onFinish, next, review, onRetry, messages, onAnswer }) {
   const exercises = all.filter((ex) => TYPES[ex.type]);
   const { stop } = useSpeechContext();
 
@@ -58,6 +59,7 @@ export default function QuizRunner({ exercises: all, onFinish, next, review, onR
   }, [locked]);
 
   const onSubmit = (answer) => {
+    onAnswer?.(current, answer);
     setAnswers((prev) => {
       const copy = [...prev];
       copy[index] = answer;

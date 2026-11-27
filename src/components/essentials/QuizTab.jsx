@@ -5,6 +5,7 @@ import { isSpeechSupported } from '../../utils/speech';
 import { isRecognitionSupported } from '../../hooks/useSpeechRecognition';
 import { useEssentialsProgress } from '../../hooks/useEssentialsProgress';
 import { useStreak } from '../../hooks/useStreak';
+import { useMistakes } from '../../hooks/useMistakes';
 import { getNextEssential } from '../../data/essentials';
 
 const QUESTIONS = 10;
@@ -13,6 +14,8 @@ const QUESTIONS = 10;
 export default function QuizTab({ essential, onReview }) {
   const { recordPracticeResult } = useEssentialsProgress();
   const { recordActivity } = useStreak();
+  const { recordAnswer } = useMistakes();
+  const source = { title: essential.title, emoji: essential.emoji, to: `/essentials/${essential.slug}?tab=quiz` };
   const [round, setRound] = useState(0);
 
   const questions = useMemo(
@@ -34,6 +37,7 @@ export default function QuizTab({ essential, onReview }) {
       key={round}
       exercises={questions}
       onFinish={onFinish}
+      onAnswer={(ex, answer) => recordAnswer(ex, answer, source)}
       onRetry={() => setRound((r) => r + 1)}
       next={next ? { to: `/essentials/${next.slug}`, label: `Next: ${next.title}` } : null}
       review={{ label: 'Review items', onClick: onReview }}

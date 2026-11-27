@@ -7,38 +7,168 @@
   "description": "Describe how you feel, see a doctor, and understand instructions.",
   "descriptionAr": "صِف ما تشعر به، وقابل الطبيب، وافهم التعليمات.",
   "words": [
-    { "en": "doctor", "ar": "طبيب / دكتور", "phonetic": "/ˈdɑktər/", "example": "The doctor will see you now." },
-    { "en": "nurse", "ar": "ممرض / ممرضة", "phonetic": "/nərs/", "example": "The nurse takes my temperature." },
-    { "en": "patient", "ar": "مريض (في المستشفى)", "phonetic": "/ˈpeɪʃənt/", "example": "There are many patients here today." },
-    { "en": "emergency", "ar": "طوارئ / حالة طارئة", "phonetic": "/ɪˈmərdʒənsi/", "example": "This is an emergency. Please help!" },
-    { "en": "appointment", "ar": "موعد", "phonetic": "/əˈpɔɪntmənt/", "example": "I have an appointment at ten o'clock." },
-    { "en": "waiting room", "ar": "غرفة الانتظار", "phonetic": "/ˈweɪtɪŋ ˌrum/", "example": "Please sit in the waiting room." },
-    { "en": "examine", "ar": "يفحص / يكشف على", "phonetic": "/ɪɡˈzæmɪn/", "example": "The doctor needs to examine your ear." },
-    { "en": "blood test", "ar": "تحليل دم", "phonetic": "/ˈblʌd ˌtɛst/", "example": "You need a blood test tomorrow morning." },
-    { "en": "x-ray", "ar": "أشعة سينية / أشعة", "phonetic": "/ˈɛksˌreɪ/", "example": "The x-ray shows a broken arm." },
-    { "en": "injection", "ar": "حُقنة / إبرة", "phonetic": "/ɪnˈdʒɛkʃən/", "example": "The injection only hurts for a second." },
-    { "en": "surgery", "ar": "عملية جراحية", "phonetic": "/ˈsərdʒəri/", "example": "My grandfather had surgery on his knee." },
-    { "en": "treatment", "ar": "علاج", "phonetic": "/ˈtritmənt/", "example": "The treatment takes two weeks." },
-    { "en": "diagnosis", "ar": "تشخيص", "phonetic": "/ˌdaɪəɡˈnoʊsɪs/", "example": "The doctor will give you a diagnosis after the tests." },
-    { "en": "bed", "ar": "سرير", "phonetic": "/bɛd/", "example": "There is a free bed in room six." },
-    { "en": "ward", "ar": "عنبر (في المستشفى) / قسم", "phonetic": "/wɔrd/", "example": "The children's ward is on the second floor." },
-    { "en": "ambulance", "ar": "سيارة إسعاف", "phonetic": "/ˈæmbjələns/", "example": "Call an ambulance, quickly!" },
-    { "en": "insurance", "ar": "تأمين (صحي)", "phonetic": "/ɪnˈʃʊrəns/", "example": "Do you have health insurance?" },
-    { "en": "chest", "ar": "صدر", "phonetic": "/tʃɛst/", "example": "I have a pain in my chest." },
-    { "en": "stomach", "ar": "معدة / بطن", "phonetic": "/ˈstʌmək/", "example": "My stomach hurts after dinner." },
-    { "en": "dizzy", "ar": "دائخ / أشعر بدوار", "phonetic": "/ˈdɪzi/", "example": "I feel dizzy when I stand up." }
+    {
+      "en": "doctor",
+      "ar": "طبيب / دكتور",
+      "phonetic": "/ˈdɑktər/",
+      "example": "The doctor will see you now."
+    },
+    {
+      "en": "nurse",
+      "ar": "ممرض / ممرضة",
+      "phonetic": "/nərs/",
+      "example": "The nurse takes my temperature."
+    },
+    {
+      "en": "patient",
+      "ar": "مريض (في المستشفى)",
+      "phonetic": "/ˈpeɪʃənt/",
+      "example": "There are many patients here today."
+    },
+    {
+      "en": "emergency",
+      "ar": "طوارئ / حالة طارئة",
+      "phonetic": "/ɪˈmərdʒənsi/",
+      "example": "This is an emergency. Please help!"
+    },
+    {
+      "en": "appointment",
+      "ar": "موعد",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "example": "I have an appointment at ten o'clock."
+    },
+    {
+      "en": "waiting room",
+      "ar": "غرفة الانتظار",
+      "phonetic": "/ˈweɪtɪŋ ˌrum/",
+      "example": "Please sit in the waiting room."
+    },
+    {
+      "en": "examine",
+      "ar": "يفحص / يكشف على",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "example": "The doctor needs to examine your ear."
+    },
+    {
+      "en": "blood test",
+      "ar": "تحليل دم",
+      "phonetic": "/ˈblʌd ˌtɛst/",
+      "example": "You need a blood test tomorrow morning."
+    },
+    {
+      "en": "x-ray",
+      "ar": "أشعة سينية / أشعة",
+      "phonetic": "/ˈɛksˌreɪ/",
+      "example": "The x-ray shows a broken arm."
+    },
+    {
+      "en": "injection",
+      "ar": "حُقنة / إبرة",
+      "phonetic": "/ɪnˈdʒɛkʃən/",
+      "example": "The injection only hurts for a second."
+    },
+    {
+      "en": "surgery",
+      "ar": "عملية جراحية",
+      "phonetic": "/ˈsərdʒəri/",
+      "example": "My grandfather had surgery on his knee."
+    },
+    {
+      "en": "treatment",
+      "ar": "علاج",
+      "phonetic": "/ˈtritmənt/",
+      "example": "The treatment takes two weeks."
+    },
+    {
+      "en": "diagnosis",
+      "ar": "تشخيص",
+      "phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
+      "example": "The doctor will give you a diagnosis after the tests."
+    },
+    {
+      "en": "bed",
+      "ar": "سرير",
+      "phonetic": "/bɛd/",
+      "example": "There is a free bed in room six."
+    },
+    {
+      "en": "ward",
+      "ar": "عنبر (في المستشفى) / قسم",
+      "phonetic": "/wɔrd/",
+      "example": "The children's ward is on the second floor."
+    },
+    {
+      "en": "ambulance",
+      "ar": "سيارة إسعاف",
+      "phonetic": "/ˈæmbjələns/",
+      "example": "Call an ambulance, quickly!"
+    },
+    {
+      "en": "insurance",
+      "ar": "تأمين (صحي)",
+      "phonetic": "/ɪnˈʃʊrəns/",
+      "example": "Do you have health insurance?"
+    },
+    {
+      "en": "chest",
+      "ar": "صدر",
+      "phonetic": "/tʃɛst/",
+      "example": "I have a pain in my chest."
+    },
+    {
+      "en": "stomach",
+      "ar": "معدة / بطن",
+      "phonetic": "/ˈstʌmək/",
+      "example": "My stomach hurts after dinner."
+    },
+    {
+      "en": "dizzy",
+      "ar": "دائخ / أشعر بدوار",
+      "phonetic": "/ˈdɪzi/",
+      "example": "I feel dizzy when I stand up."
+    }
   ],
   "sentences": [
-    { "en": "I've got a high fever.", "ar": "عندي حُمّى شديدة." },
-    { "en": "I have a pain in my stomach.", "ar": "عندي ألم في بطني." },
-    { "en": "I feel dizzy and tired.", "ar": "أشعر بدوار وتعب." },
-    { "en": "How long have you had this pain?", "ar": "منذ متى وأنت تشعر بهذا الألم؟" },
-    { "en": "I've had it for three days.", "ar": "عندي هذا منذ ثلاثة أيام." },
-    { "en": "Has she got any allergies?", "ar": "هل عندها أي حساسية؟" },
-    { "en": "I'd like to make an appointment, please.", "ar": "أريد أن أحجز موعداً من فضلك." },
-    { "en": "Where is the emergency room?", "ar": "أين قسم الطوارئ؟" },
-    { "en": "How long do I have to wait?", "ar": "كم من الوقت يجب أن أنتظر؟" },
-    { "en": "Do you accept my insurance?", "ar": "هل تقبلون التأمين الخاص بي؟" }
+    {
+      "en": "I've got a high fever.",
+      "ar": "عندي حُمّى شديدة."
+    },
+    {
+      "en": "I have a pain in my stomach.",
+      "ar": "عندي ألم في بطني."
+    },
+    {
+      "en": "I feel dizzy and tired.",
+      "ar": "أشعر بدوار وتعب."
+    },
+    {
+      "en": "How long have you had this pain?",
+      "ar": "منذ متى وأنت تشعر بهذا الألم؟"
+    },
+    {
+      "en": "I've had it for three days.",
+      "ar": "عندي هذا منذ ثلاثة أيام."
+    },
+    {
+      "en": "Has she got any allergies?",
+      "ar": "هل عندها أي حساسية؟"
+    },
+    {
+      "en": "I'd like to make an appointment, please.",
+      "ar": "أريد أن أحجز موعداً من فضلك."
+    },
+    {
+      "en": "Where is the emergency room?",
+      "ar": "أين قسم الطوارئ؟"
+    },
+    {
+      "en": "How long do I have to wait?",
+      "ar": "كم من الوقت يجب أن أنتظر؟"
+    },
+    {
+      "en": "Do you accept my insurance?",
+      "ar": "هل تقبلون التأمين الخاص بي؟"
+    }
   ],
   "story": {
     "title": "A Night in the Emergency Room",
@@ -50,18 +180,117 @@
     "explanationAr": "لنصف الأعراض نستخدم have أو have got، والمعنى واحد: «عندي». نقول I have a headache أو I've got a headache. ومع he و she نقول has أو has got، مثل She has got a fever. ولنسأل عن مدة المرض نستخدم How long have you had ...? والإجابة تكون بـ for مع المدة، مثل for two days.",
     "rule": "I / You / We / They + have / have got ('ve got) + a symptom\nHe / She + has / has got ('s got) + a symptom\nHave you got ...? / Has she got ...?\nHow long have you had + symptom? → For + time (for two days)",
     "examples": [
-      { "en": "I've got a pain in my chest.", "ar": "عندي ألم في صدري." },
-      { "en": "She has a high fever.", "ar": "عندها حُمّى شديدة." },
-      { "en": "Have you got a headache?", "ar": "هل عندك صداع؟" },
-      { "en": "How long have you had this stomach pain?", "ar": "منذ متى وعندك ألم المعدة هذا؟" },
-      { "en": "I've had it for two days.", "ar": "عندي منذ يومين." }
+      {
+        "en": "I've got a pain in my chest.",
+        "ar": "عندي ألم في صدري."
+      },
+      {
+        "en": "She has a high fever.",
+        "ar": "عندها حُمّى شديدة."
+      },
+      {
+        "en": "Have you got a headache?",
+        "ar": "هل عندك صداع؟"
+      },
+      {
+        "en": "How long have you had this stomach pain?",
+        "ar": "منذ متى وعندك ألم المعدة هذا؟"
+      },
+      {
+        "en": "I've had it for two days.",
+        "ar": "عندي منذ يومين."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Seeing the Doctor",
+    "settingAr": "إنت تعبان وعندك وجع في بطنك، ودخلت للدكتور في المستشفى.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Doctor",
+        "nameAr": "الدكتور"
+      },
+      {
+        "id": "B",
+        "name": "Patient",
+        "nameAr": "المريض (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hello, please sit down. What's the problem?",
+        "ar": "أهلاً، اتفضل اقعد. إيه المشكلة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I have a pain in my stomach.",
+        "ar": "عندي وجع في بطني."
+      },
+      {
+        "speaker": "A",
+        "en": "How long have you had this pain?",
+        "ar": "الوجع ده بقاله قد إيه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I've had it for three days.",
+        "ar": "بقاله تلات أيام."
+      },
+      {
+        "speaker": "A",
+        "en": "Have you got a fever?",
+        "ar": "عندك سخونية؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No, but I feel dizzy and tired.",
+        "ar": "لأ، بس حاسس بدوخة وتعب."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay. I'm going to examine you now.",
+        "ar": "تمام. هكشف عليك دلوقتي."
+      },
+      {
+        "speaker": "B",
+        "en": "Is it serious, doctor?",
+        "ar": "هو الموضوع خطير يا دكتور؟"
+      },
+      {
+        "speaker": "A",
+        "en": "I don't think so, but you need a blood test.",
+        "ar": "مظنش، بس محتاج تعمل تحليل دم."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay. Where do I go for the test?",
+        "ar": "تمام. أروح فين عشان أعمل التحليل؟"
+      },
+      {
+        "speaker": "A",
+        "en": "The nurse will take you. It won't take long.",
+        "ar": "الممرضة هتوديك. مش هياخد وقت."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Do you accept my insurance?",
+        "ar": "شكراً. بتقبلوا التأمين بتاعي؟"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "She ___ a bad stomachache.",
-      "options": ["have got", "has got", "is got", "having"],
+      "options": [
+        "have got",
+        "has got",
+        "is got",
+        "having"
+      ],
       "answer": "has got"
     },
     {
@@ -72,13 +301,26 @@
     },
     {
       "type": "order",
-      "words": ["had", "you", "pain?", "How", "this", "long", "have"],
+      "words": [
+        "had",
+        "you",
+        "pain?",
+        "How",
+        "this",
+        "long",
+        "have"
+      ],
       "answer": "How long have you had this pain?"
     },
     {
       "type": "mcq",
       "question": "___ have you had the fever?",
-      "options": ["How much", "How many", "How long", "How old"],
+      "options": [
+        "How much",
+        "How many",
+        "How long",
+        "How old"
+      ],
       "answer": "How long"
     },
     {
@@ -89,13 +331,26 @@
     },
     {
       "type": "order",
-      "words": ["pain", "chest.", "got", "my", "I've", "in", "a"],
+      "words": [
+        "pain",
+        "chest.",
+        "got",
+        "my",
+        "I've",
+        "in",
+        "a"
+      ],
       "answer": "I've got a pain in my chest."
     },
     {
       "type": "mcq",
       "question": "Where do patients sit before they see the doctor?",
-      "options": ["In the waiting room", "In the ambulance", "In the x-ray", "In the surgery"],
+      "options": [
+        "In the waiting room",
+        "In the ambulance",
+        "In the x-ray",
+        "In the surgery"
+      ],
       "answer": "In the waiting room"
     },
     {

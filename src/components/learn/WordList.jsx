@@ -2,6 +2,7 @@ import { useState } from 'react';
 import WordCard from './WordCard';
 import { useSavedWords } from '../../hooks/useSavedWords';
 import { useStreak } from '../../hooks/useStreak';
+import { useDailyGoal } from '../../hooks/useDailyGoal';
 
 const FILTERS = [
   { id: 'all', label: 'All' },
@@ -19,6 +20,7 @@ const FILTERS = [
 export default function WordList({ items, isLearned, setLearned, saveSlug, noun = 'words' }) {
   const { isSaved, toggleSaved } = useSavedWords();
   const { recordActivity } = useStreak();
+  const { addWord } = useDailyGoal();
   const [filter, setFilter] = useState('all');
 
   const learnedCount = items.filter((w) => isLearned(w.en)).length;
@@ -30,7 +32,10 @@ export default function WordList({ items, isLearned, setLearned, saveSlug, noun 
   const onToggleLearned = (word) => {
     const wasLearned = isLearned(word.en);
     setLearned(word.en, !wasLearned);
-    if (!wasLearned) recordActivity();
+    if (!wasLearned) {
+      recordActivity();
+      addWord();
+    }
   };
 
   return (

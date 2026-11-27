@@ -7,38 +7,168 @@
   "description": "Explain tooth problems and understand treatment.",
   "descriptionAr": "اشرح مشاكل أسنانك وافهم العلاج.",
   "words": [
-    { "en": "tooth", "ar": "سِنّ / ضِرس", "phonetic": "/tuθ/", "example": "This tooth hurts when I eat." },
-    { "en": "teeth", "ar": "أسنان", "phonetic": "/tiθ/", "example": "Brush your teeth twice a day." },
-    { "en": "toothache", "ar": "ألم الأسنان", "phonetic": "/ˈtuθˌeɪk/", "example": "I couldn't sleep because of a toothache." },
-    { "en": "cavity", "ar": "تسوّس / ثقب في السن", "phonetic": "/ˈkævəti/", "example": "Too much sugar can cause a cavity." },
-    { "en": "filling", "ar": "حشو (الأسنان)", "phonetic": "/ˈfɪlɪŋ/", "example": "I need a filling in my back tooth." },
-    { "en": "crown", "ar": "تاج (للسن)", "phonetic": "/kraʊn/", "example": "The dentist put a crown on my broken tooth." },
-    { "en": "gum", "ar": "لِثة", "phonetic": "/ɡʌm/", "example": "My gum is red and sore." },
-    { "en": "braces", "ar": "تقويم الأسنان", "phonetic": "/ˈbreɪsɪz/", "example": "My daughter wears braces." },
-    { "en": "cleaning", "ar": "تنظيف (الأسنان)", "phonetic": "/ˈklinɪŋ/", "example": "I'd like to book a cleaning, please." },
-    { "en": "dentist", "ar": "طبيب الأسنان", "phonetic": "/ˈdɛntɪst/", "example": "The dentist is very gentle." },
-    { "en": "drill", "ar": "مِثقاب / جهاز الحفر (الشنيور)", "phonetic": "/drɪl/", "example": "I hate the sound of the drill." },
-    { "en": "numb", "ar": "مُخدَّر / فاقد الإحساس", "phonetic": "/nʌm/", "example": "My lip is still numb." },
-    { "en": "mouthwash", "ar": "غسول الفم", "phonetic": "/ˈmaʊθˌwɑʃ/", "example": "Use mouthwash after you brush." },
-    { "en": "floss", "ar": "خيط الأسنان / ينظّف بالخيط", "phonetic": "/flɑs/", "example": "You should floss every night." },
-    { "en": "toothpaste", "ar": "معجون الأسنان", "phonetic": "/ˈtuθˌpeɪst/", "example": "We need a new tube of toothpaste." },
-    { "en": "bleeding", "ar": "نزيف / ينزف", "phonetic": "/ˈblidɪŋ/", "example": "My gums are bleeding a little." },
-    { "en": "swollen", "ar": "متورّم / وارم", "phonetic": "/ˈswoʊlən/", "example": "His face was swollen in the morning." },
-    { "en": "sensitive", "ar": "حسّاس", "phonetic": "/ˈsɛnsətɪv/", "example": "My teeth are sensitive to cold water." },
-    { "en": "check-up", "ar": "فحص دوري / كشف", "phonetic": "/ˈtʃɛkˌʌp/", "example": "It's time for your six-month check-up." },
-    { "en": "extract", "ar": "يخلع (السن)", "phonetic": "/ɪkˈstrækt/", "example": "The dentist had to extract the old tooth." }
+    {
+      "en": "tooth",
+      "ar": "سِنّ / ضِرس",
+      "phonetic": "/tuθ/",
+      "example": "This tooth hurts when I eat."
+    },
+    {
+      "en": "teeth",
+      "ar": "أسنان",
+      "phonetic": "/tiθ/",
+      "example": "Brush your teeth twice a day."
+    },
+    {
+      "en": "toothache",
+      "ar": "ألم الأسنان",
+      "phonetic": "/ˈtuθˌeɪk/",
+      "example": "I couldn't sleep because of a toothache."
+    },
+    {
+      "en": "cavity",
+      "ar": "تسوّس / ثقب في السن",
+      "phonetic": "/ˈkævəti/",
+      "example": "Too much sugar can cause a cavity."
+    },
+    {
+      "en": "filling",
+      "ar": "حشو (الأسنان)",
+      "phonetic": "/ˈfɪlɪŋ/",
+      "example": "I need a filling in my back tooth."
+    },
+    {
+      "en": "crown",
+      "ar": "تاج (للسن)",
+      "phonetic": "/kraʊn/",
+      "example": "The dentist put a crown on my broken tooth."
+    },
+    {
+      "en": "gum",
+      "ar": "لِثة",
+      "phonetic": "/ɡʌm/",
+      "example": "My gum is red and sore."
+    },
+    {
+      "en": "braces",
+      "ar": "تقويم الأسنان",
+      "phonetic": "/ˈbreɪsɪz/",
+      "example": "My daughter wears braces."
+    },
+    {
+      "en": "cleaning",
+      "ar": "تنظيف (الأسنان)",
+      "phonetic": "/ˈklinɪŋ/",
+      "example": "I'd like to book a cleaning, please."
+    },
+    {
+      "en": "dentist",
+      "ar": "طبيب الأسنان",
+      "phonetic": "/ˈdɛntɪst/",
+      "example": "The dentist is very gentle."
+    },
+    {
+      "en": "drill",
+      "ar": "مِثقاب / جهاز الحفر (الشنيور)",
+      "phonetic": "/drɪl/",
+      "example": "I hate the sound of the drill."
+    },
+    {
+      "en": "numb",
+      "ar": "مُخدَّر / فاقد الإحساس",
+      "phonetic": "/nʌm/",
+      "example": "My lip is still numb."
+    },
+    {
+      "en": "mouthwash",
+      "ar": "غسول الفم",
+      "phonetic": "/ˈmaʊθˌwɑʃ/",
+      "example": "Use mouthwash after you brush."
+    },
+    {
+      "en": "floss",
+      "ar": "خيط الأسنان / ينظّف بالخيط",
+      "phonetic": "/flɑs/",
+      "example": "You should floss every night."
+    },
+    {
+      "en": "toothpaste",
+      "ar": "معجون الأسنان",
+      "phonetic": "/ˈtuθˌpeɪst/",
+      "example": "We need a new tube of toothpaste."
+    },
+    {
+      "en": "bleeding",
+      "ar": "نزيف / ينزف",
+      "phonetic": "/ˈblidɪŋ/",
+      "example": "My gums are bleeding a little."
+    },
+    {
+      "en": "swollen",
+      "ar": "متورّم / وارم",
+      "phonetic": "/ˈswoʊlən/",
+      "example": "His face was swollen in the morning."
+    },
+    {
+      "en": "sensitive",
+      "ar": "حسّاس",
+      "phonetic": "/ˈsɛnsətɪv/",
+      "example": "My teeth are sensitive to cold water."
+    },
+    {
+      "en": "check-up",
+      "ar": "فحص دوري / كشف",
+      "phonetic": "/ˈtʃɛkˌʌp/",
+      "example": "It's time for your six-month check-up."
+    },
+    {
+      "en": "extract",
+      "ar": "يخلع (السن)",
+      "phonetic": "/ɪkˈstrækt/",
+      "example": "The dentist had to extract the old tooth."
+    }
   ],
   "sentences": [
-    { "en": "I have a terrible toothache.", "ar": "عندي ألم شديد في أسناني." },
-    { "en": "It started three days ago.", "ar": "بدأ منذ ثلاثة أيام." },
-    { "en": "I broke a tooth yesterday.", "ar": "كسرت سنّاً أمس." },
-    { "en": "My gums bled when I brushed my teeth.", "ar": "نزفت لثتي عندما غسلت أسناني بالفرشاة." },
-    { "en": "I didn't sleep at all last night.", "ar": "لم أنم أبداً الليلة الماضية." },
-    { "en": "When did you last visit a dentist?", "ar": "متى زرت طبيب أسنان آخر مرة؟" },
-    { "en": "This tooth is sensitive to cold drinks.", "ar": "هذا السن حسّاس للمشروبات الباردة." },
-    { "en": "Will it hurt?", "ar": "هل سيؤلمني؟" },
-    { "en": "Can I eat after the filling?", "ar": "هل يمكنني الأكل بعد الحشو؟" },
-    { "en": "I'd like to make an appointment for a check-up.", "ar": "أريد حجز موعد لفحص دوري." }
+    {
+      "en": "I have a terrible toothache.",
+      "ar": "عندي ألم شديد في أسناني."
+    },
+    {
+      "en": "It started three days ago.",
+      "ar": "بدأ منذ ثلاثة أيام."
+    },
+    {
+      "en": "I broke a tooth yesterday.",
+      "ar": "كسرت سنّاً أمس."
+    },
+    {
+      "en": "My gums bled when I brushed my teeth.",
+      "ar": "نزفت لثتي عندما غسلت أسناني بالفرشاة."
+    },
+    {
+      "en": "I didn't sleep at all last night.",
+      "ar": "لم أنم أبداً الليلة الماضية."
+    },
+    {
+      "en": "When did you last visit a dentist?",
+      "ar": "متى زرت طبيب أسنان آخر مرة؟"
+    },
+    {
+      "en": "This tooth is sensitive to cold drinks.",
+      "ar": "هذا السن حسّاس للمشروبات الباردة."
+    },
+    {
+      "en": "Will it hurt?",
+      "ar": "هل سيؤلمني؟"
+    },
+    {
+      "en": "Can I eat after the filling?",
+      "ar": "هل يمكنني الأكل بعد الحشو؟"
+    },
+    {
+      "en": "I'd like to make an appointment for a check-up.",
+      "ar": "أريد حجز موعد لفحص دوري."
+    }
   ],
   "story": {
     "title": "Two Years Without a Dentist",
@@ -50,18 +180,112 @@
     "explanationAr": "نستخدم الماضي البسيط للحديث عن أحداث بدأت وانتهت في الماضي، مثل yesterday و last week و two years ago. مع الأفعال المنتظمة نضيف ed إلى الفعل، مثل brush ← brushed و call ← called. أما الأفعال الشاذة فلها صيغة خاصة يجب حفظها، مثل go ← went و have ← had و feel ← felt. في النفي والسؤال نستخدم did مع الفعل في صيغته الأساسية: I didn't go و Did it hurt?",
     "rule": "Regular: verb + -ed (call → called, brush → brushed)\nIrregular: go → went, have → had, feel → felt, break → broke\nNegative: I / He / She ... + didn't + base verb\nQuestion: Did + you / he / she ... + base verb ...?",
     "examples": [
-      { "en": "I brushed my teeth this morning.", "ar": "غسلت أسناني بالفرشاة هذا الصباح." },
-      { "en": "He went to the dentist last week.", "ar": "ذهب إلى طبيب الأسنان الأسبوع الماضي." },
-      { "en": "The dentist found a small cavity.", "ar": "وجد طبيب الأسنان تسوّساً صغيراً." },
-      { "en": "I didn't feel any pain.", "ar": "لم أشعر بأي ألم." },
-      { "en": "Did the filling hurt?", "ar": "هل آلمك الحشو؟" }
+      {
+        "en": "I brushed my teeth this morning.",
+        "ar": "غسلت أسناني بالفرشاة هذا الصباح."
+      },
+      {
+        "en": "He went to the dentist last week.",
+        "ar": "ذهب إلى طبيب الأسنان الأسبوع الماضي."
+      },
+      {
+        "en": "The dentist found a small cavity.",
+        "ar": "وجد طبيب الأسنان تسوّساً صغيراً."
+      },
+      {
+        "en": "I didn't feel any pain.",
+        "ar": "لم أشعر بأي ألم."
+      },
+      {
+        "en": "Did the filling hurt?",
+        "ar": "هل آلمك الحشو؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Painful Tooth",
+    "settingAr": "إنت عندك وجع سنان جامد، ورحت لدكتور السنان يكشف عليك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Dentist",
+        "nameAr": "دكتور السنان"
+      },
+      {
+        "id": "B",
+        "name": "Patient",
+        "nameAr": "المريض (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good morning. What brings you here today?",
+        "ar": "صباح الخير. إيه اللي جابك النهارده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I have a terrible toothache.",
+        "ar": "عندي وجع سنان فظيع."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm sorry. When did it start?",
+        "ar": "سلامتك. بدأ إمتى؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It started three days ago. I didn't sleep last night.",
+        "ar": "بدأ من تلات أيام. منمتش خالص امبارح بالليل."
+      },
+      {
+        "speaker": "A",
+        "en": "Is the tooth sensitive to cold drinks?",
+        "ar": "السنة حساسة للمشروبات الساقعة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, very. And my gums bled when I brushed my teeth.",
+        "ar": "أيوه، جداً. ولثتي نزلت دم لما غسلت سناني."
+      },
+      {
+        "speaker": "A",
+        "en": "Let me look. Yes, you have a cavity here.",
+        "ar": "خليني أشوف. أيوه، عندك تسوس هنا."
+      },
+      {
+        "speaker": "B",
+        "en": "Do I need a filling? Will it hurt?",
+        "ar": "محتاج حشو؟ هيوجعني؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Don't worry. Your mouth will be numb, so you won't feel much.",
+        "ar": "متقلقش. بقك هيبقى متخدر، فمش هتحس بحاجة تقريباً."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay. Can I eat after the filling?",
+        "ar": "تمام. ينفع آكل بعد الحشو؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, but wait about two hours first.",
+        "ar": "أيوه، بس استنى حوالي ساعتين الأول."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "Yesterday I ___ to the dentist.",
-      "options": ["go", "goes", "went", "going"],
+      "options": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
       "answer": "went"
     },
     {
@@ -72,13 +296,25 @@
     },
     {
       "type": "order",
-      "words": ["last", "toothache", "I", "night.", "had", "a"],
+      "words": [
+        "last",
+        "toothache",
+        "I",
+        "night.",
+        "had",
+        "a"
+      ],
       "answer": "I had a toothache last night."
     },
     {
       "type": "mcq",
       "question": "The dentist ___ a small cavity in my tooth last week.",
-      "options": ["finds", "found", "finded", "find"],
+      "options": [
+        "finds",
+        "found",
+        "finded",
+        "find"
+      ],
       "answer": "found"
     },
     {
@@ -89,13 +325,25 @@
     },
     {
       "type": "order",
-      "words": ["my", "yesterday.", "cleaned", "The", "teeth", "dentist"],
+      "words": [
+        "my",
+        "yesterday.",
+        "cleaned",
+        "The",
+        "teeth",
+        "dentist"
+      ],
       "answer": "The dentist cleaned my teeth yesterday."
     },
     {
       "type": "mcq",
       "question": "What do you use to clean between your teeth?",
-      "options": ["floss", "a crown", "a drill", "a cavity"],
+      "options": [
+        "floss",
+        "a crown",
+        "a drill",
+        "a cavity"
+      ],
       "answer": "floss"
     },
     {

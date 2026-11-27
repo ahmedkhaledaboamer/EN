@@ -7,38 +7,168 @@
   "description": "Talk to landlords, ask about rent, and understand contracts.",
   "descriptionAr": "تحدث مع أصحاب الشقق، واسأل عن الإيجار، وافهم العقود.",
   "words": [
-    { "en": "landlord", "ar": "المالك / صاحب الشقة", "phonetic": "/ˈlændˌlɔrd/", "example": "The landlord lives on the top floor." },
-    { "en": "tenant", "ar": "مستأجر / ساكن", "phonetic": "/ˈtɛnənt/", "example": "The new tenant moves in on Monday." },
-    { "en": "rent", "ar": "إيجار / يستأجر", "phonetic": "/rɛnt/", "example": "The rent is due on the first of every month." },
-    { "en": "lease", "ar": "عقد إيجار", "phonetic": "/lis/", "example": "I signed a one-year lease." },
-    { "en": "contract", "ar": "عقد", "phonetic": "/ˈkɑntrækt/", "example": "Read the contract carefully before you sign it." },
-    { "en": "deposit", "ar": "تأمين / مبلغ مقدم", "phonetic": "/dɪˈpɑzɪt/", "example": "You will get your deposit back when you leave." },
-    { "en": "furnished", "ar": "مفروش", "phonetic": "/ˈfərnɪʃt/", "example": "I am looking for a furnished apartment." },
-    { "en": "utilities", "ar": "المرافق (الكهرباء والمياه والغاز)", "phonetic": "/juˈtɪlətiz/", "example": "Does the rent include utilities?" },
-    { "en": "neighborhood", "ar": "حي / منطقة سكنية", "phonetic": "/ˈneɪbərˌhʊd/", "example": "This is a quiet and safe neighborhood." },
-    { "en": "floor", "ar": "طابق / دور", "phonetic": "/flɔr/", "example": "The apartment is on the fifth floor." },
-    { "en": "elevator", "ar": "مصعد / أسانسير", "phonetic": "/ˈɛləˌveɪtər/", "example": "The elevator is broken again." },
-    { "en": "parking", "ar": "موقف سيارات / ركن السيارة", "phonetic": "/ˈpɑrkɪŋ/", "example": "Is there parking for tenants?" },
-    { "en": "maintenance", "ar": "صيانة", "phonetic": "/ˈmeɪntənəns/", "example": "Call maintenance if the heater stops working." },
-    { "en": "notice", "ar": "إخطار / إشعار مسبق", "phonetic": "/ˈnoʊtɪs/", "example": "You must give one month's notice before you leave." },
-    { "en": "move in", "ar": "ينتقل للسكن (في مكان جديد)", "phonetic": "/ˈmuv ˈɪn/", "example": "When can I move in?" },
-    { "en": "move out", "ar": "يخلي السكن / ينتقل منه", "phonetic": "/ˈmuv ˈaʊt/", "example": "We have to move out by the end of June." },
-    { "en": "roommate", "ar": "شريك السكن", "phonetic": "/ˈrumˌmeɪt/", "example": "My roommate always cooks dinner." },
-    { "en": "viewing", "ar": "معاينة (الشقة)", "phonetic": "/ˈvjuɪŋ/", "example": "The viewing is tomorrow at six." },
-    { "en": "negotiate", "ar": "يتفاوض", "phonetic": "/nɪˈɡoʊʃiˌeɪt/", "example": "Can we negotiate the price a little?" },
-    { "en": "agreement", "ar": "اتفاق / اتفاقية", "phonetic": "/əˈɡrimənt/", "example": "We finally reached an agreement." }
+    {
+      "en": "landlord",
+      "ar": "المالك / صاحب الشقة",
+      "phonetic": "/ˈlændˌlɔrd/",
+      "example": "The landlord lives on the top floor."
+    },
+    {
+      "en": "tenant",
+      "ar": "مستأجر / ساكن",
+      "phonetic": "/ˈtɛnənt/",
+      "example": "The new tenant moves in on Monday."
+    },
+    {
+      "en": "rent",
+      "ar": "إيجار / يستأجر",
+      "phonetic": "/rɛnt/",
+      "example": "The rent is due on the first of every month."
+    },
+    {
+      "en": "lease",
+      "ar": "عقد إيجار",
+      "phonetic": "/lis/",
+      "example": "I signed a one-year lease."
+    },
+    {
+      "en": "contract",
+      "ar": "عقد",
+      "phonetic": "/ˈkɑntrækt/",
+      "example": "Read the contract carefully before you sign it."
+    },
+    {
+      "en": "deposit",
+      "ar": "تأمين / مبلغ مقدم",
+      "phonetic": "/dɪˈpɑzɪt/",
+      "example": "You will get your deposit back when you leave."
+    },
+    {
+      "en": "furnished",
+      "ar": "مفروش",
+      "phonetic": "/ˈfərnɪʃt/",
+      "example": "I am looking for a furnished apartment."
+    },
+    {
+      "en": "utilities",
+      "ar": "المرافق (الكهرباء والمياه والغاز)",
+      "phonetic": "/juˈtɪlətiz/",
+      "example": "Does the rent include utilities?"
+    },
+    {
+      "en": "neighborhood",
+      "ar": "حي / منطقة سكنية",
+      "phonetic": "/ˈneɪbərˌhʊd/",
+      "example": "This is a quiet and safe neighborhood."
+    },
+    {
+      "en": "floor",
+      "ar": "طابق / دور",
+      "phonetic": "/flɔr/",
+      "example": "The apartment is on the fifth floor."
+    },
+    {
+      "en": "elevator",
+      "ar": "مصعد / أسانسير",
+      "phonetic": "/ˈɛləˌveɪtər/",
+      "example": "The elevator is broken again."
+    },
+    {
+      "en": "parking",
+      "ar": "موقف سيارات / ركن السيارة",
+      "phonetic": "/ˈpɑrkɪŋ/",
+      "example": "Is there parking for tenants?"
+    },
+    {
+      "en": "maintenance",
+      "ar": "صيانة",
+      "phonetic": "/ˈmeɪntənəns/",
+      "example": "Call maintenance if the heater stops working."
+    },
+    {
+      "en": "notice",
+      "ar": "إخطار / إشعار مسبق",
+      "phonetic": "/ˈnoʊtɪs/",
+      "example": "You must give one month's notice before you leave."
+    },
+    {
+      "en": "move in",
+      "ar": "ينتقل للسكن (في مكان جديد)",
+      "phonetic": "/ˈmuv ˈɪn/",
+      "example": "When can I move in?"
+    },
+    {
+      "en": "move out",
+      "ar": "يخلي السكن / ينتقل منه",
+      "phonetic": "/ˈmuv ˈaʊt/",
+      "example": "We have to move out by the end of June."
+    },
+    {
+      "en": "roommate",
+      "ar": "شريك السكن",
+      "phonetic": "/ˈrumˌmeɪt/",
+      "example": "My roommate always cooks dinner."
+    },
+    {
+      "en": "viewing",
+      "ar": "معاينة (الشقة)",
+      "phonetic": "/ˈvjuɪŋ/",
+      "example": "The viewing is tomorrow at six."
+    },
+    {
+      "en": "negotiate",
+      "ar": "يتفاوض",
+      "phonetic": "/nɪˈɡoʊʃiˌeɪt/",
+      "example": "Can we negotiate the price a little?"
+    },
+    {
+      "en": "agreement",
+      "ar": "اتفاق / اتفاقية",
+      "phonetic": "/əˈɡrimənt/",
+      "example": "We finally reached an agreement."
+    }
   ],
   "sentences": [
-    { "en": "How much is the rent per month?", "ar": "كم الإيجار في الشهر؟" },
-    { "en": "Are utilities included in the rent?", "ar": "هل المرافق مشمولة في الإيجار؟" },
-    { "en": "I'd like to book a viewing, please.", "ar": "أود حجز موعد لمعاينة الشقة من فضلك." },
-    { "en": "The apartment that I saw yesterday was too small.", "ar": "الشقة التي رأيتها أمس كانت صغيرة جداً." },
-    { "en": "I used to live with a roommate, but now I want my own place.", "ar": "كنت أسكن مع شريك سكن، لكنني الآن أريد مكاناً خاصاً بي." },
-    { "en": "How much is the deposit?", "ar": "كم مبلغ التأمين؟" },
-    { "en": "I'm looking for an apartment that has two bedrooms.", "ar": "أبحث عن شقة فيها غرفتا نوم." },
-    { "en": "The landlord who owns this building is very helpful.", "ar": "المالك الذي يملك هذه العمارة متعاون جداً." },
-    { "en": "My old landlord would fix everything quickly.", "ar": "كان المالك القديم يصلح كل شيء بسرعة." },
-    { "en": "Could you lower the rent if I sign a two-year lease?", "ar": "هل يمكنك أن تخفض الإيجار إذا وقّعت عقداً لمدة سنتين؟" }
+    {
+      "en": "How much is the rent per month?",
+      "ar": "كم الإيجار في الشهر؟"
+    },
+    {
+      "en": "Are utilities included in the rent?",
+      "ar": "هل المرافق مشمولة في الإيجار؟"
+    },
+    {
+      "en": "I'd like to book a viewing, please.",
+      "ar": "أود حجز موعد لمعاينة الشقة من فضلك."
+    },
+    {
+      "en": "The apartment that I saw yesterday was too small.",
+      "ar": "الشقة التي رأيتها أمس كانت صغيرة جداً."
+    },
+    {
+      "en": "I used to live with a roommate, but now I want my own place.",
+      "ar": "كنت أسكن مع شريك سكن، لكنني الآن أريد مكاناً خاصاً بي."
+    },
+    {
+      "en": "How much is the deposit?",
+      "ar": "كم مبلغ التأمين؟"
+    },
+    {
+      "en": "I'm looking for an apartment that has two bedrooms.",
+      "ar": "أبحث عن شقة فيها غرفتا نوم."
+    },
+    {
+      "en": "The landlord who owns this building is very helpful.",
+      "ar": "المالك الذي يملك هذه العمارة متعاون جداً."
+    },
+    {
+      "en": "My old landlord would fix everything quickly.",
+      "ar": "كان المالك القديم يصلح كل شيء بسرعة."
+    },
+    {
+      "en": "Could you lower the rent if I sign a two-year lease?",
+      "ar": "هل يمكنك أن تخفض الإيجار إذا وقّعت عقداً لمدة سنتين؟"
+    }
   ],
   "story": {
     "title": "My First Apartment",
@@ -50,18 +180,117 @@
     "explanationAr": "نستخدم used to مع الفعل لنتحدث عن عادة أو حالة في الماضي لم تعد موجودة الآن: I used to live with my parents. ويمكن أن نستخدم would للعادات المتكررة في الماضي فقط، وليس للحالات: My landlord would fix everything. ونستخدم الجمل الموصولة لنعطي معلومات عن اسم: who للأشخاص، و which أو that للأشياء، مثل the flat that I saw.",
     "rule": "used to + verb (past habit or state)\nwould + verb (repeated past action only)\nperson + who ... (the landlord who owns it)\nthing + which / that ... (the flat that I saw)",
     "examples": [
-      { "en": "I used to share an apartment with two roommates.", "ar": "كنت أتشارك شقة مع شريكين في السكن." },
-      { "en": "Our old landlord would visit us every month.", "ar": "كان مالكنا القديم يزورنا كل شهر." },
-      { "en": "The apartment that I saw yesterday has a big balcony.", "ar": "الشقة التي رأيتها أمس فيها شرفة كبيرة." },
-      { "en": "The tenant who lives upstairs is very quiet.", "ar": "المستأجر الذي يسكن في الطابق العلوي هادئ جداً." },
-      { "en": "This is the contract which you need to sign.", "ar": "هذا هو العقد الذي تحتاج إلى توقيعه." }
+      {
+        "en": "I used to share an apartment with two roommates.",
+        "ar": "كنت أتشارك شقة مع شريكين في السكن."
+      },
+      {
+        "en": "Our old landlord would visit us every month.",
+        "ar": "كان مالكنا القديم يزورنا كل شهر."
+      },
+      {
+        "en": "The apartment that I saw yesterday has a big balcony.",
+        "ar": "الشقة التي رأيتها أمس فيها شرفة كبيرة."
+      },
+      {
+        "en": "The tenant who lives upstairs is very quiet.",
+        "ar": "المستأجر الذي يسكن في الطابق العلوي هادئ جداً."
+      },
+      {
+        "en": "This is the contract which you need to sign.",
+        "ar": "هذا هو العقد الذي تحتاج إلى توقيعه."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Viewing an Apartment",
+    "settingAr": "إنت بتتفرج على شقة عايز تأجرها، وصاحب الشقة بيفرجك عليها.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Landlord",
+        "nameAr": "صاحب الشقة"
+      },
+      {
+        "id": "B",
+        "name": "Tenant",
+        "nameAr": "المستأجر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Welcome! This is the apartment that I told you about.",
+        "ar": "أهلاً! دي الشقة اللي قلتلك عليها."
+      },
+      {
+        "speaker": "B",
+        "en": "It's nice and bright. Is it furnished?",
+        "ar": "حلوة ومنورة. هي مفروشة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, it's fully furnished, and there's an elevator.",
+        "ar": "أيوه، مفروشة بالكامل، وفيه أسانسير."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. How much is the rent per month?",
+        "ar": "حلو. الإيجار كام في الشهر؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's eight hundred dollars a month.",
+        "ar": "تمنمية دولار في الشهر."
+      },
+      {
+        "speaker": "B",
+        "en": "Are utilities included in the rent?",
+        "ar": "الفواتير داخلة في الإيجار؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Water is included, but you pay for electricity.",
+        "ar": "المية داخلة، بس الكهربا عليك."
+      },
+      {
+        "speaker": "B",
+        "en": "I used to live with a roommate, so this is perfect for me.",
+        "ar": "أنا كنت ساكن مع حد، فدي مناسبة ليا جداً."
+      },
+      {
+        "speaker": "A",
+        "en": "The deposit is one month's rent, and the lease is one year.",
+        "ar": "التأمين إيجار شهر، والعقد سنة."
+      },
+      {
+        "speaker": "B",
+        "en": "Who do I call if something needs maintenance?",
+        "ar": "أكلم مين لو حاجة محتاجة صيانة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "You call me. I usually fix things within a day.",
+        "ar": "تكلمني أنا. عادةً بصلّح الحاجات في يوم."
+      },
+      {
+        "speaker": "B",
+        "en": "Sounds good. When can I move in?",
+        "ar": "كلام حلو. أقدر أنقل إمتى؟"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "The landlord ___ owns this building is very kind.",
-      "options": ["who", "which", "where", "what"],
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
       "answer": "who"
     },
     {
@@ -72,13 +301,25 @@
     },
     {
       "type": "order",
-      "words": ["to", "I", "near", "live", "used", "here."],
+      "words": [
+        "to",
+        "I",
+        "near",
+        "live",
+        "used",
+        "here."
+      ],
       "answer": "I used to live near here."
     },
     {
       "type": "mcq",
       "question": "An apartment with a bed, a sofa, and a table already inside is ___.",
-      "options": ["empty", "furnished", "broken", "rented"],
+      "options": [
+        "empty",
+        "furnished",
+        "broken",
+        "rented"
+      ],
       "answer": "furnished"
     },
     {
@@ -89,13 +330,25 @@
     },
     {
       "type": "order",
-      "words": ["the", "Is", "rent?", "parking", "in", "included"],
+      "words": [
+        "the",
+        "Is",
+        "rent?",
+        "parking",
+        "in",
+        "included"
+      ],
       "answer": "Is parking included in the rent?"
     },
     {
       "type": "mcq",
       "question": "This is the apartment ___ I saw yesterday.",
-      "options": ["who", "where", "whose", "that"],
+      "options": [
+        "who",
+        "where",
+        "whose",
+        "that"
+      ],
       "answer": "that"
     },
     {

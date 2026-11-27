@@ -6,6 +6,8 @@ import TopicPage from './pages/TopicPage';
 import Essentials from './pages/Essentials';
 import EssentialPage from './pages/EssentialPage';
 import Saved from './pages/Saved';
+import Review from './pages/Review';
+import Settings from './pages/Settings';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -18,6 +20,8 @@ export default function App() {
         <Route path="essentials" element={<Essentials />} />
         <Route path="essentials/:slug" element={<EssentialPage />} />
         <Route path="saved" element={<Saved />} />
+        <Route path="review" element={<Review />} />
+        <Route path="settings" element={<Settings />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

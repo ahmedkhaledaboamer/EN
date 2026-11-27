@@ -7,38 +7,168 @@
   "description": "Describe symptoms and ask for medicine safely.",
   "descriptionAr": "صِف الأعراض واطلب الدواء بطريقة آمنة.",
   "words": [
-    { "en": "pharmacist", "ar": "صيدلي", "phonetic": "/ˈfɑrməsɪst/", "example": "Ask the pharmacist before you take anything new." },
-    { "en": "medicine", "ar": "دواء", "phonetic": "/ˈmɛdəsən/", "example": "Keep medicine away from children." },
-    { "en": "tablet", "ar": "قرص (دواء)", "phonetic": "/ˈtæblət/", "example": "These tablets are small and easy to swallow." },
-    { "en": "syrup", "ar": "شراب (دواء سائل)", "phonetic": "/ˈsɪrəp/", "example": "This cough syrup tastes like strawberries." },
-    { "en": "prescription", "ar": "روشتة / وصفة طبية", "phonetic": "/prɪˈskrɪpʃən/", "example": "You need a prescription for this medicine." },
-    { "en": "dose", "ar": "جرعة", "phonetic": "/doʊs/", "example": "The pharmacist will tell you the right dose." },
-    { "en": "pain", "ar": "ألم / وجع", "phonetic": "/peɪn/", "example": "I have a pain in my back." },
-    { "en": "headache", "ar": "صداع", "phonetic": "/ˈhɛdˌeɪk/", "example": "I have a terrible headache today." },
-    { "en": "fever", "ar": "حُمّى / سخونية", "phonetic": "/ˈfivər/", "example": "My son has a fever." },
-    { "en": "cough", "ar": "سعال / كحّة", "phonetic": "/kɔf/", "example": "My cough is worse at night." },
-    { "en": "cold", "ar": "زكام / برد", "phonetic": "/koʊld/", "example": "I think I have a cold." },
-    { "en": "allergy", "ar": "حساسية", "phonetic": "/ˈælərdʒi/", "example": "Do you have an allergy to any medicine?" },
-    { "en": "side effect", "ar": "عرض جانبي / أثر جانبي", "phonetic": "/ˈsaɪd ɪˌfɛkt/", "example": "This medicine can make you sleepy. That's a side effect." },
-    { "en": "bandage", "ar": "ضمادة / رباط شاش", "phonetic": "/ˈbændɪdʒ/", "example": "Put a bandage on the cut." },
-    { "en": "vitamin", "ar": "فيتامين", "phonetic": "/ˈvaɪtəmɪn/", "example": "Oranges have a lot of vitamin C." },
-    { "en": "ointment", "ar": "مرهم", "phonetic": "/ˈɔɪntmənt/", "example": "Put this ointment on your skin twice a day." },
-    { "en": "painkiller", "ar": "مسكّن (للألم)", "phonetic": "/ˈpeɪnˌkɪlər/", "example": "Do you have a painkiller for a toothache?" },
-    { "en": "symptom", "ar": "عَرَض (من أعراض المرض)", "phonetic": "/ˈsɪmptəm/", "example": "What are your symptoms?" },
-    { "en": "ill", "ar": "مريض / تعبان", "phonetic": "/ɪl/", "example": "She feels ill, so she stays in bed." },
-    { "en": "recover", "ar": "يتعافى / يُشفى", "phonetic": "/rɪˈkʌvər/", "example": "Rest well, and you will recover quickly." }
+    {
+      "en": "pharmacist",
+      "ar": "صيدلي",
+      "phonetic": "/ˈfɑrməsɪst/",
+      "example": "Ask the pharmacist before you take anything new."
+    },
+    {
+      "en": "medicine",
+      "ar": "دواء",
+      "phonetic": "/ˈmɛdəsən/",
+      "example": "Keep medicine away from children."
+    },
+    {
+      "en": "tablet",
+      "ar": "قرص (دواء)",
+      "phonetic": "/ˈtæblət/",
+      "example": "These tablets are small and easy to swallow."
+    },
+    {
+      "en": "syrup",
+      "ar": "شراب (دواء سائل)",
+      "phonetic": "/ˈsɪrəp/",
+      "example": "This cough syrup tastes like strawberries."
+    },
+    {
+      "en": "prescription",
+      "ar": "روشتة / وصفة طبية",
+      "phonetic": "/prɪˈskrɪpʃən/",
+      "example": "You need a prescription for this medicine."
+    },
+    {
+      "en": "dose",
+      "ar": "جرعة",
+      "phonetic": "/doʊs/",
+      "example": "The pharmacist will tell you the right dose."
+    },
+    {
+      "en": "pain",
+      "ar": "ألم / وجع",
+      "phonetic": "/peɪn/",
+      "example": "I have a pain in my back."
+    },
+    {
+      "en": "headache",
+      "ar": "صداع",
+      "phonetic": "/ˈhɛdˌeɪk/",
+      "example": "I have a terrible headache today."
+    },
+    {
+      "en": "fever",
+      "ar": "حُمّى / سخونية",
+      "phonetic": "/ˈfivər/",
+      "example": "My son has a fever."
+    },
+    {
+      "en": "cough",
+      "ar": "سعال / كحّة",
+      "phonetic": "/kɔf/",
+      "example": "My cough is worse at night."
+    },
+    {
+      "en": "cold",
+      "ar": "زكام / برد",
+      "phonetic": "/koʊld/",
+      "example": "I think I have a cold."
+    },
+    {
+      "en": "allergy",
+      "ar": "حساسية",
+      "phonetic": "/ˈælərdʒi/",
+      "example": "Do you have an allergy to any medicine?"
+    },
+    {
+      "en": "side effect",
+      "ar": "عرض جانبي / أثر جانبي",
+      "phonetic": "/ˈsaɪd ɪˌfɛkt/",
+      "example": "This medicine can make you sleepy. That's a side effect."
+    },
+    {
+      "en": "bandage",
+      "ar": "ضمادة / رباط شاش",
+      "phonetic": "/ˈbændɪdʒ/",
+      "example": "Put a bandage on the cut."
+    },
+    {
+      "en": "vitamin",
+      "ar": "فيتامين",
+      "phonetic": "/ˈvaɪtəmɪn/",
+      "example": "Oranges have a lot of vitamin C."
+    },
+    {
+      "en": "ointment",
+      "ar": "مرهم",
+      "phonetic": "/ˈɔɪntmənt/",
+      "example": "Put this ointment on your skin twice a day."
+    },
+    {
+      "en": "painkiller",
+      "ar": "مسكّن (للألم)",
+      "phonetic": "/ˈpeɪnˌkɪlər/",
+      "example": "Do you have a painkiller for a toothache?"
+    },
+    {
+      "en": "symptom",
+      "ar": "عَرَض (من أعراض المرض)",
+      "phonetic": "/ˈsɪmptəm/",
+      "example": "What are your symptoms?"
+    },
+    {
+      "en": "ill",
+      "ar": "مريض / تعبان",
+      "phonetic": "/ɪl/",
+      "example": "She feels ill, so she stays in bed."
+    },
+    {
+      "en": "recover",
+      "ar": "يتعافى / يُشفى",
+      "phonetic": "/rɪˈkʌvər/",
+      "example": "Rest well, and you will recover quickly."
+    }
   ],
   "sentences": [
-    { "en": "I have a bad cold. What should I take?", "ar": "عندي زكام شديد. ماذا ينبغي أن آخذ؟" },
-    { "en": "Do I need a prescription for this?", "ar": "هل أحتاج إلى روشتة لهذا الدواء؟" },
-    { "en": "How should I take this medicine?", "ar": "كيف ينبغي أن آخذ هذا الدواء؟" },
-    { "en": "Should I take it before or after meals?", "ar": "هل آخذه قبل الأكل أم بعده؟" },
-    { "en": "Does it have any side effects?", "ar": "هل له أي أعراض جانبية؟" },
-    { "en": "I'm allergic to penicillin.", "ar": "عندي حساسية من البنسلين." },
-    { "en": "You should drink a lot of water.", "ar": "ينبغي أن تشرب الكثير من الماء." },
-    { "en": "You shouldn't drive after you take this.", "ar": "لا ينبغي أن تقود السيارة بعد تناول هذا الدواء." },
-    { "en": "If you don't feel better, you should see a doctor.", "ar": "إذا لم تتحسّن، ينبغي أن تذهب إلى الطبيب." },
-    { "en": "Do you have something for a sore throat?", "ar": "هل عندكم شيء لالتهاب الحلق؟" }
+    {
+      "en": "I have a bad cold. What should I take?",
+      "ar": "عندي زكام شديد. ماذا ينبغي أن آخذ؟"
+    },
+    {
+      "en": "Do I need a prescription for this?",
+      "ar": "هل أحتاج إلى روشتة لهذا الدواء؟"
+    },
+    {
+      "en": "How should I take this medicine?",
+      "ar": "كيف ينبغي أن آخذ هذا الدواء؟"
+    },
+    {
+      "en": "Should I take it before or after meals?",
+      "ar": "هل آخذه قبل الأكل أم بعده؟"
+    },
+    {
+      "en": "Does it have any side effects?",
+      "ar": "هل له أي أعراض جانبية؟"
+    },
+    {
+      "en": "I'm allergic to penicillin.",
+      "ar": "عندي حساسية من البنسلين."
+    },
+    {
+      "en": "You should drink a lot of water.",
+      "ar": "ينبغي أن تشرب الكثير من الماء."
+    },
+    {
+      "en": "You shouldn't drive after you take this.",
+      "ar": "لا ينبغي أن تقود السيارة بعد تناول هذا الدواء."
+    },
+    {
+      "en": "If you don't feel better, you should see a doctor.",
+      "ar": "إذا لم تتحسّن، ينبغي أن تذهب إلى الطبيب."
+    },
+    {
+      "en": "Do you have something for a sore throat?",
+      "ar": "هل عندكم شيء لالتهاب الحلق؟"
+    }
   ],
   "story": {
     "title": "A Bad Cold",
@@ -50,18 +180,117 @@
     "explanationAr": "نستخدم should لنعطي نصيحة، ومعناها «ينبغي» أو «من الأفضل أن». ونستخدم shouldn't (أي should not) لنقول إن شيئاً ما ليس فكرة جيدة. يأتي بعد should الفعل في صيغته الأساسية بدون to، فنقول You should rest وليس You should to rest. ولا تتغير should مع he أو she، فنقول He should وليس He shoulds. ولطلب النصيحة نضع should في أول السؤال: Should I see a doctor?",
     "rule": "I / You / He / She / We / They + should + base verb\nI / You / He / She / We / They + shouldn't + base verb\nShould + I / he / she ... + base verb ...?\nWhat should I ...?",
     "examples": [
-      { "en": "You should drink a lot of water.", "ar": "ينبغي أن تشرب الكثير من الماء." },
-      { "en": "You shouldn't take two painkillers at the same time.", "ar": "لا ينبغي أن تأخذ مسكّنين في الوقت نفسه." },
-      { "en": "She has a fever. She should stay at home.", "ar": "عندها حُمّى. ينبغي أن تبقى في البيت." },
-      { "en": "Should I take this syrup after meals?", "ar": "هل ينبغي أن آخذ هذا الشراب بعد الأكل؟" },
-      { "en": "What should I do for a bad cough?", "ar": "ماذا ينبغي أن أفعل للكحّة الشديدة؟" }
+      {
+        "en": "You should drink a lot of water.",
+        "ar": "ينبغي أن تشرب الكثير من الماء."
+      },
+      {
+        "en": "You shouldn't take two painkillers at the same time.",
+        "ar": "لا ينبغي أن تأخذ مسكّنين في الوقت نفسه."
+      },
+      {
+        "en": "She has a fever. She should stay at home.",
+        "ar": "عندها حُمّى. ينبغي أن تبقى في البيت."
+      },
+      {
+        "en": "Should I take this syrup after meals?",
+        "ar": "هل ينبغي أن آخذ هذا الشراب بعد الأكل؟"
+      },
+      {
+        "en": "What should I do for a bad cough?",
+        "ar": "ماذا ينبغي أن أفعل للكحّة الشديدة؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the Pharmacy Counter",
+    "settingAr": "إنت عندك برد وكحة، ورحت الصيدلية تسأل الصيدلي تاخد إيه.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Pharmacist",
+        "nameAr": "الصيدلي"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hello. I have a bad cold. What should I take?",
+        "ar": "أهلاً. عندي برد جامد. آخد إيه؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Do you have a fever or a cough?",
+        "ar": "عندك سخونية ولا كحة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I have a cough and a headache, but no fever.",
+        "ar": "عندي كحة وصداع، بس مفيش سخونية."
+      },
+      {
+        "speaker": "A",
+        "en": "This cough syrup should help. Are you allergic to anything?",
+        "ar": "شراب الكحة ده هيساعدك. عندك حساسية من أي حاجة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No, I'm not. Do I need a prescription for this?",
+        "ar": "لأ، معنديش. محتاج روشتة للدوا ده؟"
+      },
+      {
+        "speaker": "A",
+        "en": "No, you don't. Just follow the instructions on the box.",
+        "ar": "لأ، مش محتاج. بس امشي على التعليمات اللي على العلبة."
+      },
+      {
+        "speaker": "B",
+        "en": "Should I take it before or after meals?",
+        "ar": "آخده قبل الأكل ولا بعده؟"
+      },
+      {
+        "speaker": "A",
+        "en": "After meals. You should also drink a lot of water.",
+        "ar": "بعد الأكل. ولازم كمان تشرب مية كتير."
+      },
+      {
+        "speaker": "B",
+        "en": "Does it have any side effects?",
+        "ar": "ليه أي آثار جانبية؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It can make you sleepy, so you shouldn't drive.",
+        "ar": "ممكن يخليك نعسان، فبلاش تسوق."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay, thank you. How much is it?",
+        "ar": "تمام، شكراً. بكام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Eight dollars. If you don't feel better, you should see a doctor.",
+        "ar": "بتمانية دولار. ولو محستش إنك أحسن، لازم تروح لدكتور."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "Who can help you choose the right medicine at the pharmacy?",
-      "options": ["The pharmacist", "The cashier", "The referee", "The driver"],
+      "options": [
+        "The pharmacist",
+        "The cashier",
+        "The referee",
+        "The driver"
+      ],
       "answer": "The pharmacist"
     },
     {
@@ -72,13 +301,25 @@
     },
     {
       "type": "order",
-      "words": ["take", "food?", "Should", "with", "it", "I"],
+      "words": [
+        "take",
+        "food?",
+        "Should",
+        "with",
+        "it",
+        "I"
+      ],
       "answer": "Should I take it with food?"
     },
     {
       "type": "mcq",
       "question": "You have a high fever. You ___ go to work today.",
-      "options": ["should to", "shouldn't", "shoulds", "shouldn't to"],
+      "options": [
+        "should to",
+        "shouldn't",
+        "shoulds",
+        "shouldn't to"
+      ],
       "answer": "shouldn't"
     },
     {
@@ -89,13 +330,24 @@
     },
     {
       "type": "order",
-      "words": ["doctor.", "should", "You", "a", "see"],
+      "words": [
+        "doctor.",
+        "should",
+        "You",
+        "a",
+        "see"
+      ],
       "answer": "You should see a doctor."
     },
     {
       "type": "mcq",
       "question": "A cough and a fever are ___ of a cold.",
-      "options": ["bandages", "vitamins", "ointments", "symptoms"],
+      "options": [
+        "bandages",
+        "vitamins",
+        "ointments",
+        "symptoms"
+      ],
       "answer": "symptoms"
     },
     {

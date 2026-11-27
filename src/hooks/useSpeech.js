@@ -24,14 +24,14 @@ export function useSpeech() {
   // Stop talking when the component unmounts (e.g. leaving the page)
   useEffect(() => () => cancelSpeech(), []);
 
-  const speak = useCallback((text, { id = text, rate, onEnd } = {}) => {
+  const speak = useCallback((text, { id = text, rate, pitch, onEnd } = {}) => {
     const token = ++tokenRef.current;
     setSpeakingId(id);
     const done = (info) => {
       if (tokenRef.current === token) setSpeakingId(null);
       onEnd?.(info);
     };
-    speakText(text, { rate, onEnd: done, onError: () => done({ error: true }) });
+    speakText(text, { rate, pitch, onEnd: done, onError: () => done({ error: true }) });
   }, []);
 
   const stop = useCallback(() => {

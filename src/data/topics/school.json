@@ -202,6 +202,80 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "In the Classroom",
+    "settingAr": "إنت طالب في الفصل، والمدرس بيبدأ الدرس وإنت محتاج تسأله كام حاجة.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Teacher",
+        "nameAr": "المدرس"
+      },
+      {
+        "id": "B",
+        "name": "Student",
+        "nameAr": "الطالب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good morning, class. Open your books to page ten.",
+        "ar": "صباح الخير يا ولاد. افتحوا الكتب صفحة عشرة."
+      },
+      {
+        "speaker": "B",
+        "en": "Sorry, can you say that again, please?",
+        "ar": "آسف، ممكن تقول تاني لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Page ten. And please be quiet and listen.",
+        "ar": "صفحة عشرة. ولو سمحت اسكت واسمع."
+      },
+      {
+        "speaker": "B",
+        "en": "I don't have a pencil. Can I borrow one?",
+        "ar": "معنديش قلم رصاص. ممكن أستلف واحد؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, here you are. Write your name at the top.",
+        "ar": "أيوه، اتفضل. اكتب اسمك فوق."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. I don't understand question three.",
+        "ar": "شكراً. أنا مش فاهم السؤال التالت."
+      },
+      {
+        "speaker": "A",
+        "en": "Read it again slowly. You can use the board.",
+        "ar": "اقراه تاني على مهلك. تقدر تبص على السبورة."
+      },
+      {
+        "speaker": "B",
+        "en": "OK, I understand now. When is the math exam?",
+        "ar": "تمام، فهمت دلوقتي. امتحان الماث امتى؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's next Monday. Don't forget your homework!",
+        "ar": "يوم الاتنين الجاي. ماتنساش الواجب!"
+      },
+      {
+        "speaker": "B",
+        "en": "I won't. Can I go to the library at break?",
+        "ar": "مش هنسى. ممكن أروح المكتبة في الفسحة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, you can. But you can't use your phone there.",
+        "ar": "أيوه، تقدر. بس ماينفعش تستخدم موبايلك هناك."
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

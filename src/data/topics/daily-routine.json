@@ -202,6 +202,75 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "Talking About Your Day",
+    "settingAr": "إنت في درس إنجليزي، وشريكك في المحادثة بيسألك عن يومك العادي بيمشي إزاي.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Partner",
+        "nameAr": "شريك المحادثة"
+      },
+      {
+        "id": "B",
+        "name": "Student",
+        "nameAr": "الطالب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "You look tired. What time do you wake up?",
+        "ar": "شكلك تعبان. بتصحى الساعة كام؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I usually wake up at six.",
+        "ar": "عادةً بصحى الساعة ستة."
+      },
+      {
+        "speaker": "A",
+        "en": "Wow, that's early! Do you eat breakfast?",
+        "ar": "ياه، ده بدري! بتفطر؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, I always have breakfast at home.",
+        "ar": "أيوه، دايماً بفطر في البيت."
+      },
+      {
+        "speaker": "A",
+        "en": "How do you get to work?",
+        "ar": "بتروح الشغل إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I take the metro. My commute is one hour.",
+        "ar": "بركب المترو. المشوار بياخد ساعة."
+      },
+      {
+        "speaker": "A",
+        "en": "And what do you do in the evening?",
+        "ar": "وبتعمل إيه بالليل؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I relax and watch TV. Sometimes I go for a walk.",
+        "ar": "بريّح وبتفرج على التلفزيون. وساعات بتمشى شوية."
+      },
+      {
+        "speaker": "A",
+        "en": "What time do you go to sleep?",
+        "ar": "بتنام الساعة كام؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Usually at eleven. I'm never late for work!",
+        "ar": "عادةً الساعة حداشر. وعمري ما بتأخر على الشغل!"
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

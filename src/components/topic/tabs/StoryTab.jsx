@@ -7,6 +7,7 @@ import SpeakButton from '../../speech/SpeakButton';
 import { useSpeechContext } from '../../speech/SpeechContext';
 import { cancelSpeech, speak as speakText } from '../../../utils/speech';
 import { buildWordMatchers, segmentSentence, splitSentences } from '../../../utils/storyText';
+import { useSettings } from '../../../hooks/useSettings';
 
 const RATES = { normal: 0.95, slow: 0.7 };
 
@@ -119,7 +120,8 @@ export default function StoryTab({ topic }) {
   const { supported } = useSpeechContext();
   const [speed, setSpeed] = useState('normal');
   const [selected, setSelected] = useState(null);
-  const [showTranslation, setShowTranslation] = useState(false);
+  const { settings } = useSettings();
+  const [showTranslation, setShowTranslation] = useState(settings.showArabic);
 
   const sentences = useMemo(() => splitSentences(story.text), [story.text]);
   const matchers = useMemo(() => buildWordMatchers(topic.words), [topic.words]);

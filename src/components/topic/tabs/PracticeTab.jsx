@@ -2,6 +2,7 @@ import { useMemo } from 'react';
 import QuizRunner from '../../practice/QuizRunner';
 import { useProgress } from '../../../hooks/useProgress';
 import { useStreak } from '../../../hooks/useStreak';
+import { useMistakes } from '../../../hooks/useMistakes';
 import { isRecognitionSupported } from '../../../hooks/useSpeechRecognition';
 import { getNextTopic } from '../../../data/topics';
 import { shuffle } from '../../../utils/answers';
@@ -12,6 +13,8 @@ const SPEAK_COUNT = 2;
 export default function PracticeTab({ topic, onReviewWords }) {
   const { recordPracticeResult } = useProgress();
   const { recordActivity } = useStreak();
+  const { recordAnswer } = useMistakes();
+  const source = { title: topic.title, emoji: topic.emoji, to: `/topics/${topic.slug}?tab=practice` };
   const nextTopic = getNextTopic(topic.slug);
 
   // The topic's 8 exercises + 2 speaking exercises picked from its sentences
@@ -32,6 +35,7 @@ export default function PracticeTab({ topic, onReviewWords }) {
     <QuizRunner
       exercises={exercises}
       onFinish={onFinish}
+      onAnswer={(ex, answer) => recordAnswer(ex, answer, source)}
       next={nextTopic ? { to: `/topics/${nextTopic.slug}`, label: `Next: ${nextTopic.title}` } : null}
       review={{ label: 'Review words', onClick: onReviewWords }}
     />

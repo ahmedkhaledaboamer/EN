@@ -127,6 +127,36 @@ function validateTopic(file) {
     }
   }
 
+  // ── Dialogue (role-play) ───────────────────────────────────
+  if (t.dialogue === undefined) err('missing "dialogue" (role-play conversation)');
+  else {
+    const d = t.dialogue;
+    if (!isNonEmptyString(d.title)) err('dialogue.title is empty');
+    arabic(d.settingAr, 'dialogue.settingAr');
+    const roles = Array.isArray(d.roles) ? d.roles : [];
+    if (roles.length !== 2) err('dialogue.roles must have exactly 2 roles');
+    const roleIds = roles.map((r) => r?.id);
+    roles.forEach((r, i) => {
+      if (!isNonEmptyString(r?.id)) err(`dialogue.roles[${i}]: missing "id"`);
+      if (!isNonEmptyString(r?.name)) err(`dialogue.roles[${i}]: missing "name"`);
+      arabic(r?.nameAr, `dialogue.roles[${i}].nameAr`);
+    });
+    if (new Set(roleIds).size !== roleIds.length) err('dialogue.roles ids must be different');
+    if (!roleIds.includes(d.learnerRole)) err(`dialogue.learnerRole "${d.learnerRole}" is not one of the role ids`);
+    const lines = Array.isArray(d.lines) ? d.lines : [];
+    if (lines.length < 8 || lines.length > 12) err(`dialogue: expected 8-12 lines, found ${lines.length}`);
+    lines.forEach((l, i) => {
+      if (!roleIds.includes(l?.speaker)) err(`dialogue.lines[${i}]: unknown speaker "${l?.speaker}"`);
+      if (!isNonEmptyString(l?.en)) err(`dialogue.lines[${i}]: missing "en"`);
+      else if (tokens(l.en).length > 22) warn(`dialogue.lines[${i}] is long (${tokens(l.en).length} words); keep lines easy to say`);
+      arabic(l?.ar, `dialogue.lines[${i}].ar`);
+    });
+    roleIds.forEach((id) => {
+      const n = lines.filter((l) => l?.speaker === id).length;
+      if (lines.length && n < 3) err(`dialogue: role "${id}" speaks only ${n} time(s), needs at least 3`);
+    });
+  }
+
   // ── Exercises ──────────────────────────────────────────────
   (Array.isArray(t.exercises) ? t.exercises : []).forEach((ex, i) => {
     const where = `exercises[${i}] (${ex?.type ?? '?'})`;

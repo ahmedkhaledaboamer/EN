@@ -38,6 +38,27 @@ export function pickEnglishVoice(voices) {
 }
 
 let cachedVoice = null;
+let allVoices = [];
+// User preferences (set from Settings): preferred voice and speed multiplier
+let prefs = { voiceURI: '', rateScale: 1 };
+
+/** Apply Settings: preferred voice (by voiceURI, '' = automatic) and speed multiplier. */
+export function setSpeechPrefs(next) {
+  prefs = { ...prefs, ...next };
+}
+
+/** All English voices available on this device (for the Settings voice picker). */
+export function getEnglishVoices() {
+  return allVoices.filter((v) => normLang(v.lang).startsWith('en'));
+}
+
+function currentVoice() {
+  if (prefs.voiceURI) {
+    const chosen = allVoices.find((v) => v.voiceURI === prefs.voiceURI);
+    if (chosen) return chosen;
+  }
+  return cachedVoice;
+}
 let voicesLoaded = false;
 const listeners = new Set();
 
@@ -46,6 +67,7 @@ function refreshVoices() {
   try {
     const voices = window.speechSynthesis.getVoices();
     if (voices.length) {
+      allVoices = voices;
       cachedVoice = pickEnglishVoice(voices);
       voicesLoaded = true;
       listeners.forEach((fn) => fn());
@@ -86,7 +108,7 @@ export function getVoiceState() {
  * Speak `text`. Cancels anything already speaking.
  * Returns the utterance (or null when speech isn't available).
  */
-export function speak(text, { rate = 0.95, onStart, onEnd, onError } = {}) {
+export function speak(text, { rate = 0.95, pitch = 1, onStart, onEnd, onError } = {}) {
   if (!isSpeechSupported || !text) {
     onError?.();
     return null;
@@ -96,8 +118,13 @@ export function speak(text, { rate = 0.95, onStart, onEnd, onError } = {}) {
     synth.cancel();
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-US';
-    if (cachedVoice) u.voice = cachedVoice;
-    u.rate = rate;
+    const voice = currentVoice();
+    if (voice) {
+      u.voice = voice;
+      u.lang = voice.lang;
+    }
+    u.rate = Math.min(2, Math.max(0.3, rate * (prefs.rateScale || 1)));
+    u.pitch = pitch;
     u.onstart = () => onStart?.();
     u.onend = () => onEnd?.();
     u.onerror = (e) => {

@@ -202,6 +202,85 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "Reporting a Stolen Phone",
+    "settingAr": "إنت في قسم الشرطة عشان حد سرق موبايلك في الشارع، وبتحكي للظابط اللي حصل.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Police Officer",
+        "nameAr": "الظابط"
+      },
+      {
+        "id": "B",
+        "name": "Victim",
+        "nameAr": "صاحب البلاغ (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good evening. How can I help you?",
+        "ar": "مساء الخير. أقدر أساعدك إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'd like to report a crime. Someone stole my phone.",
+        "ar": "عايز أعمل بلاغ. حد سرق موبايلي."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm sorry. Are you injured?",
+        "ar": "آسف جداً. إنت متعور؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No, I'm fine. I'm safe now.",
+        "ar": "لا، أنا كويس. أنا في أمان دلوقتي."
+      },
+      {
+        "speaker": "A",
+        "en": "Can you tell me what happened?",
+        "ar": "ممكن تحكيلي إيه اللي حصل؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I was walking home when a man took my phone.",
+        "ar": "كنت ماشي مروح لما راجل خطف موبايلي."
+      },
+      {
+        "speaker": "A",
+        "en": "What time was it, and where were you?",
+        "ar": "الساعة كانت كام، وكنت فين؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It was about nine. I was waiting at the bus stop.",
+        "ar": "كانت حوالي تسعة. كنت مستني في محطة الأتوبيس."
+      },
+      {
+        "speaker": "A",
+        "en": "Can you describe the thief?",
+        "ar": "تقدر توصفلي الحرامي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "He was tall, and he was wearing a black jacket.",
+        "ar": "كان طويل، وكان لابس جاكيت أسود."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank you. Please sign this statement.",
+        "ar": "شكراً. لو سمحت امضي على المحضر ده."
+      },
+      {
+        "speaker": "B",
+        "en": "Of course. Will you call me if you find it?",
+        "ar": "طبعاً. هتكلموني لو لقيتوه؟"
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

@@ -163,6 +163,15 @@ with `--topics` or `--essentials`.
 - **Saved words** = words bookmarked on any word card (topics or essentials). The `/saved` page lists them
   grouped by source, with search, flashcards and a quiz built from your list. Flashcard "I know it" updates the
   progress of the word's own topic or category.
+- **Dialogue tab (role-play)**: every topic has an 8–12 line conversation (`dialogue` in the topic JSON:
+  `title`, `settingAr`, two `roles`, `learnerRole`, `lines`). Listen to it, then play your role: the other side
+  speaks automatically and you say your lines into the microphone (or say them from the Arabic only).
+- **Daily review (/review)**: spaced repetition (Leitner boxes: 1, 3, 7, 14, 30 days) over every word you marked
+  "Got it" or saved. The **mistakes notebook** collects every wrong quiz answer; answering it correctly removes it.
+- **Settings (/settings)**: voice and speed, Arabic shown by default, text size, daily goal, backup / restore,
+  and "make all lessons available offline".
+- **Installable & offline (PWA)**: `public/manifest.webmanifest` + a hand-written `public/sw.js` (registered in
+  production only). Pages and lessons you opened work without internet.
 - **Speaking practice (🎤)**: on word cards, on each sentence, and as 2 "Say it" exercises added to every topic's
   Practice. It uses the browser's `SpeechRecognition` (Chrome, Edge, Safari; not Firefox; needs internet and microphone
   permission), then compares what you said with the target word by word: green = heard, red = missed. It checks that
@@ -170,7 +179,8 @@ with `--topics` or `--essentials`.
 - **Audio** uses the browser's `speechSynthesis`: it picks an en-US voice, waits for voices that load late, falls back to the default voice, and shows a notice when speech isn't supported.
 - **Essentials**: a category is completed at **70% or more** in its quiz. Its progress is stored separately
   from topics, and the Home stats show completed categories and learned items.
-- **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`.
+- **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`,
+  `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`.
   Every access is wrapped in try/catch.
 
 ### Performance

@@ -4,12 +4,9 @@ import StatCard from './StatCard';
 import Reveal from '../ui/Reveal';
 
 /** essentials: { completed, total, learnedItems } */
-export default function StatsRow({ streak, best, studiedToday, savedCount, completedCount, readyCount, essentials }) {
-  const streakHint = studiedToday
-    ? 'Studied today ✓'
-    : streak > 0
-      ? 'Study today to keep it'
-      : 'Learn one word to start';
+export default function StatsRow({ streak, best, savedCount, completedCount, readyCount, essentials, daily }) {
+  // daily: { done, goal } words learned today vs. the goal from Settings
+  const streakHint = `Today ${daily.done}/${daily.goal} words${daily.done >= daily.goal ? ' ✓' : ''}`;
 
   return (
     <section aria-label="Your stats" className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">

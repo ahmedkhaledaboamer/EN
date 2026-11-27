@@ -7,38 +7,168 @@
   "description": "Use buses, trains, and metro, and ask about schedules.",
   "descriptionAr": "استخدم الأتوبيسات والقطارات والمترو، واسأل عن المواعيد.",
   "words": [
-    { "en": "bus", "ar": "أتوبيس / حافلة", "phonetic": "/bʌs/", "example": "I go to work by bus." },
-    { "en": "metro", "ar": "مترو (قطار الأنفاق)", "phonetic": "/ˈmɛtroʊ/", "example": "The metro is the fastest way to get downtown." },
-    { "en": "train", "ar": "قطار", "phonetic": "/treɪn/", "example": "The train to Alexandria leaves at 9 a.m." },
-    { "en": "station", "ar": "محطة", "phonetic": "/ˈsteɪʃən/", "example": "The station is five minutes from my house." },
-    { "en": "platform", "ar": "رصيف (المحطة)", "phonetic": "/ˈplætfɔrm/", "example": "The train leaves from platform 3." },
-    { "en": "ticket", "ar": "تذكرة", "phonetic": "/ˈtɪkɪt/", "example": "You can buy a ticket from the machine." },
-    { "en": "single", "ar": "(تذكرة) ذهاب فقط", "phonetic": "/ˈsɪŋɡəl/", "example": "A single ticket costs two dollars." },
-    { "en": "return", "ar": "(تذكرة) ذهاب وعودة", "phonetic": "/rɪˈtərn/", "example": "I'd like a return ticket to Giza, please." },
-    { "en": "timetable", "ar": "جدول المواعيد", "phonetic": "/ˈtaɪmˌteɪbəl/", "example": "Check the timetable before you leave." },
-    { "en": "route", "ar": "مسار / خط السير", "phonetic": "/rut/", "example": "This bus takes a long route through the city." },
-    { "en": "line", "ar": "خط (مترو أو أتوبيس)", "phonetic": "/laɪn/", "example": "Take the green line to the university." },
-    { "en": "transfer", "ar": "تحويل / تغيير (من خط إلى آخر)", "phonetic": "/ˈtrænsfər/", "example": "You need to make a transfer at the next station." },
-    { "en": "stop", "ar": "موقف / محطة (أتوبيس)", "phonetic": "/stɑp/", "example": "Get off at the next stop." },
-    { "en": "driver", "ar": "سائق", "phonetic": "/ˈdraɪvər/", "example": "The bus driver is very kind." },
-    { "en": "crowded", "ar": "مزدحم / زحمة", "phonetic": "/ˈkraʊdɪd/", "example": "The metro is always crowded in the morning." },
-    { "en": "rush hour", "ar": "ساعة الذروة (وقت الزحمة)", "phonetic": "/ˈrʌʃ ˌaʊər/", "example": "I avoid the train during rush hour." },
-    { "en": "seat", "ar": "مقعد / كرسي", "phonetic": "/sit/", "example": "A young man gives his seat to an old woman." },
-    { "en": "fare", "ar": "أجرة (ثمن الركوب)", "phonetic": "/fɛr/", "example": "The bus fare is cheap." },
-    { "en": "schedule", "ar": "مواعيد / جدول", "phonetic": "/ˈskɛdʒul/", "example": "The train schedule changes on Fridays." },
-    { "en": "miss", "ar": "يفوته (القطار أو الأتوبيس)", "phonetic": "/mɪs/", "example": "Hurry, or we will miss the bus!" }
+    {
+      "en": "bus",
+      "ar": "أتوبيس / حافلة",
+      "phonetic": "/bʌs/",
+      "example": "I go to work by bus."
+    },
+    {
+      "en": "metro",
+      "ar": "مترو (قطار الأنفاق)",
+      "phonetic": "/ˈmɛtroʊ/",
+      "example": "The metro is the fastest way to get downtown."
+    },
+    {
+      "en": "train",
+      "ar": "قطار",
+      "phonetic": "/treɪn/",
+      "example": "The train to Alexandria leaves at 9 a.m."
+    },
+    {
+      "en": "station",
+      "ar": "محطة",
+      "phonetic": "/ˈsteɪʃən/",
+      "example": "The station is five minutes from my house."
+    },
+    {
+      "en": "platform",
+      "ar": "رصيف (المحطة)",
+      "phonetic": "/ˈplætfɔrm/",
+      "example": "The train leaves from platform 3."
+    },
+    {
+      "en": "ticket",
+      "ar": "تذكرة",
+      "phonetic": "/ˈtɪkɪt/",
+      "example": "You can buy a ticket from the machine."
+    },
+    {
+      "en": "single",
+      "ar": "(تذكرة) ذهاب فقط",
+      "phonetic": "/ˈsɪŋɡəl/",
+      "example": "A single ticket costs two dollars."
+    },
+    {
+      "en": "return",
+      "ar": "(تذكرة) ذهاب وعودة",
+      "phonetic": "/rɪˈtərn/",
+      "example": "I'd like a return ticket to Giza, please."
+    },
+    {
+      "en": "timetable",
+      "ar": "جدول المواعيد",
+      "phonetic": "/ˈtaɪmˌteɪbəl/",
+      "example": "Check the timetable before you leave."
+    },
+    {
+      "en": "route",
+      "ar": "مسار / خط السير",
+      "phonetic": "/rut/",
+      "example": "This bus takes a long route through the city."
+    },
+    {
+      "en": "line",
+      "ar": "خط (مترو أو أتوبيس)",
+      "phonetic": "/laɪn/",
+      "example": "Take the green line to the university."
+    },
+    {
+      "en": "transfer",
+      "ar": "تحويل / تغيير (من خط إلى آخر)",
+      "phonetic": "/ˈtrænsfər/",
+      "example": "You need to make a transfer at the next station."
+    },
+    {
+      "en": "stop",
+      "ar": "موقف / محطة (أتوبيس)",
+      "phonetic": "/stɑp/",
+      "example": "Get off at the next stop."
+    },
+    {
+      "en": "driver",
+      "ar": "سائق",
+      "phonetic": "/ˈdraɪvər/",
+      "example": "The bus driver is very kind."
+    },
+    {
+      "en": "crowded",
+      "ar": "مزدحم / زحمة",
+      "phonetic": "/ˈkraʊdɪd/",
+      "example": "The metro is always crowded in the morning."
+    },
+    {
+      "en": "rush hour",
+      "ar": "ساعة الذروة (وقت الزحمة)",
+      "phonetic": "/ˈrʌʃ ˌaʊər/",
+      "example": "I avoid the train during rush hour."
+    },
+    {
+      "en": "seat",
+      "ar": "مقعد / كرسي",
+      "phonetic": "/sit/",
+      "example": "A young man gives his seat to an old woman."
+    },
+    {
+      "en": "fare",
+      "ar": "أجرة (ثمن الركوب)",
+      "phonetic": "/fɛr/",
+      "example": "The bus fare is cheap."
+    },
+    {
+      "en": "schedule",
+      "ar": "مواعيد / جدول",
+      "phonetic": "/ˈskɛdʒul/",
+      "example": "The train schedule changes on Fridays."
+    },
+    {
+      "en": "miss",
+      "ar": "يفوته (القطار أو الأتوبيس)",
+      "phonetic": "/mɪs/",
+      "example": "Hurry, or we will miss the bus!"
+    }
   ],
   "sentences": [
-    { "en": "Which line goes to the city center?", "ar": "أي خط يذهب إلى وسط المدينة؟" },
-    { "en": "Does this bus stop at the station?", "ar": "هل يتوقف هذا الأتوبيس عند المحطة؟" },
-    { "en": "How much is the fare?", "ar": "كم الأجرة؟" },
-    { "en": "The next train leaves at 8:30.", "ar": "القطار التالي يغادر في الساعة 8:30." },
-    { "en": "I usually go to work by metro.", "ar": "عادةً أذهب إلى العمل بالمترو." },
-    { "en": "Where do I change for the blue line?", "ar": "أين أغيّر إلى الخط الأزرق؟" },
-    { "en": "Excuse me, is this seat free?", "ar": "عفواً، هل هذا المقعد فارغ؟" },
-    { "en": "Oh no, we are on the wrong train!", "ar": "يا إلهي، نحن في القطار الخطأ!" },
-    { "en": "There are fewer buses on Fridays.", "ar": "الأتوبيسات أقل يوم الجمعة." },
-    { "en": "A return ticket to the airport, please.", "ar": "تذكرة ذهاب وعودة إلى المطار من فضلك." }
+    {
+      "en": "Which line goes to the city center?",
+      "ar": "أي خط يذهب إلى وسط المدينة؟"
+    },
+    {
+      "en": "Does this bus stop at the station?",
+      "ar": "هل يتوقف هذا الأتوبيس عند المحطة؟"
+    },
+    {
+      "en": "How much is the fare?",
+      "ar": "كم الأجرة؟"
+    },
+    {
+      "en": "The next train leaves at 8:30.",
+      "ar": "القطار التالي يغادر في الساعة 8:30."
+    },
+    {
+      "en": "I usually go to work by metro.",
+      "ar": "عادةً أذهب إلى العمل بالمترو."
+    },
+    {
+      "en": "Where do I change for the blue line?",
+      "ar": "أين أغيّر إلى الخط الأزرق؟"
+    },
+    {
+      "en": "Excuse me, is this seat free?",
+      "ar": "عفواً، هل هذا المقعد فارغ؟"
+    },
+    {
+      "en": "Oh no, we are on the wrong train!",
+      "ar": "يا إلهي، نحن في القطار الخطأ!"
+    },
+    {
+      "en": "There are fewer buses on Fridays.",
+      "ar": "الأتوبيسات أقل يوم الجمعة."
+    },
+    {
+      "en": "A return ticket to the airport, please.",
+      "ar": "تذكرة ذهاب وعودة إلى المطار من فضلك."
+    }
   ],
   "story": {
     "title": "The Wrong Line",
@@ -50,18 +180,107 @@
     "explanationAr": "نستخدم at مع الساعة والوقت المحدد مثل at 8 و at noon. ونستخدم on مع الأيام مثل on Monday، ونستخدم in مع الشهور وأجزاء اليوم مثل in May و in the morning. وللحديث عن وسيلة المواصلات بشكل عام نقول by: by bus و by train و by metro. أما عندما نكون داخل وسيلة معيّنة فنقول on the bus و on the train، ونقول in a taxi. وعند المشي نقول on foot.",
     "rule": "at + clock time (at 8, at 7:30)\non + day (on Monday, on Friday)\nin + month / part of the day (in May, in the morning)\nby + transport (by bus, by train, by metro)\non the bus / on the train / in a taxi\non foot = walking",
     "examples": [
-      { "en": "The first train leaves at 6 a.m.", "ar": "أول قطار يغادر في السادسة صباحاً." },
-      { "en": "I go to the university by metro.", "ar": "أذهب إلى الجامعة بالمترو." },
-      { "en": "She reads a book on the bus.", "ar": "هي تقرأ كتاباً في الأتوبيس." },
-      { "en": "The buses are very crowded in the morning.", "ar": "الأتوبيسات مزدحمة جداً في الصباح." },
-      { "en": "On Fridays, he comes home in a taxi.", "ar": "يوم الجمعة، يعود إلى البيت بالتاكسي." }
+      {
+        "en": "The first train leaves at 6 a.m.",
+        "ar": "أول قطار يغادر في السادسة صباحاً."
+      },
+      {
+        "en": "I go to the university by metro.",
+        "ar": "أذهب إلى الجامعة بالمترو."
+      },
+      {
+        "en": "She reads a book on the bus.",
+        "ar": "هي تقرأ كتاباً في الأتوبيس."
+      },
+      {
+        "en": "The buses are very crowded in the morning.",
+        "ar": "الأتوبيسات مزدحمة جداً في الصباح."
+      },
+      {
+        "en": "On Fridays, he comes home in a taxi.",
+        "ar": "يوم الجمعة، يعود إلى البيت بالتاكسي."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Buying a Metro Ticket",
+    "settingAr": "إنت في محطة المترو ومش عارف تروح وسط البلد إزاي، فبتسأل الموظف في شباك التذاكر.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Ticket Clerk",
+        "nameAr": "موظف التذاكر"
+      },
+      {
+        "id": "B",
+        "name": "Passenger",
+        "nameAr": "الراكب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Excuse me, which line goes to the city center?",
+        "ar": "لو سمحت، أنهي خط بيروح وسط البلد؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Take the red line, then change to the blue line.",
+        "ar": "اركب الخط الأحمر، وبعدين غيّر للخط الأزرق."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay. Can I have a return ticket, please?",
+        "ar": "تمام. ممكن تذكرة رايح جاي لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. That's four dollars.",
+        "ar": "أكيد. الحساب أربعة دولار."
+      },
+      {
+        "speaker": "B",
+        "en": "Here you are. When does the next train leave?",
+        "ar": "اتفضل. القطر الجاي بيطلع إمتى؟"
+      },
+      {
+        "speaker": "A",
+        "en": "At ten fifteen, from platform two.",
+        "ar": "الساعة عشرة وربع، من رصيف اتنين."
+      },
+      {
+        "speaker": "B",
+        "en": "Is it very crowded in the morning?",
+        "ar": "بيبقى زحمة أوي الصبح؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, at rush hour. It's quieter now.",
+        "ar": "أيوه، في وقت الذروة. دلوقتي أهدى."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. How many stops is it to the center?",
+        "ar": "حلو. كام محطة لحد وسط البلد؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Six stops. Hurry, or you'll miss it!",
+        "ar": "ست محطات. بسرعة، لحسن يفوتك!"
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "I go to school ___ bus.",
-      "options": ["in", "on", "by", "at"],
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
       "answer": "by"
     },
     {
@@ -72,13 +291,25 @@
     },
     {
       "type": "order",
-      "words": ["metro.", "work", "I", "by", "go", "to"],
+      "words": [
+        "metro.",
+        "work",
+        "I",
+        "by",
+        "go",
+        "to"
+      ],
       "answer": "I go to work by metro."
     },
     {
       "type": "mcq",
       "question": "The metro is very ___ at rush hour. There are no free seats.",
-      "options": ["empty", "crowded", "cheap", "quiet"],
+      "options": [
+        "empty",
+        "crowded",
+        "cheap",
+        "quiet"
+      ],
       "answer": "crowded"
     },
     {
@@ -89,13 +320,24 @@
     },
     {
       "type": "order",
-      "words": ["at", "leaves", "seven.", "The", "bus"],
+      "words": [
+        "at",
+        "leaves",
+        "seven.",
+        "The",
+        "bus"
+      ],
       "answer": "The bus leaves at seven."
     },
     {
       "type": "mcq",
       "question": "How much is the ___ from here to the airport?",
-      "options": ["driver", "platform", "stop", "fare"],
+      "options": [
+        "driver",
+        "platform",
+        "stop",
+        "fare"
+      ],
       "answer": "fare"
     },
     {

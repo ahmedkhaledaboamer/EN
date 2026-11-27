@@ -7,38 +7,168 @@
   "description": "Book a room, check in, and solve problems during your stay.",
   "descriptionAr": "احجز غرفة، وسجّل وصولك، وحُلّ المشكلات أثناء إقامتك.",
   "words": [
-    { "en": "reception", "ar": "الاستقبال (مكتب الاستقبال)", "phonetic": "/rɪˈsɛpʃən/", "example": "Please leave your key at the reception." },
-    { "en": "reservation", "ar": "حجز", "phonetic": "/ˌrɛzərˈveɪʃən/", "example": "I made a reservation online last week." },
-    { "en": "check in", "ar": "يسجّل الوصول (في الفندق)", "phonetic": "/ˌtʃɛk ˈɪn/", "example": "You can check in after 2 p.m." },
-    { "en": "check out", "ar": "يسجّل المغادرة / يُخلي الغرفة", "phonetic": "/ˌtʃɛk ˈaʊt/", "example": "We have to check out before noon." },
-    { "en": "single room", "ar": "غرفة مفردة (لشخص واحد)", "phonetic": "/ˈsɪŋɡəl rum/", "example": "I need a single room for one night." },
-    { "en": "double room", "ar": "غرفة مزدوجة (لشخصين)", "phonetic": "/ˈdʌbəl rum/", "example": "The double room has a big bed." },
-    { "en": "key card", "ar": "بطاقة المفتاح (كارت الغرفة)", "phonetic": "/ˈki kɑrd/", "example": "My key card doesn't open the door." },
-    { "en": "floor", "ar": "طابق / دور", "phonetic": "/flɔr/", "example": "Our room is on the fourth floor." },
-    { "en": "elevator", "ar": "مصعد / أسانسير", "phonetic": "/ˈɛləˌveɪtər/", "example": "Take the elevator to the sixth floor." },
-    { "en": "breakfast", "ar": "الإفطار / الفطور", "phonetic": "/ˈbrɛkfəst/", "example": "Breakfast is from seven to ten." },
-    { "en": "towel", "ar": "منشفة / فوطة", "phonetic": "/ˈtaʊəl/", "example": "Can I have a clean towel, please?" },
-    { "en": "Wi-Fi", "ar": "الإنترنت اللاسلكي (واي فاي)", "phonetic": "/ˈwaɪˌfaɪ/", "example": "The Wi-Fi is free for all guests." },
-    { "en": "view", "ar": "إطلالة / منظر", "phonetic": "/vju/", "example": "The room has a beautiful view of the sea." },
-    { "en": "balcony", "ar": "شرفة / بلكونة", "phonetic": "/ˈbælkəni/", "example": "I drink my coffee on the balcony." },
-    { "en": "service", "ar": "خدمة", "phonetic": "/ˈsərvɪs/", "example": "The service in this hotel is excellent." },
-    { "en": "complaint", "ar": "شكوى", "phonetic": "/kəmˈpleɪnt/", "example": "I want to make a complaint about the noise." },
-    { "en": "noisy", "ar": "مزعج / كثير الضوضاء", "phonetic": "/ˈnɔɪzi/", "example": "My room is too noisy at night." },
-    { "en": "luggage", "ar": "أمتعة / حقائب السفر", "phonetic": "/ˈlʌɡɪdʒ/", "example": "The porter is carrying our luggage." },
-    { "en": "available", "ar": "متاح / متوفر", "phonetic": "/əˈveɪləbəl/", "example": "Is a room available for tonight?" },
-    { "en": "deposit", "ar": "تأمين / عربون", "phonetic": "/dɪˈpɑzɪt/", "example": "You pay a small deposit when you check in." }
+    {
+      "en": "reception",
+      "ar": "الاستقبال (مكتب الاستقبال)",
+      "phonetic": "/rɪˈsɛpʃən/",
+      "example": "Please leave your key at the reception."
+    },
+    {
+      "en": "reservation",
+      "ar": "حجز",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
+      "example": "I made a reservation online last week."
+    },
+    {
+      "en": "check in",
+      "ar": "يسجّل الوصول (في الفندق)",
+      "phonetic": "/ˌtʃɛk ˈɪn/",
+      "example": "You can check in after 2 p.m."
+    },
+    {
+      "en": "check out",
+      "ar": "يسجّل المغادرة / يُخلي الغرفة",
+      "phonetic": "/ˌtʃɛk ˈaʊt/",
+      "example": "We have to check out before noon."
+    },
+    {
+      "en": "single room",
+      "ar": "غرفة مفردة (لشخص واحد)",
+      "phonetic": "/ˈsɪŋɡəl rum/",
+      "example": "I need a single room for one night."
+    },
+    {
+      "en": "double room",
+      "ar": "غرفة مزدوجة (لشخصين)",
+      "phonetic": "/ˈdʌbəl rum/",
+      "example": "The double room has a big bed."
+    },
+    {
+      "en": "key card",
+      "ar": "بطاقة المفتاح (كارت الغرفة)",
+      "phonetic": "/ˈki kɑrd/",
+      "example": "My key card doesn't open the door."
+    },
+    {
+      "en": "floor",
+      "ar": "طابق / دور",
+      "phonetic": "/flɔr/",
+      "example": "Our room is on the fourth floor."
+    },
+    {
+      "en": "elevator",
+      "ar": "مصعد / أسانسير",
+      "phonetic": "/ˈɛləˌveɪtər/",
+      "example": "Take the elevator to the sixth floor."
+    },
+    {
+      "en": "breakfast",
+      "ar": "الإفطار / الفطور",
+      "phonetic": "/ˈbrɛkfəst/",
+      "example": "Breakfast is from seven to ten."
+    },
+    {
+      "en": "towel",
+      "ar": "منشفة / فوطة",
+      "phonetic": "/ˈtaʊəl/",
+      "example": "Can I have a clean towel, please?"
+    },
+    {
+      "en": "Wi-Fi",
+      "ar": "الإنترنت اللاسلكي (واي فاي)",
+      "phonetic": "/ˈwaɪˌfaɪ/",
+      "example": "The Wi-Fi is free for all guests."
+    },
+    {
+      "en": "view",
+      "ar": "إطلالة / منظر",
+      "phonetic": "/vju/",
+      "example": "The room has a beautiful view of the sea."
+    },
+    {
+      "en": "balcony",
+      "ar": "شرفة / بلكونة",
+      "phonetic": "/ˈbælkəni/",
+      "example": "I drink my coffee on the balcony."
+    },
+    {
+      "en": "service",
+      "ar": "خدمة",
+      "phonetic": "/ˈsərvɪs/",
+      "example": "The service in this hotel is excellent."
+    },
+    {
+      "en": "complaint",
+      "ar": "شكوى",
+      "phonetic": "/kəmˈpleɪnt/",
+      "example": "I want to make a complaint about the noise."
+    },
+    {
+      "en": "noisy",
+      "ar": "مزعج / كثير الضوضاء",
+      "phonetic": "/ˈnɔɪzi/",
+      "example": "My room is too noisy at night."
+    },
+    {
+      "en": "luggage",
+      "ar": "أمتعة / حقائب السفر",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "example": "The porter is carrying our luggage."
+    },
+    {
+      "en": "available",
+      "ar": "متاح / متوفر",
+      "phonetic": "/əˈveɪləbəl/",
+      "example": "Is a room available for tonight?"
+    },
+    {
+      "en": "deposit",
+      "ar": "تأمين / عربون",
+      "phonetic": "/dɪˈpɑzɪt/",
+      "example": "You pay a small deposit when you check in."
+    }
   ],
   "sentences": [
-    { "en": "I have a reservation under the name Ahmed.", "ar": "لديّ حجز باسم أحمد." },
-    { "en": "I'm checking in tonight and checking out on Friday.", "ar": "سأسجّل وصولي الليلة وأغادر يوم الجمعة." },
-    { "en": "Is breakfast included in the price?", "ar": "هل الإفطار مشمول في السعر؟" },
-    { "en": "Excuse me, the air conditioner isn't working in my room.", "ar": "عفواً، المكيّف لا يعمل في غرفتي." },
-    { "en": "I'm sorry, but the people next door are making a lot of noise.", "ar": "آسف، لكن الناس في الغرفة المجاورة يُحدثون ضوضاء كثيرة." },
-    { "en": "Could I have some extra towels, please?", "ar": "هل يمكنني الحصول على مناشف إضافية من فضلك؟" },
-    { "en": "What's the Wi-Fi password?", "ar": "ما كلمة سر الواي فاي؟" },
-    { "en": "We're staying for three nights.", "ar": "سنقيم ثلاث ليالٍ." },
-    { "en": "Can I leave my luggage here until the evening?", "ar": "هل يمكنني ترك أمتعتي هنا حتى المساء؟" },
-    { "en": "My key card isn't working.", "ar": "بطاقة المفتاح الخاصة بي لا تعمل." }
+    {
+      "en": "I have a reservation under the name Ahmed.",
+      "ar": "لديّ حجز باسم أحمد."
+    },
+    {
+      "en": "I'm checking in tonight and checking out on Friday.",
+      "ar": "سأسجّل وصولي الليلة وأغادر يوم الجمعة."
+    },
+    {
+      "en": "Is breakfast included in the price?",
+      "ar": "هل الإفطار مشمول في السعر؟"
+    },
+    {
+      "en": "Excuse me, the air conditioner isn't working in my room.",
+      "ar": "عفواً، المكيّف لا يعمل في غرفتي."
+    },
+    {
+      "en": "I'm sorry, but the people next door are making a lot of noise.",
+      "ar": "آسف، لكن الناس في الغرفة المجاورة يُحدثون ضوضاء كثيرة."
+    },
+    {
+      "en": "Could I have some extra towels, please?",
+      "ar": "هل يمكنني الحصول على مناشف إضافية من فضلك؟"
+    },
+    {
+      "en": "What's the Wi-Fi password?",
+      "ar": "ما كلمة سر الواي فاي؟"
+    },
+    {
+      "en": "We're staying for three nights.",
+      "ar": "سنقيم ثلاث ليالٍ."
+    },
+    {
+      "en": "Can I leave my luggage here until the evening?",
+      "ar": "هل يمكنني ترك أمتعتي هنا حتى المساء؟"
+    },
+    {
+      "en": "My key card isn't working.",
+      "ar": "بطاقة المفتاح الخاصة بي لا تعمل."
+    }
   ],
   "story": {
     "title": "A Late Check-In",
@@ -50,18 +180,112 @@
     "explanationAr": "نستخدم المضارع المستمر (am / is / are + فعل + ing) للحديث عن خطط مرتّبة في المستقبل القريب، مثل: I'm checking out tomorrow. ونستخدمه أيضاً للشكوى بأدب من مشكلة تحدث الآن، مثل: The air conditioner isn't working. وللنفي نضيف not فنقول isn't أو aren't. ولتكون الشكوى مهذّبة، ابدأ بـ Excuse me أو I'm sorry, but.",
     "rule": "I am / You are / He is / They are + verb-ing\nPlan: We're checking in tonight.\nProblem now: The Wi-Fi isn't working.\nPolite complaint: I'm sorry, but + problem",
     "examples": [
-      { "en": "I'm checking in late tonight.", "ar": "سأسجّل وصولي متأخراً الليلة." },
-      { "en": "We're staying in a double room for two nights.", "ar": "سنقيم في غرفة مزدوجة لليلتين." },
-      { "en": "Excuse me, the guests upstairs are playing loud music.", "ar": "عفواً، النزلاء في الطابق الأعلى يشغّلون موسيقى عالية." },
-      { "en": "I'm sorry, but the elevator isn't working.", "ar": "آسف، لكن المصعد لا يعمل." },
-      { "en": "We're having breakfast at eight tomorrow.", "ar": "سنتناول الإفطار في الثامنة غداً." }
+      {
+        "en": "I'm checking in late tonight.",
+        "ar": "سأسجّل وصولي متأخراً الليلة."
+      },
+      {
+        "en": "We're staying in a double room for two nights.",
+        "ar": "سنقيم في غرفة مزدوجة لليلتين."
+      },
+      {
+        "en": "Excuse me, the guests upstairs are playing loud music.",
+        "ar": "عفواً، النزلاء في الطابق الأعلى يشغّلون موسيقى عالية."
+      },
+      {
+        "en": "I'm sorry, but the elevator isn't working.",
+        "ar": "آسف، لكن المصعد لا يعمل."
+      },
+      {
+        "en": "We're having breakfast at eight tomorrow.",
+        "ar": "سنتناول الإفطار في الثامنة غداً."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Checking In at Reception",
+    "settingAr": "إنت وصلت الفندق ورايح للاستقبال علشان تعمل تشيك إن في أوضتك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Receptionist",
+        "nameAr": "موظف الاستقبال"
+      },
+      {
+        "id": "B",
+        "name": "Guest",
+        "nameAr": "النزيل (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good evening. Welcome to our hotel. How can I help?",
+        "ar": "مساء الخير. أهلاً بيك في الفندق. أقدر أساعدك إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Hi, I have a reservation for a double room.",
+        "ar": "أهلاً، أنا عامل حجز لأوضة دبل."
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. Can I see your passport, please?",
+        "ar": "طبعاً. ممكن أشوف الباسبور لو سمحت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Here you are. I'm checking out on Friday.",
+        "ar": "اتفضل. أنا هعمل تشيك أوت يوم الجمعة."
+      },
+      {
+        "speaker": "A",
+        "en": "Perfect. Your room is on the fifth floor, with a balcony.",
+        "ar": "تمام. أوضتك في الدور الخامس، وفيها بلكونة."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Is breakfast included in the price?",
+        "ar": "حلو. الفطار داخل في السعر؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, breakfast is from seven to ten in the morning.",
+        "ar": "أيوه، الفطار من سبعة لعشرة الصبح."
+      },
+      {
+        "speaker": "B",
+        "en": "And what's the Wi-Fi password?",
+        "ar": "وإيه باسورد الواي فاي؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's on your key card. The elevator is on the left.",
+        "ar": "مكتوب على كارت المفتاح. الأسانسير على الشمال."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Could I have some extra towels, please?",
+        "ar": "شكراً. ممكن فوط زيادة لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure, I'm sending them to your room now.",
+        "ar": "أكيد، هبعتهملك الأوضة دلوقتي."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "Where do you go first when you arrive at a hotel?",
-      "options": ["To the balcony", "To the reception", "To the elevator", "To the breakfast room"],
+      "options": [
+        "To the balcony",
+        "To the reception",
+        "To the elevator",
+        "To the breakfast room"
+      ],
       "answer": "To the reception"
     },
     {
@@ -72,13 +296,24 @@
     },
     {
       "type": "order",
-      "words": ["out", "We", "tomorrow.", "checking", "are"],
+      "words": [
+        "out",
+        "We",
+        "tomorrow.",
+        "checking",
+        "are"
+      ],
       "answer": "We are checking out tomorrow."
     },
     {
       "type": "mcq",
       "question": "I'm sorry, but the people next door ___ a lot of noise.",
-      "options": ["make", "is making", "are making", "making"],
+      "options": [
+        "make",
+        "is making",
+        "are making",
+        "making"
+      ],
       "answer": "are making"
     },
     {
@@ -89,13 +324,24 @@
     },
     {
       "type": "order",
-      "words": ["working.", "air", "The", "isn't", "conditioner"],
+      "words": [
+        "working.",
+        "air",
+        "The",
+        "isn't",
+        "conditioner"
+      ],
       "answer": "The air conditioner isn't working."
     },
     {
       "type": "mcq",
       "question": "You pay a ___ when you check in, and you get the money back later.",
-      "options": ["deposit", "towel", "view", "floor"],
+      "options": [
+        "deposit",
+        "towel",
+        "view",
+        "floor"
+      ],
       "answer": "deposit"
     },
     {

@@ -7,38 +7,168 @@
   "description": "Order online, track a delivery, and return items.",
   "descriptionAr": "اطلب أونلاين، وتابع التوصيل، وأرجِع المنتجات.",
   "words": [
-    { "en": "order", "ar": "طلب / طلبية", "phonetic": "/ˈɔrdər/", "example": "My order will arrive on Tuesday." },
-    { "en": "cart", "ar": "عربة التسوق (على الموقع)", "phonetic": "/kɑrt/", "example": "I have three items in my cart." },
-    { "en": "checkout", "ar": "إتمام الشراء / صفحة الدفع", "phonetic": "/ˈtʃɛkaʊt/", "example": "Go to checkout when you finish shopping." },
-    { "en": "delivery", "ar": "توصيل", "phonetic": "/dɪˈlɪvəri/", "example": "Delivery takes three to five days." },
-    { "en": "shipping", "ar": "الشحن", "phonetic": "/ˈʃɪpɪŋ/", "example": "Shipping is free on orders over fifty dollars." },
-    { "en": "tracking", "ar": "تتبّع (الشحنة)", "phonetic": "/ˈtrækɪŋ/", "example": "You can see your tracking number in the email." },
-    { "en": "package", "ar": "طرد / شحنة", "phonetic": "/ˈpækɪdʒ/", "example": "A big package is waiting at the door." },
-    { "en": "courier", "ar": "مندوب التوصيل / شركة الشحن", "phonetic": "/ˈkʊriər/", "example": "The courier called me before he arrived." },
-    { "en": "discount code", "ar": "كود الخصم", "phonetic": "/ˈdɪskaʊnt koʊd/", "example": "Enter the discount code to get 10% off." },
-    { "en": "review", "ar": "تقييم / مراجعة (للمنتج)", "phonetic": "/rɪˈvju/", "example": "I always read the reviews before I buy." },
-    { "en": "return", "ar": "إرجاع (منتج)", "phonetic": "/rɪˈtərn/", "example": "You have thirty days to make a return." },
-    { "en": "refund", "ar": "استرداد المال", "phonetic": "/ˈriˌfʌnd/", "example": "I asked for a full refund." },
-    { "en": "exchange", "ar": "استبدال", "phonetic": "/ɪksˈtʃeɪndʒ/", "example": "Can I get an exchange for a bigger size?" },
-    { "en": "warranty", "ar": "ضمان", "phonetic": "/ˈwɔrənti/", "example": "The laptop comes with a two-year warranty." },
-    { "en": "damaged", "ar": "تالف / مكسور", "phonetic": "/ˈdæmɪdʒd/", "example": "The box arrived damaged." },
-    { "en": "out of stock", "ar": "غير متوفر (نفد من المخزون)", "phonetic": "/ˌaʊt əv ˈstɑk/", "example": "Sorry, this color is out of stock." },
-    { "en": "wishlist", "ar": "قائمة الأمنيات (منتجات تريد شراءها لاحقاً)", "phonetic": "/ˈwɪʃˌlɪst/", "example": "I added the watch to my wishlist." },
-    { "en": "payment", "ar": "الدفع / عملية الدفع", "phonetic": "/ˈpeɪmənt/", "example": "Your payment was not successful. Please try again." },
-    { "en": "invoice", "ar": "فاتورة", "phonetic": "/ˈɪnvɔɪs/", "example": "The invoice is inside the box." },
-    { "en": "customer service", "ar": "خدمة العملاء", "phonetic": "/ˈkʌstəmər ˈsərvɪs/", "example": "Customer service is open twenty-four hours a day." }
+    {
+      "en": "order",
+      "ar": "طلب / طلبية",
+      "phonetic": "/ˈɔrdər/",
+      "example": "My order will arrive on Tuesday."
+    },
+    {
+      "en": "cart",
+      "ar": "عربة التسوق (على الموقع)",
+      "phonetic": "/kɑrt/",
+      "example": "I have three items in my cart."
+    },
+    {
+      "en": "checkout",
+      "ar": "إتمام الشراء / صفحة الدفع",
+      "phonetic": "/ˈtʃɛkaʊt/",
+      "example": "Go to checkout when you finish shopping."
+    },
+    {
+      "en": "delivery",
+      "ar": "توصيل",
+      "phonetic": "/dɪˈlɪvəri/",
+      "example": "Delivery takes three to five days."
+    },
+    {
+      "en": "shipping",
+      "ar": "الشحن",
+      "phonetic": "/ˈʃɪpɪŋ/",
+      "example": "Shipping is free on orders over fifty dollars."
+    },
+    {
+      "en": "tracking",
+      "ar": "تتبّع (الشحنة)",
+      "phonetic": "/ˈtrækɪŋ/",
+      "example": "You can see your tracking number in the email."
+    },
+    {
+      "en": "package",
+      "ar": "طرد / شحنة",
+      "phonetic": "/ˈpækɪdʒ/",
+      "example": "A big package is waiting at the door."
+    },
+    {
+      "en": "courier",
+      "ar": "مندوب التوصيل / شركة الشحن",
+      "phonetic": "/ˈkʊriər/",
+      "example": "The courier called me before he arrived."
+    },
+    {
+      "en": "discount code",
+      "ar": "كود الخصم",
+      "phonetic": "/ˈdɪskaʊnt koʊd/",
+      "example": "Enter the discount code to get 10% off."
+    },
+    {
+      "en": "review",
+      "ar": "تقييم / مراجعة (للمنتج)",
+      "phonetic": "/rɪˈvju/",
+      "example": "I always read the reviews before I buy."
+    },
+    {
+      "en": "return",
+      "ar": "إرجاع (منتج)",
+      "phonetic": "/rɪˈtərn/",
+      "example": "You have thirty days to make a return."
+    },
+    {
+      "en": "refund",
+      "ar": "استرداد المال",
+      "phonetic": "/ˈriˌfʌnd/",
+      "example": "I asked for a full refund."
+    },
+    {
+      "en": "exchange",
+      "ar": "استبدال",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "example": "Can I get an exchange for a bigger size?"
+    },
+    {
+      "en": "warranty",
+      "ar": "ضمان",
+      "phonetic": "/ˈwɔrənti/",
+      "example": "The laptop comes with a two-year warranty."
+    },
+    {
+      "en": "damaged",
+      "ar": "تالف / مكسور",
+      "phonetic": "/ˈdæmɪdʒd/",
+      "example": "The box arrived damaged."
+    },
+    {
+      "en": "out of stock",
+      "ar": "غير متوفر (نفد من المخزون)",
+      "phonetic": "/ˌaʊt əv ˈstɑk/",
+      "example": "Sorry, this color is out of stock."
+    },
+    {
+      "en": "wishlist",
+      "ar": "قائمة الأمنيات (منتجات تريد شراءها لاحقاً)",
+      "phonetic": "/ˈwɪʃˌlɪst/",
+      "example": "I added the watch to my wishlist."
+    },
+    {
+      "en": "payment",
+      "ar": "الدفع / عملية الدفع",
+      "phonetic": "/ˈpeɪmənt/",
+      "example": "Your payment was not successful. Please try again."
+    },
+    {
+      "en": "invoice",
+      "ar": "فاتورة",
+      "phonetic": "/ˈɪnvɔɪs/",
+      "example": "The invoice is inside the box."
+    },
+    {
+      "en": "customer service",
+      "ar": "خدمة العملاء",
+      "phonetic": "/ˈkʌstəmər ˈsərvɪs/",
+      "example": "Customer service is open twenty-four hours a day."
+    }
   ],
   "sentences": [
-    { "en": "My order hasn't been delivered yet.", "ar": "لم يتم توصيل طلبي بعد." },
-    { "en": "The package was left at my door.", "ar": "تُرك الطرد عند باب بيتي." },
-    { "en": "When will my order be shipped?", "ar": "متى سيتم شحن طلبي؟" },
-    { "en": "The screen was damaged during delivery.", "ar": "تضررت الشاشة أثناء التوصيل." },
-    { "en": "I was sent the wrong size.", "ar": "أُرسل إليّ مقاس خاطئ." },
-    { "en": "Where can I find my tracking number?", "ar": "أين أجد رقم التتبع الخاص بي؟" },
-    { "en": "Can I return this item for a refund?", "ar": "هل يمكنني إرجاع هذا المنتج واسترداد المال؟" },
-    { "en": "My discount code doesn't work.", "ar": "كود الخصم الخاص بي لا يعمل." },
-    { "en": "Is shipping free for orders over fifty dollars?", "ar": "هل الشحن مجاني للطلبات التي تزيد عن خمسين دولاراً؟" },
-    { "en": "The money will be sent back to your card.", "ar": "سيُعاد المبلغ إلى بطاقتك." }
+    {
+      "en": "My order hasn't been delivered yet.",
+      "ar": "لم يتم توصيل طلبي بعد."
+    },
+    {
+      "en": "The package was left at my door.",
+      "ar": "تُرك الطرد عند باب بيتي."
+    },
+    {
+      "en": "When will my order be shipped?",
+      "ar": "متى سيتم شحن طلبي؟"
+    },
+    {
+      "en": "The screen was damaged during delivery.",
+      "ar": "تضررت الشاشة أثناء التوصيل."
+    },
+    {
+      "en": "I was sent the wrong size.",
+      "ar": "أُرسل إليّ مقاس خاطئ."
+    },
+    {
+      "en": "Where can I find my tracking number?",
+      "ar": "أين أجد رقم التتبع الخاص بي؟"
+    },
+    {
+      "en": "Can I return this item for a refund?",
+      "ar": "هل يمكنني إرجاع هذا المنتج واسترداد المال؟"
+    },
+    {
+      "en": "My discount code doesn't work.",
+      "ar": "كود الخصم الخاص بي لا يعمل."
+    },
+    {
+      "en": "Is shipping free for orders over fifty dollars?",
+      "ar": "هل الشحن مجاني للطلبات التي تزيد عن خمسين دولاراً؟"
+    },
+    {
+      "en": "The money will be sent back to your card.",
+      "ar": "سيُعاد المبلغ إلى بطاقتك."
+    }
   ],
   "story": {
     "title": "The Wrong Package",
@@ -50,18 +180,117 @@
     "explanationAr": "نستخدم المبني للمجهول (passive voice) عندما يكون المهم هو ما حدث للشيء، وليس من قام بالفعل. يتكوّن من فعل be + التصريف الثالث للفعل (past participle). في الماضي نستخدم was أو were، مثل: The package was delivered. وفي المستقبل نستخدم will be، مثل: Your order will be shipped tomorrow. وإذا أردنا ذكر من قام بالفعل نستخدم by، مثل: by a courier.",
     "rule": "Present: is / are + past participle\nPast: was / were + past participle\nFuture: will be + past participle\nPresent perfect: has / have been + past participle\n(by + person) → The package was delivered by a courier.",
     "examples": [
-      { "en": "The package was delivered this morning.", "ar": "تم توصيل الطرد صباح اليوم." },
-      { "en": "Your order will be shipped tomorrow.", "ar": "سيتم شحن طلبك غداً." },
-      { "en": "The invoice is sent by email.", "ar": "تُرسَل الفاتورة عبر البريد الإلكتروني." },
-      { "en": "Two items were damaged during delivery.", "ar": "تضررت قطعتان أثناء التوصيل." },
-      { "en": "Your refund has been approved.", "ar": "تمت الموافقة على استرداد أموالك." }
+      {
+        "en": "The package was delivered this morning.",
+        "ar": "تم توصيل الطرد صباح اليوم."
+      },
+      {
+        "en": "Your order will be shipped tomorrow.",
+        "ar": "سيتم شحن طلبك غداً."
+      },
+      {
+        "en": "The invoice is sent by email.",
+        "ar": "تُرسَل الفاتورة عبر البريد الإلكتروني."
+      },
+      {
+        "en": "Two items were damaged during delivery.",
+        "ar": "تضررت قطعتان أثناء التوصيل."
+      },
+      {
+        "en": "Your refund has been approved.",
+        "ar": "تمت الموافقة على استرداد أموالك."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Damaged Package",
+    "settingAr": "إنت طلبت حاجة أونلاين ووصلتلك مكسورة، وبتكلم خدمة العملاء.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Customer Service Agent",
+        "nameAr": "موظف خدمة العملاء"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "العميل (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hello, customer service. How can I help?",
+        "ar": "ألو، خدمة العملاء. أقدر أساعدك إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Hi. My package was delivered today, but it's damaged.",
+        "ar": "أهلاً. الطرد بتاعي وصل النهارده، بس وصل بايظ."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm very sorry. What was damaged?",
+        "ar": "أنا آسف جداً. إيه اللي باظ؟"
+      },
+      {
+        "speaker": "B",
+        "en": "The lamp inside was broken.",
+        "ar": "الأباجورة اللي جوه كانت مكسورة."
+      },
+      {
+        "speaker": "A",
+        "en": "Could you send us a photo of it?",
+        "ar": "ممكن تبعتلنا صورة ليها؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Sure, I'll send it now. Can I get a refund?",
+        "ar": "أكيد، هبعتها دلوقتي. ممكن أسترجع فلوسي؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, or we can send you a new one.",
+        "ar": "أيوه، أو نبعتلك واحدة جديدة."
+      },
+      {
+        "speaker": "B",
+        "en": "I'd like an exchange, please.",
+        "ar": "أنا عايز أبدّلها لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "No problem. Your new lamp will be shipped tomorrow.",
+        "ar": "ولا يهمك. الأباجورة الجديدة هتتشحن بكرة."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Will I be sent a tracking number?",
+        "ar": "تمام. هيتبعتلي رقم تتبع؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, it will be sent to you by email.",
+        "ar": "أيوه، هيتبعتلك على الإيميل."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you for your help.",
+        "ar": "شكراً على مساعدتك."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "The store has no more of this item. The item is ___.",
-      "options": ["damaged", "in the cart", "on the invoice", "out of stock"],
+      "options": [
+        "damaged",
+        "in the cart",
+        "on the invoice",
+        "out of stock"
+      ],
       "answer": "out of stock"
     },
     {
@@ -72,13 +301,24 @@
     },
     {
       "type": "order",
-      "words": ["delivered", "The", "yesterday.", "package", "was"],
+      "words": [
+        "delivered",
+        "The",
+        "yesterday.",
+        "package",
+        "was"
+      ],
       "answer": "The package was delivered yesterday."
     },
     {
       "type": "mcq",
       "question": "Your order ___ shipped tomorrow.",
-      "options": ["will be", "was", "were", "has"],
+      "options": [
+        "will be",
+        "was",
+        "were",
+        "has"
+      ],
       "answer": "will be"
     },
     {
@@ -89,13 +329,25 @@
     },
     {
       "type": "order",
-      "words": ["sent", "refund", "today.", "My", "be", "will"],
+      "words": [
+        "sent",
+        "refund",
+        "today.",
+        "My",
+        "be",
+        "will"
+      ],
       "answer": "My refund will be sent today."
     },
     {
       "type": "mcq",
       "question": "The wrong item ___ to me last week.",
-      "options": ["sent", "was sent", "will send", "is sending"],
+      "options": [
+        "sent",
+        "was sent",
+        "will send",
+        "is sending"
+      ],
       "answer": "was sent"
     },
     {

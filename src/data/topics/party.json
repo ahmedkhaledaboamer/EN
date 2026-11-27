@@ -7,38 +7,168 @@
   "description": "Invite people, accept or decline, and enjoy celebrations.",
   "descriptionAr": "ادعُ الناس، واقبل الدعوة أو اعتذر عنها، واستمتع بالاحتفالات.",
   "words": [
-    { "en": "party", "ar": "حفلة", "phonetic": "/ˈpɑrti/", "example": "We are having a party on Saturday." },
-    { "en": "invite", "ar": "يدعو / يعزم", "phonetic": "/ɪnˈvaɪt/", "example": "I want to invite all my friends." },
-    { "en": "invitation", "ar": "دعوة", "phonetic": "/ˌɪnvɪˈteɪʃən/", "example": "Thank you for the invitation." },
-    { "en": "guest", "ar": "ضيف", "phonetic": "/ɡɛst/", "example": "Every guest gets a piece of cake." },
-    { "en": "host", "ar": "المضيف (صاحب الحفلة)", "phonetic": "/hoʊst/", "example": "The host opens the door and says hello." },
-    { "en": "birthday", "ar": "عيد ميلاد", "phonetic": "/ˈbərθˌdeɪ/", "example": "My birthday is in May." },
-    { "en": "gift", "ar": "هدية", "phonetic": "/ɡɪft/", "example": "This gift is for you." },
-    { "en": "cake", "ar": "كعكة / تورتة", "phonetic": "/keɪk/", "example": "The chocolate cake is delicious." },
-    { "en": "candle", "ar": "شمعة", "phonetic": "/ˈkændəl/", "example": "Blow out the candle and make a wish!" },
-    { "en": "balloon", "ar": "بالون", "phonetic": "/bəˈlun/", "example": "The children love the red balloon." },
-    { "en": "music", "ar": "موسيقى", "phonetic": "/ˈmjuzɪk/", "example": "Can you turn up the music?" },
-    { "en": "dance", "ar": "يرقص / رقص", "phonetic": "/dæns/", "example": "Let's dance!" },
-    { "en": "wedding", "ar": "حفل زفاف / فرح", "phonetic": "/ˈwɛdɪŋ/", "example": "My cousin's wedding is next month." },
-    { "en": "congratulations", "ar": "تهانينا / مبروك", "phonetic": "/kənˌɡrætʃəˈleɪʃənz/", "example": "Congratulations on your new job!" },
-    { "en": "celebrate", "ar": "يحتفل", "phonetic": "/ˈsɛləˌbreɪt/", "example": "How do you celebrate the new year?" },
-    { "en": "decorations", "ar": "زينة", "phonetic": "/ˌdɛkəˈreɪʃənz/", "example": "The decorations are blue and white." },
-    { "en": "surprise", "ar": "مفاجأة", "phonetic": "/sərˈpraɪz/", "example": "The party is a surprise, so don't tell him." },
-    { "en": "toast", "ar": "نخب (رفع الكؤوس تحيةً لشخص)", "phonetic": "/toʊst/", "example": "Let's make a toast to the bride and groom." },
-    { "en": "cheers", "ar": "في صحتك (عند رفع الكؤوس)", "phonetic": "/tʃɪrz/", "example": "Everyone raised their glasses and said, \"Cheers!\"" },
-    { "en": "RSVP", "ar": "الرد على الدعوة (تأكيد الحضور)", "phonetic": "/ˌɑr ɛs vi ˈpi/", "example": "Please RSVP by Friday." }
+    {
+      "en": "party",
+      "ar": "حفلة",
+      "phonetic": "/ˈpɑrti/",
+      "example": "We are having a party on Saturday."
+    },
+    {
+      "en": "invite",
+      "ar": "يدعو / يعزم",
+      "phonetic": "/ɪnˈvaɪt/",
+      "example": "I want to invite all my friends."
+    },
+    {
+      "en": "invitation",
+      "ar": "دعوة",
+      "phonetic": "/ˌɪnvɪˈteɪʃən/",
+      "example": "Thank you for the invitation."
+    },
+    {
+      "en": "guest",
+      "ar": "ضيف",
+      "phonetic": "/ɡɛst/",
+      "example": "Every guest gets a piece of cake."
+    },
+    {
+      "en": "host",
+      "ar": "المضيف (صاحب الحفلة)",
+      "phonetic": "/hoʊst/",
+      "example": "The host opens the door and says hello."
+    },
+    {
+      "en": "birthday",
+      "ar": "عيد ميلاد",
+      "phonetic": "/ˈbərθˌdeɪ/",
+      "example": "My birthday is in May."
+    },
+    {
+      "en": "gift",
+      "ar": "هدية",
+      "phonetic": "/ɡɪft/",
+      "example": "This gift is for you."
+    },
+    {
+      "en": "cake",
+      "ar": "كعكة / تورتة",
+      "phonetic": "/keɪk/",
+      "example": "The chocolate cake is delicious."
+    },
+    {
+      "en": "candle",
+      "ar": "شمعة",
+      "phonetic": "/ˈkændəl/",
+      "example": "Blow out the candle and make a wish!"
+    },
+    {
+      "en": "balloon",
+      "ar": "بالون",
+      "phonetic": "/bəˈlun/",
+      "example": "The children love the red balloon."
+    },
+    {
+      "en": "music",
+      "ar": "موسيقى",
+      "phonetic": "/ˈmjuzɪk/",
+      "example": "Can you turn up the music?"
+    },
+    {
+      "en": "dance",
+      "ar": "يرقص / رقص",
+      "phonetic": "/dæns/",
+      "example": "Let's dance!"
+    },
+    {
+      "en": "wedding",
+      "ar": "حفل زفاف / فرح",
+      "phonetic": "/ˈwɛdɪŋ/",
+      "example": "My cousin's wedding is next month."
+    },
+    {
+      "en": "congratulations",
+      "ar": "تهانينا / مبروك",
+      "phonetic": "/kənˌɡrætʃəˈleɪʃənz/",
+      "example": "Congratulations on your new job!"
+    },
+    {
+      "en": "celebrate",
+      "ar": "يحتفل",
+      "phonetic": "/ˈsɛləˌbreɪt/",
+      "example": "How do you celebrate the new year?"
+    },
+    {
+      "en": "decorations",
+      "ar": "زينة",
+      "phonetic": "/ˌdɛkəˈreɪʃənz/",
+      "example": "The decorations are blue and white."
+    },
+    {
+      "en": "surprise",
+      "ar": "مفاجأة",
+      "phonetic": "/sərˈpraɪz/",
+      "example": "The party is a surprise, so don't tell him."
+    },
+    {
+      "en": "toast",
+      "ar": "نخب (رفع الكؤوس تحيةً لشخص)",
+      "phonetic": "/toʊst/",
+      "example": "Let's make a toast to the bride and groom."
+    },
+    {
+      "en": "cheers",
+      "ar": "في صحتك (عند رفع الكؤوس)",
+      "phonetic": "/tʃɪrz/",
+      "example": "Everyone raised their glasses and said, \"Cheers!\""
+    },
+    {
+      "en": "RSVP",
+      "ar": "الرد على الدعوة (تأكيد الحضور)",
+      "phonetic": "/ˌɑr ɛs vi ˈpi/",
+      "example": "Please RSVP by Friday."
+    }
   ],
   "sentences": [
-    { "en": "Would you like to come to my birthday party?", "ar": "هل تحب أن تأتي إلى حفلة عيد ميلادي؟" },
-    { "en": "Thanks for the invitation! I'll be there.", "ar": "شكراً على الدعوة! سأكون هناك." },
-    { "en": "Sorry, I can't come. I'll be at work.", "ar": "آسف، لا أستطيع الحضور. سأكون في العمل." },
-    { "en": "I'll bring the cake.", "ar": "سأُحضر الكعكة." },
-    { "en": "Don't worry, I won't be late.", "ar": "لا تقلق، لن أتأخر." },
-    { "en": "I'll help you with the decorations.", "ar": "سأساعدك في الزينة." },
-    { "en": "What time does the party start?", "ar": "متى تبدأ الحفلة؟" },
-    { "en": "Congratulations on your wedding!", "ar": "مبروك على زواجك!" },
-    { "en": "Happy birthday! This gift is for you.", "ar": "عيد ميلاد سعيد! هذه الهدية لك." },
-    { "en": "Let's make a toast to the happy couple!", "ar": "لنرفع نخب العروسين السعيدين!" }
+    {
+      "en": "Would you like to come to my birthday party?",
+      "ar": "هل تحب أن تأتي إلى حفلة عيد ميلادي؟"
+    },
+    {
+      "en": "Thanks for the invitation! I'll be there.",
+      "ar": "شكراً على الدعوة! سأكون هناك."
+    },
+    {
+      "en": "Sorry, I can't come. I'll be at work.",
+      "ar": "آسف، لا أستطيع الحضور. سأكون في العمل."
+    },
+    {
+      "en": "I'll bring the cake.",
+      "ar": "سأُحضر الكعكة."
+    },
+    {
+      "en": "Don't worry, I won't be late.",
+      "ar": "لا تقلق، لن أتأخر."
+    },
+    {
+      "en": "I'll help you with the decorations.",
+      "ar": "سأساعدك في الزينة."
+    },
+    {
+      "en": "What time does the party start?",
+      "ar": "متى تبدأ الحفلة؟"
+    },
+    {
+      "en": "Congratulations on your wedding!",
+      "ar": "مبروك على زواجك!"
+    },
+    {
+      "en": "Happy birthday! This gift is for you.",
+      "ar": "عيد ميلاد سعيد! هذه الهدية لك."
+    },
+    {
+      "en": "Let's make a toast to the happy couple!",
+      "ar": "لنرفع نخب العروسين السعيدين!"
+    }
   ],
   "story": {
     "title": "The Early Guest",
@@ -50,18 +180,107 @@
     "explanationAr": "نستخدم will واختصارها 'll لنعرض المساعدة على شخص ما، مثل: I'll carry the cake. ونستخدمها أيضاً عندما نقرر شيئاً في لحظة الكلام دون تخطيط مسبق، مثل: The music is great. I'll dance! والنفي هو will not واختصاره won't، مثل: I won't be late. بعد will و won't يأتي الفعل في صورته الأساسية دون to ودون s.",
     "rule": "I / You / He / She / We / They + will ('ll) + verb\nI / You / He / She / We / They + won't + verb\nOffer: I'll help you.\nQuick decision: OK, I'll take the red balloons.",
     "examples": [
-      { "en": "I'll bring the balloons.", "ar": "سأُحضر البالونات." },
-      { "en": "The cake looks great! I'll take a big piece.", "ar": "الكعكة تبدو رائعة! سآخذ قطعة كبيرة." },
-      { "en": "Don't worry, I won't tell Omar about the surprise.", "ar": "لا تقلق، لن أخبر عمر بالمفاجأة." },
-      { "en": "It's dark in here. I'll light the candles.", "ar": "المكان مظلم هنا. سأُشعل الشموع." },
-      { "en": "We won't forget to send the invitations.", "ar": "لن ننسى إرسال الدعوات." }
+      {
+        "en": "I'll bring the balloons.",
+        "ar": "سأُحضر البالونات."
+      },
+      {
+        "en": "The cake looks great! I'll take a big piece.",
+        "ar": "الكعكة تبدو رائعة! سآخذ قطعة كبيرة."
+      },
+      {
+        "en": "Don't worry, I won't tell Omar about the surprise.",
+        "ar": "لا تقلق، لن أخبر عمر بالمفاجأة."
+      },
+      {
+        "en": "It's dark in here. I'll light the candles.",
+        "ar": "المكان مظلم هنا. سأُشعل الشموع."
+      },
+      {
+        "en": "We won't forget to send the invitations.",
+        "ar": "لن ننسى إرسال الدعوات."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At a Birthday Party",
+    "settingAr": "إنت معزوم على عيد ميلاد صاحبك، ووصلت الحفلة ومعاك هدية.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Host",
+        "nameAr": "صاحب الحفلة"
+      },
+      {
+        "id": "B",
+        "name": "Guest",
+        "nameAr": "الضيف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hi! Thanks for coming. Come in, please.",
+        "ar": "أهلاً! شكراً إنك جيت. اتفضل ادخل."
+      },
+      {
+        "speaker": "B",
+        "en": "Happy birthday! This gift is for you.",
+        "ar": "كل سنة وإنت طيب! الهدية دي عشانك."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, thank you! That's so kind of you.",
+        "ar": "الله، شكراً! ده ذوق جداً منك."
+      },
+      {
+        "speaker": "B",
+        "en": "The decorations look great. Can I help with anything?",
+        "ar": "الزينة شكلها حلو أوي. أقدر أساعد في حاجة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. Could you light the candles on the cake?",
+        "ar": "أكيد. ممكن تولّع الشمع اللي على التورتة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No problem, I'll do it now.",
+        "ar": "ولا يهمك، هعملها دلوقتي."
+      },
+      {
+        "speaker": "A",
+        "en": "Would you like something to drink?",
+        "ar": "تحب تشرب حاجة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, please. I'll have some juice.",
+        "ar": "أيوه لو سمحت. هاخد شوية عصير."
+      },
+      {
+        "speaker": "A",
+        "en": "The music is starting. Will you dance with us?",
+        "ar": "المزيكا بدأت. هترقص معانا؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Of course! But I won't stay too late.",
+        "ar": "طبعاً! بس مش هتأخر أوي."
+      }
     ]
   },
   "exercises": [
     {
       "type": "mcq",
       "question": "What do you say to your friends on their wedding day?",
-      "options": ["Sorry!", "Excuse me!", "Congratulations!", "Goodbye!"],
+      "options": [
+        "Sorry!",
+        "Excuse me!",
+        "Congratulations!",
+        "Goodbye!"
+      ],
       "answer": "Congratulations!"
     },
     {
@@ -72,13 +291,24 @@
     },
     {
       "type": "order",
-      "words": ["cake.", "the", "I'll", "birthday", "bring"],
+      "words": [
+        "cake.",
+        "the",
+        "I'll",
+        "birthday",
+        "bring"
+      ],
       "answer": "I'll bring the birthday cake."
     },
     {
       "type": "mcq",
       "question": "Your bag looks heavy. ___ carry it for you.",
-      "options": ["I'll", "I am", "I won't", "I did"],
+      "options": [
+        "I'll",
+        "I am",
+        "I won't",
+        "I did"
+      ],
       "answer": "I'll"
     },
     {
@@ -89,13 +319,24 @@
     },
     {
       "type": "order",
-      "words": ["forget", "We", "invitations.", "won't", "the"],
+      "words": [
+        "forget",
+        "We",
+        "invitations.",
+        "won't",
+        "the"
+      ],
       "answer": "We won't forget the invitations."
     },
     {
       "type": "mcq",
       "question": "A person who comes to your party is a ___.",
-      "options": ["host", "candle", "gift", "guest"],
+      "options": [
+        "host",
+        "candle",
+        "gift",
+        "guest"
+      ],
       "answer": "guest"
     },
     {

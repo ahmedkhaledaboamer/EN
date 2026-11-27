@@ -202,6 +202,80 @@
       }
     ]
   },
+  "dialogue": {
+    "title": "Trying On a Jacket",
+    "settingAr": "إنت في محل هدوم وعاجبك جاكيت، وعايز تقيسه وتسأل عن السعر.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Shop Assistant",
+        "nameAr": "البياع"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hello! Can I help you?",
+        "ar": "أهلاً! أقدر أساعدك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, please. How much is this jacket?",
+        "ar": "أيوه لو سمحت. الجاكيت ده بكام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It's fifty dollars. It's on sale today.",
+        "ar": "بخمسين دولار. وعليه خصم النهارده."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Can I try this on, please?",
+        "ar": "حلو. ممكن أقيسه لو سمحت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. The fitting room is over there.",
+        "ar": "طبعاً. غرفة القياس هناك."
+      },
+      {
+        "speaker": "B",
+        "en": "It's too tight. Do you have a bigger size?",
+        "ar": "ضيق أوي. عندك مقاس أكبر؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, here is a large. Try this one.",
+        "ar": "أيوه، اتفضل ده لارج. جرب ده."
+      },
+      {
+        "speaker": "B",
+        "en": "This one fits well. Do you have it in black?",
+        "ar": "ده مظبوط. عندك منه أسود؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, we do. Here you are.",
+        "ar": "أيوه، عندنا. اتفضل."
+      },
+      {
+        "speaker": "B",
+        "en": "Perfect, I'll take it. Can I pay by card?",
+        "ar": "تمام، هاخده. ممكن أدفع بالكارت؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. Thank you, and have a nice day!",
+        "ar": "أكيد. شكراً، ويومك سعيد!"
+      }
+    ]
+  },
   "exercises": [
     {
       "type": "mcq",

@@ -16,6 +16,7 @@ import { ESSENTIALS_PREFIX, useSavedWords } from '../hooks/useSavedWords';
 import { useProgress } from '../hooks/useProgress';
 import { useEssentialsProgress } from '../hooks/useEssentialsProgress';
 import { useStreak } from '../hooks/useStreak';
+import { useMistakes } from '../hooks/useMistakes';
 import { buildEssentialsQuiz } from '../utils/quiz';
 import { isSpeechSupported } from '../utils/speech';
 import { isRecognitionSupported } from '../hooks/useSpeechRecognition';
@@ -209,6 +210,7 @@ export default function Saved() {
   const topicProgress = useProgress();
   const essentialsProgress = useEssentialsProgress();
   const { recordActivity } = useStreak();
+  const { recordAnswer } = useMistakes();
   const [params, setParams] = useSearchParams();
   const [round, setRound] = useState(0);
 
@@ -264,6 +266,7 @@ export default function Saved() {
           key={round}
           exercises={questions}
           onFinish={onFinish}
+          onAnswer={(ex, answer) => recordAnswer(ex, answer, { title: 'Saved words', emoji: '🔖', to: '/saved?tab=quiz' })}
           onRetry={() => setRound((r) => r + 1)}
           review={{ label: 'Back to my list', onClick: () => setTab('list') }}
           messages={{
