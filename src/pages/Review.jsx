@@ -5,6 +5,7 @@ import { CalendarCheck, CircleCheckBig, Layers, NotebookPen, Target, Trash2 } fr
 import Tabs from '../components/ui/Tabs';
 import Button from '../components/ui/Button';
 import IntroLine from '../components/ui/IntroLine';
+import { useT } from '../hooks/useT';
 import SpeechNotice from '../components/speech/SpeechNotice';
 import { SpeechProvider } from '../components/speech/SpeechContext';
 import Flashcards from '../components/essentials/Flashcards';
@@ -269,6 +270,7 @@ function MistakesTab() {
 }
 
 export default function Review() {
+  const t = useT();
   const { dueCount } = useReview();
   const { mistakesCount } = useMistakes();
   const [params, setParams] = useSearchParams();
@@ -282,9 +284,9 @@ export default function Review() {
   return (
     <SpeechProvider>
       <section className="pb-10 pt-10 sm:pt-16" aria-labelledby="review-title">
-        <IntroLine>Remember what you learn</IntroLine>
+        <IntroLine>{t("Remember what you learn")}</IntroLine>
         <h1 id="review-title" className="mt-5 text-4xl sm:text-6xl">
-          Daily <span className="text-highlight">review.</span>
+          {t("Daily")} <span className="text-highlight">{t("review.")}</span>
         </h1>
         <p className="mt-4 max-w-xl">
           Spaced repetition brings each word back just before you forget it. Your mistakes from every quiz are collected

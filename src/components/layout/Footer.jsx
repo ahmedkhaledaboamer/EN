@@ -1,4 +1,7 @@
+import { useT } from '../../hooks/useT';
+
 export default function Footer() {
+  const t = useT();
   return (
     // w-full: inside the Layout's flex column, mx-auto alone would shrink the footer to its content
     <footer className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
@@ -7,7 +10,7 @@ export default function Footer() {
           <span className="text-brand-gold dark:text-brand-yellow">~/english</span> $ one situation a day
         </p>
         <p className="text-neutral-500 dark:text-neutral-400">
-          Made by <span className="font-semibold text-brand-gold dark:text-brand-yellow">Ahmed Khaled</span> · {new Date().getFullYear()}
+          {t('Made by')} <span className="font-semibold text-brand-gold dark:text-brand-yellow">Ahmed Khaled</span> · {new Date().getFullYear()}
         </p>
       </div>
     </footer>

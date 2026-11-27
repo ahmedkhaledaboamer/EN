@@ -9,6 +9,8 @@ import { STORAGE_KEYS } from '../utils/storage';
     showArabic     – show Arabic translations by default (sentences, story, dialogue)
     textSize       – 'normal' | 'large'
     dailyGoal      – words to learn per day
+    learnerName    – name printed on certificates
+    uiLanguage     – 'en' | 'ar' interface language (learning content stays English)
 */
 export const DEFAULT_SETTINGS = {
   voiceURI: '',
@@ -16,6 +18,8 @@ export const DEFAULT_SETTINGS = {
   showArabic: false,
   textSize: 'normal',
   dailyGoal: 10,
+  learnerName: '',
+  uiLanguage: 'en',
 };
 
 export function useSettings() {

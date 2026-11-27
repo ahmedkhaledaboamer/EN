@@ -5,6 +5,7 @@ import { ArrowRight, Bookmark, BookmarkX, Layers, List, Search, Target, X } from
 import Tabs from '../components/ui/Tabs';
 import Button from '../components/ui/Button';
 import IntroLine from '../components/ui/IntroLine';
+import { useT } from '../hooks/useT';
 import SpeakButton from '../components/speech/SpeakButton';
 import SpeechNotice from '../components/speech/SpeechNotice';
 import { SpeechProvider } from '../components/speech/SpeechContext';
@@ -206,6 +207,7 @@ function Locked({ count }) {
 }
 
 export default function Saved() {
+  const t = useT();
   const { savedWords, removeSaved } = useSavedWords();
   const topicProgress = useProgress();
   const essentialsProgress = useEssentialsProgress();
@@ -280,9 +282,9 @@ export default function Saved() {
   return (
     <SpeechProvider>
       <section className="pb-10 pt-10 sm:pt-16" aria-labelledby="saved-title">
-        <IntroLine>Your word list</IntroLine>
+        <IntroLine>{t("Your word list")}</IntroLine>
         <h1 id="saved-title" className="mt-5 text-4xl sm:text-6xl">
-          Saved <span className="text-highlight">words.</span>
+          {t("Your saved")} <span className="text-highlight">{t("words.")}</span>
         </h1>
         <p className="mt-4 font-mono text-sm">
           {savedWords.length} {savedWords.length === 1 ? 'word' : 'words'} · from topics and essentials

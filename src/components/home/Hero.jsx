@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { ArrowRight, BookOpen, ClipboardCheck, Flame, Volume2 } from 'lucide-react';
 import { usePlacement } from '../../hooks/usePlacement';
+import { useT } from '../../hooks/useT';
 import Button from '../ui/Button';
 import IntroLine from '../ui/IntroLine';
 import MonoLine from '../ui/MonoLine';
@@ -19,6 +20,7 @@ const fadeUp = {
 
 export default function Hero({ todayTopic, streak }) {
   const { placement } = usePlacement();
+  const t = useT();
   const firstWord = todayTopic?.preview?.[0];
   const codeData = todayTopic
     ? { name: todayTopic.title, words: todayTopic.wordsCount, level: todayTopic.level }
@@ -32,7 +34,7 @@ export default function Hero({ todayTopic, streak }) {
       {/* Copy */}
       <div>
         <motion.div variants={fadeUp} initial="hidden" animate="show" custom={0}>
-          <IntroLine>Hi, I&apos;m learning English</IntroLine>
+          <IntroLine>{t("Hi, I'm learning English")}</IntroLine>
         </motion.div>
 
         <motion.h1
@@ -43,7 +45,7 @@ export default function Hero({ todayTopic, streak }) {
           custom={1}
           className="mt-6 text-5xl leading-[0.95] sm:text-6xl lg:text-7xl"
         >
-          Learn English by <span className="text-highlight">real situations.</span>
+          {t('Learn English by')} <span className="text-highlight">{t('real situations.')}</span>
         </motion.h1>
 
         <motion.div variants={fadeUp} initial="hidden" animate="show" custom={2} className="mt-6">
@@ -57,8 +59,7 @@ export default function Hero({ todayTopic, streak }) {
           custom={2.5}
           className="mt-5 max-w-lg text-base sm:text-lg"
         >
-          One situation a day: the words, the sentences, a short story, one grammar point, and
-          practice.
+          {t('One situation a day: the words, the sentences, a short story, one grammar point, and practice.')}
         </motion.p>
 
         <motion.div
@@ -69,10 +70,10 @@ export default function Hero({ todayTopic, streak }) {
           className="mt-9 flex flex-wrap gap-3"
         >
           <Button to={todayTopic ? `/topics/${todayTopic.slug}` : '/topics'}>
-            Start Today&apos;s Topic <ArrowRight size={18} aria-hidden="true" />
+            {t("Start Today's Topic")} <ArrowRight size={18} aria-hidden="true" />
           </Button>
           <Button href="#topics" variant="secondary">
-            Browse Topics
+            {t('Browse Topics')}
           </Button>
         </motion.div>
 
@@ -83,7 +84,7 @@ export default function Hero({ todayTopic, streak }) {
               className="group inline-flex items-center gap-2 rounded-full border-2 border-dashed border-brand-yellow px-4 py-2 text-sm font-semibold text-brand-ink transition-colors hover:bg-brand-yellow/15 dark:text-white"
             >
               <ClipboardCheck size={16} className="text-brand-gold dark:text-brand-yellow" aria-hidden="true" />
-              Not sure of your level? Take the 5-minute test
+              {t('Not sure of your level? Take the 5-minute test')}
               <ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
             </Link>
           </motion.div>

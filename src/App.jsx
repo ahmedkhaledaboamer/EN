@@ -9,6 +9,9 @@ import Saved from './pages/Saved';
 import Review from './pages/Review';
 import Settings from './pages/Settings';
 import Placement from './pages/Placement';
+import Pronunciation from './pages/Pronunciation';
+import SoundGroupPage from './pages/SoundGroupPage';
+import ProgressPage from './pages/ProgressPage';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -24,6 +27,9 @@ export default function App() {
         <Route path="review" element={<Review />} />
         <Route path="settings" element={<Settings />} />
         <Route path="placement" element={<Placement />} />
+        <Route path="pronunciation" element={<Pronunciation />} />
+        <Route path="pronunciation/:id" element={<SoundGroupPage />} />
+        <Route path="progress" element={<ProgressPage />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

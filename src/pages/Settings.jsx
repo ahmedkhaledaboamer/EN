@@ -6,26 +6,29 @@ import { useSettings, DEFAULT_SETTINGS } from '../hooks/useSettings';
 import { getEnglishVoices, isSpeechSupported, onVoicesChange, speak } from '../utils/speech';
 import { TOPIC_ORDER, loadTopic } from '../data/topics';
 import { ESSENTIALS_ORDER, loadEssential } from '../data/essentials';
+import { useT } from '../hooks/useT';
 
 const GOALS = [5, 10, 15, 20, 30];
 const PREFIX = 'ebs:';
 
 function Section({ title, description, children }) {
+  const t = useT();
   return (
     <section className="glass-card p-5 sm:p-6">
-      <h2 className="text-xl sm:text-2xl">{title}</h2>
-      {description && <p className="mt-1 text-sm">{description}</p>}
+      <h2 className="text-xl sm:text-2xl">{t(title)}</h2>
+      {description && <p className="mt-1 text-sm">{t(description)}</p>}
       <div className="mt-5 space-y-5">{children}</div>
     </section>
   );
 }
 
 function Toggle({ checked, onChange, label, hint }) {
+  const t = useT();
   return (
     <label className="flex cursor-pointer items-start justify-between gap-4">
       <span>
-        <span className="font-medium text-brand-ink dark:text-white">{label}</span>
-        {hint && <span className="mt-0.5 block text-sm">{hint}</span>}
+        <span className="font-medium text-brand-ink dark:text-white">{t(label)}</span>
+        {hint && <span className="mt-0.5 block text-sm">{t(hint)}</span>}
       </span>
       <button
         type="button"
@@ -46,6 +49,7 @@ function Toggle({ checked, onChange, label, hint }) {
 }
 
 function Chips({ options, value, onChange, label, format = (v) => v }) {
+  const t = useT();
   return (
     <div role="group" aria-label={label} className="flex flex-wrap gap-1.5">
       {options.map((o) => (
@@ -60,7 +64,7 @@ function Chips({ options, value, onChange, label, format = (v) => v }) {
               : 'bg-neutral-200/70 text-neutral-600 hover:bg-neutral-300/70 dark:bg-white/10 dark:text-neutral-300'
           }`}
         >
-          {format(o)}
+          {t(String(format(o)))}
         </button>
       ))}
     </div>
@@ -85,6 +89,7 @@ function exportProgress() {
 }
 
 export default function Settings() {
+  const t = useT();
   const { settings, update, reset } = useSettings();
   const [voices, setVoices] = useState(getEnglishVoices);
   const [message, setMessage] = useState(null);
@@ -133,9 +138,9 @@ export default function Settings() {
 
   return (
     <section className="mx-auto max-w-3xl pb-10 pt-10 sm:pt-16" aria-labelledby="settings-title">
-      <IntroLine>Make it yours</IntroLine>
+      <IntroLine>{t('Make it yours')}</IntroLine>
       <h1 id="settings-title" className="mt-5 text-4xl sm:text-6xl">
-        <span className="text-highlight">Settings.</span>
+        <span className="text-highlight">{t('Settings')}.</span>
       </h1>
 
       {message && (
@@ -152,12 +157,22 @@ export default function Settings() {
       )}
 
       <div className="mt-8 space-y-6">
+        <Section title="Interface language" description="Buttons and instructions. The English you learn stays in English.">
+          <Chips
+            label="Interface language"
+            options={['en', 'ar']}
+            value={settings.uiLanguage}
+            onChange={(v) => update({ uiLanguage: v })}
+            format={(v) => (v === 'en' ? 'English' : 'العربية')}
+          />
+        </Section>
+
         <Section title="Voice" description="The voice that reads words, sentences and stories.">
           {isSpeechSupported ? (
             <>
               <div>
                 <label htmlFor="voice" className="mb-2 block font-medium text-brand-ink dark:text-white">
-                  English voice
+                  {t('English voice')}
                 </label>
                 <div className="flex gap-2">
                   <select
@@ -180,7 +195,7 @@ export default function Settings() {
               </div>
               <div>
                 <label htmlFor="rate" className="mb-2 flex justify-between font-medium text-brand-ink dark:text-white">
-                  Speed <span className="font-mono text-sm">{settings.rateScale.toFixed(1)}×</span>
+                  {t('Speed')} <span className="font-mono text-sm">{settings.rateScale.toFixed(1)}×</span>
                 </label>
                 <input
                   id="rate"
@@ -238,10 +253,10 @@ export default function Settings() {
         >
           <div className="flex flex-wrap gap-3">
             <Button onClick={exportProgress}>
-              <Download size={16} aria-hidden="true" /> Download backup
+              <Download size={16} aria-hidden="true" /> {t('Download backup')}
             </Button>
             <Button variant="secondary" onClick={() => fileRef.current?.click()}>
-              <Upload size={16} aria-hidden="true" /> Restore from backup
+              <Upload size={16} aria-hidden="true" /> {t('Restore from backup')}
             </Button>
             <input
               ref={fileRef}
@@ -254,7 +269,7 @@ export default function Settings() {
           <div className="flex flex-wrap items-center gap-3">
             <Button variant="secondary" onClick={downloadForOffline} disabled={offline === 'working'}>
               <CloudDownload size={16} aria-hidden="true" />
-              {offline === 'working' ? 'Downloading…' : 'Make all lessons available offline'}
+              {offline === 'working' ? 'Downloading…' : t('Make all lessons available offline')}
             </Button>
             {offline === 'done' && <span className="text-sm text-emerald-700 dark:text-emerald-300">All lessons are ready offline ✓</span>}
             {offline === 'error' && <span className="text-sm text-rose-700 dark:text-rose-300">Could not download. Check your connection.</span>}
@@ -274,10 +289,10 @@ export default function Settings() {
               }}
               disabled={JSON.stringify(settings) === JSON.stringify(DEFAULT_SETTINGS)}
             >
-              <RotateCcw size={16} aria-hidden="true" /> Default settings
+              <RotateCcw size={16} aria-hidden="true" /> {t('Default settings')}
             </Button>
             <Button variant="ghost" onClick={resetAll} className="text-rose-700 dark:text-rose-300">
-              Delete all progress
+              {t('Delete all progress')}
             </Button>
           </div>
         </Section>

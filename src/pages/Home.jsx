@@ -20,6 +20,7 @@ import { useStreak } from '../hooks/useStreak';
 import { useTodayTopic } from '../hooks/useTodayTopic';
 import { useDailyGoal } from '../hooks/useDailyGoal';
 import { usePlacement } from '../hooks/usePlacement';
+import { useT } from '../hooks/useT';
 
 const PATH_SIZE = 6;
 
@@ -40,6 +41,7 @@ export default function Home() {
   const { streak, best } = useStreak();
   const daily = useDailyGoal();
   const { placement } = usePlacement();
+  const t = useT();
   const { topic: todayTopic, allDone } = useTodayTopic();
   const [level, setLevel] = useState('All');
 
@@ -79,20 +81,20 @@ export default function Home() {
       <section id="topics" aria-labelledby="topics-title" className="mt-20 scroll-mt-24 pb-10 sm:mt-28">
         <SectionHeading
           id="topics-title"
-          eyebrow="Your learning path"
+          eyebrow={t('Your learning path')}
           title={
             <>
-              Pick a <span className="text-highlight">situation.</span>
+              {t('Pick a')} <span className="text-highlight">{t('situation.')}</span>
             </>
           }
           description={
             level === 'All'
-              ? `${topics.length} situations from A1 to C2. Here are the next ${upNext.length} on your path.`
-              : `All ${level} situations.`
+              ? t('{total} situations from A1 to C2. Here are the next {n} on your path.', { total: topics.length, n: upNext.length })
+              : t('All {level} situations.', { level })
           }
           action={
             <Button to="/topics" variant="secondary">
-              All {topics.length} topics <ArrowRight size={16} aria-hidden="true" />
+              {t('All {n} topics', { n: topics.length })} <ArrowRight size={16} aria-hidden="true" />
             </Button>
           }
         />

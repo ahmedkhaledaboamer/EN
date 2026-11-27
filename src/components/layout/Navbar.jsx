@@ -1,17 +1,19 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { ArrowRight, Menu, Settings as SettingsIcon, X } from 'lucide-react';
+import { ArrowRight, Menu, Settings as SettingsIcon, Trophy, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
 import Button from '../ui/Button';
 import { useTheme } from '../../hooks/useTheme';
 import { useTodayTopic } from '../../hooks/useTodayTopic';
 import { useReview } from '../../hooks/useReview';
+import { useT, useUiLanguage } from '../../hooks/useT';
 
 const NAV_LINKS = [
   { to: '/', label: 'Home', end: true },
   { to: '/topics', label: 'Topics' },
   { to: '/essentials', label: 'Essentials' },
+  { to: '/pronunciation', label: 'Sounds' },
   { to: '/review', label: 'Review', badge: 'review' },
   { to: '/saved', label: 'Saved' },
 ];
@@ -28,6 +30,7 @@ function CountBadge({ count }) {
 }
 
 function DesktopLink({ to, label, end, count }) {
+  const t = useT();
   return (
     <NavLink
       to={to}
@@ -49,7 +52,7 @@ function DesktopLink({ to, label, end, count }) {
               transition={{ type: 'spring', stiffness: 380, damping: 32 }}
             />
           )}
-          {label}
+          {t(label)}
           <CountBadge count={count} />
         </>
       )}
@@ -61,6 +64,8 @@ export default function Navbar() {
   const { isDark, toggleTheme } = useTheme();
   const { topic: todayTopic } = useTodayTopic();
   const { dueCount } = useReview();
+  const t = useT();
+  const { isArabic, toggle: toggleLang } = useUiLanguage();
   const countFor = (link) => (link.badge === 'review' ? dueCount : 0);
   const startHref = todayTopic ? `/topics/${todayTopic.slug}` : '/topics';
   const [menuOpen, setMenuOpen] = useState(false);
@@ -94,6 +99,14 @@ export default function Navbar() {
         {/* Right side */}
         <div className="flex items-center gap-2 sm:gap-3">
           <Link
+            to="/progress"
+            aria-label="My progress"
+            title="My progress"
+            className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-ink transition-colors hover:bg-neutral-200/70 sm:flex dark:text-white dark:hover:bg-white/10"
+          >
+            <Trophy size={19} aria-hidden="true" />
+          </Link>
+          <Link
             to="/settings"
             aria-label="Settings"
             title="Settings"
@@ -101,9 +114,18 @@ export default function Navbar() {
           >
             <SettingsIcon size={19} aria-hidden="true" />
           </Link>
+          <button
+            type="button"
+            onClick={toggleLang}
+            aria-label={isArabic ? 'Switch interface to English' : 'حوّل الواجهة للعربي'}
+            title={isArabic ? 'English interface' : 'الواجهة بالعربي'}
+            className="flex h-10 min-w-10 items-center justify-center rounded-full px-2 font-semibold text-brand-ink transition-colors hover:bg-neutral-200/70 dark:text-white dark:hover:bg-white/10"
+          >
+            {isArabic ? 'EN' : 'ع'}
+          </button>
           <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
           <Button to={startHref} size="sm" className="hidden sm:inline-flex">
-            Start Learning
+            {t('Start Learning')}
           </Button>
           <button
             type="button"
@@ -143,10 +165,22 @@ export default function Navbar() {
                     }`
                   }
                 >
-                  {label}
+                  {t(label)}
                   <CountBadge count={countFor({ badge })} />
                 </NavLink>
               ))}
+              <NavLink
+                to="/progress"
+                className={({ isActive }) =>
+                  `rounded-2xl px-4 py-3 text-sm font-medium ${
+                    isActive
+                      ? 'bg-neutral-200/80 text-brand-ink dark:bg-white/10 dark:text-white'
+                      : 'text-neutral-600 dark:text-neutral-300'
+                  }`
+                }
+              >
+                {t('My progress')}
+              </NavLink>
               <NavLink
                 to="/settings"
                 className={({ isActive }) =>
@@ -157,10 +191,10 @@ export default function Navbar() {
                   }`
                 }
               >
-                Settings
+                {t('Settings')}
               </NavLink>
               <Button to={startHref} className="mt-2 w-full">
-                Start Learning <ArrowRight size={16} aria-hidden="true" />
+                {t('Start Learning')} <ArrowRight size={16} aria-hidden="true" />
               </Button>
             </div>
           </motion.div>

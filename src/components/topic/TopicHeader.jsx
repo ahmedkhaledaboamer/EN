@@ -6,6 +6,7 @@ import LevelBadge from '../ui/LevelBadge';
 import HighlightLastWord from '../ui/HighlightLastWord';
 import MonoLine from '../ui/MonoLine';
 import ProgressBar from '../ui/ProgressBar';
+import { useT } from '../../hooks/useT';
 
 /** Topic page header. Rendered from the light meta object, so it shows instantly. */
 export default function TopicHeader({
@@ -16,13 +17,14 @@ export default function TopicHeader({
   monoPath = '~/topic',
   learnedLabel = 'Words learned',
 }) {
+  const t = useT();
   return (
     <header className="pt-6 sm:pt-10">
       <Link
         to={backTo}
         className="inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-medium text-neutral-500 transition-colors hover:bg-neutral-200/70 hover:text-brand-ink dark:text-neutral-400 dark:hover:bg-white/10 dark:hover:text-white"
       >
-        <ArrowLeft size={16} aria-hidden="true" /> {backLabel}
+        <ArrowLeft size={16} aria-hidden="true" /> {t(backLabel)}
       </Link>
 
       <motion.div
@@ -60,7 +62,7 @@ export default function TopicHeader({
             {progress.bestScore !== null && <Chip>Best {progress.bestScore}%</Chip>}
           </div>
           <div className="mb-2 mt-4 flex justify-between text-sm">
-            <span>{learnedLabel}</span>
+            <span>{t(learnedLabel)}</span>
             <span className="font-mono text-brand-ink dark:text-white">
               {progress.learned}/{progress.total}
             </span>

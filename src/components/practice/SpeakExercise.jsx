@@ -5,6 +5,7 @@ import MicButton from '../speech/MicButton';
 import SpeakFeedback from '../speech/SpeakFeedback';
 import { useSpeakCheck } from '../../hooks/useSpeechRecognition';
 import { SPEAK_PASS } from '../../utils/speechCompare';
+import { useT } from '../../hooks/useT';
 
 /**
  * "Say it": read the sentence out loud. You can try as many times as you like,
@@ -12,6 +13,7 @@ import { SPEAK_PASS } from '../../utils/speechCompare';
  *   exercise: { type: 'speak', answer: 'English sentence', note?: 'Arabic meaning' }
  */
 export default function SpeakExercise({ exercise, locked, onSubmit }) {
+  const t = useT();
   const check = useSpeakCheck(exercise.answer);
   const { result, error } = check;
   const micBlocked = error === 'not-allowed' || error === 'service-not-allowed' || error === 'audio-capture';
@@ -25,7 +27,7 @@ export default function SpeakExercise({ exercise, locked, onSubmit }) {
   return (
     <div>
       <p className="flex items-center gap-2 text-sm font-medium">
-        <Mic size={16} aria-hidden="true" /> {exercise.hideAnswer ? 'Say it in English:' : 'Say this sentence out loud:'}
+        <Mic size={16} aria-hidden="true" /> {t(exercise.hideAnswer ? 'Say it in English:' : 'Say this sentence out loud:')}
       </p>
       {hidden ? (
         <p dir="rtl" lang="ar" className="mt-3 text-2xl font-bold text-brand-ink sm:text-3xl dark:text-white">
@@ -58,11 +60,11 @@ export default function SpeakExercise({ exercise, locked, onSubmit }) {
 
       <div className="mt-5 flex flex-wrap gap-3">
         <Button onClick={submit} disabled={locked || !result || check.listening}>
-          Check
+          {t('Check')}
         </Button>
         {micBlocked && (
           <Button variant="ghost" onClick={() => onSubmit({ correct: false, given: '(skipped: no microphone)' })} disabled={locked}>
-            Skip
+            {t('Skip')}
           </Button>
         )}
       </div>

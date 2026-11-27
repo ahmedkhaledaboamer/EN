@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Undo2 } from 'lucide-react';
 import Button from '../ui/Button';
 import { isSameAnswer, shuffleDifferent } from '../../utils/answers';
+import { useT } from '../../hooks/useT';
 
 /**
  * Tap words to build the sentence; tap a placed word to send it back.
@@ -10,6 +11,7 @@ import { isSameAnswer, shuffleDifferent } from '../../utils/answers';
  * question never appeared.
  */
 export default function OrderExercise({ exercise, locked, onSubmit }) {
+  const t = useT();
   // Keep indices so repeated words ("the", "the") stay distinct
   const [bank] = useState(() => shuffleDifferent(exercise.words.map((w, i) => ({ w, i }))));
   const [chosen, setChosen] = useState([]);
@@ -29,7 +31,7 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
 
   return (
     <div>
-      <p className="text-lg font-semibold text-brand-ink dark:text-white">Put the words in the correct order.</p>
+      <p className="text-lg font-semibold text-brand-ink dark:text-white">{t('Put the words in the correct order.')}</p>
 
       <div
         aria-label="Your sentence"
@@ -41,7 +43,7 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
               : 'border-rose-500 bg-rose-50/60 dark:bg-rose-500/10'
         }`}
       >
-        {chosen.length === 0 && <span className="px-2 text-sm text-neutral-400">Tap the words below…</span>}
+        {chosen.length === 0 && <span className="px-2 text-sm text-neutral-400">{t('Tap the words below…')}</span>}
         {chosen.map((i) => (
           <button
             key={i}
@@ -72,10 +74,10 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
 
       <div className="mt-6 flex flex-wrap gap-3">
         <Button onClick={check} disabled={locked || available.length > 0}>
-          Check
+          {t('Check')}
         </Button>
         <Button variant="ghost" onClick={() => setChosen([])} disabled={locked || chosen.length === 0}>
-          <Undo2 size={16} aria-hidden="true" /> Reset
+          <Undo2 size={16} aria-hidden="true" /> {t('Reset')}
         </Button>
       </div>
     </div>

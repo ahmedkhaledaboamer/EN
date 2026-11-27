@@ -2,6 +2,7 @@ import { useCallback } from 'react';
 import { useLocalStorage } from './useLocalStorage';
 import { STORAGE_KEYS } from '../utils/storage';
 import { todayKey, yesterdayKey } from '../utils/date';
+import { useActivityLog } from './useActivityLog';
 
 /*
   Stored shape: { count: 3, best: 5, lastDate: '2026-11-26' }
@@ -11,21 +12,21 @@ const INITIAL = { count: 0, best: 0, lastDate: null };
 
 export function useStreak() {
   const [streak, setStreak] = useLocalStorage(STORAGE_KEYS.streak, INITIAL);
+  const { logSession } = useActivityLog();
 
   const today = todayKey();
   const alive = streak.lastDate === today || streak.lastDate === yesterdayKey();
   const current = alive ? streak.count : 0;
 
-  const recordActivity = useCallback(
-    () =>
-      setStreak((prev) => {
-        const t = todayKey();
-        if (prev.lastDate === t) return prev;
-        const count = prev.lastDate === yesterdayKey() ? prev.count + 1 : 1;
-        return { count, best: Math.max(prev.best ?? 0, count), lastDate: t };
-      }),
-    [setStreak],
-  );
+  const recordActivity = useCallback(() => {
+    logSession(); // daily history for the Progress page
+    setStreak((prev) => {
+      const t = todayKey();
+      if (prev.lastDate === t) return prev;
+      const count = prev.lastDate === yesterdayKey() ? prev.count + 1 : 1;
+      return { count, best: Math.max(prev.best ?? 0, count), lastDate: t };
+    });
+  }, [setStreak, logSession]);
 
   return {
     streak: current,

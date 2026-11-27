@@ -1,5 +1,6 @@
 import { useRef } from 'react';
 import { motion } from 'framer-motion';
+import { useT } from '../../hooks/useT';
 
 /**
  * Accessible sticky tab list (arrow keys, Home/End) with an animated yellow pill.
@@ -7,6 +8,7 @@ import { motion } from 'framer-motion';
  */
 export default function Tabs({ tabs, active, onChange, label = 'Sections', pillId = 'tabs-pill' }) {
   const refs = useRef({});
+  const t = useT();
 
   const onKeyDown = (e) => {
     const i = tabs.findIndex((t) => t.id === active);
@@ -57,7 +59,7 @@ export default function Tabs({ tabs, active, onChange, label = 'Sections', pillI
                 />
               )}
               {Icon && <Icon size={16} aria-hidden="true" />}
-              {tabLabel}
+              {t(tabLabel)}
             </button>
           );
         })}

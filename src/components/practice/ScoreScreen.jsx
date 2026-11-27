@@ -3,6 +3,7 @@ import { ArrowRight, BookA, RotateCcw, Sparkles, Trophy } from 'lucide-react';
 import Button from '../ui/Button';
 import ProgressBar from '../ui/ProgressBar';
 import { PASS_PERCENT } from '../../hooks/useProgress';
+import { useT } from '../../hooks/useT';
 
 function headline(percent) {
   if (percent === 100) return ['Perfect', 'score!'];
@@ -14,8 +15,9 @@ function headline(percent) {
 
 /** messages (optional): { pass, fail } to replace the default topic wording. */
 export default function ScoreScreen({ correct, total, result, mistakes, next, review, onRetry, messages }) {
+  const t = useT();
   const { percent, passed, isNewBest } = result;
-  const [first, gold] = headline(percent);
+  const [first, gold] = headline(percent).map((w) => t(w));
 
   return (
     <motion.div
@@ -48,20 +50,20 @@ export default function ScoreScreen({ correct, total, result, mistakes, next, re
 
       {isNewBest && (
         <p className="mt-4 inline-flex items-center gap-1.5 rounded-full bg-brand-purple/40 px-3 py-1 text-sm font-semibold text-violet-900 dark:bg-violet-500/20 dark:text-violet-200">
-          <Sparkles size={14} aria-hidden="true" /> New best score
+          <Sparkles size={14} aria-hidden="true" /> {t('New best score')}
         </p>
       )}
 
       <p className="mx-auto mt-4 max-w-md">
         {passed
-          ? messages?.pass ?? 'This topic is marked as completed. Great job!'
-          : messages?.fail ?? `You need ${PASS_PERCENT}% to complete this topic. Review the words and try again.`}
+          ? messages?.pass ?? t('This topic is marked as completed. Great job!')
+          : messages?.fail ?? t('You need {n}% to complete this topic. Review the words and try again.', { n: PASS_PERCENT })}
       </p>
 
       {mistakes.length > 0 && (
         <div className="mt-8 text-left">
           <p className="mb-3 font-mono text-xs uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-            Review your mistakes
+            {t('Review your mistakes')}
           </p>
           <ul className="space-y-2">
             {mistakes.map((m) => (
@@ -85,13 +87,13 @@ export default function ScoreScreen({ correct, total, result, mistakes, next, re
               {next.label} <ArrowRight size={18} aria-hidden="true" />
             </Button>
             <Button variant="secondary" onClick={onRetry}>
-              <RotateCcw size={16} aria-hidden="true" /> Try again
+              <RotateCcw size={16} aria-hidden="true" /> {t('Try again')}
             </Button>
           </>
         ) : (
           <>
             <Button onClick={onRetry}>
-              <RotateCcw size={16} aria-hidden="true" /> Try again
+              <RotateCcw size={16} aria-hidden="true" /> {t('Try again')}
             </Button>
             {review && (
               <Button variant="secondary" onClick={review.onClick}>

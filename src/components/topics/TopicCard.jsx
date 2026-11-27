@@ -5,6 +5,7 @@ import Chip from '../ui/Chip';
 import LevelBadge from '../ui/LevelBadge';
 import ProgressBar from '../ui/ProgressBar';
 import { isReady } from '../../data/registry';
+import { useT } from '../../hooks/useT';
 
 function CardHeader({ topic, completed }) {
   return (
@@ -68,10 +69,11 @@ function EmptyCard({ topic }) {
  *   details  – mono line under the title; defaults to "20 words · 8 exercises"
  */
 export default function TopicCard({ topic, progress, basePath = '/topics', details }) {
+  const t = useT();
   if (!isReady(topic)) return <EmptyCard topic={topic} />;
 
   const { learned, total, percent, completed, bestScore } = progress;
-  const line = details ?? `${total} words · ${topic.exercisesCount ?? 0} exercises`;
+  const line = details ?? `${t('{n} words', { n: total })} · ${t('{n} exercises', { n: topic.exercisesCount ?? 0 })}`;
 
   return (
     <motion.div whileHover={{ y: -6 }} transition={{ type: 'spring', stiffness: 300, damping: 22 }} className="h-full">
@@ -90,7 +92,7 @@ export default function TopicCard({ topic, progress, basePath = '/topics', detai
 
         <div className="mt-auto pt-6">
           <div className="mb-2 flex justify-between text-xs">
-            <span>{completed ? 'Completed' : 'Progress'}</span>
+            <span>{t(completed ? 'Completed' : 'Progress')}</span>
             <span className="font-mono text-brand-ink dark:text-white">{percent}%</span>
           </div>
           <ProgressBar value={percent} label={`${topic.title} progress`} />

@@ -172,6 +172,13 @@ with `--topics` or `--essentials`.
   question), with an "I don't know" option. A stage is passed with 4/6; the test stops at the first failed stage.
   The result sets your starting level, and Today's Topic skips topics below it. Questions live in
   `src/data/placement.js`.
+- **Sounds (/pronunciation)**: 6 minimal-pair groups that Arabic speakers mix up (p/b, f/v, th/s, th/d, ship/sheep,
+  pen/pin) with an Arabic tip, a listening quiz ("which word did you hear?") and a "say it" microphone check.
+  Content lives in `src/data/pronunciation.js`.
+- **My progress (/progress)**: study calendar, words per week, badges, and a downloadable certificate (PNG) for each
+  level whose topics are all completed. Daily history is stored in `ebs:activity`.
+- **Arabic interface**: the "ع / EN" button in the navbar (or Settings → Interface language) switches buttons and
+  instructions to Arabic. Translations live in `src/i18n/ar.js` (keys are the English text; a missing key shows English).
 - **Daily review (/review)**: spaced repetition (Leitner boxes: 1, 3, 7, 14, 30 days) over every word you marked
   "Got it" or saved. The **mistakes notebook** collects every wrong quiz answer; answering it correctly removes it.
 - **Settings (/settings)**: voice and speed, Arabic shown by default, text size, daily goal, backup / restore,
@@ -186,7 +193,8 @@ with `--topics` or `--essentials`.
 - **Essentials**: a category is completed at **70% or more** in its quiz. Its progress is stored separately
   from topics, and the Home stats show completed categories and learned items.
 - **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`,
-  `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`, `ebs:placement`.
+  `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`, `ebs:placement`,
+  `ebs:pronunciation`, `ebs:activity`.
   Every access is wrapped in try/catch.
 
 ### Performance

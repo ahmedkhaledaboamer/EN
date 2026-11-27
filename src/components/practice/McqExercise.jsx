@@ -3,8 +3,10 @@ import { Check, X } from 'lucide-react';
 import { shuffle } from '../../utils/answers';
 import GapText from './GapText';
 import SpeakButton from '../speech/SpeakButton';
+import { useT } from '../../hooks/useT';
 
 export default function McqExercise({ exercise, locked, onSubmit }) {
+  const t = useT();
   const [options] = useState(() => shuffle(exercise.options));
   const [picked, setPicked] = useState(null);
 
@@ -25,7 +27,7 @@ export default function McqExercise({ exercise, locked, onSubmit }) {
 
   return (
     <div>
-      {exercise.prompt && <p className="mb-2 text-sm font-medium">{exercise.prompt}</p>}
+      {exercise.prompt && <p className="mb-2 text-sm font-medium">{t(exercise.prompt)}</p>}
       {exercise.audio ? (
         // Listening question: the word is played, not shown (it appears after answering)
         <div className="flex items-center gap-4">

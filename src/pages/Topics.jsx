@@ -3,6 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom';
 import { Search, X } from 'lucide-react';
 import LevelGroupedGrid from '../components/topics/LevelGroupedGrid';
 import IntroLine from '../components/ui/IntroLine';
+import { useT } from '../hooks/useT';
 import LevelChips from '../components/ui/LevelChips';
 import Button from '../components/ui/Button';
 import { topics } from '../data/topics';
@@ -20,6 +21,7 @@ const levelCounts = Object.fromEntries(LEVEL_IDS.map((id) => [id, topics.filter(
 levelCounts.All = topics.length;
 
 export default function Topics() {
+  const t = useT();
   const { getTopicProgress } = useProgress();
   const [params, setParams] = useSearchParams();
 
@@ -55,9 +57,9 @@ export default function Topics() {
 
   return (
     <section className="pb-10 pt-10 sm:pt-16" aria-labelledby="topics-page-title">
-      <IntroLine>All situations</IntroLine>
+      <IntroLine>{t("All situations")}</IntroLine>
       <h1 id="topics-page-title" className="mt-5 text-4xl sm:text-6xl">
-        Browse <span className="text-highlight">topics.</span>
+        {t("Browse")} <span className="text-highlight">{t("topics.")}</span>
       </h1>
       <p className="mt-4 font-mono text-sm">
         {topics.length} situations · A1 → C2 · search by topic or by word

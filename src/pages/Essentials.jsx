@@ -1,4 +1,5 @@
 import IntroLine from '../components/ui/IntroLine';
+import { useT } from '../hooks/useT';
 import ProgressBar from '../components/ui/ProgressBar';
 import TopicsGrid from '../components/topics/TopicsGrid';
 import { essentials } from '../data/essentials';
@@ -7,15 +8,16 @@ import { useEssentialsProgress } from '../hooks/useEssentialsProgress';
 const totalItems = essentials.reduce((n, e) => n + e.wordsCount, 0);
 
 export default function Essentials() {
+  const t = useT();
   const { completedCount, learnedTotal } = useEssentialsProgress();
 
   return (
     <section className="pb-10 pt-10 sm:pt-16" aria-labelledby="essentials-title">
       <div className="grid gap-8 lg:grid-cols-[1fr_22rem] lg:items-end">
         <div>
-          <IntroLine>Building blocks</IntroLine>
+          <IntroLine>{t("Building blocks")}</IntroLine>
           <h1 id="essentials-title" className="mt-5 text-4xl sm:text-6xl">
-            The <span className="text-highlight">essentials.</span>
+            {t("The")} <span className="text-highlight">{t("essentials.")}</span>
           </h1>
           <p className="mt-4 max-w-xl text-base sm:text-lg">
             Days, numbers, pronouns, prepositions… the small words every situation is built from. Learn them,

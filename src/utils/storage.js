@@ -13,6 +13,8 @@ export const STORAGE_KEYS = {
   settings: 'ebs:settings',
   daily: 'ebs:daily',
   placement: 'ebs:placement',
+  pronunciation: 'ebs:pronunciation',
+  activity: 'ebs:activity',
 };
 
 /** Fired on window after every write so all hooks in the same tab re-read. */

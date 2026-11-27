@@ -6,6 +6,7 @@ import Reveal from '../ui/Reveal';
 import { usePlacement } from '../../hooks/usePlacement';
 import { getLevel } from '../../data/levels';
 import { STAGES } from '../../data/placement';
+import { useT } from '../../hooks/useT';
 
 /** Visual "ladder" of the test stages: A1 → B2, each step taller. */
 function LevelLadder({ current }) {
@@ -39,6 +40,7 @@ function LevelLadder({ current }) {
  */
 export default function PlacementBanner() {
   const { placement } = usePlacement();
+  const t = useT();
 
   if (placement) {
     const level = placement.level ? getLevel(placement.level) : null;
@@ -51,16 +53,15 @@ export default function PlacementBanner() {
             </span>
             <div>
               <p className="flex flex-wrap items-center gap-2 font-display text-lg font-extrabold tracking-tight text-brand-ink dark:text-white">
-                Your level: <LevelBadge level={placement.level ?? 'A1'} showName />
+                {t('Your level:')} <LevelBadge level={placement.level ?? 'A1'} showName />
               </p>
               <p className="text-sm">
-                {level ? `Your path starts at ${placement.startLevel}.` : 'Your path starts at A1.'} Feeling stronger? Test again
-                anytime.
+                {t('Your path starts at {level}.', { level: level ? placement.startLevel : 'A1' })} {t('Feeling stronger? Test again anytime.')}
               </p>
             </div>
           </div>
           <Button to="/placement" variant="secondary" className="shrink-0">
-            <RotateCcw size={16} aria-hidden="true" /> Retake the test
+            <RotateCcw size={16} aria-hidden="true" /> {t('Retake the test')}
           </Button>
         </div>
       </Reveal>
@@ -80,16 +81,16 @@ export default function PlacementBanner() {
         <div className="relative grid items-center gap-8 lg:grid-cols-[1.4fr_1fr]">
           <div>
             <span className="inline-flex items-center gap-2 rounded-full bg-brand-yellow px-3 py-1 text-xs font-bold uppercase tracking-wider text-brand-ink">
-              <ClipboardCheck size={14} aria-hidden="true" /> Placement test
+              <ClipboardCheck size={14} aria-hidden="true" /> {t('Placement test')}
             </span>
             <h2 id="placement-card-title" className="mt-4 text-4xl leading-[1.05] sm:text-5xl">
-              What&apos;s your <span className="text-highlight">level?</span>
+              {t("What's your")} <span className="text-highlight">{t('level?')}</span>
             </h2>
             <p dir="rtl" lang="ar" className="mt-2 text-left text-xl font-semibold text-brand-ink dark:text-white">
               اعرف مستواك في ٥ دقايق، وابدأ من المكان الصح.
             </p>
             <p className="mt-3 max-w-lg">
-              Answer a few short questions from easy to hard. We&apos;ll tell you your level and start your learning path there.
+              {t("Answer a few short questions from easy to hard. We'll tell you your level and start your learning path there.")}
             </p>
 
             <ul className="mt-5 flex flex-wrap gap-2 text-sm">
@@ -102,19 +103,19 @@ export default function PlacementBanner() {
                   key={text}
                   className="inline-flex items-center gap-1.5 rounded-full bg-white/80 px-3 py-1.5 font-medium text-brand-ink dark:bg-white/10 dark:text-white"
                 >
-                  <Icon size={14} aria-hidden="true" /> {text}
+                  <Icon size={14} aria-hidden="true" /> {t(text)}
                 </li>
               ))}
             </ul>
 
             <Button to="/placement" size="lg" className="mt-7">
-              Find my level <ArrowRight size={18} aria-hidden="true" />
+              {t('Find my level')} <ArrowRight size={18} aria-hidden="true" />
             </Button>
           </div>
 
           <div className="flex flex-col items-center gap-3 lg:items-end">
             <LevelLadder />
-            <p className="font-mono text-xs text-neutral-500 dark:text-neutral-400">A1 → B2 · stops when it gets too hard</p>
+            <p className="font-mono text-xs text-neutral-500 dark:text-neutral-400">{t('A1 → B2 · stops when it gets too hard')}</p>
           </div>
         </div>
       </section>

@@ -4,6 +4,7 @@ import SpeakButton from '../speech/SpeakButton';
 import MicButton from '../speech/MicButton';
 import SpeakFeedback from '../speech/SpeakFeedback';
 import { useSpeakCheck } from '../../hooks/useSpeechRecognition';
+import { useT } from '../../hooks/useT';
 
 const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
@@ -24,6 +25,7 @@ function HighlightedExample({ sentence, word }) {
 }
 
 export default function WordCard({ word, learned, saved, onToggleLearned, onToggleSaved }) {
+  const t = useT();
   const id = `word-${word.en}`;
   const check = useSpeakCheck(word.en);
   return (
@@ -94,10 +96,10 @@ export default function WordCard({ word, learned, saved, onToggleLearned, onTogg
         >
           {learned ? (
             <>
-              <Check size={16} strokeWidth={3} aria-hidden="true" /> Learned
+              <Check size={16} strokeWidth={3} aria-hidden="true" /> {t('Learned')}
             </>
           ) : (
-            'Got it'
+            t('Got it')
           )}
         </button>
       </div>

@@ -11,6 +11,7 @@ import ListenExercise from './ListenExercise';
 import SpeakExercise from './SpeakExercise';
 import ScoreScreen from './ScoreScreen';
 import { useSpeechContext } from '../speech/SpeechContext';
+import { useT } from '../../hooks/useT';
 
 const TYPES = {
   mcq: { label: 'Multiple choice', Component: McqExercise },
@@ -40,6 +41,7 @@ function promptOf(ex) {
  *   onAnswer  – optional (exercise, { correct, given }) => void, called after every answer (mistakes notebook)
  */
 export default function QuizRunner({ exercises: all, onFinish, next, review, onRetry, messages, onAnswer }) {
+  const t = useT();
   const exercises = all.filter((ex) => TYPES[ex.type]);
   const { stop } = useSpeechContext();
 
@@ -120,7 +122,7 @@ export default function QuizRunner({ exercises: all, onFinish, next, review, onR
     <div className="mx-auto max-w-3xl">
       <div className="mb-5 flex items-center justify-between gap-4">
         <p className="font-mono text-sm">
-          Question <span className="font-semibold text-brand-ink dark:text-white">{index + 1}</span>/{exercises.length}
+          {t('Question')} <span className="font-semibold text-brand-ink dark:text-white">{index + 1}</span>/{exercises.length}
         </p>
         <ol className="flex gap-1.5" aria-label="Answers so far">
           {exercises.map((_, i) => {
@@ -149,7 +151,7 @@ export default function QuizRunner({ exercises: all, onFinish, next, review, onR
           className="glass-card p-6 sm:p-8"
         >
           <Chip tone="gold" className="mb-5">
-            {current.label ?? label}
+            {t(current.label ?? label)}
           </Chip>
           <Component exercise={current} locked={locked} onSubmit={onSubmit} />
         </motion.div>
@@ -175,16 +177,16 @@ export default function QuizRunner({ exercises: all, onFinish, next, review, onR
                 <CircleX size={24} className="shrink-0" aria-hidden="true" />
               )}
               <div>
-                <p className="font-semibold">{lastAnswer.correct ? 'Correct!' : 'Not quite.'}</p>
+                <p className="font-semibold">{t(lastAnswer.correct ? 'Correct!' : 'Not quite.')}</p>
                 {!lastAnswer.correct && (
                   <p className="mt-0.5 text-sm">
-                    Correct answer: <strong>{current.answer}</strong>
+                    {t('Correct answer:')} <strong>{current.answer}</strong>
                   </p>
                 )}
               </div>
             </div>
             <Button ref={nextRef} onClick={goNext} className="shrink-0">
-              {index + 1 < exercises.length ? 'Next question' : 'See my score'}
+              {t(index + 1 < exercises.length ? 'Next question' : 'See my score')}
               <ArrowRight size={18} aria-hidden="true" />
             </Button>
           </motion.div>

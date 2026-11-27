@@ -6,6 +6,7 @@ import HighlightLastWord from '../ui/HighlightLastWord';
 import ProgressBar from '../ui/ProgressBar';
 import Reveal from '../ui/Reveal';
 import SectionHeading from '../ui/SectionHeading';
+import { useT } from '../../hooks/useT';
 
 function WordPreview({ word }) {
   return (
@@ -47,14 +48,15 @@ function NoTopics() {
 
 /** `topic` is a topic meta object (see data/topics/index.js). */
 export default function TodayTopic({ topic, progress, allDone }) {
+  const t = useT();
   return (
     <section aria-labelledby="today-title" className="mt-20 sm:mt-28">
       <SectionHeading
         id="today-title"
-        eyebrow="Today's topic"
+        eyebrow={t("Today's topic")}
         title={
           <>
-            Your situation <span className="text-highlight">for today.</span>
+            {t('Your situation')} <span className="text-highlight">{t('for today.')}</span>
           </>
         }
       />
@@ -87,14 +89,14 @@ export default function TodayTopic({ topic, progress, allDone }) {
 
               <div className="mt-5 flex flex-wrap gap-2">
                 <LevelBadge level={topic.level} showName />
-                <Chip>{topic.wordsCount} words</Chip>
-                <Chip>{topic.sentencesCount} sentences</Chip>
-                <Chip>{topic.exercisesCount} exercises</Chip>
+                <Chip>{t('{n} words', { n: topic.wordsCount })}</Chip>
+                <Chip>{t('{n} sentences', { n: topic.sentencesCount })}</Chip>
+                <Chip>{t('{n} exercises', { n: topic.exercisesCount })}</Chip>
               </div>
 
               <div className="mt-6">
                 <div className="mb-2 flex justify-between text-sm">
-                  <span>Words learned</span>
+                  <span>{t('Words learned')}</span>
                   <span className="font-mono text-brand-ink dark:text-white">
                     {progress.learned}/{progress.total}
                   </span>
@@ -104,7 +106,7 @@ export default function TodayTopic({ topic, progress, allDone }) {
 
               <div className="mt-6 flex flex-wrap items-center gap-3">
                 <Button to={`/topics/${topic.slug}`}>
-                  {progress.status === 'not-started' ? 'Start lesson' : 'Continue lesson'}
+                  {t(progress.status === 'not-started' ? 'Start lesson' : 'Continue lesson')}
                   <ArrowRight size={18} aria-hidden="true" />
                 </Button>
                 {progress.bestScore !== null && (
@@ -116,7 +118,7 @@ export default function TodayTopic({ topic, progress, allDone }) {
             {/* Right: word preview */}
             <div>
               <p className="mb-3 font-mono text-xs uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-                First words
+                {t('First words')}
               </p>
               <ul className="space-y-2">
                 {topic.preview.map((w) => (
@@ -125,7 +127,7 @@ export default function TodayTopic({ topic, progress, allDone }) {
               </ul>
               {topic.wordsCount > topic.preview.length && (
                 <p className="mt-3 text-sm text-neutral-500 dark:text-neutral-400">
-                  + {topic.wordsCount - topic.preview.length} more words inside
+                  {t('+ {n} more words inside', { n: topic.wordsCount - topic.preview.length })}
                 </p>
               )}
             </div>

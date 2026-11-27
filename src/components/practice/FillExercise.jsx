@@ -3,9 +3,11 @@ import { Lightbulb } from 'lucide-react';
 import Button from '../ui/Button';
 import GapText from './GapText';
 import { isSameAnswer } from '../../utils/answers';
+import { useT } from '../../hooks/useT';
 
 /** `accept` (optional) lists other answers that are also correct. */
 export default function FillExercise({ exercise, locked, onSubmit }) {
+  const t = useT();
   const [value, setValue] = useState('');
   const [showHint, setShowHint] = useState(false);
   const [result, setResult] = useState(null);
@@ -45,7 +47,7 @@ export default function FillExercise({ exercise, locked, onSubmit }) {
 
       <div className="mt-6 flex flex-wrap items-center gap-3">
         <Button type="submit" disabled={locked || !value.trim()}>
-          Check
+          {t('Check')}
         </Button>
         {exercise.hint && (
           <button
@@ -54,7 +56,7 @@ export default function FillExercise({ exercise, locked, onSubmit }) {
             aria-expanded={showHint}
             className="inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-sm font-medium hover:bg-neutral-200/70 dark:hover:bg-white/10"
           >
-            <Lightbulb size={16} aria-hidden="true" /> {showHint ? 'Hide hint' : 'Show hint'}
+            <Lightbulb size={16} aria-hidden="true" /> {t(showHint ? 'Hide hint' : 'Show hint')}
           </button>
         )}
         {showHint && (

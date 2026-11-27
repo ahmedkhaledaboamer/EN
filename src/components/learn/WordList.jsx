@@ -3,6 +3,7 @@ import WordCard from './WordCard';
 import { useSavedWords } from '../../hooks/useSavedWords';
 import { useStreak } from '../../hooks/useStreak';
 import { useDailyGoal } from '../../hooks/useDailyGoal';
+import { useT } from '../../hooks/useT';
 
 const FILTERS = [
   { id: 'all', label: 'All' },
@@ -18,6 +19,7 @@ const FILTERS = [
  *   saveSlug     – key used for saved words (e.g. "supermarket", "essentials/months")
  */
 export default function WordList({ items, isLearned, setLearned, saveSlug, noun = 'words' }) {
+  const t = useT();
   const { isSaved, toggleSaved } = useSavedWords();
   const { recordActivity } = useStreak();
   const { addWord } = useDailyGoal();
@@ -45,7 +47,7 @@ export default function WordList({ items, isLearned, setLearned, saveSlug, noun 
           <span className="font-mono font-semibold text-brand-ink dark:text-white">
             {learnedCount}/{items.length}
           </span>{' '}
-          {noun} learned. Tap <strong className="text-brand-ink dark:text-white">Got it</strong> when you know one.
+          {t(noun === 'items' ? 'items learned.' : 'words learned.')} {t('Tap Got it when you know one.')}
         </p>
         <div className="flex gap-1.5" role="group" aria-label={`Filter ${noun}`}>
           {FILTERS.map((f) => (
@@ -60,7 +62,7 @@ export default function WordList({ items, isLearned, setLearned, saveSlug, noun 
                   : 'bg-neutral-200/70 text-neutral-600 hover:bg-neutral-300/70 dark:bg-white/10 dark:text-neutral-300'
               }`}
             >
-              {f.label}
+              {t(f.label)}
             </button>
           ))}
         </div>
@@ -68,7 +70,7 @@ export default function WordList({ items, isLearned, setLearned, saveSlug, noun 
 
       {visible.length === 0 ? (
         <p className="glass-card p-8 text-center">
-          {filter === 'learned' ? `No learned ${noun} yet. Start with "Got it".` : `You learned all of them. 🎉`}
+          {filter === 'learned' ? t('Nothing learned yet. Start with "Got it".') : t('You learned all of them. 🎉')}
         </p>
       ) : (
         <ul className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
