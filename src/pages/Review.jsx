@@ -10,7 +10,7 @@ import SpeechNotice from '../components/speech/SpeechNotice';
 import { SpeechProvider } from '../components/speech/SpeechContext';
 import Flashcards from '../components/essentials/Flashcards';
 import QuizRunner from '../components/practice/QuizRunner';
-import { LoadingState } from './TopicPage';
+import LoadingState from '../components/ui/LoadingState';
 import { SESSION_SIZE, useReview } from '../hooks/useReview';
 import { loadReviewItems } from '../utils/reviewItems';
 import { exerciseId, useMistakes } from '../hooks/useMistakes';

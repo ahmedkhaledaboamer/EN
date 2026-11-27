@@ -7,9 +7,7 @@ import { isRecognitionSupported } from '../../../hooks/useSpeechRecognition';
 import { getNextTopic } from '../../../data/topics';
 import { shuffle } from '../../../utils/answers';
 
-/** Extra exercises built from the topic's sentences: "Write it" always, "Say it" when the mic is supported. */
-const WRITE_COUNT = 2;
-const SPEAK_COUNT = 2;
+import { SPEAK_COUNT, WRITE_COUNT } from '../../../utils/practice';
 
 export default function PracticeTab({ topic, onReviewWords }) {
   const { recordPracticeResult } = useProgress();

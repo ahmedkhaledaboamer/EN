@@ -7,6 +7,7 @@ import ProgressBar from '../ui/ProgressBar';
 import Reveal from '../ui/Reveal';
 import SectionHeading from '../ui/SectionHeading';
 import { useT } from '../../hooks/useT';
+import { practiceCount } from '../../utils/practice';
 
 function WordPreview({ word }) {
   return (
@@ -91,7 +92,7 @@ export default function TodayTopic({ topic, progress, allDone }) {
                 <LevelBadge level={topic.level} showName />
                 <Chip>{t('{n} words', { n: topic.wordsCount })}</Chip>
                 <Chip>{t('{n} sentences', { n: topic.sentencesCount })}</Chip>
-                <Chip>{t('{n} exercises', { n: topic.exercisesCount })}</Chip>
+                <Chip>{t('{n} exercises', { n: practiceCount(topic.exercisesCount, topic.sentencesCount) })}</Chip>
               </div>
 
               <div className="mt-6">

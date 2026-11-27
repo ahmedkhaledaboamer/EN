@@ -282,6 +282,10 @@ const ar = {
   'All games': 'كل الألعاب',
   'Not enough words in this list. Pick another one above.': 'الكلمات هنا قليلة. اختار قايمة تانية من فوق.',
   'Not enough words to spell here. Pick another word list.': 'مفيش كلمات كفاية للإملا هنا. اختار قايمة تانية.',
+  'Write them in English': 'اكتبهم بالإنجليزي',
+  'Back to sentences': 'ارجع للجمل',
+  'Great writing! You can now use these sentences on your own.': 'كتابة ممتازة! تقدر دلوقتي تستخدم الجمل دي لوحدك.',
+  'Writing is hard at first. Read the sentences again, then try a new round.': 'الكتابة صعبة في الأول. اقرا الجمل تاني وجرب جولة جديدة.',
 };
 
 export default ar;

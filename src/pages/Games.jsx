@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowLeft, Puzzle, RotateCcw, SpellCheck, Trophy, Zap } from 'lucide-react';
 import Button from '../components/ui/Button';
 import IntroLine from '../components/ui/IntroLine';
-import { LoadingState } from './TopicPage';
+import LoadingState from '../components/ui/LoadingState';
 import MatchGame from '../components/games/MatchGame';
 import SpeedRound from '../components/games/SpeedRound';
 import SpellingGame from '../components/games/SpellingGame';

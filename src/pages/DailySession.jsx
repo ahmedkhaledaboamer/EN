@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, CircleCheck, Clock, Layers, Sparkles, Target, Zap } from 'lucide-react';
 import Button from '../components/ui/Button';
 import IntroLine from '../components/ui/IntroLine';
-import { LoadingState } from './TopicPage';
+import LoadingState from '../components/ui/LoadingState';
 import SpeechNotice from '../components/speech/SpeechNotice';
 import { SpeechProvider } from '../components/speech/SpeechContext';
 import Flashcards from '../components/essentials/Flashcards';

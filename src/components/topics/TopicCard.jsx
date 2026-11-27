@@ -6,6 +6,7 @@ import LevelBadge from '../ui/LevelBadge';
 import ProgressBar from '../ui/ProgressBar';
 import { isReady } from '../../data/registry';
 import { useT } from '../../hooks/useT';
+import { practiceCount } from '../../utils/practice';
 
 function CardHeader({ topic, completed }) {
   return (
@@ -73,7 +74,7 @@ export default function TopicCard({ topic, progress, basePath = '/topics', detai
   if (!isReady(topic)) return <EmptyCard topic={topic} />;
 
   const { learned, total, percent, completed, bestScore } = progress;
-  const line = details ?? `${t('{n} words', { n: total })} · ${t('{n} exercises', { n: topic.exercisesCount ?? 0 })}`;
+  const line = details ?? `${t('{n} words', { n: total })} · ${t('{n} exercises', { n: practiceCount(topic.exercisesCount, topic.sentencesCount) })}`;
 
   return (
     <motion.div whileHover={{ y: -6 }} transition={{ type: 'spring', stiffness: 300, damping: 22 }} className="h-full">

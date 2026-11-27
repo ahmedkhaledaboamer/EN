@@ -5,7 +5,7 @@
     so every lesson you opened (or downloaded from Settings) works offline afterwards.
   Bump CACHE when this file changes in a way that needs old caches cleared.
 */
-const CACHE = 'ebs-v2';
+const CACHE = 'ebs-v3';
 const SHELL = ['/', '/index.html', '/favicon.svg', '/manifest.webmanifest', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', (event) => {

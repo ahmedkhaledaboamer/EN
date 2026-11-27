@@ -10,7 +10,7 @@ import LearnTab from '../components/essentials/LearnTab';
 import Flashcards from '../components/essentials/Flashcards';
 import QuizTab from '../components/essentials/QuizTab';
 import NotFound from './NotFound';
-import { LoadingState } from './TopicPage';
+import LoadingState from '../components/ui/LoadingState';
 import { getEssentialMeta } from '../data/essentials';
 import { useEssentialsProgress } from '../hooks/useEssentialsProgress';
 import { useStreak } from '../hooks/useStreak';

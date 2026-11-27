@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-import App from './App';
+import App, { preloadPages } from './App';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -16,5 +16,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 if (import.meta.env.PROD && 'serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('/sw.js').catch(() => {});
+    // When the browser is idle, fetch the other pages so they open instantly and work offline
+    const idle = window.requestIdleCallback ?? ((cb) => setTimeout(cb, 2500));
+    idle(() => preloadPages().catch(() => {}));
   });
 }

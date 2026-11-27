@@ -7,6 +7,7 @@ import { getEnglishVoices, isSpeechSupported, onVoicesChange, speak } from '../u
 import { TOPIC_ORDER, loadTopic } from '../data/topics';
 import { ESSENTIALS_ORDER, loadEssential } from '../data/essentials';
 import { useT } from '../hooks/useT';
+import { preloadPages } from '../App';
 
 const GOALS = [5, 10, 15, 20, 30];
 const PREFIX = 'ebs:';
@@ -129,7 +130,7 @@ export default function Settings() {
   const downloadForOffline = async () => {
     setOffline('working');
     try {
-      await Promise.all([...TOPIC_ORDER.map(loadTopic), ...ESSENTIALS_ORDER.map(loadEssential)]);
+      await Promise.all([preloadPages(), ...TOPIC_ORDER.map(loadTopic), ...ESSENTIALS_ORDER.map(loadEssential)]);
       setOffline('done');
     } catch {
       setOffline('error');

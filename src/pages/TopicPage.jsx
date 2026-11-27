@@ -14,6 +14,7 @@ import GrammarTab from '../components/topic/tabs/GrammarTab';
 import PracticeTab from '../components/topic/tabs/PracticeTab';
 import Button from '../components/ui/Button';
 import NotFound from './NotFound';
+import LoadingState from '../components/ui/LoadingState';
 import { getTopicMeta, isTopicReady } from '../data/topics';
 import { useProgress } from '../hooks/useProgress';
 import { useTopic } from '../hooks/useTopic';
@@ -26,16 +27,6 @@ const TABS = [
   { id: 'grammar', label: 'Grammar', icon: Lightbulb },
   { id: 'practice', label: 'Practice', icon: Target },
 ];
-
-export function LoadingState() {
-  return (
-    <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3" aria-busy="true" aria-label="Loading topic">
-      {Array.from({ length: 6 }).map((_, i) => (
-        <div key={i} className="glass-card h-56 animate-pulse" />
-      ))}
-    </div>
-  );
-}
 
 export function ComingSoon({ meta }) {
   return (
