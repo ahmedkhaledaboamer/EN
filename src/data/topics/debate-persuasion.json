@@ -1,0 +1,356 @@
+{
+  "slug": "debate-persuasion",
+  "title": "Debating & Persuasion",
+  "titleAr": "المناظرة والإقناع",
+  "emoji": "🎤",
+  "level": "C1",
+  "description": "Build arguments, counter opposing views, and persuade an audience.",
+  "descriptionAr": "ابنِ حججك، وفنّد الآراء المعارضة، وأقنع جمهورك.",
+  "words": [
+    {
+      "en": "counterargument",
+      "ar": "حجة مضادة / رأي معارض",
+      "phonetic": "/ˈkaʊntərˌɑrɡjəmənt/",
+      "example": "Every strong essay addresses at least one counterargument."
+    },
+    {
+      "en": "rebuttal",
+      "ar": "تفنيد / ردّ على حجة",
+      "phonetic": "/rɪˈbʌtəl/",
+      "example": "Her rebuttal was so sharp that the other team had no reply."
+    },
+    {
+      "en": "compelling evidence",
+      "ar": "دليل مقنع / دليل دامغ",
+      "phonetic": "/kəmˈpɛlɪŋ ˈɛvədəns/",
+      "example": "The researchers found compelling evidence that the policy reduced crime."
+    },
+    {
+      "en": "concede a point",
+      "ar": "يُسلّم بنقطة / يعترف بصحة نقطة",
+      "phonetic": "/kənˈsid ə pɔɪnt/",
+      "example": "A good debater isn't afraid to concede a point when the other side is right."
+    },
+    {
+      "en": "flawed reasoning",
+      "ar": "منطق معيب / استدلال خاطئ",
+      "phonetic": "/flɔd ˈrizənɪŋ/",
+      "example": "The conclusion sounds reasonable, but it's based on flawed reasoning."
+    },
+    {
+      "en": "play devil's advocate",
+      "ar": "يتبنّى الرأي المعاكس عمداً (لاختبار الفكرة)",
+      "phonetic": "/pleɪ ˈdɛvəlz ˈædvəkət/",
+      "example": "Let me play devil's advocate and defend the opposite view."
+    },
+    {
+      "en": "sweeping generalization",
+      "ar": "تعميم شامل / تعميم مبالغ فيه",
+      "phonetic": "/ˈswipɪŋ ˌdʒɛnərələˈzeɪʃən/",
+      "example": "Saying that all teenagers are lazy is a sweeping generalization."
+    },
+    {
+      "en": "undermine",
+      "ar": "يُضعف / يقوّض",
+      "phonetic": "/ˌʌndərˈmaɪn/",
+      "example": "One wrong statistic can undermine your entire argument."
+    },
+    {
+      "en": "persuasive",
+      "ar": "مقنع",
+      "phonetic": "/pərˈsweɪsɪv/",
+      "example": "He gave a persuasive speech that changed many people's minds."
+    },
+    {
+      "en": "premise",
+      "ar": "فرضية / مقدّمة منطقية",
+      "phonetic": "/ˈprɛmɪs/",
+      "example": "If the premise is false, the whole argument collapses."
+    },
+    {
+      "en": "take a stance",
+      "ar": "يتخذ موقفاً",
+      "phonetic": "/teɪk ə stæns/",
+      "example": "Politicians often refuse to take a stance on controversial issues."
+    },
+    {
+      "en": "by the same token",
+      "ar": "وبالمنطق نفسه / وعلى المنوال نفسه",
+      "phonetic": "/baɪ ðə seɪm ˈtoʊkən/",
+      "example": "Social media spreads ideas quickly; by the same token, it spreads lies quickly."
+    },
+    {
+      "en": "anecdotal",
+      "ar": "قائم على قصص شخصية (لا على بيانات)",
+      "phonetic": "/ˌænɪkˈdoʊtəl/",
+      "example": "Your evidence is anecdotal; we need proper research."
+    },
+    {
+      "en": "strike a balance",
+      "ar": "يحقق توازناً",
+      "phonetic": "/straɪk ə ˈbæləns/",
+      "example": "A good speech should strike a balance between facts and emotion."
+    },
+    {
+      "en": "opposing view",
+      "ar": "الرأي المخالف / وجهة النظر المعارضة",
+      "phonetic": "/əˈpoʊzɪŋ vju/",
+      "example": "Try to present the opposing view fairly before you criticize it."
+    },
+    {
+      "en": "back up a claim",
+      "ar": "يدعم ادعاءً (بالأدلة)",
+      "phonetic": "/bæk ʌp ə kleɪm/",
+      "example": "You need solid data to back up a claim like that."
+    },
+    {
+      "en": "slippery slope",
+      "ar": "منحدر زلق (خطوة صغيرة تقود إلى عواقب أكبر)",
+      "phonetic": "/ˈslɪpəri sloʊp/",
+      "example": "Critics say that banning one book is a slippery slope toward censorship."
+    },
+    {
+      "en": "moderator",
+      "ar": "مدير الحوار / المنسّق",
+      "phonetic": "/ˈmɑdəˌreɪtər/",
+      "example": "The moderator gave each speaker exactly three minutes."
+    },
+    {
+      "en": "appeal to emotion",
+      "ar": "مخاطبة العاطفة / اللعب على المشاعر",
+      "phonetic": "/əˈpil tu ɪˈmoʊʃən/",
+      "example": "The advertisement relies on an appeal to emotion rather than facts."
+    },
+    {
+      "en": "on balance",
+      "ar": "بعد الموازنة بين كل الجوانب / إجمالاً",
+      "phonetic": "/ɑn ˈbæləns/",
+      "example": "On balance, I think the benefits outweigh the risks."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What I'm arguing is that the policy simply doesn't work.",
+      "ar": "ما أقوله هو أن هذه السياسة ببساطة لا تنجح."
+    },
+    {
+      "en": "It's the lack of evidence that worries me most.",
+      "ar": "إن غياب الأدلة هو أكثر ما يقلقني."
+    },
+    {
+      "en": "What we need is a solution that benefits everyone.",
+      "ar": "ما نحتاجه هو حلّ يفيد الجميع."
+    },
+    {
+      "en": "What my opponent fails to mention is the long-term cost.",
+      "ar": "ما يغفل خصمي عن ذكره هو التكلفة على المدى البعيد."
+    },
+    {
+      "en": "It was this study that changed my mind completely.",
+      "ar": "هذه الدراسة بالذات هي التي غيّرت رأيي تماماً."
+    },
+    {
+      "en": "All I'm asking is that you look at the facts.",
+      "ar": "كل ما أطلبه هو أن تنظر إلى الحقائق."
+    },
+    {
+      "en": "I see your point, but I'd like to offer a counterargument.",
+      "ar": "أفهم وجهة نظرك، لكني أودّ أن أطرح حجة مضادة."
+    },
+    {
+      "en": "Could you back up that claim with some data?",
+      "ar": "هل يمكنك أن تدعم هذا الادعاء ببعض البيانات؟"
+    },
+    {
+      "en": "I'm willing to concede that point, but my main argument still stands.",
+      "ar": "أنا مستعد للتسليم بهذه النقطة، لكن حجتي الأساسية ما زالت قائمة."
+    },
+    {
+      "en": "On balance, I believe the benefits outweigh the risks.",
+      "ar": "بعد الموازنة بين كل الجوانب، أعتقد أن الفوائد تفوق المخاطر."
+    }
+  ],
+  "story": {
+    "title": "The Final Round",
+    "text": "The auditorium was packed for the final round of the university debate championship. The motion was simple but divisive: \"Social media does more harm than good.\" Nadia's team had been assigned to argue for the motion, even though she personally loved posting photos online. Nadia opened with compelling evidence from recent studies linking heavy social media use to anxiety among teenagers. \"What I'm arguing is not that technology is evil,\" she said, \"but that these platforms are designed to be addictive.\" The captain of the other team, Ryan, delivered a sharp rebuttal. He accused her of making a sweeping generalization. \"It's social media that allowed activists to organize and small businesses to survive the pandemic,\" he insisted. His argument was persuasive, and the audience applauded loudly. During the break, Nadia's teammate Karim decided to play devil's advocate to help her prepare. \"Your story about your cousin is anecdotal,\" he warned. \"You need real numbers to back up a claim like that.\" In her closing speech, Nadia did something unexpected. She chose to concede a point: social media really can connect people. \"But what truly matters,\" she continued, \"is who profits from our attention. It is this business model that undermines our wellbeing.\" Instead of a cheap appeal to emotion, she offered a calm counterargument built on data. Finally, the moderator announced the result. On balance, the judges explained, Nadia's team had managed to strike a balance between logic and passion. They had won.",
+    "translation": "كانت القاعة مكتظة بالحضور في الجولة النهائية من بطولة المناظرات الجامعية. وكان موضوع المناظرة بسيطاً لكنه مثير للجدل: «وسائل التواصل الاجتماعي تضرّ أكثر مما تنفع.» وقد كُلّف فريق نادية بالدفاع عن هذا الرأي، رغم أنها شخصياً تحب نشر الصور على الإنترنت. افتتحت نادية بأدلة مقنعة من دراسات حديثة تربط بين الإفراط في استخدام وسائل التواصل الاجتماعي والقلق لدى المراهقين. وقالت: «ما أقوله ليس أن التكنولوجيا شرّ، بل إن هذه المنصات مصمَّمة لتسبّب الإدمان.» ثم قدّم رايان، قائد الفريق الآخر، ردّاً حاداً يفنّد كلامها. واتهمها بإطلاق تعميم مبالغ فيه. وأصرّ قائلاً: «إن وسائل التواصل الاجتماعي هي التي مكّنت الناشطين من تنظيم أنفسهم وساعدت الشركات الصغيرة على النجاة من الجائحة.» كانت حجته مقنعة، وصفّق الجمهور بحرارة. وخلال الاستراحة، قرّر كريم، زميل نادية في الفريق، أن يتبنّى الرأي المعاكس عمداً ليساعدها على الاستعداد. وحذّرها قائلاً: «قصتك عن ابن عمك مجرد تجربة شخصية. تحتاجين إلى أرقام حقيقية لتدعمي ادعاءً كهذا.» وفي كلمتها الختامية، فعلت نادية شيئاً غير متوقع. اختارت أن تسلّم بنقطة: وسائل التواصل الاجتماعي يمكنها فعلاً أن تقرّب بين الناس. ثم تابعت: «لكن ما يهمّ حقاً هو من يربح من انتباهنا. إن نموذج العمل هذا بالذات هو الذي يقوّض صحتنا النفسية.» وبدلاً من اللعب الرخيص على المشاعر، قدّمت حجة مضادة هادئة مبنية على البيانات. وأخيراً، أعلن مدير المناظرة النتيجة. وأوضح الحكّام أنه بعد الموازنة بين كل الجوانب، نجح فريق نادية في تحقيق التوازن بين المنطق والحماس. لقد فازوا."
+  },
+  "grammar": {
+    "title": "Cleft Sentences for Emphasis",
+    "explanationAr": "الجملة المشقوقة (cleft sentence) هي جملة نقسمها إلى جزأين لكي نسلّط الضوء على فكرة معيّنة، وهي أداة قوية جداً في النقاش والإقناع. النوع الأول يبدأ بـ What، مثل What I'm arguing is that... بمعنى «ما أقوله هو أن...». والنوع الثاني يبدأ بـ It is أو It was ثم الشيء الذي نريد التأكيد عليه ثم that أو who، مثل It's the evidence that matters بمعنى «الدليل هو ما يهم». ويمكن أيضاً استخدام All I'm asking is... و The reason why... is that... لنفس الغرض.",
+    "rule": "What + subject + verb + is / was + focus: What we need is more data.\nIt is / was + focus + that / who + rest: It was the moderator who stopped the debate.\nAll (that) + subject + verb + is ...: All I'm asking is that you listen.\nThe reason (why) + clause + is that ...: The reason why I disagree is that ...",
+    "examples": [
+      {
+        "en": "What I'm arguing is that the premise itself is flawed.",
+        "ar": "ما أقوله هو أن الفرضية نفسها معيبة."
+      },
+      {
+        "en": "It's the opposing view that deserves more attention.",
+        "ar": "الرأي المخالف هو الذي يستحق اهتماماً أكبر."
+      },
+      {
+        "en": "What makes your speech persuasive is the compelling evidence.",
+        "ar": "ما يجعل خطابك مقنعاً هو الأدلة القوية."
+      },
+      {
+        "en": "It was the moderator who ended the debate early.",
+        "ar": "مدير الحوار هو الذي أنهى المناظرة مبكراً."
+      },
+      {
+        "en": "All I'm asking is that you back up your claim.",
+        "ar": "كل ما أطلبه هو أن تدعم ادعاءك بالأدلة."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Cross-Examination",
+    "settingAr": "إنت في مناظرة في الجامعة عن وسائل التواصل الاجتماعي، وبترد على أسئلة الفريق المنافس.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Opponent",
+        "nameAr": "المنافس"
+      },
+      {
+        "id": "B",
+        "name": "Debater",
+        "nameAr": "المتناظر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Social media connects people. Surely that's its greatest achievement?",
+        "ar": "السوشيال ميديا بتقرّب الناس من بعض. أكيد دي أعظم إنجازاتها؟"
+      },
+      {
+        "speaker": "B",
+        "en": "What you're ignoring is the damage it does to teenagers' mental health.",
+        "ar": "اللي إنت متجاهله هو الضرر اللي بتعمله في الصحة النفسية للمراهقين."
+      },
+      {
+        "speaker": "A",
+        "en": "That's a sweeping generalization. Millions of teens use it without any problems.",
+        "ar": "ده تعميم مبالغ فيه. ملايين المراهقين بيستخدموها من غير أي مشاكل."
+      },
+      {
+        "speaker": "B",
+        "en": "I'll concede that point, but the research shows a clear link to anxiety.",
+        "ar": "ماشي، هسلّم لك بالنقطة دي، بس الأبحاث بتبيّن علاقة واضحة بالقلق."
+      },
+      {
+        "speaker": "A",
+        "en": "Correlation isn't causation. Can you back up that claim with real data?",
+        "ar": "الارتباط مش معناه السببية. تقدر تثبت الكلام ده ببيانات حقيقية؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Certainly. It's the algorithms that keep users scrolling for hours, and studies confirm it.",
+        "ar": "طبعاً. الخوارزميات هي اللي بتخلّي الناس تقعد تقلّب بالساعات، والدراسات بتأكد ده."
+      },
+      {
+        "speaker": "A",
+        "en": "Even so, it was social media that helped activists organize during crises.",
+        "ar": "ومع ذلك، السوشيال ميديا هي اللي ساعدت النشطاء ينظّموا نفسهم وقت الأزمات."
+      },
+      {
+        "speaker": "B",
+        "en": "True, but by the same token, it spreads misinformation faster than ever.",
+        "ar": "صح، بس بنفس المنطق، هي بتنشر المعلومات الغلط أسرع من أي وقت."
+      },
+      {
+        "speaker": "A",
+        "en": "So what exactly is your solution? Banning it isn't realistic.",
+        "ar": "طب إيه الحل بالظبط من وجهة نظرك؟ إننا نمنعها ده مش واقعي."
+      },
+      {
+        "speaker": "B",
+        "en": "What we need is stronger regulation, not a ban. That's my position.",
+        "ar": "اللي محتاجينه هو رقابة أقوى، مش منع. ده موقفي."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which cleft sentence is correct?",
+      "options": [
+        "It's the cost that worries me most.",
+        "It's the cost what worries me most.",
+        "It's the cost worries me most.",
+        "What the cost worries me most."
+      ],
+      "answer": "It's the cost that worries me most."
+    },
+    {
+      "type": "fill",
+      "sentence": "To strengthen your case, prepare a reply to every possible ___ from the other team.",
+      "answer": "counterargument",
+      "hint": "حجة مضادة"
+    },
+    {
+      "type": "order",
+      "words": [
+        "persuasive",
+        "need",
+        "What",
+        "argument.",
+        "is",
+        "we",
+        "a"
+      ],
+      "answer": "What we need is a persuasive argument."
+    },
+    {
+      "type": "mcq",
+      "question": "When you admit that your opponent is right about something, you ___.",
+      "options": [
+        "undermine a premise",
+        "play devil's advocate",
+        "concede a point",
+        "take a stance"
+      ],
+      "answer": "concede a point"
+    },
+    {
+      "type": "fill",
+      "sentence": "It was the moderator ___ ended the debate early.",
+      "answer": "who",
+      "hint": "الذي (للعاقل)",
+      "accept": [
+        "that"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "undermines",
+        "It",
+        "claim.",
+        "this",
+        "that",
+        "is",
+        "your",
+        "evidence"
+      ],
+      "answer": "It is this evidence that undermines your claim."
+    },
+    {
+      "type": "mcq",
+      "question": "\"My grandfather smoked and lived to ninety-five, so smoking is safe.\" This evidence is ___.",
+      "options": [
+        "persuasive",
+        "anecdotal",
+        "compelling",
+        "decisive"
+      ],
+      "answer": "anecdotal"
+    },
+    {
+      "type": "listen",
+      "audioText": "What really matters is the evidence behind the claim.",
+      "answer": "What really matters is the evidence behind the claim."
+    }
+  ]
+}

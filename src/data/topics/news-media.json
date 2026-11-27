@@ -1,0 +1,357 @@
+{
+  "slug": "news-media",
+  "title": "News & Current Affairs",
+  "titleAr": "الأخبار والأحداث الجارية",
+  "emoji": "📰",
+  "level": "B2",
+  "description": "Discuss news stories, sources, and fake news.",
+  "descriptionAr": "ناقش الأخبار ومصادرها والأخبار الكاذبة.",
+  "words": [
+    {
+      "en": "headline",
+      "ar": "عنوان رئيسي (في الخبر)",
+      "phonetic": "/ˈhɛdˌlaɪn/",
+      "example": "The headline was shocking, but the article said something different."
+    },
+    {
+      "en": "breaking news",
+      "ar": "خبر عاجل",
+      "phonetic": "/ˈbreɪkɪŋ ˈnuz/",
+      "example": "The TV channel stopped the show for breaking news."
+    },
+    {
+      "en": "fake news",
+      "ar": "أخبار كاذبة / أخبار مزيفة",
+      "phonetic": "/ˈfeɪk ˈnuz/",
+      "example": "Fake news spreads quickly on social media."
+    },
+    {
+      "en": "fact-check",
+      "ar": "يتحقق من صحة المعلومات",
+      "phonetic": "/ˈfækt ˌtʃɛk/",
+      "example": "Journalists have to fact-check every number before they publish."
+    },
+    {
+      "en": "reliable source",
+      "ar": "مصدر موثوق",
+      "phonetic": "/rɪˈlaɪəbəl ˈsɔrs/",
+      "example": "A random post on Facebook is not a reliable source."
+    },
+    {
+      "en": "go viral",
+      "ar": "ينتشر بسرعة كبيرة على الإنترنت (يبقى تريند)",
+      "phonetic": "/ɡoʊ ˈvaɪrəl/",
+      "example": "Her funny video started to go viral within an hour."
+    },
+    {
+      "en": "journalist",
+      "ar": "صحفي",
+      "phonetic": "/ˈdʒərnəlɪst/",
+      "example": "The journalist interviewed people in the street."
+    },
+    {
+      "en": "press conference",
+      "ar": "مؤتمر صحفي",
+      "phonetic": "/ˈprɛs ˌkɑnfərəns/",
+      "example": "The minister will hold a press conference at noon."
+    },
+    {
+      "en": "spread misinformation",
+      "ar": "ينشر معلومات مغلوطة",
+      "phonetic": "/ˈsprɛd ˌmɪsɪnfərˈmeɪʃən/",
+      "example": "Some accounts spread misinformation on purpose to get more clicks."
+    },
+    {
+      "en": "biased",
+      "ar": "منحاز / غير محايد",
+      "phonetic": "/ˈbaɪəst/",
+      "example": "I think that channel is biased in its political coverage."
+    },
+    {
+      "en": "eyewitness",
+      "ar": "شاهد عيان",
+      "phonetic": "/ˈaɪˌwɪtnəs/",
+      "example": "An eyewitness said the car was driving very fast."
+    },
+    {
+      "en": "issue a statement",
+      "ar": "يُصدر بياناً",
+      "phonetic": "/ˈɪʃu ə ˈsteɪtmənt/",
+      "example": "The company will issue a statement later today."
+    },
+    {
+      "en": "according to",
+      "ar": "وفقاً لـ / حسب",
+      "phonetic": "/əˈkɔrdɪŋ tu/",
+      "example": "According to the police, nobody was hurt in the fire."
+    },
+    {
+      "en": "coverage",
+      "ar": "تغطية (إعلامية)",
+      "phonetic": "/ˈkʌvərɪdʒ/",
+      "example": "The election got a lot of coverage on international channels."
+    },
+    {
+      "en": "current affairs",
+      "ar": "الأحداث الجارية / الشؤون الجارية",
+      "phonetic": "/ˈkərənt əˈfɛrz/",
+      "example": "I listen to a current affairs podcast every morning."
+    },
+    {
+      "en": "investigate",
+      "ar": "يحقّق في / يتحرّى",
+      "phonetic": "/ɪnˈvɛstəˌɡeɪt/",
+      "example": "Two reporters began to investigate the story."
+    },
+    {
+      "en": "allegedly",
+      "ar": "يُزعم أن / حسب الادعاءات",
+      "phonetic": "/əˈlɛdʒɪdli/",
+      "example": "The manager allegedly took money from the company."
+    },
+    {
+      "en": "publish",
+      "ar": "ينشر",
+      "phonetic": "/ˈpʌblɪʃ/",
+      "example": "The newspaper decided not to publish the photos."
+    },
+    {
+      "en": "editor",
+      "ar": "محرّر / رئيس التحرير",
+      "phonetic": "/ˈɛdətər/",
+      "example": "My editor asked me to make the article shorter."
+    },
+    {
+      "en": "clickbait",
+      "ar": "عناوين خادعة لجذب النقرات",
+      "phonetic": "/ˈklɪkˌbeɪt/",
+      "example": "\"You won't believe what happened next\" is a typical clickbait title."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The minister denied taking any money from the company.",
+      "ar": "نفى الوزير أنه أخذ أي أموال من الشركة."
+    },
+    {
+      "en": "The article claims that coffee can prevent heart disease.",
+      "ar": "يزعم المقال أن القهوة يمكن أن تمنع أمراض القلب."
+    },
+    {
+      "en": "Experts warned people not to share the video.",
+      "ar": "حذّر الخبراء الناس من مشاركة الفيديو."
+    },
+    {
+      "en": "The company admitted making a mistake in its report.",
+      "ar": "اعترفت الشركة بأنها ارتكبت خطأً في تقريرها."
+    },
+    {
+      "en": "My friend suggested checking a few different sources.",
+      "ar": "اقترح صديقي أن نراجع عدة مصادر مختلفة."
+    },
+    {
+      "en": "The police refused to comment on the case.",
+      "ar": "رفضت الشرطة التعليق على القضية."
+    },
+    {
+      "en": "According to the BBC, the results will be announced tomorrow.",
+      "ar": "وفقاً لهيئة الإذاعة البريطانية، ستُعلن النتائج غداً."
+    },
+    {
+      "en": "Where did you read that? Is it a reliable source?",
+      "ar": "أين قرأت هذا؟ هل هو مصدر موثوق؟"
+    },
+    {
+      "en": "Don't click on it. That headline is just clickbait.",
+      "ar": "لا تضغط عليه. هذا العنوان مجرد طُعم للنقرات."
+    },
+    {
+      "en": "I usually follow current affairs on podcasts and news apps.",
+      "ar": "عادةً أتابع الأحداث الجارية عبر البودكاست وتطبيقات الأخبار."
+    }
+  ],
+  "story": {
+    "title": "The Bridge That Didn't Fall",
+    "text": "On Monday morning, a shocking photo began to go viral. It showed a huge crack in a famous bridge in Alexandria, and the headline claimed that the bridge would collapse within days. Thousands of people shared it in a few hours. Nadia, a young journalist at a local newspaper, was asked to cover the story. Her editor warned her not to publish anything before she could fact-check it. Nadia started by looking for a reliable source. She called the city's engineering office, and an official denied that there was any problem with the bridge. Then she found an eyewitness who lived nearby. \"I walk across that bridge every day,\" he said. \"There's no crack.\" Finally, Nadia used a reverse image search and discovered that the photo had been taken in another country five years earlier. She contacted the man who had first posted it, and he admitted making up the story to get more followers. That evening, the newspaper published Nadia's article, and the city issued a statement. Her editor suggested writing a short guide on how to spot fake news. \"Clickbait spreads fast,\" Nadia wrote, \"but the truth is worth the wait.\"",
+    "translation": "صباح يوم الاثنين، بدأت صورة صادمة تنتشر بسرعة كبيرة. كانت الصورة تُظهر شرخاً ضخماً في جسر شهير في الإسكندرية، وزعم العنوان أن الجسر سينهار خلال أيام. شاركها آلاف الأشخاص في بضع ساعات. طُلب من نادية، وهي صحفية شابة في جريدة محلية، أن تغطي القصة. حذّرها رئيس التحرير من نشر أي شيء قبل أن تتحقق من صحته. بدأت نادية بالبحث عن مصدر موثوق. اتصلت بمكتب الهندسة في المدينة، ونفى أحد المسؤولين وجود أي مشكلة في الجسر. ثم وجدت شاهد عيان يسكن بالقرب منه. قال: «أعبر هذا الجسر كل يوم. لا يوجد أي شرخ.» وأخيراً، استخدمت نادية البحث العكسي عن الصور، واكتشفت أن الصورة التُقطت في بلد آخر قبل خمس سنوات. تواصلت مع الرجل الذي نشرها أول مرة، فاعترف بأنه اختلق القصة ليحصل على متابعين أكثر. وفي ذلك المساء، نشرت الجريدة مقال نادية، وأصدرت المدينة بياناً. واقترح رئيس التحرير أن تكتب دليلاً قصيراً عن كيفية اكتشاف الأخبار الكاذبة. كتبت نادية: «العناوين الخادعة تنتشر بسرعة، لكن الحقيقة تستحق الانتظار.»"
+  },
+  "grammar": {
+    "title": "Reporting verbs and their patterns",
+    "explanationAr": "بدلاً من استخدام said دائماً، نستخدم أفعال نقل الكلام لنوضح نية المتكلم، ولكل فعل تركيب خاص به. الفعلان claim و admit يأتي بعدهما that + جملة، أو to + فعل مع claim، أو -ing مع admit، مثل: He admitted lying. الفعل deny يأتي بعده -ing أو that، مثل: She denied taking the money. الفعل warn يأتي بعده شخص + (not) to + فعل، مثل: They warned us not to share it. أما suggest فيأتي بعده -ing أو that + someone (should) + فعل، ولا نقول suggest someone to do.",
+    "rule": "claim + that / claim + to + verb\ndeny + verb-ing / deny + that\nadmit + verb-ing / admit + that\nwarn + someone + (not) to + verb\nsuggest + verb-ing / suggest + that + someone + (should) + verb\nrefuse + to + verb",
+    "examples": [
+      {
+        "en": "The website claims to have exclusive photos of the accident.",
+        "ar": "يزعم الموقع أن لديه صوراً حصرية للحادث."
+      },
+      {
+        "en": "The actor denied spreading misinformation about his rival.",
+        "ar": "نفى الممثل أنه نشر معلومات مغلوطة عن منافسه."
+      },
+      {
+        "en": "The editor admitted that the headline was misleading.",
+        "ar": "اعترف المحرر بأن العنوان كان مضلِّلاً."
+      },
+      {
+        "en": "Doctors warned people not to believe fake news about the vaccine.",
+        "ar": "حذّر الأطباء الناس من تصديق الأخبار الكاذبة عن اللقاح."
+      },
+      {
+        "en": "She suggested that we fact-check the story before we publish it.",
+        "ar": "اقترحت أن نتحقق من صحة القصة قبل أن ننشرها."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Is That Video Real?",
+    "settingAr": "زميلك في الشغل شاف فيديو منتشر على السوشيال ميديا ومصدّقه، وإنت شاكك إنه مفبرك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Coworker",
+        "nameAr": "زميلك"
+      },
+      {
+        "id": "B",
+        "name": "You",
+        "nameAr": "الموظف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Did you see that video of a shark in the subway? It's everywhere.",
+        "ar": "شفت فيديو القرش اللي في المترو؟ مالي الدنيا."
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, but I think it's fake. Did anyone fact-check it?",
+        "ar": "أيوه، بس أنا شايف إنه مفبرك. حد اتأكد منه؟"
+      },
+      {
+        "speaker": "A",
+        "en": "The post claims that a passenger filmed it this morning.",
+        "ar": "البوست بيقول إن راكب صوّره الصبح."
+      },
+      {
+        "speaker": "B",
+        "en": "Well, the subway company denied that anything unusual happened today.",
+        "ar": "بس شركة المترو نفت إن حصل أي حاجة غريبة النهارده."
+      },
+      {
+        "speaker": "A",
+        "en": "Really? Where did you read that?",
+        "ar": "بجد؟ قريت الكلام ده فين؟"
+      },
+      {
+        "speaker": "B",
+        "en": "On their official account. They warned people not to share the clip.",
+        "ar": "على الصفحة الرسمية بتاعتهم. وحذّروا الناس إنهم ما يشيّروش الفيديو."
+      },
+      {
+        "speaker": "A",
+        "en": "Wow. So the person who posted it just made it up?",
+        "ar": "يا خبر. يعني اللي نزّله ألّفه من دماغه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Probably. Actually, he admitted using an AI tool to create it.",
+        "ar": "غالباً. هو أصلاً اعترف إنه استخدم أداة ذكاء اصطناعي عشان يعمله."
+      },
+      {
+        "speaker": "A",
+        "en": "I can't believe I almost shared it with my family.",
+        "ar": "مش مصدّق إني كنت هبعته لأهلي."
+      },
+      {
+        "speaker": "B",
+        "en": "I'd suggest checking a reliable source before you share breaking news.",
+        "ar": "نصيحتي تشوف مصدر موثوق قبل ما تشيّر أي خبر عاجل."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The actor denied ___ the photos online.",
+      "options": [
+        "to post",
+        "posting",
+        "post",
+        "that post"
+      ],
+      "answer": "posting"
+    },
+    {
+      "type": "fill",
+      "sentence": "Journalists always ___ a story before they publish it.",
+      "answer": "fact-check",
+      "hint": "يتحقق من صحة المعلومات",
+      "accept": [
+        "check",
+        "verify"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "trust",
+        "warned",
+        "website.",
+        "She",
+        "to",
+        "me",
+        "that",
+        "not"
+      ],
+      "answer": "She warned me not to trust that website."
+    },
+    {
+      "type": "mcq",
+      "question": "When a video spreads very fast online, we say it ___.",
+      "options": [
+        "breaks news",
+        "goes live",
+        "fact-checks",
+        "goes viral"
+      ],
+      "answer": "goes viral"
+    },
+    {
+      "type": "fill",
+      "sentence": "The manager ___ making a mistake and apologized to the readers.",
+      "answer": "admitted",
+      "hint": "اعترف"
+    },
+    {
+      "type": "order",
+      "words": [
+        "will",
+        "According",
+        "prices",
+        "report,",
+        "to",
+        "rise.",
+        "the"
+      ],
+      "answer": "According to the report, prices will rise."
+    },
+    {
+      "type": "mcq",
+      "question": "My friend suggested ___ the news on a different website.",
+      "options": [
+        "checking",
+        "to check",
+        "check",
+        "checked"
+      ],
+      "answer": "checking"
+    },
+    {
+      "type": "listen",
+      "audioText": "Fake news spreads much faster than the truth.",
+      "answer": "Fake news spreads much faster than the truth."
+    }
+  ]
+}

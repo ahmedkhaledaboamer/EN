@@ -1,0 +1,356 @@
+{
+  "slug": "ethics",
+  "title": "Ethics & Moral Dilemmas",
+  "titleAr": "الأخلاق والمعضلات",
+  "emoji": "🤔",
+  "level": "C2",
+  "description": "Discuss right and wrong, responsibility, and difficult choices.",
+  "descriptionAr": "ناقش الصواب والخطأ والمسؤولية والاختيارات الصعبة.",
+  "words": [
+    {
+      "en": "moral dilemma",
+      "ar": "معضلة أخلاقية",
+      "phonetic": "/ˈmɔrəl dɪˈlɛmə/",
+      "example": "Reporting your best friend is a real moral dilemma."
+    },
+    {
+      "en": "a slippery slope",
+      "ar": "منحدر زلق / بداية انزلاق خطير",
+      "phonetic": "/ə ˈslɪpəri ˈsloʊp/",
+      "example": "Accepting small gifts from clients is a slippery slope."
+    },
+    {
+      "en": "integrity",
+      "ar": "النزاهة / الاستقامة",
+      "phonetic": "/ɪnˈtɛɡrəti/",
+      "example": "She is known for her integrity, even under pressure."
+    },
+    {
+      "en": "accountability",
+      "ar": "المساءلة / تحمّل التبعات",
+      "phonetic": "/əˌkaʊntəˈbɪləti/",
+      "example": "There must be accountability when public money is wasted."
+    },
+    {
+      "en": "whistleblower",
+      "ar": "مُبلِّغ عن المخالفات / كاشف الفساد",
+      "phonetic": "/ˈwɪsəlˌbloʊər/",
+      "example": "The whistleblower revealed that the company had hidden safety reports."
+    },
+    {
+      "en": "conscience",
+      "ar": "الضمير",
+      "phonetic": "/ˈkɑnʃəns/",
+      "example": "My conscience wouldn't let me keep the money."
+    },
+    {
+      "en": "a gray area",
+      "ar": "منطقة رمادية / مسألة غير محسومة",
+      "phonetic": "/ə ˈɡreɪ ˈɛriə/",
+      "example": "Using AI to write your essay is still a gray area at many universities."
+    },
+    {
+      "en": "turn a blind eye",
+      "ar": "يغضّ الطرف / يتجاهل عمداً",
+      "phonetic": "/tərn ə ˈblaɪnd ˈaɪ/",
+      "example": "Managers can't simply turn a blind eye to harassment."
+    },
+    {
+      "en": "the lesser of two evils",
+      "ar": "أهون الشرّين",
+      "phonetic": "/ðə ˈlɛsər əv ˈtu ˈivəlz/",
+      "example": "Cutting salaries was the lesser of two evils; the alternative was layoffs."
+    },
+    {
+      "en": "morally ambiguous",
+      "ar": "ملتبس أخلاقياً",
+      "phonetic": "/ˈmɔrəli æmˈbɪɡjuəs/",
+      "example": "The hero of the series is morally ambiguous."
+    },
+    {
+      "en": "duty of care",
+      "ar": "واجب الرعاية / المسؤولية تجاه سلامة الآخرين",
+      "phonetic": "/ˈduti əv ˈkɛr/",
+      "example": "Schools have a duty of care toward their students."
+    },
+    {
+      "en": "complicit",
+      "ar": "متواطئ / شريك في الخطأ",
+      "phonetic": "/kəmˈplɪsɪt/",
+      "example": "By staying silent, they became complicit in the fraud."
+    },
+    {
+      "en": "justify",
+      "ar": "يبرِّر",
+      "phonetic": "/ˈdʒʌstəˌfaɪ/",
+      "example": "Can you really justify lying to protect a friend?"
+    },
+    {
+      "en": "culpable",
+      "ar": "مُذنب / مستحق للّوم",
+      "phonetic": "/ˈkʌlpəbəl/",
+      "example": "The court found the company culpable for the accident."
+    },
+    {
+      "en": "ethically questionable",
+      "ar": "مشكوك فيه أخلاقياً",
+      "phonetic": "/ˈɛθɪkli ˈkwɛstʃənəbəl/",
+      "example": "Selling users' data without consent is ethically questionable."
+    },
+    {
+      "en": "weigh the consequences",
+      "ar": "يوازن العواقب / يزن النتائج",
+      "phonetic": "/ˈweɪ ðə ˈkɑnsəˌkwɛnsɪz/",
+      "example": "Before you decide, weigh the consequences for everyone involved."
+    },
+    {
+      "en": "cover-up",
+      "ar": "تستُّر / إخفاء متعمَّد",
+      "phonetic": "/ˈkʌvərˌʌp/",
+      "example": "The cover-up was worse than the original mistake."
+    },
+    {
+      "en": "the greater good",
+      "ar": "الصالح العام / المصلحة الأكبر",
+      "phonetic": "/ðə ˈɡreɪtər ˈɡʊd/",
+      "example": "He claimed he broke the rules for the greater good."
+    },
+    {
+      "en": "transparency",
+      "ar": "الشفافية",
+      "phonetic": "/trænsˈpɛrənsi/",
+      "example": "Patients deserve full transparency about medical errors."
+    },
+    {
+      "en": "take responsibility",
+      "ar": "يتحمّل المسؤولية",
+      "phonetic": "/teɪk rɪˌspɑnsəˈbɪləti/",
+      "example": "Good leaders take responsibility for their team's failures."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "If I had known about the cover-up, I would feel responsible now.",
+      "ar": "لو كنت أعلم بالتستر، لشعرت بالمسؤولية الآن."
+    },
+    {
+      "en": "Were it not for the whistleblower, the scandal would never have come to light.",
+      "ar": "لولا المبلِّغ عن المخالفات، لما انكشفت الفضيحة أبداً."
+    },
+    {
+      "en": "Is it ever right to lie for the greater good?",
+      "ar": "هل يكون الكذب صواباً في أي وقت من أجل الصالح العام؟"
+    },
+    {
+      "en": "Had she reported it earlier, fewer people would have been harmed.",
+      "ar": "لو أنها أبلغت عن الأمر مبكراً، لتضرر عدد أقل من الناس."
+    },
+    {
+      "en": "It's a gray area; there's no obvious right answer.",
+      "ar": "إنها منطقة رمادية؛ لا توجد إجابة صحيحة واضحة."
+    },
+    {
+      "en": "If he were more honest, he wouldn't have accepted the bribe.",
+      "ar": "لو كان أكثر أمانة، لما قبل الرشوة."
+    },
+    {
+      "en": "Staying silent would make you complicit.",
+      "ar": "الصمت سيجعلك متواطئاً."
+    },
+    {
+      "en": "Sometimes you have to choose the lesser of two evils.",
+      "ar": "أحياناً عليك أن تختار أهون الشرّين."
+    },
+    {
+      "en": "Should you have any doubts, raise them with the ethics committee.",
+      "ar": "إذا كانت لديك أي شكوك، فاطرحها على لجنة الأخلاقيات."
+    },
+    {
+      "en": "Can you justify breaking a promise to protect someone?",
+      "ar": "هل يمكنك تبرير نقض وعد لحماية شخص ما؟"
+    }
+  ],
+  "story": {
+    "title": "The Chart",
+    "text": "Dr. Salma Adel had worked at the hospital for nine years, and she had never faced a moral dilemma quite like this one. Late on Tuesday night, she noticed that a senior colleague, Dr. Hany, had prescribed ten times the correct dose of a heart medication. Were it not for a sharp-eyed nurse, the patient would have died. The man recovered, but Salma couldn't sleep. If she reported the mistake, Hany's career might be ruined. If she stayed silent, she would be complicit. \"It was an honest error,\" a friend told her. \"Why not turn a blind eye just this once?\" But Salma knew it was a slippery slope. If nobody had reported mistakes in the past, the hospital wouldn't have the safety rules it has today. She tried to weigh the consequences calmly. Hany was a gifted doctor and a kind man. Yet her duty of care was to the patients, not to her colleagues. This wasn't about punishment; it was about accountability. The next morning, she went to Hany first. \"Had I not seen that chart, I wouldn't be here,\" she said quietly. \"But I have to report it.\" To her surprise, Hany nodded. \"If I were in your position, I'd do the same. I need to take responsibility.\" Together they wrote the report. The review board praised their integrity and transparency and introduced a double-check system for high-risk drugs. Months later, Salma still thought about that night. If she had chosen silence, she wouldn't be able to look her patients in the eye today.",
+    "translation": "عملت الدكتورة سلمى عادل في المستشفى لمدة تسع سنوات، ولم تواجه قط معضلة أخلاقية مثل هذه. في وقت متأخر من ليلة الثلاثاء، لاحظت أن زميلاً أقدم منها، الدكتور هاني، قد وصف عشرة أضعاف الجرعة الصحيحة من دواء للقلب. ولولا ممرضة يقظة، لمات المريض. تعافى الرجل، لكن سلمى لم تستطع النوم. إذا أبلغت عن الخطأ، فقد تتدمر مسيرة هاني المهنية. وإذا التزمت الصمت، فستكون متواطئة. قالت لها صديقة: «كان خطأً غير مقصود. لماذا لا تغضّين الطرف هذه المرة فقط؟» لكن سلمى كانت تعرف أنه منحدر زلق. فلو لم يبلغ أحد عن الأخطاء في الماضي، لما كان لدى المستشفى قواعد السلامة الموجودة اليوم. حاولت أن توازن العواقب بهدوء. كان هاني طبيباً موهوباً ورجلاً طيباً. ومع ذلك، كان واجب الرعاية لديها تجاه المرضى، لا تجاه زملائها. لم يكن الأمر يتعلق بالعقاب، بل بالمساءلة. في صباح اليوم التالي، ذهبت إلى هاني أولاً. قالت بهدوء: «لو لم أرَ ذلك الملف، لما كنت هنا الآن. لكن يجب أن أبلغ عنه.» ولدهشتها، أومأ هاني برأسه وقال: «لو كنت مكانك، لفعلت الشيء نفسه. يجب أن أتحمّل المسؤولية.» كتبا التقرير معاً. وأشاد مجلس المراجعة بنزاهتهما وشفافيتهما، وأدخل نظاماً للتحقق المزدوج من الأدوية عالية الخطورة. وبعد شهور، كانت سلمى لا تزال تفكر في تلك الليلة. لو أنها اختارت الصمت، لما استطاعت اليوم أن تنظر في عيون مرضاها."
+  },
+  "grammar": {
+    "title": "Mixed and Complex Conditionals",
+    "explanationAr": "الجمل الشرطية المختلطة تربط بين زمنين مختلفين. النوع الأول شرط في الماضي ونتيجته في الحاضر: If + past perfect, would + base verb، مثل If I had known, I would be more careful now. والنوع الثاني صفة أو حقيقة دائمة في الحاضر ونتيجتها في الماضي: If + past simple, would have + past participle، مثل If she were braver, she would have spoken up. وفي الأسلوب الرسمي نحذف if ونقدّم الفعل: Had I known بدلاً من If I had known، و Were it not for بمعنى «لولا»، و Should you need بمعنى «إذا احتجت». هذه التراكيب شائعة جداً في النقاشات الأخلاقية والكتابة الرسمية.",
+    "rule": "Past → present: If + past perfect, would + verb → If I had known, I would be ...\nPresent → past: If + past simple, would have + past participle → If she were braver, she would have spoken up.\nInversion: Had I known ... = If I had known ...\nWere it not for + noun = If it weren't for ... (لولا)\nShould you + verb ... = If you happen to ...",
+    "examples": [
+      {
+        "en": "If he had taken responsibility, he would still have his job today.",
+        "ar": "لو أنه تحمّل المسؤولية، لكان لا يزال في وظيفته اليوم."
+      },
+      {
+        "en": "If she weren't a woman of integrity, she would have joined the cover-up.",
+        "ar": "لو لم تكن امرأة نزيهة، لشاركت في التستر."
+      },
+      {
+        "en": "Had the whistleblower stayed silent, thousands of patients would be at risk now.",
+        "ar": "لو التزم المبلِّغ الصمت، لكان آلاف المرضى في خطر الآن."
+      },
+      {
+        "en": "Were it not for her conscience, she would have turned a blind eye.",
+        "ar": "لولا ضميرها، لغضّت الطرف."
+      },
+      {
+        "en": "Should you face a moral dilemma, weigh the consequences carefully.",
+        "ar": "إذا واجهت معضلة أخلاقية، فوازن العواقب بعناية."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Difficult Choice at Work",
+    "settingAr": "إنت اكتشفت إن مديرك بيزوّد أرقام المبيعات، وبتستشير زميل أكبر منك تثق فيه.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Mentor",
+        "nameAr": "الزميل الخبير"
+      },
+      {
+        "id": "B",
+        "name": "Employee",
+        "nameAr": "الموظف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "You look worried. Is something bothering you?",
+        "ar": "شكلك قلقان. فيه حاجة مضايقاك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I found out my manager has been inflating our sales figures.",
+        "ar": "اكتشفت إن مديري بيزوّد أرقام المبيعات بتاعتنا."
+      },
+      {
+        "speaker": "A",
+        "en": "That's serious. Are you sure it wasn't an honest mistake?",
+        "ar": "ده موضوع خطير. متأكد إنها مش غلطة غير مقصودة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'm sure. If I had noticed earlier, I wouldn't feel so complicit now.",
+        "ar": "متأكد. لو كنت أخدت بالي بدري، ماكنتش هحس إني متواطئ كده دلوقتي."
+      },
+      {
+        "speaker": "A",
+        "en": "Have you thought about the consequences of reporting it?",
+        "ar": "فكّرت في عواقب إنك تبلّغ عنه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, but turning a blind eye feels like a slippery slope.",
+        "ar": "أيوه، بس إني أعمل نفسي مش شايف حاسس إنها بداية انزلاق."
+      },
+      {
+        "speaker": "A",
+        "en": "Were it not for people like you, these things would never come out.",
+        "ar": "لولا ناس زيك، الحاجات دي عمرها ما كانت هتظهر."
+      },
+      {
+        "speaker": "B",
+        "en": "Still, I'm nervous. Should I go to HR or speak to him first?",
+        "ar": "برضه أنا متوتر. أروح للموارد البشرية ولا أكلمه هو الأول؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Talk to him first, but document everything. Transparency protects you.",
+        "ar": "كلّمه الأول، بس وثّق كل حاجة. الشفافية بتحميك."
+      },
+      {
+        "speaker": "B",
+        "en": "Thanks. Had you not listened, I'd still be completely lost right now.",
+        "ar": "شكراً. لو ماكنتش سمعتني، كنت هفضل تايه خالص لحد دلوقتي."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Complete the mixed conditional: \"If I ___ the truth back then, I would be in a better position now.\"",
+      "options": [
+        "had told",
+        "told",
+        "would tell",
+        "have told"
+      ],
+      "answer": "had told"
+    },
+    {
+      "type": "fill",
+      "sentence": "Staying silent about the fraud would make you ___ in it.",
+      "answer": "complicit",
+      "hint": "متواطئ"
+    },
+    {
+      "type": "order",
+      "words": [
+        "would",
+        "known,",
+        "acted",
+        "Had",
+        "differently.",
+        "I",
+        "have",
+        "I"
+      ],
+      "answer": "Had I known, I would have acted differently."
+    },
+    {
+      "type": "mcq",
+      "question": "Complete the sentence: \"___ it not for her courage, the scandal would have stayed hidden.\"",
+      "options": [
+        "If",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answer": "Were"
+    },
+    {
+      "type": "fill",
+      "sentence": "Accepting one small bribe is a slippery ___; soon you'll be accepting bigger ones.",
+      "answer": "slope",
+      "hint": "منحدر (بداية انزلاق)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "he",
+        "the",
+        "for",
+        "have",
+        "it",
+        "nurse,",
+        "Were",
+        "would",
+        "died.",
+        "not"
+      ],
+      "answer": "Were it not for the nurse, he would have died."
+    },
+    {
+      "type": "mcq",
+      "question": "Someone who exposes wrongdoing inside an organization is a ___.",
+      "options": [
+        "scapegoat",
+        "bystander",
+        "ringleader",
+        "whistleblower"
+      ],
+      "answer": "whistleblower"
+    },
+    {
+      "type": "listen",
+      "audioText": "If she had spoken up, she would not feel guilty now.",
+      "answer": "If she had spoken up, she would not feel guilty now."
+    }
+  ]
+}

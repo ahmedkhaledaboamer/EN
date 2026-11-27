@@ -1,0 +1,358 @@
+{
+  "slug": "global-affairs",
+  "title": "Global Affairs & Politics",
+  "titleAr": "الشؤون العالمية والسياسة",
+  "emoji": "🏛️",
+  "level": "C2",
+  "description": "Discuss international relations, policy, and global challenges in a balanced way.",
+  "descriptionAr": "ناقش العلاقات الدولية والسياسات والتحديات العالمية بطريقة متوازنة.",
+  "words": [
+    {
+      "en": "geopolitical",
+      "ar": "جيوسياسي",
+      "phonetic": "/ˌdʒioʊpəˈlɪtɪkəl/",
+      "example": "Energy supplies have become a geopolitical issue."
+    },
+    {
+      "en": "diplomatic",
+      "ar": "دبلوماسي",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "example": "Both countries are seeking a diplomatic solution."
+    },
+    {
+      "en": "bilateral",
+      "ar": "ثنائي (بين طرفين)",
+      "phonetic": "/baɪˈlætərəl/",
+      "example": "The two countries signed a bilateral trade agreement."
+    },
+    {
+      "en": "multilateral",
+      "ar": "متعدد الأطراف",
+      "phonetic": "/ˌmʌltiˈlætərəl/",
+      "example": "Climate change requires multilateral cooperation."
+    },
+    {
+      "en": "sanctions",
+      "ar": "عقوبات (اقتصادية أو سياسية)",
+      "phonetic": "/ˈsæŋkʃənz/",
+      "example": "Economists disagree about whether sanctions actually change government behavior."
+    },
+    {
+      "en": "sovereignty",
+      "ar": "السيادة (الوطنية)",
+      "phonetic": "/ˈsɑvrənti/",
+      "example": "Every state is keen to protect its sovereignty."
+    },
+    {
+      "en": "stakeholders",
+      "ar": "الأطراف المعنية / أصحاب المصلحة",
+      "phonetic": "/ˈsteɪkˌhoʊldərz/",
+      "example": "All stakeholders were invited to comment on the draft."
+    },
+    {
+      "en": "reach a consensus",
+      "ar": "يتوصل إلى توافق / إجماع",
+      "phonetic": "/ˈritʃ ə kənˈsɛnsəs/",
+      "example": "After two weeks, the delegates managed to reach a consensus."
+    },
+    {
+      "en": "compromise",
+      "ar": "حل وسط / تسوية",
+      "phonetic": "/ˈkɑmprəˌmaɪz/",
+      "example": "Neither side got everything it wanted, but the compromise held."
+    },
+    {
+      "en": "negotiations",
+      "ar": "مفاوضات",
+      "phonetic": "/nɪˌɡoʊʃiˈeɪʃənz/",
+      "example": "The negotiations continued late into the night."
+    },
+    {
+      "en": "ratify",
+      "ar": "يصادق على (معاهدة أو اتفاق)",
+      "phonetic": "/ˈrætəˌfaɪ/",
+      "example": "Parliament has yet to ratify the treaty."
+    },
+    {
+      "en": "humanitarian",
+      "ar": "إنساني",
+      "phonetic": "/hjuˌmænəˈtɛriən/",
+      "example": "Humanitarian aid must reach civilians quickly."
+    },
+    {
+      "en": "escalate",
+      "ar": "يتصاعد / يُصعِّد",
+      "phonetic": "/ˈɛskəˌleɪt/",
+      "example": "Diplomats fear the trade dispute could escalate further."
+    },
+    {
+      "en": "de-escalation",
+      "ar": "تهدئة / خفض التصعيد",
+      "phonetic": "/ˌdiˌɛskəˈleɪʃən/",
+      "example": "The UN called for immediate de-escalation."
+    },
+    {
+      "en": "water scarcity",
+      "ar": "ندرة المياه / شُحّ المياه",
+      "phonetic": "/ˈwɔtər ˈskɛrsəti/",
+      "example": "Water scarcity affects billions of people worldwide."
+    },
+    {
+      "en": "a sticking point",
+      "ar": "نقطة خلافية / عقبة في التفاوض",
+      "phonetic": "/ə ˈstɪkɪŋ ˌpɔɪnt/",
+      "example": "Funding remains a sticking point in the talks."
+    },
+    {
+      "en": "a binding agreement",
+      "ar": "اتفاق مُلزِم",
+      "phonetic": "/ə ˈbaɪndɪŋ əˈɡrimənt/",
+      "example": "Several countries refused to sign a binding agreement."
+    },
+    {
+      "en": "mutual interest",
+      "ar": "مصلحة مشتركة / متبادلة",
+      "phonetic": "/ˈmjutʃuəl ˈɪntrəst/",
+      "example": "Regional stability is a matter of mutual interest."
+    },
+    {
+      "en": "in good faith",
+      "ar": "بحسن نية",
+      "phonetic": "/ɪn ˈɡʊd ˈfeɪθ/",
+      "example": "Both delegations insisted they were negotiating in good faith."
+    },
+    {
+      "en": "the international community",
+      "ar": "المجتمع الدولي",
+      "phonetic": "/ði ˌɪntərˈnæʃənəl kəˈmjunəti/",
+      "example": "The international community welcomed the agreement."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It remains to be seen whether the talks will lead to a lasting deal.",
+      "ar": "يبقى أن نرى ما إذا كانت المحادثات ستؤدي إلى اتفاق دائم."
+    },
+    {
+      "en": "This is arguably the most important summit in a decade.",
+      "ar": "يمكن القول إن هذه أهم قمة منذ عقد."
+    },
+    {
+      "en": "The visit was ostensibly about trade, but security was also discussed.",
+      "ar": "كانت الزيارة في ظاهرها تتعلق بالتجارة، لكن الأمن نوقش أيضاً."
+    },
+    {
+      "en": "Both sides need to reach a consensus on climate funding.",
+      "ar": "يحتاج الطرفان إلى التوصل إلى توافق بشأن تمويل المناخ."
+    },
+    {
+      "en": "Critics argue that sanctions often hurt ordinary people the most.",
+      "ar": "يرى المنتقدون أن العقوبات كثيراً ما تضر بالناس العاديين أكثر من غيرهم."
+    },
+    {
+      "en": "To some extent, both positions are understandable.",
+      "ar": "إلى حد ما، كلا الموقفين مفهوم."
+    },
+    {
+      "en": "The talks were, by all accounts, tense but productive.",
+      "ar": "كانت المحادثات، بحسب كل الروايات، متوترة لكنها مثمرة."
+    },
+    {
+      "en": "Humanitarian aid must reach civilians without delay.",
+      "ar": "يجب أن تصل المساعدات الإنسانية إلى المدنيين دون تأخير."
+    },
+    {
+      "en": "Arguably, no country can solve water scarcity on its own.",
+      "ar": "يمكن القول إنه لا توجد دولة تستطيع حل مشكلة ندرة المياه بمفردها."
+    },
+    {
+      "en": "How do multilateral organizations balance sovereignty and cooperation?",
+      "ar": "كيف توازن المنظمات متعددة الأطراف بين السيادة والتعاون؟"
+    }
+  ],
+  "story": {
+    "title": "A River Worth Sharing",
+    "text": "At an international water conference in Geneva, delegates from six countries that share a single river basin gathered for three days of negotiations. Ostensibly, the goal was simple: a fair plan for sharing water during droughts. In reality, the talks were complicated by decades of mistrust and competing geopolitical interests. Upstream countries emphasized their sovereignty and their need for hydroelectric power. Downstream countries pointed to growing water scarcity and the risk to millions of farmers. By the second evening, one issue had become a sticking point: would any deal be a binding agreement or merely a set of guidelines? Tensions began to escalate when one delegate accused another of acting in bad faith. The chair, a soft-spoken veteran diplomat, called for a short break. \"Arguably, everyone here wants the same thing,\" she said when they returned. \"Clean, reliable water for future generations. That is a mutual interest, not a concession.\" Her words helped with de-escalation. Through the night, the teams worked on a compromise. They agreed to share real-time river data, create a joint drought fund, and review the arrangement every five years. It was, by all accounts, a modest outcome. Several stakeholders, including farmers' unions and environmental groups, said it did not go far enough. \"Whether national parliaments will ratify it remains to be seen,\" one analyst noted. Still, for the first time in years, all six delegations had negotiated in good faith, and the international community welcomed the step as a sign that diplomacy can still work.",
+    "translation": "في مؤتمر دولي للمياه في جنيف، اجتمع مندوبون من ست دول تتشارك حوض نهر واحد لثلاثة أيام من المفاوضات. في الظاهر، كان الهدف بسيطاً: خطة عادلة لتقاسم المياه في أوقات الجفاف. لكن في الواقع، تعقّدت المحادثات بسبب عقود من انعدام الثقة والمصالح الجيوسياسية المتنافسة. أكدت دول المنبع على سيادتها وحاجتها إلى الطاقة الكهرومائية، بينما أشارت دول المصب إلى تزايد ندرة المياه والخطر الذي يهدد ملايين المزارعين. وبحلول المساء الثاني، أصبحت مسألة واحدة نقطة خلافية: هل سيكون أي اتفاق اتفاقاً ملزماً أم مجرد مجموعة من المبادئ التوجيهية؟ بدأ التوتر يتصاعد عندما اتهم أحد المندوبين مندوباً آخر بالتصرف بسوء نية. فدعت رئيسة الجلسة، وهي دبلوماسية مخضرمة هادئة الصوت، إلى استراحة قصيرة. وعندما عادوا قالت: «يمكن القول إن الجميع هنا يريدون الشيء نفسه: مياه نظيفة وموثوقة للأجيال القادمة. هذه مصلحة مشتركة، وليست تنازلاً.» ساعدت كلماتها على التهدئة. وطوال الليل، عملت الفرق على التوصل إلى حل وسط. فاتفقوا على تبادل بيانات النهر في الوقت الفعلي، وإنشاء صندوق مشترك لمواجهة الجفاف، ومراجعة الترتيب كل خمس سنوات. كانت، بحسب كل الروايات، نتيجة متواضعة. وقالت عدة أطراف معنية، من بينها نقابات المزارعين والجماعات البيئية، إنها لم تذهب بعيداً بما يكفي. وأشار أحد المحللين قائلاً: «يبقى أن نرى ما إذا كانت البرلمانات الوطنية ستصادق عليها.» ومع ذلك، ولأول مرة منذ سنوات، تفاوضت الوفود الستة جميعها بحسن نية، ورحّب المجتمع الدولي بهذه الخطوة باعتبارها علامة على أن الدبلوماسية لا تزال قادرة على النجاح."
+  },
+  "grammar": {
+    "title": "Formal Hedging and Stance Markers",
+    "explanationAr": "في النقاشات السياسية والدولية الرسمية، يتجنب المتحدث الأحكام القاطعة ويستخدم أدوات التحوّط (hedging) ليبدو متوازناً وحذراً. من أهمها: arguably بمعنى «يمكن القول إن»، و ostensibly بمعنى «في الظاهر» للإشارة إلى أن السبب المعلن قد لا يكون السبب الحقيقي، و it remains to be seen whether بمعنى «يبقى أن نرى ما إذا كان». ومن الأدوات الأخرى: it could be argued that و to some extent و by all accounts و seemingly. هذه التعبيرات تتيح لك عرض وجهات النظر المختلفة دون الانحياز لطرف، وهذا أمر أساسي عند الحديث عن السياسة.",
+    "rule": "arguably + adjective / clause → This is arguably the biggest challenge.\nostensibly + adjective / phrase → ostensibly about trade (the stated reason, maybe not the real one)\nit remains to be seen whether / if + clause\nit could be argued that ... / to some extent / by all accounts\nseemingly / reportedly / apparently + verb or adjective",
+    "examples": [
+      {
+        "en": "Water scarcity is arguably the greatest geopolitical challenge of this century.",
+        "ar": "يمكن القول إن ندرة المياه هي أكبر تحدٍّ جيوسياسي في هذا القرن."
+      },
+      {
+        "en": "The sanctions were ostensibly aimed at the government, not ordinary citizens.",
+        "ar": "كانت العقوبات في ظاهرها موجهة إلى الحكومة، لا إلى المواطنين العاديين."
+      },
+      {
+        "en": "It remains to be seen whether all parties will ratify the agreement.",
+        "ar": "يبقى أن نرى ما إذا كانت جميع الأطراف ستصادق على الاتفاق."
+      },
+      {
+        "en": "To some extent, the deal reflects a mutual interest in stability.",
+        "ar": "إلى حد ما، يعكس الاتفاق مصلحة مشتركة في الاستقرار."
+      },
+      {
+        "en": "By all accounts, the negotiations were conducted in good faith.",
+        "ar": "بحسب كل الروايات، جرت المفاوضات بحسن نية."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "On the Policy Panel",
+    "settingAr": "إنت محلل سياسات ضيف في برنامج، والمذيعة بتسألك عن نتيجة قمة المناخ، ولازم تفضل متوازن ومحايد.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Moderator",
+        "nameAr": "المذيعة"
+      },
+      {
+        "id": "B",
+        "name": "Policy Analyst",
+        "nameAr": "محلل السياسات (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Welcome. How would you assess the outcome of this week's climate summit?",
+        "ar": "أهلاً بيك. تقيّم نتيجة قمة المناخ بتاعة الأسبوع ده إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It was arguably the most constructive summit in years, though far from perfect.",
+        "ar": "ممكن نقول إنها أكتر قمة مثمرة من سنين، رغم إنها بعيدة عن الكمال."
+      },
+      {
+        "speaker": "A",
+        "en": "Some critics say the deal is ostensibly ambitious but lacks real commitments.",
+        "ar": "فيه منتقدين بيقولوا إن الاتفاق طموح في الظاهر بس مفيهوش التزامات حقيقية."
+      },
+      {
+        "speaker": "B",
+        "en": "That's a fair concern. The key targets are not yet a binding agreement.",
+        "ar": "ده قلق في محله. الأهداف الأساسية لسه مش اتفاق ملزم."
+      },
+      {
+        "speaker": "A",
+        "en": "So will governments actually deliver on their promises?",
+        "ar": "يعني الحكومات هتنفّذ وعودها فعلاً؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It remains to be seen. Much depends on domestic politics and funding.",
+        "ar": "ده لسه هيبان. حاجات كتير متوقفة على السياسة الداخلية والتمويل."
+      },
+      {
+        "speaker": "A",
+        "en": "What was the main sticking point during the negotiations?",
+        "ar": "إيه كانت أكبر نقطة خلاف في المفاوضات؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Financing. Poorer countries want support, and wealthier nations want clearer accountability.",
+        "ar": "التمويل. الدول الأفقر عايزة دعم، والدول الأغنى عايزة محاسبة أوضح."
+      },
+      {
+        "speaker": "A",
+        "en": "Is a consensus realistic, given such different priorities?",
+        "ar": "هل التوافق ده واقعي، مع إن الأولويات مختلفة كده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "To some extent, yes. There is a clear mutual interest in avoiding disaster.",
+        "ar": "لحد ما، أيوه. فيه مصلحة مشتركة واضحة إننا نتجنب الكارثة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Choose the best word: \"The trip was ___ about tourism, but many suspected other motives.\"",
+      "options": [
+        "arguably",
+        "ostensibly",
+        "definitely",
+        "consequently"
+      ],
+      "answer": "ostensibly"
+    },
+    {
+      "type": "fill",
+      "sentence": "It remains to be ___ whether the agreement will be ratified.",
+      "answer": "seen",
+      "hint": "يبقى أن نرى"
+    },
+    {
+      "type": "order",
+      "words": [
+        "challenge",
+        "arguably",
+        "the",
+        "This",
+        "face.",
+        "biggest",
+        "is",
+        "we"
+      ],
+      "answer": "This is arguably the biggest challenge we face."
+    },
+    {
+      "type": "mcq",
+      "question": "An agreement between exactly two countries is ___.",
+      "options": [
+        "multilateral",
+        "unilateral",
+        "humanitarian",
+        "bilateral"
+      ],
+      "answer": "bilateral"
+    },
+    {
+      "type": "fill",
+      "sentence": "Parliament must ___ the treaty before it can take effect.",
+      "answer": "ratify",
+      "hint": "يصادق على",
+      "accept": [
+        "approve"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "all",
+        "negotiated",
+        "accounts.",
+        "faith,",
+        "Both",
+        "by",
+        "in",
+        "sides",
+        "good"
+      ],
+      "answer": "Both sides negotiated in good faith, by all accounts."
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is the most balanced and carefully hedged?",
+      "options": [
+        "It could be argued that the policy has had mixed results.",
+        "The policy is a total failure.",
+        "Everyone knows the policy is brilliant.",
+        "The policy is obviously wrong."
+      ],
+      "answer": "It could be argued that the policy has had mixed results."
+    },
+    {
+      "type": "listen",
+      "audioText": "It remains to be seen whether the talks will succeed.",
+      "answer": "It remains to be seen whether the talks will succeed."
+    }
+  ]
+}

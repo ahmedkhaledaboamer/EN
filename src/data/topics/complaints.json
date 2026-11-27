@@ -1,0 +1,360 @@
+{
+  "slug": "complaints",
+  "title": "Making a Complaint",
+  "titleAr": "تقديم شكوى",
+  "emoji": "🗣️",
+  "level": "B1",
+  "description": "Complain politely and firmly to get a refund, a repair, or an apology.",
+  "descriptionAr": "اشتكِ بأدب وحزم لتحصل على استرداد المال، أو إصلاح، أو اعتذار.",
+  "words": [
+    {
+      "en": "complaint",
+      "ar": "شكوى",
+      "phonetic": "/kəmˈpleɪnt/",
+      "example": "I'd like to make a complaint about my order."
+    },
+    {
+      "en": "refund",
+      "ar": "استرداد المال / فلوسك ترجعلك",
+      "phonetic": "/ˈriˌfʌnd/",
+      "example": "I'd like a full refund, please."
+    },
+    {
+      "en": "replacement",
+      "ar": "بديل / استبدال",
+      "phonetic": "/rɪˈpleɪsmənt/",
+      "example": "They sent me a replacement the next day."
+    },
+    {
+      "en": "repair",
+      "ar": "يصلح / تصليح",
+      "phonetic": "/rɪˈpɛr/",
+      "example": "Can you repair the machine, or do I need a new one?"
+    },
+    {
+      "en": "faulty",
+      "ar": "معيب / به عيب",
+      "phonetic": "/ˈfɔlti/",
+      "example": "I'm afraid this charger is faulty."
+    },
+    {
+      "en": "warranty",
+      "ar": "ضمان",
+      "phonetic": "/ˈwɔrənti/",
+      "example": "The washing machine has a two-year warranty."
+    },
+    {
+      "en": "proof of purchase",
+      "ar": "إثبات الشراء (مثل الإيصال)",
+      "phonetic": "/ˌpruf əv ˈpərtʃəs/",
+      "example": "Please keep your receipt as proof of purchase."
+    },
+    {
+      "en": "customer service",
+      "ar": "خدمة العملاء",
+      "phonetic": "/ˈkʌstəmər ˈsərvɪs/",
+      "example": "I called customer service three times this week."
+    },
+    {
+      "en": "apologize",
+      "ar": "يعتذر",
+      "phonetic": "/əˈpɑləˌdʒaɪz/",
+      "example": "We apologize for the delay."
+    },
+    {
+      "en": "disappointed",
+      "ar": "مُحبَط / خاب أمله",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+      "example": "I'm really disappointed with the service."
+    },
+    {
+      "en": "unacceptable",
+      "ar": "غير مقبول",
+      "phonetic": "/ˌʌnəkˈsɛptəbəl/",
+      "example": "Waiting two weeks for a repair is unacceptable."
+    },
+    {
+      "en": "inconvenience",
+      "ar": "إزعاج / مضايقة",
+      "phonetic": "/ˌɪnkənˈvinjəns/",
+      "example": "We're sorry for the inconvenience."
+    },
+    {
+      "en": "technician",
+      "ar": "فني",
+      "phonetic": "/tɛkˈnɪʃən/",
+      "example": "A technician will visit your home on Monday."
+    },
+    {
+      "en": "exchange",
+      "ar": "يستبدل / يبدّل",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "example": "Can I exchange this shirt for a bigger size?"
+    },
+    {
+      "en": "reference number",
+      "ar": "رقم مرجعي",
+      "phonetic": "/ˈrɛfərəns ˌnʌmbər/",
+      "example": "Your reference number is 4-5-8-2."
+    },
+    {
+      "en": "delivery",
+      "ar": "توصيل",
+      "phonetic": "/dɪˈlɪvəri/",
+      "example": "The delivery was three days late."
+    },
+    {
+      "en": "supervisor",
+      "ar": "مشرف / مسؤول",
+      "phonetic": "/ˈsupərˌvaɪzər/",
+      "example": "Could I speak to a supervisor, please?"
+    },
+    {
+      "en": "compensation",
+      "ar": "تعويض",
+      "phonetic": "/ˌkɑmpənˈseɪʃən/",
+      "example": "They offered me a voucher as compensation."
+    },
+    {
+      "en": "return policy",
+      "ar": "سياسة الإرجاع",
+      "phonetic": "/rɪˈtərn ˌpɑləsi/",
+      "example": "The store's return policy allows thirty days."
+    },
+    {
+      "en": "leak",
+      "ar": "يسرّب / يخر مية",
+      "phonetic": "/lik/",
+      "example": "The washing machine started to leak water."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'm afraid there's a problem with my order.",
+      "ar": "للأسف هناك مشكلة في طلبي."
+    },
+    {
+      "en": "I'd like to make a complaint, please.",
+      "ar": "أريد أن أقدم شكوى من فضلك."
+    },
+    {
+      "en": "Would it be possible to get a refund?",
+      "ar": "هل من الممكن أن أسترد أموالي؟"
+    },
+    {
+      "en": "I'm afraid this product is faulty.",
+      "ar": "للأسف هذا المنتج به عيب."
+    },
+    {
+      "en": "I'd like to speak to a supervisor.",
+      "ar": "أريد أن أتحدث مع المشرف."
+    },
+    {
+      "en": "Would it be possible to send a technician this week?",
+      "ar": "هل من الممكن إرسال فني هذا الأسبوع؟"
+    },
+    {
+      "en": "It's still under warranty.",
+      "ar": "ما زال تحت الضمان."
+    },
+    {
+      "en": "I have the receipt as proof of purchase.",
+      "ar": "معي الإيصال كإثبات للشراء."
+    },
+    {
+      "en": "Could you give me a reference number?",
+      "ar": "هل يمكنك أن تعطيني رقماً مرجعياً؟"
+    },
+    {
+      "en": "I'm really disappointed with the service.",
+      "ar": "أنا محبط جداً من الخدمة."
+    }
+  ],
+  "story": {
+    "title": "The Leaking Washing Machine",
+    "text": "Nadia bought a new washing machine, and for six days it worked perfectly. On the seventh day, she found water all over the kitchen floor. The machine had started to leak. She was disappointed, but she stayed calm and called customer service. \"Hello. I'm afraid my new washing machine is faulty,\" she said. \"It's only a week old, and it leaks every time I use it.\" The agent asked for her proof of purchase, and Nadia read the number on her receipt. \"It's still under warranty,\" the agent said. \"We can send a technician to repair it next Thursday.\" Nadia thought for a moment. \"I'd like to be honest. Waiting a week without a washing machine is difficult. Would it be possible to get a replacement instead?\" The agent checked with a supervisor and came back. \"Yes, we can deliver a new machine tomorrow. We apologize for the inconvenience.\" Nadia wrote down her reference number and smiled. A polite complaint had worked.",
+    "translation": "اشترت نادية غسالة جديدة، وعملت بشكل ممتاز لمدة ستة أيام. وفي اليوم السابع، وجدت الماء في كل أرضية المطبخ. كانت الغسالة قد بدأت تسرّب الماء. شعرت بالإحباط، لكنها ظلت هادئة واتصلت بخدمة العملاء. قالت: «مرحباً. للأسف غسالتي الجديدة بها عيب. عمرها أسبوع واحد فقط، وتسرّب الماء في كل مرة أستخدمها.» طلب الموظف إثبات الشراء، فقرأت نادية الرقم المكتوب على الإيصال. قال الموظف: «ما زالت تحت الضمان. يمكننا إرسال فني لإصلاحها يوم الخميس القادم.» فكرت نادية للحظة. «أريد أن أكون صريحة. الانتظار أسبوعاً بدون غسالة أمر صعب. هل من الممكن الحصول على غسالة بديلة بدلاً من ذلك؟» راجع الموظف المشرف ثم عاد. «نعم، يمكننا توصيل غسالة جديدة غداً. نعتذر عن الإزعاج.» كتبت نادية رقمها المرجعي وابتسمت. لقد نجحت الشكوى المهذبة."
+  },
+  "grammar": {
+    "title": "Polite complaint language",
+    "explanationAr": "عند تقديم شكوى بالإنجليزية نستخدم عبارات مهذبة حتى نبدو محترمين وحازمين في نفس الوقت. نبدأ بـ I'm afraid... لتقديم المشكلة بلطف، وهي تعني «للأسف»، مثل: I'm afraid the machine is faulty. ثم نستخدم I'd like to + فعل لنقول ما نريده بأدب بدلاً من I want، مثل: I'd like to make a complaint. ونستخدم Would it be possible to + فعل؟ لطلب حل بطريقة مهذبة جداً، مثل: Would it be possible to get a refund? لاحظ أن الفعل بعد to يكون في صيغته الأساسية.",
+    "rule": "I'm afraid + sentence (to introduce the problem)\nI'd like to + base verb (to say what you want)\nI'd like + noun (I'd like a refund.)\nWould it be possible to + base verb? (to ask for a solution)",
+    "examples": [
+      {
+        "en": "I'm afraid the delivery was three days late.",
+        "ar": "للأسف التوصيل تأخر ثلاثة أيام."
+      },
+      {
+        "en": "I'd like to exchange this phone for a new one.",
+        "ar": "أريد أن أستبدل هذا الهاتف بواحد جديد."
+      },
+      {
+        "en": "Would it be possible to get a full refund?",
+        "ar": "هل من الممكن أن أسترد المبلغ كاملاً؟"
+      },
+      {
+        "en": "I'm afraid this is unacceptable.",
+        "ar": "للأسف هذا غير مقبول."
+      },
+      {
+        "en": "Would it be possible to speak to a supervisor?",
+        "ar": "هل من الممكن أن أتحدث مع المشرف؟"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Calling Customer Service",
+    "settingAr": "إنت بتكلم خدمة العملاء عشان الغسالة الجديدة بتاعتك باظت بعد أسبوع.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Agent",
+        "nameAr": "موظف خدمة العملاء"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good morning, customer service. How can I help you?",
+        "ar": "صباح الخير، خدمة العملاء. أقدر أساعدك إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Hi. I'm afraid my new washing machine is leaking.",
+        "ar": "أهلاً. للأسف الغسالة الجديدة بتاعتي بتخر مية."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm sorry to hear that. When did you buy it?",
+        "ar": "آسف إني أسمع كده. اشتريتها إمتى؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Just last week. I have the receipt here.",
+        "ar": "الأسبوع اللي فات بس. الإيصال معايا أهو."
+      },
+      {
+        "speaker": "A",
+        "en": "Good, it's under warranty. We can send a technician on Friday.",
+        "ar": "كويس، هي تحت الضمان. نقدر نبعتلك فني يوم الجمعة."
+      },
+      {
+        "speaker": "B",
+        "en": "Would it be possible to get a replacement instead?",
+        "ar": "ينفع آخد واحدة بدالها بدل كده؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Let me check. Yes, we can deliver a new one tomorrow.",
+        "ar": "ثانية أشوف. أيوه، نقدر نوصّلك واحدة جديدة بكرة."
+      },
+      {
+        "speaker": "B",
+        "en": "That's great. I'd like to have a reference number, please.",
+        "ar": "حلو جداً. عايز رقم مرجعي لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. It's seven, two, nine, five.",
+        "ar": "طبعاً. الرقم سبعة، اتنين، تسعة، خمسة."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you for your help.",
+        "ar": "شكراً على مساعدتك."
+      },
+      {
+        "speaker": "A",
+        "en": "You're welcome. We apologize for the inconvenience.",
+        "ar": "العفو. وبنعتذر عن الإزعاج."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which sentence is the most polite way to start a complaint?",
+      "options": [
+        "Your product is terrible.",
+        "I'm afraid there's a problem with my order.",
+        "Give me my money now.",
+        "This is your fault."
+      ],
+      "answer": "I'm afraid there's a problem with my order."
+    },
+    {
+      "type": "fill",
+      "sentence": "The shirt is too small. I'd like to ___ it for a bigger size.",
+      "answer": "exchange",
+      "hint": "يستبدل",
+      "accept": ["change", "swap"]
+    },
+    {
+      "type": "order",
+      "words": [
+        "possible",
+        "Would",
+        "a",
+        "be",
+        "refund?",
+        "it",
+        "get",
+        "to"
+      ],
+      "answer": "Would it be possible to get a refund?"
+    },
+    {
+      "type": "mcq",
+      "question": "The company says it will fix your product for free for two years. This is called a ___.",
+      "options": [
+        "refund",
+        "receipt",
+        "complaint",
+        "warranty"
+      ],
+      "answer": "warranty"
+    },
+    {
+      "type": "fill",
+      "sentence": "I'm afraid this charger is ___. It doesn't work at all.",
+      "answer": "faulty",
+      "hint": "معيب / به عيب",
+      "accept": ["broken"]
+    },
+    {
+      "type": "order",
+      "words": [
+        "to",
+        "a",
+        "supervisor.",
+        "I'd",
+        "speak",
+        "to",
+        "like"
+      ],
+      "answer": "I'd like to speak to a supervisor."
+    },
+    {
+      "type": "mcq",
+      "question": "The agent says, \"We're sorry for the ___.\"",
+      "options": [
+        "warranty",
+        "technician",
+        "inconvenience",
+        "reference number"
+      ],
+      "answer": "inconvenience"
+    },
+    {
+      "type": "listen",
+      "audioText": "I'd like to make a complaint, please.",
+      "answer": "I'd like to make a complaint, please."
+    }
+  ]
+}

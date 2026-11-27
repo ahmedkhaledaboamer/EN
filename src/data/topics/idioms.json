@@ -1,0 +1,353 @@
+{
+  "slug": "idioms",
+  "title": "Idioms in Everyday Talk",
+  "titleAr": "التعبيرات الاصطلاحية",
+  "emoji": "🗯️",
+  "level": "C2",
+  "description": "Understand and use common idioms naturally in conversation.",
+  "descriptionAr": "افهم التعبيرات الاصطلاحية الشائعة واستخدمها بشكل طبيعي في الحديث.",
+  "words": [
+    {
+      "en": "break the ice",
+      "ar": "يكسر الحاجز / يُذيب الجليد في أول لقاء — بالمصري: «يفُكّ الجو»",
+      "phonetic": "/breɪk ði aɪs/",
+      "example": "He told a funny story to break the ice at the start of the meeting."
+    },
+    {
+      "en": "a piece of cake",
+      "ar": "سهل جداً — بالمصري: «سهلة زي شرب المية»",
+      "phonetic": "/ə pis əv keɪk/",
+      "example": "Don't worry about the test; it's a piece of cake."
+    },
+    {
+      "en": "hit the nail on the head",
+      "ar": "أصاب كبد الحقيقة / قال الشيء الصحيح تماماً — بالمصري: «جِبتها»",
+      "phonetic": "/hɪt ðə neɪl ɑn ðə hɛd/",
+      "example": "You hit the nail on the head when you said the problem was communication."
+    },
+    {
+      "en": "under the weather",
+      "ar": "متوعّك قليلاً / مريض شوية — بالمصري: «مش في المود / تعبان شوية»",
+      "phonetic": "/ˈʌndər ðə ˈwɛðər/",
+      "example": "I'm feeling a bit under the weather, so I'll stay home today."
+    },
+    {
+      "en": "cost an arm and a leg",
+      "ar": "مُكلف جداً — بالمصري: «سعره نار / بدم قلبي»",
+      "phonetic": "/kɔst ən ɑrm ənd ə lɛɡ/",
+      "example": "Renting a flat in central London can cost an arm and a leg."
+    },
+    {
+      "en": "let the cat out of the bag",
+      "ar": "أفشى السر دون قصد — بالمصري: «بَقّ الفولة»",
+      "phonetic": "/lɛt ðə kæt aʊt əv ðə bæɡ/",
+      "example": "My little brother let the cat out of the bag about the surprise party."
+    },
+    {
+      "en": "on the same page",
+      "ar": "متفقون في الفهم والرؤية — بالمصري: «على نفس الموجة»",
+      "phonetic": "/ɑn ðə seɪm peɪdʒ/",
+      "example": "Let's make sure we're all on the same page before we call the client."
+    },
+    {
+      "en": "call it a day",
+      "ar": "ينهي العمل لهذا اليوم — بالمصري: «نقفل على كده النهارده»",
+      "phonetic": "/kɔl ɪt ə deɪ/",
+      "example": "We've done enough; let's call it a day."
+    },
+    {
+      "en": "the ball is in your court",
+      "ar": "القرار الآن بيدك — بالمصري: «الكورة في ملعبك»",
+      "phonetic": "/ðə bɔl ɪz ɪn jʊr kɔrt/",
+      "example": "I've made my best offer, so the ball is in your court."
+    },
+    {
+      "en": "bite off more than you can chew",
+      "ar": "يحمّل نفسه فوق طاقته — بالمصري: «شايل حمل أكبر منه»",
+      "phonetic": "/baɪt ɔf mɔr ðən ju kən tʃu/",
+      "example": "Don't bite off more than you can chew by taking three new projects."
+    },
+    {
+      "en": "once in a blue moon",
+      "ar": "نادراً جداً — بالمصري: «كل فين وفين»",
+      "phonetic": "/wʌns ɪn ə blu mun/",
+      "example": "My cousin visits us only once in a blue moon."
+    },
+    {
+      "en": "go the extra mile",
+      "ar": "يبذل جهداً أكبر من المطلوب — بالمصري: «يعمل اللي عليه وزيادة»",
+      "phonetic": "/ɡoʊ ði ˈɛkstrə maɪl/",
+      "example": "Great teachers always go the extra mile for their students."
+    },
+    {
+      "en": "pulling my leg",
+      "ar": "يمزح معي / يخدعني على سبيل الدعابة — بالمصري: «بتشتغلني؟ / بتهزّر معايا؟»",
+      "phonetic": "/ˈpʊlɪŋ maɪ lɛɡ/",
+      "example": "You won the lottery? Come on, you're pulling my leg!"
+    },
+    {
+      "en": "when pigs fly",
+      "ar": "مستحيل أن يحدث — بالمصري: «في المِشمِش»",
+      "phonetic": "/wɛn pɪɡz flaɪ/",
+      "example": "He'll clean his room when pigs fly."
+    },
+    {
+      "en": "beat around the bush",
+      "ar": "يلفّ ويدور ولا يدخل في الموضوع — بالمصري: «يلف ويدور»",
+      "phonetic": "/bit əˈraʊnd ðə bʊʃ/",
+      "example": "Please don't beat around the bush; just tell me the truth."
+    },
+    {
+      "en": "a blessing in disguise",
+      "ar": "نعمة متخفية في صورة مشكلة — بالمصري: «رُبّ ضارة نافعة»",
+      "phonetic": "/ə ˈblɛsɪŋ ɪn dɪsˈɡaɪz/",
+      "example": "Missing that flight turned out to be a blessing in disguise."
+    },
+    {
+      "en": "get the hang of",
+      "ar": "يتعوّد على الشيء ويُتقنه — بالمصري: «ياخد على الحاجة / يمسك الخيط»",
+      "phonetic": "/ɡɛt ðə hæŋ əv/",
+      "example": "It took me a month to get the hang of driving on the left."
+    },
+    {
+      "en": "keep an eye on",
+      "ar": "يراقب / ينتبه إلى — بالمصري: «خلّي عينك على»",
+      "phonetic": "/kip ən aɪ ɑn/",
+      "example": "Could you keep an eye on my bag while I grab a coffee?"
+    },
+    {
+      "en": "in hot water",
+      "ar": "في ورطة — بالمصري: «في مصيبة / واقع في الطين»",
+      "phonetic": "/ɪn hɑt ˈwɔtər/",
+      "example": "He's in hot water with his boss for missing the deadline."
+    },
+    {
+      "en": "the last straw",
+      "ar": "القشة التي قصمت ظهر البعير — بالمصري: «دي كانت آخر نقطة في الكوباية»",
+      "phonetic": "/ðə læst strɔ/",
+      "example": "When he forgot my birthday again, it was the last straw."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I was nervous, so I told a joke to break the ice.",
+      "ar": "كنت متوتراً، فألقيت نكتة لكسر الحاجز."
+    },
+    {
+      "en": "Fixing that bug was a piece of cake.",
+      "ar": "كان إصلاح ذلك الخطأ البرمجي سهلاً جداً."
+    },
+    {
+      "en": "She's been under the weather all week, so she's working from home.",
+      "ar": "إنها متوعكة طوال الأسبوع، لذلك تعمل من البيت."
+    },
+    {
+      "en": "Let's make sure we're all on the same page before the presentation.",
+      "ar": "دعونا نتأكد أننا جميعاً متفقون قبل العرض التقديمي."
+    },
+    {
+      "en": "Who let the cat out of the bag about the wedding?",
+      "ar": "من الذي أفشى سرّ الزفاف؟"
+    },
+    {
+      "en": "Stop beating around the bush and tell me what happened.",
+      "ar": "كفّ عن المراوغة وأخبرني بما حدث."
+    },
+    {
+      "en": "Losing that job was a blessing in disguise.",
+      "ar": "كانت خسارة تلك الوظيفة نعمة متخفية."
+    },
+    {
+      "en": "Can you keep an eye on the kids for ten minutes?",
+      "ar": "هل يمكنك أن تراقب الأطفال لعشر دقائق؟"
+    },
+    {
+      "en": "When the printer broke for the third time, that was the last straw.",
+      "ar": "عندما تعطّلت الطابعة للمرة الثالثة، كانت تلك القشة التي قصمت ظهر البعير."
+    },
+    {
+      "en": "She always goes the extra mile for her clients.",
+      "ar": "إنها دائماً تبذل جهداً أكبر من المطلوب من أجل عملائها."
+    }
+  ],
+  "story": {
+    "title": "Lost in Translation",
+    "text": "On his first day at a marketing agency in London, Youssef felt confident about his English. By lunchtime, he wasn't so sure. In the morning meeting, his manager, Mark, said, \"Let's start with a quick game to break the ice.\" Youssef wondered why anyone needed ice in October. Later, Mark praised a colleague's idea: \"You've hit the nail on the head!\" Youssef looked around for a hammer. Then someone said the new campaign would cost an arm and a leg, and another joked that they got a bigger budget only once in a blue moon. By four o'clock, Youssef's head was spinning. His colleague Sophie noticed. \"You look a bit under the weather,\" she said kindly. \"Are you okay?\" \"I'm fine,\" he laughed, \"but I think I'm in hot water. I didn't understand half the meeting.\" Sophie grabbed a notepad and explained every expression, one by one. \"Don't worry,\" she said. \"Everyone here talks like that. You'll get the hang of it in no time.\" \"Are you sure? Or are you just pulling my leg?\" \"I'm serious! Honestly, idioms are a piece of cake once you've heard them a few times.\" At six, Mark popped his head around the door. \"Right, team, let's call it a day.\" This time, Youssef understood immediately. He smiled, packed his bag, and decided that his confusing first day had been a blessing in disguise. Now he and Sophie were definitely on the same page.",
+    "translation": "في أول يوم له في وكالة تسويق في لندن، كان يوسف واثقاً من إنجليزيته. وبحلول وقت الغداء، لم يعد متأكداً إلى هذا الحد. في اجتماع الصباح، قال مديره مارك: «لنبدأ بلعبة سريعة لكسر الجليد.» تساءل يوسف لماذا قد يحتاج أحد إلى ثلج في شهر أكتوبر. وبعد ذلك، أثنى مارك على فكرة أحد الزملاء قائلاً: «لقد أصبت كبد الحقيقة!» فأخذ يوسف يتلفت بحثاً عن مطرقة. ثم قال أحدهم إن الحملة الجديدة ستكلّف ثروة، ومازح آخر بأنهم لا يحصلون على ميزانية أكبر إلا نادراً جداً. وبحلول الساعة الرابعة، كان رأس يوسف يدور. لاحظت زميلته صوفي ذلك، فقالت بلطف: «تبدو متوعكاً قليلاً. هل أنت بخير؟» ضحك وقال: «أنا بخير، لكنني أظن أنني في ورطة. لم أفهم نصف الاجتماع.» أمسكت صوفي بمفكرة وشرحت كل تعبير، واحداً تلو الآخر. وقالت: «لا تقلق. الجميع هنا يتكلمون بهذه الطريقة. ستعتاد عليها في وقت قصير.» «هل أنتِ متأكدة؟ أم أنكِ تمزحين معي فقط؟» «أنا جادة! بصراحة، التعبيرات الاصطلاحية سهلة جداً بمجرد أن تسمعها بضع مرات.» وفي السادسة، أطلّ مارك برأسه من الباب وقال: «حسناً يا فريق، لننهِ العمل لهذا اليوم.» وهذه المرة، فهم يوسف على الفور. ابتسم، وجمع حقيبته، وقرر أن يومه الأول المربك كان نعمة متخفية. والآن أصبح هو وصوفي متفاهمَين تماماً."
+  },
+  "grammar": {
+    "title": "Using Idioms Naturally: Fixed Phrases in Context",
+    "explanationAr": "التعبير الاصطلاحي (idiom) هو مجموعة كلمات لها معنى لا يُفهم من معاني كلماتها منفردة، مثل under the weather بمعنى «تعبان شوية» وليس «تحت الطقس». معظم هذه التعابير ثابتة، فلا نغيّر كلماتها ولا ترتيبها: نقول a piece of cake وليس a slice of cake. لكن الفعل داخل التعبير يتصرّف حسب الزمن والفاعل: She broke the ice / He's pulling my leg، كما يتغير الضمير حسب الشخص: the ball is in her court. وانتبه إلى مستوى الرسمية، فبعض التعابير عامية ولا تناسب الرسائل الرسمية، بينما يناسب بعضها مثل on the same page بيئة العمل.",
+    "rule": "Idioms are fixed: don't change the nouns or the word order (a piece of cake, NOT a slice of cake)\nThe verb changes for tense and subject: break the ice → She broke the ice.\nPossessives change with the person: the ball is in your court / in her court\nCheck the register: many idioms are too informal for formal writing",
+    "examples": [
+      {
+        "en": "He finally broke the ice by asking about my weekend.",
+        "ar": "كسر الحاجز أخيراً عندما سألني عن عطلة نهاية الأسبوع."
+      },
+      {
+        "en": "I've sent the proposal, so the ball is in her court now.",
+        "ar": "لقد أرسلت المقترح، فأصبح القرار الآن بيدها."
+      },
+      {
+        "en": "She has been under the weather since Monday.",
+        "ar": "إنها متوعكة منذ يوم الاثنين."
+      },
+      {
+        "en": "Don't worry, you'll soon get the hang of the new system.",
+        "ar": "لا تقلق، ستعتاد على النظام الجديد قريباً."
+      },
+      {
+        "en": "We went the extra mile to finish the project on time.",
+        "ar": "بذلنا جهداً إضافياً لإنهاء المشروع في موعده."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Idioms over Coffee",
+    "settingAr": "إنت لسه جديد في مكتب في لندن، وزميلتك بتسألك عن أول أسبوع ليك وعن التعبيرات اللي محيّراك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Colleague",
+        "nameAr": "الزميلة"
+      },
+      {
+        "id": "B",
+        "name": "Newcomer",
+        "nameAr": "الموظف الجديد (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hey, how was your first week? Getting the hang of things?",
+        "ar": "إزيك، أول أسبوع كان عامل إيه؟ ابتديت تاخد على الدنيا؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Slowly. The work is a piece of cake, but the idioms aren't!",
+        "ar": "واحدة واحدة. الشغل سهل جداً، بس التعبيرات هي اللي مش سهلة!"
+      },
+      {
+        "speaker": "A",
+        "en": "Ha! Which ones have been confusing you the most?",
+        "ar": "هههه! أنهي تعبيرات اللي ملخبطاك أكتر حاجة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yesterday Mark said I hit the nail on the head. Was that good?",
+        "ar": "امبارح مارك قال لي إني جبتها في الجون. ده كان حاجة كويسة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Very good! It means your idea was exactly right.",
+        "ar": "كويسة جداً! معناها إن فكرتك كانت صح بالظبط."
+      },
+      {
+        "speaker": "B",
+        "en": "What a relief. I honestly thought I was in hot water.",
+        "ar": "الحمد لله. أنا بصراحة كنت فاكر إني وقعت في مصيبة."
+      },
+      {
+        "speaker": "A",
+        "en": "Not at all. Everyone says you always go the extra mile.",
+        "ar": "خالص. الكل بيقول إنك دايماً بتعمل اللي عليك وزيادة."
+      },
+      {
+        "speaker": "B",
+        "en": "That's kind of you. Shall we call it a day and grab coffee?",
+        "ar": "ده ذوق منك. إيه رأيك نقفل على كده النهارده ونشرب قهوة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Sure, but are you feeling better? You looked under the weather yesterday.",
+        "ar": "أكيد، بس إنت بقيت أحسن؟ امبارح كان شكلك تعبان شوية."
+      },
+      {
+        "speaker": "B",
+        "en": "Much better, thanks. It was just a long and confusing week.",
+        "ar": "أحسن كتير، شكراً. كان بس أسبوع طويل وملخبط."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Your friend says, \"I'm a bit under the weather.\" What does she mean?",
+      "options": [
+        "She is very busy.",
+        "She feels slightly ill.",
+        "She is really angry.",
+        "She is outside in the rain."
+      ],
+      "answer": "She feels slightly ill."
+    },
+    {
+      "type": "fill",
+      "sentence": "The exam was so easy. It was a piece of ___.",
+      "answer": "cake",
+      "hint": "كعكة (يعني سهلة جداً)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "the",
+        "and",
+        "beating",
+        "me.",
+        "Stop",
+        "bush",
+        "tell",
+        "around"
+      ],
+      "answer": "Stop beating around the bush and tell me."
+    },
+    {
+      "type": "mcq",
+      "question": "Your friend says, \"I'll lend you money when pigs fly.\" What does he mean?",
+      "options": [
+        "He will lend it soon.",
+        "He will lend it next week.",
+        "He might lend it later.",
+        "He will never lend it."
+      ],
+      "answer": "He will never lend it."
+    },
+    {
+      "type": "fill",
+      "sentence": "Losing that job turned out to be a blessing in ___.",
+      "answer": "disguise",
+      "hint": "مُتخفِّية (رُبّ ضارّة نافعة)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "your",
+        "the",
+        "Now",
+        "court.",
+        "is",
+        "ball",
+        "in"
+      ],
+      "answer": "Now the ball is in your court."
+    },
+    {
+      "type": "mcq",
+      "question": "Which idiom means \"to reveal a secret by mistake\"?",
+      "options": [
+        "let the cat out of the bag",
+        "call it a day",
+        "keep an eye on",
+        "break the ice"
+      ],
+      "answer": "let the cat out of the bag"
+    },
+    {
+      "type": "listen",
+      "audioText": "When my boss cancelled my vacation, it was the last straw.",
+      "answer": "When my boss cancelled my vacation, it was the last straw."
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "slug": "negotiation",
+  "title": "Negotiating a Deal",
+  "titleAr": "التفاوض على صفقة",
+  "emoji": "🤝",
+  "level": "B2",
+  "description": "Make offers, push back politely, and reach an agreement.",
+  "descriptionAr": "قدّم عروضاً، واعترض بأدب، وتوصّل إلى اتفاق.",
+  "words": [
+    {
+      "en": "make a counteroffer",
+      "ar": "يقدّم عرضاً مضاداً",
+      "phonetic": "/meɪk ə ˈkaʊntərˌɔfər/",
+      "example": "Their price was too low, so I decided to make a counteroffer."
+    },
+    {
+      "en": "reach an agreement",
+      "ar": "يتوصّل إلى اتفاق",
+      "phonetic": "/ritʃ ən əˈɡrimənt/",
+      "example": "After two hours of talks, we managed to reach an agreement."
+    },
+    {
+      "en": "meet halfway",
+      "ar": "يلتقي في منتصف الطريق / يتنازل كل طرف قليلاً",
+      "phonetic": "/mit ˌhæfˈweɪ/",
+      "example": "If you can meet halfway on the price, we have a deal."
+    },
+    {
+      "en": "bottom line",
+      "ar": "الحد الأدنى المقبول / الخلاصة",
+      "phonetic": "/ˌbɑtəm ˈlaɪn/",
+      "example": "Five thousand dollars is my bottom line."
+    },
+    {
+      "en": "non-negotiable",
+      "ar": "غير قابل للتفاوض",
+      "phonetic": "/ˌnɑnnɪˈɡoʊʃəbəl/",
+      "example": "The launch date is non-negotiable."
+    },
+    {
+      "en": "push back",
+      "ar": "يعترض / يرفض بأدب",
+      "phonetic": "/pʊʃ ˈbæk/",
+      "example": "Don't be afraid to push back when a deadline is unrealistic."
+    },
+    {
+      "en": "deadline",
+      "ar": "الموعد النهائي",
+      "phonetic": "/ˈdɛdlaɪn/",
+      "example": "Can we move the deadline to the end of the month?"
+    },
+    {
+      "en": "upfront payment",
+      "ar": "دفعة مقدّمة",
+      "phonetic": "/ˌʌpˈfrʌnt ˈpeɪmənt/",
+      "example": "I usually ask for a fifty percent upfront payment."
+    },
+    {
+      "en": "budget constraints",
+      "ar": "قيود الميزانية / ميزانية محدودة",
+      "phonetic": "/ˈbʌdʒɪt kənˈstreɪnts/",
+      "example": "Because of budget constraints, we can't hire a second designer."
+    },
+    {
+      "en": "terms and conditions",
+      "ar": "الشروط والأحكام",
+      "phonetic": "/ˈtərmz ən kənˈdɪʃənz/",
+      "example": "Please read the terms and conditions before you sign."
+    },
+    {
+      "en": "win-win situation",
+      "ar": "موقف يكسب فيه الطرفان",
+      "phonetic": "/ˌwɪnˈwɪn ˌsɪtʃuˈeɪʃən/",
+      "example": "A longer contract at a lower rate is a win-win situation."
+    },
+    {
+      "en": "compromise",
+      "ar": "حل وسط / تسوية",
+      "phonetic": "/ˈkɑmprəˌmaɪz/",
+      "example": "We found a compromise that both sides could accept."
+    },
+    {
+      "en": "make a concession",
+      "ar": "يقدّم تنازلاً",
+      "phonetic": "/meɪk ə kənˈsɛʃən/",
+      "example": "I'm willing to make a concession on the delivery date."
+    },
+    {
+      "en": "scope of work",
+      "ar": "نطاق العمل",
+      "phonetic": "/ˈskoʊp əv ˈwərk/",
+      "example": "The client keeps changing the scope of work."
+    },
+    {
+      "en": "hourly rate",
+      "ar": "الأجر بالساعة",
+      "phonetic": "/ˈaʊərli reɪt/",
+      "example": "My hourly rate is forty dollars."
+    },
+    {
+      "en": "rush fee",
+      "ar": "رسوم الاستعجال",
+      "phonetic": "/ˈrʌʃ fi/",
+      "example": "There is a rush fee for projects that need to be finished in a week."
+    },
+    {
+      "en": "sign a contract",
+      "ar": "يوقّع عقداً",
+      "phonetic": "/saɪn ə ˈkɑntrækt/",
+      "example": "Never start work before you sign a contract."
+    },
+    {
+      "en": "walk away",
+      "ar": "ينسحب (من الصفقة)",
+      "phonetic": "/wɔk əˈweɪ/",
+      "example": "If the offer is too low, be ready to walk away."
+    },
+    {
+      "en": "final offer",
+      "ar": "العرض النهائي",
+      "phonetic": "/ˈfaɪnəl ˈɔfər/",
+      "example": "I'm afraid this is our final offer."
+    },
+    {
+      "en": "round of revisions",
+      "ar": "جولة تعديلات",
+      "phonetic": "/ˈraʊnd əv rɪˈvɪʒənz/",
+      "example": "The price includes one round of revisions."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I can lower my price provided that you pay half upfront.",
+      "ar": "يمكنني أن أخفّض السعر بشرط أن تدفع النصف مقدّماً."
+    },
+    {
+      "en": "We can't sign the contract unless the deadline is extended.",
+      "ar": "لا يمكننا توقيع العقد إلا إذا تم تمديد الموعد النهائي."
+    },
+    {
+      "en": "As long as the scope of work stays the same, the price is fixed.",
+      "ar": "ما دام نطاق العمل كما هو، فالسعر ثابت."
+    },
+    {
+      "en": "I'll agree to two rounds of revisions on condition that you send feedback within two days.",
+      "ar": "سأوافق على جولتين من التعديلات بشرط أن ترسل ملاحظاتك خلال يومين."
+    },
+    {
+      "en": "Unless we reach an agreement today, we'll have to walk away.",
+      "ar": "ما لم نتوصّل إلى اتفاق اليوم، سنضطر إلى الانسحاب."
+    },
+    {
+      "en": "Would you be willing to meet us halfway on the price?",
+      "ar": "هل أنت مستعد أن نلتقي في منتصف الطريق بخصوص السعر؟"
+    },
+    {
+      "en": "That sounds reasonable, but I'd like to make a counteroffer.",
+      "ar": "يبدو هذا معقولاً، لكنني أود أن أقدّم عرضاً مضاداً."
+    },
+    {
+      "en": "I'm afraid that's our final offer.",
+      "ar": "أخشى أن هذا هو عرضنا النهائي."
+    },
+    {
+      "en": "Let's go over the terms and conditions before we sign.",
+      "ar": "دعنا نراجع الشروط والأحكام قبل أن نوقّع."
+    },
+    {
+      "en": "I think this is a win-win situation for both of us.",
+      "ar": "أعتقد أن هذا موقف يكسب فيه كلانا."
+    }
+  ],
+  "story": {
+    "title": "The Demanding Client",
+    "text": "Hana is a freelance graphic designer, and last month she received an email from a demanding client. Mr. Adel wanted a complete brand identity, including a logo, a website design, and packaging, and he wanted it in just one week. His budget was half of Hana's usual rate. Hana didn't want to lose the project, but she knew she had to push back. On a video call, she calmly explained the scope of work. \"I can deliver the logo in a week,\" she said, \"but the full package needs a month.\" Mr. Adel insisted that the deadline was non-negotiable because of a product launch. Hana thought for a moment and made a counteroffer. \"I'll finish everything in two weeks, provided that you pay a rush fee and fifty percent upfront.\" He hesitated and mentioned his budget constraints. Hana decided to make a small concession. \"As long as we limit it to two rounds of revisions, I'll reduce the rush fee.\" She knew that unless she set clear limits, he would keep asking for more. After a long pause, Mr. Adel smiled. \"Fine. Let's sign the contract today.\" They had reached an agreement that felt like a win-win situation.",
+    "translation": "هناء مصممة جرافيك تعمل بشكل حر، وفي الشهر الماضي وصلتها رسالة بريد إلكتروني من عميل كثير المطالب. أراد الأستاذ عادل هوية بصرية كاملة لعلامته التجارية، تشمل شعاراً وتصميم موقع إلكتروني وتغليفاً، وأرادها في أسبوع واحد فقط. وكانت ميزانيته نصف أجر هناء المعتاد. لم تكن هناء تريد أن تخسر المشروع، لكنها عرفت أن عليها أن تعترض. في مكالمة فيديو، شرحت نطاق العمل بهدوء. قالت: «أستطيع أن أسلّم الشعار خلال أسبوع، لكن المشروع الكامل يحتاج إلى شهر.» أصرّ الأستاذ عادل على أن الموعد النهائي غير قابل للتفاوض بسبب إطلاق منتج. فكّرت هناء لحظة ثم قدّمت عرضاً مضاداً: «سأنهي كل شيء خلال أسبوعين، بشرط أن تدفع رسوم استعجال وخمسين في المائة مقدّماً.» تردّد ثم تحدّث عن قيود ميزانيته. قررت هناء أن تقدّم تنازلاً صغيراً: «ما دمنا سنقتصر على جولتين من التعديلات، سأخفّض رسوم الاستعجال.» كانت تعرف أنها ما لم تضع حدوداً واضحة، فسيستمر في طلب المزيد. وبعد صمت طويل، ابتسم الأستاذ عادل وقال: «حسناً. لنوقّع العقد اليوم.» لقد توصّلا إلى اتفاق شعر فيه الطرفان بأنهما رابحان."
+  },
+  "grammar": {
+    "title": "Conditions: unless, provided that, as long as, on condition that",
+    "explanationAr": "في التفاوض نحتاج أن نضع شروطنا بوضوح وأدب. نستخدم provided (that) و as long as و on condition that بمعنى «بشرط أن»، مثل: I'll lower the price provided that you pay upfront. أما unless فمعناها «إلا إذا» أو «ما لم» وتساوي if ... not، مثل: We won't sign unless you extend the deadline. لاحظ أننا نستخدم المضارع البسيط بعد هذه الكلمات حتى لو كنا نتكلم عن المستقبل، فنقول as long as you pay وليس as long as you will pay. وتُعد on condition that أكثر رسمية، وتُستخدم كثيراً في العقود والرسائل الرسمية.",
+    "rule": "provided (that) / as long as / on condition that + present simple = only if\nI'll lower the price provided that you pay upfront.\nunless + present simple = if ... not\nWe won't sign unless you extend the deadline.\nNo will after these words: as long as you pay (NOT as long as you will pay)",
+    "examples": [
+      {
+        "en": "I'll accept the deadline provided that you pay a rush fee.",
+        "ar": "سأقبل الموعد النهائي بشرط أن تدفع رسوم الاستعجال."
+      },
+      {
+        "en": "We can't reach an agreement unless you make a concession.",
+        "ar": "لا يمكننا أن نتوصّل إلى اتفاق إلا إذا قدّمت تنازلاً."
+      },
+      {
+        "en": "As long as the scope of work doesn't change, my hourly rate stays the same.",
+        "ar": "ما دام نطاق العمل لا يتغيّر، يبقى أجري بالساعة كما هو."
+      },
+      {
+        "en": "They agreed to sign the contract on condition that delivery is free.",
+        "ar": "وافقوا على توقيع العقد بشرط أن يكون التوصيل مجانياً."
+      },
+      {
+        "en": "Unless you can meet us halfway, we'll have to walk away.",
+        "ar": "ما لم تستطع أن تلتقي معنا في منتصف الطريق، سنضطر إلى الانسحاب."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Agreeing on Price and Deadline",
+    "settingAr": "إنت فريلانسر، وعميل عايز موقع كامل في وقت قصير وبميزانية قليلة. اتفاوض معاه على السعر والميعاد.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Client",
+        "nameAr": "العميل"
+      },
+      {
+        "id": "B",
+        "name": "Freelancer",
+        "nameAr": "الفريلانسر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "We need the whole website in ten days. Is that possible?",
+        "ar": "إحنا محتاجين الموقع كله في عشر أيام. ينفع؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It's tight, but I can do it provided that you pay a rush fee.",
+        "ar": "الوقت ضيق، بس أقدر أعمله بشرط إنك تدفع رسوم استعجال."
+      },
+      {
+        "speaker": "A",
+        "en": "That's beyond our budget. Can you lower your hourly rate instead?",
+        "ar": "ده أكتر من ميزانيتنا. ممكن تنزّل سعر الساعة بدل كده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'm afraid my rate is non-negotiable, but I'm open to a compromise.",
+        "ar": "للأسف سعري مش قابل للتفاوض، بس أنا مستعد لحل وسط."
+      },
+      {
+        "speaker": "A",
+        "en": "What kind of compromise do you have in mind?",
+        "ar": "حل وسط زي إيه في دماغك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'll drop the rush fee as long as the scope of work stays fixed.",
+        "ar": "هلغي رسوم الاستعجال طالما نطاق الشغل ثابت ومش هيتغيّر."
+      },
+      {
+        "speaker": "A",
+        "en": "Fine, but we'll need at least three rounds of revisions.",
+        "ar": "ماشي، بس هنحتاج تلات جولات تعديلات على الأقل."
+      },
+      {
+        "speaker": "B",
+        "en": "I can offer two rounds, unless you're willing to extend the deadline.",
+        "ar": "أقدر أديك جولتين، إلا لو إنت مستعد تمد الميعاد."
+      },
+      {
+        "speaker": "A",
+        "en": "Two rounds is fine. When do you need the payment?",
+        "ar": "جولتين كويس. محتاج الفلوس إمتى؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Half upfront and the rest on delivery, if that works for you.",
+        "ar": "النص مقدّم والباقي عند التسليم، لو ده يناسبك."
+      },
+      {
+        "speaker": "A",
+        "en": "That works. Let's sign the contract today.",
+        "ar": "ده يناسبني. يلا نمضي العقد النهارده."
+      },
+      {
+        "speaker": "B",
+        "en": "Great, I'm glad we reached an agreement.",
+        "ar": "حلو جداً، أنا مبسوط إننا اتفقنا."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "We won't sign the contract ___ you extend the deadline.",
+      "options": [
+        "as long as",
+        "unless",
+        "provided that",
+        "on condition that"
+      ],
+      "answer": "unless"
+    },
+    {
+      "type": "fill",
+      "sentence": "Let's both give a little and meet ___ on the price.",
+      "answer": "halfway",
+      "hint": "في منتصف الطريق"
+    },
+    {
+      "type": "order",
+      "words": [
+        "you",
+        "I",
+        "upfront.",
+        "provided",
+        "it",
+        "can",
+        "pay",
+        "that",
+        "do"
+      ],
+      "answer": "I can do it provided that you pay upfront."
+    },
+    {
+      "type": "mcq",
+      "question": "If you refuse a deal and leave the negotiation, you ___.",
+      "options": [
+        "make a concession",
+        "sign a contract",
+        "reach an agreement",
+        "walk away"
+      ],
+      "answer": "walk away"
+    },
+    {
+      "type": "fill",
+      "sentence": "I'll lower my price as long as you ___ half upfront.",
+      "answer": "pay",
+      "hint": "تدفع"
+    },
+    {
+      "type": "order",
+      "words": [
+        "walk",
+        "we'll",
+        "agree,",
+        "Unless",
+        "away.",
+        "you"
+      ],
+      "answer": "Unless you agree, we'll walk away."
+    },
+    {
+      "type": "mcq",
+      "question": "I'm happy with that rate ___ the scope of work stays the same.",
+      "options": [
+        "as long as",
+        "unless",
+        "despite",
+        "in spite of"
+      ],
+      "answer": "as long as"
+    },
+    {
+      "type": "listen",
+      "audioText": "We need to reach an agreement before Friday.",
+      "answer": "We need to reach an agreement before Friday."
+    }
+  ]
+}

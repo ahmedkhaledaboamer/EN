@@ -1,0 +1,362 @@
+{
+  "slug": "diplomacy",
+  "title": "Diplomacy & Tactful Language",
+  "titleAr": "الدبلوماسية واللباقة",
+  "emoji": "🕊️",
+  "level": "C2",
+  "description": "Say difficult things politely: disagree, refuse, and give bad news tactfully.",
+  "descriptionAr": "قل الأشياء الصعبة بأدب: اعترض، وارفض، وانقل الأخبار السيئة بلباقة.",
+  "words": [
+    {
+      "en": "with all due respect",
+      "ar": "مع كامل احترامي (تمهيد مهذب للاعتراض)",
+      "phonetic": "/wɪθ ɔl du rɪˈspɛkt/",
+      "example": "With all due respect, I think the numbers tell a different story."
+    },
+    {
+      "en": "I take your point",
+      "ar": "أفهم وجهة نظرك / معك حق في هذه النقطة",
+      "phonetic": "/aɪ teɪk jʊr pɔɪnt/",
+      "example": "I take your point, but we still need to consider the cost."
+    },
+    {
+      "en": "tactful",
+      "ar": "لَبِق / يراعي مشاعر الآخرين",
+      "phonetic": "/ˈtæktfəl/",
+      "example": "She gave a tactful answer that didn't offend anyone."
+    },
+    {
+      "en": "constructive",
+      "ar": "بنّاء",
+      "phonetic": "/kənˈstrʌktɪv/",
+      "example": "Thank you for the constructive feedback on my report."
+    },
+    {
+      "en": "diplomatic",
+      "ar": "دبلوماسي / حكيم في التعامل",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "example": "He was very diplomatic when the two managers started arguing."
+    },
+    {
+      "en": "reservations",
+      "ar": "تحفّظات",
+      "phonetic": "/ˌrɛzərˈveɪʃənz/",
+      "example": "I have some reservations about the new pricing strategy."
+    },
+    {
+      "en": "compromise",
+      "ar": "حل وسط / تسوية",
+      "phonetic": "/ˈkɑmprəˌmaɪz/",
+      "example": "After a long discussion, we reached a compromise."
+    },
+    {
+      "en": "sensitive issue",
+      "ar": "مسألة حساسة",
+      "phonetic": "/ˈsɛnsətɪv ˈɪʃu/",
+      "example": "Salary is a sensitive issue, so let's discuss it privately."
+    },
+    {
+      "en": "to be honest",
+      "ar": "بصراحة / إن أردت الصدق",
+      "phonetic": "/tə bi ˈɑnɪst/",
+      "example": "To be honest, I'm not sure this plan will work."
+    },
+    {
+      "en": "I see where you're coming from",
+      "ar": "أتفهّم دوافعك ووجهة نظرك",
+      "phonetic": "/aɪ si wɛr jʊr ˈkʌmɪŋ frʌm/",
+      "example": "I see where you're coming from, but I'd like to suggest an alternative."
+    },
+    {
+      "en": "not entirely convinced",
+      "ar": "غير مقتنع تماماً",
+      "phonetic": "/nɑt ɪnˈtaɪərli kənˈvɪnst/",
+      "example": "I'm not entirely convinced that we need another meeting."
+    },
+    {
+      "en": "soften the blow",
+      "ar": "يخفّف وقع الخبر السيئ",
+      "phonetic": "/ˈsɔfən ðə bloʊ/",
+      "example": "The company offered a generous bonus to soften the blow of the changes."
+    },
+    {
+      "en": "tread carefully",
+      "ar": "يتصرّف بحذر شديد / يتعامل بحساسية",
+      "phonetic": "/trɛd ˈkɛrfəli/",
+      "example": "This is a delicate situation, so we need to tread carefully."
+    },
+    {
+      "en": "common ground",
+      "ar": "أرضية مشتركة / نقاط اتفاق",
+      "phonetic": "/ˈkɑmən ɡraʊnd/",
+      "example": "Despite our differences, we managed to find common ground."
+    },
+    {
+      "en": "on reflection",
+      "ar": "بعد التفكير / بعد إعادة النظر",
+      "phonetic": "/ɑn rɪˈflɛkʃən/",
+      "example": "On reflection, I think my first reaction was a little harsh."
+    },
+    {
+      "en": "I'm afraid",
+      "ar": "يؤسفني / للأسف (لتلطيف خبر سيئ أو رفض)",
+      "phonetic": "/aɪm əˈfreɪd/",
+      "example": "I'm afraid we can't offer you the position at this time."
+    },
+    {
+      "en": "worth considering",
+      "ar": "يستحق النظر فيه / يستحق التفكير",
+      "phonetic": "/wərθ kənˈsɪdərɪŋ/",
+      "example": "It might be worth considering a smaller budget for the first year."
+    },
+    {
+      "en": "appreciate",
+      "ar": "يقدّر / يُثمّن",
+      "phonetic": "/əˈpriʃiˌeɪt/",
+      "example": "I really appreciate all the time you put into this proposal."
+    },
+    {
+      "en": "candid",
+      "ar": "صريح وواضح (بصدق ودون مجاملة)",
+      "phonetic": "/ˈkændɪd/",
+      "example": "Can I be candid with you about your presentation?"
+    },
+    {
+      "en": "ruffle feathers",
+      "ar": "يثير استياء الآخرين / يزعّل الناس",
+      "phonetic": "/ˈrʌfəl ˈfɛðərz/",
+      "example": "I don't want to ruffle feathers, but this process isn't working."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I was wondering whether we could move the deadline to next week.",
+      "ar": "كنت أتساءل إن كان بإمكاننا تأجيل الموعد النهائي إلى الأسبوع القادم."
+    },
+    {
+      "en": "It might be worth considering a different approach.",
+      "ar": "ربما يستحق الأمر أن نفكر في أسلوب مختلف."
+    },
+    {
+      "en": "I'm not entirely convinced that this is the right time.",
+      "ar": "لست مقتنعاً تماماً بأن هذا هو الوقت المناسب."
+    },
+    {
+      "en": "Would it be possible to discuss this in private?",
+      "ar": "هل من الممكن أن نناقش هذا على انفراد؟"
+    },
+    {
+      "en": "Perhaps we could look at the figures again before deciding.",
+      "ar": "ربما يمكننا مراجعة الأرقام مرة أخرى قبل أن نقرر."
+    },
+    {
+      "en": "I'm afraid we won't be able to accept your offer this time.",
+      "ar": "يؤسفني أننا لن نتمكن من قبول عرضك هذه المرة."
+    },
+    {
+      "en": "You might want to double-check the numbers before the meeting.",
+      "ar": "ربما تودّ التأكد من الأرقام مرة أخرى قبل الاجتماع."
+    },
+    {
+      "en": "With all due respect, I see things a little differently.",
+      "ar": "مع كامل احترامي، أرى الأمور بشكل مختلف قليلاً."
+    },
+    {
+      "en": "I take your point, but there are other factors to consider.",
+      "ar": "أفهم وجهة نظرك، لكن هناك عوامل أخرى يجب أخذها في الاعتبار."
+    },
+    {
+      "en": "Thank you for your candid and constructive feedback.",
+      "ar": "شكراً لملاحظاتك الصريحة والبنّاءة."
+    }
+  ],
+  "story": {
+    "title": "Not a No, but Not Yet",
+    "text": "Hana had managed the design team for six years, and Samir had been there for every one of them. So when his proposal for a new client portal landed on her desk, she knew she had to tread carefully. The idea was creative, but the budget simply wasn't there. She invited him for coffee instead of a formal meeting. \"First, I really appreciate the effort you put into this,\" she began. \"It's clear you've thought hard about our clients' needs.\" Samir smiled, but he could sense something was coming. \"I was wondering whether we could talk about the timing,\" she continued. \"To be honest, I have some reservations about launching it this year. Our budget is already stretched, and I'm afraid the board won't approve another big project right now.\" Samir's face fell. \"With all due respect, I think the portal would save us money in the long run.\" \"I take your point,\" Hana said, \"and I see where you're coming from. You may well be right about the long term.\" She paused, trying to soften the blow. \"It might be worth considering a smaller pilot first, with just two clients. That would give us real data to show the board.\" Samir thought for a moment. He was not entirely convinced, but he could tell she was being candid rather than dismissive. \"So it's not a no?\" he asked. \"It's a 'not yet,'\" she said, \"and I'd like you to lead the pilot.\" By the end of their coffee, they had found common ground.",
+    "translation": "كانت هناء تدير فريق التصميم منذ ست سنوات، وكان سمير معها في كل سنة منها. لذلك عندما وصل إلى مكتبها مقترحه لإنشاء بوابة إلكترونية جديدة للعملاء، أدركت أن عليها أن تتصرف بحذر شديد. كانت الفكرة مبتكرة، لكن الميزانية ببساطة لم تكن متوفرة. دعته إلى فنجان قهوة بدلاً من اجتماع رسمي. بدأت قائلة: «أولاً، أقدّر حقاً الجهد الذي بذلته في هذا. من الواضح أنك فكرت ملياً في احتياجات عملائنا.» ابتسم سمير، لكنه شعر أن هناك شيئاً قادماً. تابعت: «كنت أتساءل إن كان بإمكاننا أن نتحدث عن التوقيت. بصراحة، لديّ بعض التحفظات على إطلاقها هذا العام. ميزانيتنا مضغوطة بالفعل، ويؤسفني أن مجلس الإدارة لن يوافق على مشروع كبير آخر في الوقت الحالي.» تجهّم وجه سمير وقال: «مع كامل احترامي، أعتقد أن البوابة ستوفر لنا المال على المدى الطويل.» قالت هناء: «أفهم وجهة نظرك، وأتفهّم دوافعك. وقد تكون محقاً تماماً على المدى الطويل.» ثم توقفت قليلاً محاولةً تخفيف وقع الخبر، وقالت: «ربما يستحق الأمر أن نفكر في تجربة أصغر أولاً، مع عميلين فقط. سيمنحنا ذلك بيانات حقيقية نعرضها على المجلس.» فكّر سمير لحظة. لم يكن مقتنعاً تماماً، لكنه أدرك أنها كانت صريحة معه لا مستخفّة به. سألها: «إذن ليس رفضاً؟» قالت: «إنه ‹ليس الآن›، وأودّ أن تتولى أنت قيادة التجربة.» وبنهاية قهوتهما، كانا قد وجدا أرضية مشتركة."
+  },
+  "grammar": {
+    "title": "Softening and Indirectness",
+    "explanationAr": "في المواقف الحساسة يفضّل المتحدثون بالإنجليزية الأسلوب غير المباشر لتجنّب الإحراج أو جرح المشاعر. نستخدم الماضي المستمر بدلاً من الطلب المباشر: I was wondering whether we could... بمعنى «كنت أتساءل إن كان بإمكاننا...». ونقدّم الاقتراحات بلطف باستخدام It might be worth considering... أو You might want to.... كما نخفف الرفض أو الاعتراض بكلمات مثل I'm afraid و not entirely و a little و perhaps، فنقول I'm not entirely convinced بدلاً من I disagree. هذه الصيغ لا تغيّر المعنى الأساسي، لكنها تجعل الرسالة أكثر لباقة واحتراماً.",
+    "rule": "I was wondering whether / if + we could... (polite request)\nIt might be worth + verb-ing... (gentle suggestion)\nYou might want to + base verb... (soft advice)\nI'm afraid + bad news / refusal\nnot entirely / a little / perhaps = softeners (I'm not entirely convinced...)",
+    "examples": [
+      {
+        "en": "I was wondering whether you'd be open to a compromise.",
+        "ar": "كنت أتساءل إن كنت مستعداً لقبول حل وسط."
+      },
+      {
+        "en": "It might be worth considering the client's reservations first.",
+        "ar": "ربما يستحق الأمر أن نأخذ تحفظات العميل في الاعتبار أولاً."
+      },
+      {
+        "en": "You might want to be a little more tactful with the new team.",
+        "ar": "ربما تودّ أن تكون أكثر لباقة قليلاً مع الفريق الجديد."
+      },
+      {
+        "en": "I'm afraid the proposal doesn't fit our budget this year.",
+        "ar": "يؤسفني أن المقترح لا يتناسب مع ميزانيتنا هذا العام."
+      },
+      {
+        "en": "I'm not entirely convinced, but I appreciate your candid opinion.",
+        "ar": "لست مقتنعاً تماماً، لكنني أقدّر رأيك الصريح."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Pushing Back on a Deadline",
+    "settingAr": "مديرك بعت جدول جديد للمشروع ومواعيده ضيقة جداً، وإنت عايز تعترض عليه بلباقة وتقترح حل.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Manager",
+        "nameAr": "المدير"
+      },
+      {
+        "id": "B",
+        "name": "Team member",
+        "nameAr": "عضو الفريق (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "So, what do you think of the new schedule I sent around?",
+        "ar": "ها، إيه رأيك في الجدول الجديد اللي بعته للكل؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Thanks for sharing it. I was wondering whether we could discuss the deadlines.",
+        "ar": "شكراً إنك بعته. كنت بقول لو ممكن نتكلم شوية عن المواعيد."
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. Do you think they're too tight?",
+        "ar": "طبعاً. إنت شايف إنها ضيقة أوي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "To be honest, I have some reservations about the launch date.",
+        "ar": "بصراحة، عندي شوية تحفظات على ميعاد الإطلاق."
+      },
+      {
+        "speaker": "A",
+        "en": "I see. But the client really wants it before March.",
+        "ar": "فاهم. بس العميل عايزه قبل مارس ضروري."
+      },
+      {
+        "speaker": "B",
+        "en": "I take your point. However, rushing might seriously affect the quality.",
+        "ar": "معاك حق. بس الكروتة ممكن تأثّر على الجودة جامد."
+      },
+      {
+        "speaker": "A",
+        "en": "Fair enough. So what would you suggest instead?",
+        "ar": "ماشي. طب إنت تقترح إيه بدل كده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It might be worth considering a phased launch, starting with the core features.",
+        "ar": "يمكن يبقى كويس لو فكرنا نطلقه على مراحل، ونبدأ بالمميزات الأساسية."
+      },
+      {
+        "speaker": "A",
+        "en": "That's an interesting idea. Would the client accept that, though?",
+        "ar": "فكرة حلوة. بس تفتكر العميل هيوافق؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I think so, if we present it as a way to reduce risk.",
+        "ar": "أعتقد آه، لو قدمناها له على إنها طريقة تقلل المخاطرة."
+      },
+      {
+        "speaker": "A",
+        "en": "Alright, prepare a short proposal and we'll discuss it on Monday.",
+        "ar": "تمام، جهّز مقترح صغير ونتناقش فيه يوم الاتنين."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. I really appreciate you being open to this.",
+        "ar": "حلو أوي. أنا مقدّر جداً إنك متقبّل الفكرة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which is the most tactful way to disagree with your manager?",
+      "options": [
+        "You're wrong about this.",
+        "That's a terrible idea.",
+        "I'm not entirely convinced this will work.",
+        "No way, I totally disagree."
+      ],
+      "answer": "I'm not entirely convinced this will work."
+    },
+    {
+      "type": "fill",
+      "sentence": "I was ___ whether we could reschedule the meeting.",
+      "answer": "wondering",
+      "hint": "أتساءل"
+    },
+    {
+      "type": "order",
+      "words": [
+        "worth",
+        "another",
+        "It",
+        "considering",
+        "be",
+        "option.",
+        "might"
+      ],
+      "answer": "It might be worth considering another option."
+    },
+    {
+      "type": "mcq",
+      "question": "Your colleague's criticism is honest and helps you improve. Her feedback is ___.",
+      "options": [
+        "constructive",
+        "destructive",
+        "tactless",
+        "offensive"
+      ],
+      "answer": "constructive"
+    },
+    {
+      "type": "fill",
+      "sentence": "We disagreed at first, but eventually we found common ___.",
+      "answer": "ground",
+      "hint": "أرضية (أرضية مشتركة)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "approve",
+        "afraid",
+        "budget.",
+        "I'm",
+        "can't",
+        "the",
+        "we"
+      ],
+      "answer": "I'm afraid we can't approve the budget."
+    },
+    {
+      "type": "mcq",
+      "question": "People usually say \"with all due respect\" just before they...",
+      "options": [
+        "thank someone warmly",
+        "apologize for being late",
+        "agree completely",
+        "disagree with someone"
+      ],
+      "answer": "disagree with someone"
+    },
+    {
+      "type": "listen",
+      "audioText": "I see where you're coming from, but I have some reservations.",
+      "answer": "I see where you're coming from, but I have some reservations."
+    }
+  ]
+}

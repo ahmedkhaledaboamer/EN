@@ -1,0 +1,352 @@
+{
+  "slug": "relationships",
+  "title": "Relationships & Conflict",
+  "titleAr": "العلاقات وحل الخلافات",
+  "emoji": "💬",
+  "level": "B2",
+  "description": "Talk about friendships, misunderstandings, apologies, and making up.",
+  "descriptionAr": "تحدّث عن الصداقات وسوء التفاهم والاعتذار والتصالح.",
+  "words": [
+    {
+      "en": "misunderstanding",
+      "ar": "سوء تفاهم",
+      "phonetic": "/ˌmɪsəndərˈstændɪŋ/",
+      "example": "Our fight started with a silly misunderstanding."
+    },
+    {
+      "en": "fall out with",
+      "ar": "يتخانق مع / يقاطع (بعد خلاف)",
+      "phonetic": "/ˌfɔl ˈaʊt wɪθ/",
+      "example": "I don't want to fall out with my best friend over money."
+    },
+    {
+      "en": "clear the air",
+      "ar": "يصفّي الجو / يزيل التوتر بالمصارحة",
+      "phonetic": "/ˈklɪr ði ˈɛr/",
+      "example": "We need to sit down and clear the air."
+    },
+    {
+      "en": "make up with",
+      "ar": "يتصالح مع",
+      "phonetic": "/ˌmeɪk ˈʌp wɪθ/",
+      "example": "She finally decided to make up with her sister."
+    },
+    {
+      "en": "apologize",
+      "ar": "يعتذر",
+      "phonetic": "/əˈpɑləˌdʒaɪz/",
+      "example": "I called him to apologize for being late."
+    },
+    {
+      "en": "hold a grudge",
+      "ar": "يشيل في قلبه / يحمل ضغينة",
+      "phonetic": "/ˈhoʊld ə ˈɡrʌdʒ/",
+      "example": "Life is too short to hold a grudge."
+    },
+    {
+      "en": "take it personally",
+      "ar": "ياخد الموضوع على نفسه / يعتبره إساءة شخصية",
+      "phonetic": "/ˈteɪk ɪt ˈpərsənəli/",
+      "example": "He was just tired, so please don't take it personally."
+    },
+    {
+      "en": "hurt feelings",
+      "ar": "مشاعر مجروحة",
+      "phonetic": "/ˈhərt ˈfilɪŋz/",
+      "example": "There were a lot of hurt feelings after the argument."
+    },
+    {
+      "en": "trust",
+      "ar": "ثقة / يثق في",
+      "phonetic": "/trʌst/",
+      "example": "It takes years to build trust and seconds to break it."
+    },
+    {
+      "en": "get along with",
+      "ar": "يتفاهم مع / علاقته كويسة بـ",
+      "phonetic": "/ɡɛt əˈlɔŋ wɪθ/",
+      "example": "I get along with all my coworkers."
+    },
+    {
+      "en": "drift apart",
+      "ar": "يبعدوا عن بعض تدريجياً",
+      "phonetic": "/ˈdrɪft əˈpɑrt/",
+      "example": "After college, many friends slowly drift apart."
+    },
+    {
+      "en": "argument",
+      "ar": "خناقة / جدال",
+      "phonetic": "/ˈɑrɡjəmənt/",
+      "example": "We had a big argument about the wedding plans."
+    },
+    {
+      "en": "forgive",
+      "ar": "يسامح",
+      "phonetic": "/fərˈɡɪv/",
+      "example": "Can you forgive me for what I said?"
+    },
+    {
+      "en": "regret",
+      "ar": "يندم / ندم",
+      "phonetic": "/rɪˈɡrɛt/",
+      "example": "I regret not calling her on her birthday."
+    },
+    {
+      "en": "lose touch",
+      "ar": "تنقطع الصلة / يبطّل يتواصل",
+      "phonetic": "/ˈluz ˈtʌtʃ/",
+      "example": "It's easy to lose touch with people when you move abroad."
+    },
+    {
+      "en": "reach out",
+      "ar": "يبادر بالتواصل",
+      "phonetic": "/ˌritʃ ˈaʊt/",
+      "example": "If you miss him, why don't you reach out first?"
+    },
+    {
+      "en": "sincere apology",
+      "ar": "اعتذار صادق",
+      "phonetic": "/sɪnˈsɪr əˈpɑlədʒi/",
+      "example": "She accepted his sincere apology."
+    },
+    {
+      "en": "jealous",
+      "ar": "غيران / غيور",
+      "phonetic": "/ˈdʒɛləs/",
+      "example": "He felt jealous when his friend got the promotion."
+    },
+    {
+      "en": "supportive",
+      "ar": "داعم / بيقف جنبك",
+      "phonetic": "/səˈpɔrtɪv/",
+      "example": "My friends were very supportive when I lost my job."
+    },
+    {
+      "en": "see eye to eye",
+      "ar": "يتفقوا في الرأي",
+      "phonetic": "/ˈsi ˈaɪ tə ˈaɪ/",
+      "example": "We don't always see eye to eye, but we respect each other."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I wish I hadn't said that to you.",
+      "ar": "ياليتني لم أقل لك ذلك."
+    },
+    {
+      "en": "If only I had listened to your advice.",
+      "ar": "ليتني استمعت إلى نصيحتك."
+    },
+    {
+      "en": "I wish we could go back to how things were.",
+      "ar": "أتمنى لو نستطيع العودة إلى ما كانت عليه الأمور."
+    },
+    {
+      "en": "I wish you would stop interrupting me when I talk.",
+      "ar": "أتمنى لو تتوقف عن مقاطعتي عندما أتكلم."
+    },
+    {
+      "en": "I wish I knew how to fix our friendship.",
+      "ar": "أتمنى لو كنت أعرف كيف أصلح صداقتنا."
+    },
+    {
+      "en": "I'm sorry. I didn't mean to hurt your feelings.",
+      "ar": "أنا آسف. لم أقصد أن أجرح مشاعرك."
+    },
+    {
+      "en": "Can we talk about what happened and clear the air?",
+      "ar": "هل يمكننا التحدث عمّا حدث وتصفية الأجواء؟"
+    },
+    {
+      "en": "Let's not hold a grudge over something so small.",
+      "ar": "دعنا لا نحمل ضغينة بسبب شيء بهذا الصغر."
+    },
+    {
+      "en": "I think it was just a misunderstanding.",
+      "ar": "أعتقد أنه كان مجرد سوء تفاهم."
+    },
+    {
+      "en": "I really regret not calling you sooner.",
+      "ar": "أنا نادم حقاً لأنني لم أتصل بك أبكر."
+    }
+  ],
+  "story": {
+    "title": "The Empty Chair",
+    "text": "Karim and Hassan had been best friends since high school. They used to get along with each other perfectly, but last year everything changed. Hassan got engaged and planned a big party, and Karim didn't come. Hassan took it personally. He thought Karim was jealous of his new life, so he stopped answering his calls. For months, the two friends didn't speak, and they slowly began to drift apart. The truth was simple: Karim's father had been in the hospital that night, and Karim had been too upset to explain. One evening, Karim decided to reach out. He sent a short message: \"Can we meet? I think there's been a misunderstanding.\" They met at their old café. At first, the silence was awkward. Then Karim told him about his father. Hassan looked shocked. \"I wish you had told me,\" he said quietly. \"I wish I hadn't assumed the worst.\" Karim smiled. \"If only I had called you that night. I didn't want to ruin your party.\" They both offered a sincere apology and agreed not to hold a grudge. By the end of the evening, they had cleared the air, and their friendship felt even stronger than before.",
+    "translation": "كان كريم وحسن أعز صديقين منذ المدرسة الثانوية. كانا يتفاهمان مع بعضهما تماماً، لكن في العام الماضي تغيّر كل شيء. خُطب حسن وأقام حفلة كبيرة، ولم يحضر كريم. أخذ حسن الأمر على أنه إساءة شخصية. ظنّ أن كريم يغار من حياته الجديدة، فتوقف عن الرد على مكالماته. ولعدة أشهر، لم يتكلم الصديقان، وبدآ يبتعدان عن بعضهما تدريجياً. كانت الحقيقة بسيطة: كان والد كريم في المستشفى تلك الليلة، وكان كريم منزعجاً جداً لدرجة أنه لم يستطع أن يشرح. وذات مساء، قرر كريم أن يبادر بالتواصل. أرسل رسالة قصيرة: «هل يمكننا أن نلتقي؟ أعتقد أن هناك سوء تفاهم.» التقيا في مقهاهما القديم. في البداية، كان الصمت محرجاً. ثم أخبره كريم عن والده. بدا حسن مصدوماً، وقال بهدوء: «ليتك أخبرتني. ليتني لم أفترض الأسوأ.» ابتسم كريم وقال: «ليتني اتصلت بك تلك الليلة. لم أُرِد أن أفسد حفلتك.» قدّم كلاهما اعتذاراً صادقاً واتفقا على ألا يحملا أي ضغينة. وبحلول نهاية السهرة، كانا قد صفّيا الأجواء، وأصبحت صداقتهما أقوى من ذي قبل."
+  },
+  "grammar": {
+    "title": "wish / if only for regrets and wishes",
+    "explanationAr": "نستخدم wish أو if only للتعبير عن الندم أو التمني لشيء مختلف عن الواقع. للندم على شيء حدث في الماضي نستخدم wish / if only + past perfect مثل: I wish I hadn't said that (ياريتني ما قلتش كده). وللتمني عن موقف حالي نستخدم wish + past simple مثل: I wish I knew the answer، ومع be نستخدم were مثل I wish he were here. ولو متضايق من تصرف شخص وعايزه يتغير نستخدم wish + someone + would مثل: I wish you would listen to me. و if only أقوى في التعبير عن المشاعر من wish.",
+    "rule": "wish / if only + past perfect = regret about the past (I wish I hadn't said that.)\nwish / if only + past simple = wish about the present (I wish I knew.)\nwish + could + verb = ability you don't have (I wish I could fix it.)\nwish + someone + would + verb = complaint, wanting someone to change (I wish you would call me.)",
+    "examples": [
+      {
+        "en": "I wish I hadn't lost touch with my old classmates.",
+        "ar": "ياليتني لم أفقد التواصل مع زملاء دراستي القدامى."
+      },
+      {
+        "en": "If only I had apologized before he moved away.",
+        "ar": "ليتني اعتذرت قبل أن ينتقل بعيداً."
+      },
+      {
+        "en": "I wish we saw eye to eye on more things.",
+        "ar": "أتمنى لو كنا نتفق في الرأي في أمور أكثر."
+      },
+      {
+        "en": "I wish my brother would stop holding a grudge.",
+        "ar": "أتمنى لو يتوقف أخي عن حمل الضغينة."
+      },
+      {
+        "en": "She wishes she could forgive him, but she can't trust him anymore.",
+        "ar": "تتمنى لو تستطيع أن تسامحه، لكنها لم تعد تثق به."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Clearing the Air",
+    "settingAr": "إنت اتخانقت مع صاحبتك المقرّبة في حفلة وقلت كلام جرحها، ودلوقتي قاعدين في كافيه عشان تصفّوا الجو.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Lina",
+        "nameAr": "لينا (صاحبتك)"
+      },
+      {
+        "id": "B",
+        "name": "Friend",
+        "nameAr": "الصديق (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hi Lina, thanks for coming. I really wanted to clear the air.",
+        "ar": "أهلاً يا لينا، شكراً إنك جيتي. كان نفسي أوي نصفّي الجو."
+      },
+      {
+        "speaker": "A",
+        "en": "Me too. Honestly, I was really hurt by what you said.",
+        "ar": "وأنا كمان. بصراحة، كلامك جرحني جداً."
+      },
+      {
+        "speaker": "B",
+        "en": "I know. I wish I hadn't said those things at the party.",
+        "ar": "عارف. ياريتني ما قلتش الكلام ده في الحفلة."
+      },
+      {
+        "speaker": "A",
+        "en": "But why did you say them in front of everyone?",
+        "ar": "بس ليه قلته قدام الناس كلها؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I was stressed and a bit jealous, but that's no excuse. I'm truly sorry.",
+        "ar": "كنت متوتر وغيران شوية، بس ده مش مبرر. أنا آسف بجد."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank you. I wish you had told me you were stressed.",
+        "ar": "شكراً. كان نفسي تقولّي إنك كنت متوتر."
+      },
+      {
+        "speaker": "B",
+        "en": "You're right. If only I had talked to you earlier.",
+        "ar": "عندك حق. ياريتني كلمتك بدري."
+      },
+      {
+        "speaker": "A",
+        "en": "Well, I don't want to hold a grudge. You're my best friend.",
+        "ar": "طيب، أنا مش عايزة أشيل منك. إنت أعز صاحب عندي."
+      },
+      {
+        "speaker": "B",
+        "en": "I've missed you so much. Can we start over?",
+        "ar": "وحشتيني جداً. ممكن نبدأ من جديد؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. Let's grab dinner this weekend, like old times.",
+        "ar": "طبعاً. يلا نتعشى سوا آخر الأسبوع، زي زمان."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "I'm so sorry. I wish I ___ that to you yesterday.",
+      "options": [
+        "didn't say",
+        "hadn't said",
+        "don't say",
+        "won't say"
+      ],
+      "answer": "hadn't said"
+    },
+    {
+      "type": "fill",
+      "sentence": "Let's sit down and clear the ___.",
+      "answer": "air",
+      "hint": "نصفّي الجو"
+    },
+    {
+      "type": "order",
+      "words": [
+        "touch",
+        "I",
+        "hadn't",
+        "her.",
+        "wish",
+        "lost",
+        "with",
+        "I"
+      ],
+      "answer": "I wish I hadn't lost touch with her."
+    },
+    {
+      "type": "mcq",
+      "question": "When two friends slowly stop being close, they ___.",
+      "options": [
+        "make up",
+        "clear the air",
+        "reach out",
+        "drift apart"
+      ],
+      "answer": "drift apart"
+    },
+    {
+      "type": "fill",
+      "sentence": "She still holds a ___ against him after all these years.",
+      "answer": "grudge",
+      "hint": "ضغينة"
+    },
+    {
+      "type": "order",
+      "words": [
+        "talked",
+        "only",
+        "sooner.",
+        "If",
+        "had",
+        "we"
+      ],
+      "answer": "If only we had talked sooner."
+    },
+    {
+      "type": "mcq",
+      "question": "I wish I ___ how to fix our friendship.",
+      "options": [
+        "knew",
+        "know",
+        "have known",
+        "will know"
+      ],
+      "answer": "knew"
+    },
+    {
+      "type": "listen",
+      "audioText": "It was just a misunderstanding, so let's make up.",
+      "answer": "It was just a misunderstanding, so let's make up."
+    }
+  ]
+}

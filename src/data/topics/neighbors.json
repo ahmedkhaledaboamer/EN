@@ -1,0 +1,350 @@
+{
+  "slug": "neighbors",
+  "title": "Neighbors & Community",
+  "titleAr": "الجيران والحي",
+  "emoji": "🏘️",
+  "level": "B1",
+  "description": "Get along with neighbors, solve small problems, and take part in your community.",
+  "descriptionAr": "تعايش بشكل جيد مع جيرانك، وحُل المشاكل الصغيرة، وشارك في مجتمعك.",
+  "words": [
+    {
+      "en": "neighborhood",
+      "ar": "الحي / المنطقة",
+      "phonetic": "/ˈneɪbərˌhʊd/",
+      "example": "We live in a quiet neighborhood near the park."
+    },
+    {
+      "en": "tenant",
+      "ar": "مستأجر / ساكن",
+      "phonetic": "/ˈtɛnənt/",
+      "example": "The new tenant moved into the apartment upstairs."
+    },
+    {
+      "en": "landlord",
+      "ar": "مالك العقار / صاحب البيت",
+      "phonetic": "/ˈlændˌlɔrd/",
+      "example": "Our landlord fixed the heater in one day."
+    },
+    {
+      "en": "noisy",
+      "ar": "مُزعج / دوشة",
+      "phonetic": "/ˈnɔɪzi/",
+      "example": "The people next door are very noisy at night."
+    },
+    {
+      "en": "get along with",
+      "ar": "يتفاهم مع / علاقته كويسة بـ",
+      "phonetic": "/ˌɡɛt əˈlɔŋ wɪð/",
+      "example": "I get along with all my neighbors."
+    },
+    {
+      "en": "put up with",
+      "ar": "يتحمّل",
+      "phonetic": "/ˌpʊt ˈʌp wɪð/",
+      "example": "I can't put up with the noise anymore."
+    },
+    {
+      "en": "turn down",
+      "ar": "يوطّي (الصوت)",
+      "phonetic": "/ˌtərn ˈdaʊn/",
+      "example": "Could you turn down the music, please?"
+    },
+    {
+      "en": "look after",
+      "ar": "يعتني بـ / ياخد باله من",
+      "phonetic": "/ˌlʊk ˈæftər/",
+      "example": "My neighbor looks after my cat when I travel."
+    },
+    {
+      "en": "complain",
+      "ar": "يشتكي",
+      "phonetic": "/kəmˈpleɪn/",
+      "example": "I don't want to complain to the landlord."
+    },
+    {
+      "en": "move in",
+      "ar": "ينتقل للسكن في مكان",
+      "phonetic": "/ˌmuv ˈɪn/",
+      "example": "We moved in last month."
+    },
+    {
+      "en": "next door",
+      "ar": "في البيت (أو الشقة) اللي جنبي",
+      "phonetic": "/ˌnɛkst ˈdɔr/",
+      "example": "An old couple lives next door."
+    },
+    {
+      "en": "parking spot",
+      "ar": "مكان ركن السيارة / ركنة",
+      "phonetic": "/ˈpɑrkɪŋ ˌspɑt/",
+      "example": "Someone parked in my parking spot again."
+    },
+    {
+      "en": "recycling",
+      "ar": "إعادة التدوير",
+      "phonetic": "/riˈsaɪklɪŋ/",
+      "example": "The recycling bins are behind the building."
+    },
+    {
+      "en": "borrow",
+      "ar": "يستلف / يستعير",
+      "phonetic": "/ˈbɑroʊ/",
+      "example": "Can I borrow your ladder for an hour?"
+    },
+    {
+      "en": "favor",
+      "ar": "خدمة / معروف",
+      "phonetic": "/ˈfeɪvər/",
+      "example": "Could you do me a favor?"
+    },
+    {
+      "en": "community",
+      "ar": "مجتمع / أهل المنطقة",
+      "phonetic": "/kəˈmjunəti/",
+      "example": "Our community has a cleanup day every spring."
+    },
+    {
+      "en": "hallway",
+      "ar": "الطُرقة / الممر",
+      "phonetic": "/ˈhɔlˌweɪ/",
+      "example": "Please don't leave your bikes in the hallway."
+    },
+    {
+      "en": "package",
+      "ar": "طرد",
+      "phonetic": "/ˈpækɪdʒ/",
+      "example": "Can you take my package if I'm not home?"
+    },
+    {
+      "en": "considerate",
+      "ar": "مراعي لغيره",
+      "phonetic": "/kənˈsɪdərət/",
+      "example": "It's considerate to keep the music low after ten."
+    },
+    {
+      "en": "come over",
+      "ar": "يزور / ييجي البيت",
+      "phonetic": "/ˌkʌm ˈoʊvər/",
+      "example": "Why don't you come over for coffee on Saturday?"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Hi, I just moved in next door.",
+      "ar": "مرحباً، لقد انتقلت للتو إلى الشقة المجاورة."
+    },
+    {
+      "en": "Could you turn down the music a little, please?",
+      "ar": "هل يمكنك أن تخفض صوت الموسيقى قليلاً من فضلك؟"
+    },
+    {
+      "en": "I get along with everyone in the building.",
+      "ar": "أنا على علاقة جيدة بكل من في العمارة."
+    },
+    {
+      "en": "I can't put up with the noise every night.",
+      "ar": "لا أستطيع أن أتحمل الضوضاء كل ليلة."
+    },
+    {
+      "en": "Could you look after my plants while I'm away?",
+      "ar": "هل يمكنك أن تعتني بنباتاتي أثناء غيابي؟"
+    },
+    {
+      "en": "Could you do me a favor?",
+      "ar": "هل يمكنك أن تسدي لي خدمة؟"
+    },
+    {
+      "en": "Can I borrow some sugar?",
+      "ar": "هل يمكنني أن أستلف بعض السكر؟"
+    },
+    {
+      "en": "I think you're parked in my parking spot.",
+      "ar": "أظن أنك راكن في مكاني."
+    },
+    {
+      "en": "A package came for you while you were out.",
+      "ar": "وصل لك طرد أثناء خروجك."
+    },
+    {
+      "en": "Why don't you come over for dinner on Friday?",
+      "ar": "ما رأيك أن تأتي إلينا للعشاء يوم الجمعة؟"
+    }
+  ],
+  "story": {
+    "title": "The Drummer Upstairs",
+    "text": "When Youssef moved into his new apartment, the neighborhood seemed quiet. But on the first night, loud drums started upstairs at eleven o'clock. The next night it happened again. Youssef was tired, and he didn't want to put up with the noise every night. He thought about calling the landlord to complain, but he decided to talk to his neighbor first. He knocked on the door. A young man named Sam opened it, holding drumsticks. \"Hi, I'm Youssef. I'm the new tenant downstairs,\" he said. \"Could you turn down the music after ten? I start work early.\" Sam looked embarrassed. \"I'm so sorry! The last tenant was never home. I'll practice in the afternoon from now on.\" Sam kept his promise. A week later, he left a note in the hallway: \"Want to come over for pizza?\" Now the two men get along really well. Sam looks after Youssef's plants when he travels, and Youssef takes in Sam's packages.",
+    "translation": "عندما انتقل يوسف إلى شقته الجديدة، بدا الحي هادئاً. لكن في الليلة الأولى، بدأ صوت طبول عالٍ في الشقة التي فوقه في الساعة الحادية عشرة. وفي الليلة التالية حدث نفس الشيء. كان يوسف متعباً، ولم يُرد أن يتحمل الضوضاء كل ليلة. فكر في الاتصال بصاحب البيت ليشتكي، لكنه قرر أن يتحدث مع جاره أولاً. طرق الباب. فتح شاب اسمه سام الباب وهو يمسك عصي الطبول. قال: «مرحباً، أنا يوسف. أنا الساكن الجديد في الشقة التي تحتك. هل يمكنك أن تخفض الصوت بعد العاشرة؟ أنا أبدأ عملي مبكراً.» بدا سام محرجاً. «أنا آسف جداً! الساكن السابق لم يكن في البيت أبداً. سأتدرب بعد الظهر من الآن فصاعداً.» وحافظ سام على وعده. وبعد أسبوع، ترك ورقة في الممر: «هل تحب أن تأتي لتناول البيتزا؟» والآن الاثنان على علاقة جيدة جداً. يعتني سام بنباتات يوسف عندما يسافر، ويستلم يوسف طرود سام."
+  },
+  "grammar": {
+    "title": "Common phrasal verbs",
+    "explanationAr": "الـ phrasal verb هو فعل + حرف (أو حرفين) يعطي معنى جديداً يختلف عن معنى الفعل وحده. مثلاً get along with معناها «يتفاهم مع»، و put up with معناها «يتحمّل»، و look after معناها «يعتني بـ». ومع turn down يمكن أن نضع المفعول بعد الفعل كاملاً أو في المنتصف: turn down the music أو turn the music down، لكن مع الضمير لازم يكون في المنتصف: turn it down. أما get along with و put up with و look after فالمفعول يأتي دائماً بعدها، مثل: look after my cat.",
+    "rule": "get along with + person = have a good relationship\nput up with + something = accept something annoying\nturn down + volume/music (turn it down)\nlook after + someone/something = take care of\ncome over / move in (no object)",
+    "examples": [
+      {
+        "en": "I get along with my neighbors very well.",
+        "ar": "أنا على علاقة جيدة جداً بجيراني."
+      },
+      {
+        "en": "I can't put up with the noise anymore.",
+        "ar": "لا أستطيع أن أتحمل الضوضاء بعد الآن."
+      },
+      {
+        "en": "Could you turn it down, please?",
+        "ar": "هل يمكنك أن تخفض الصوت من فضلك؟"
+      },
+      {
+        "en": "Can you look after my cat this weekend?",
+        "ar": "هل يمكنك أن تعتني بقطتي في عطلة نهاية الأسبوع؟"
+      },
+      {
+        "en": "The new tenant moved in yesterday.",
+        "ar": "الساكن الجديد انتقل أمس."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "A Knock on the Door",
+    "settingAr": "إنت ساكن جديد، والجار اللي فوقك بيشغّل مزيكا عالية بالليل. بتخبط عليه وتكلمه بأدب.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Neighbor",
+        "nameAr": "الجار"
+      },
+      {
+        "id": "B",
+        "name": "New Tenant",
+        "nameAr": "الساكن الجديد (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hi! Can I help you?",
+        "ar": "أهلاً! أقدر أساعدك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Hi, I'm Adam. I just moved in downstairs.",
+        "ar": "أهلاً، أنا آدم. لسه ساكن في الشقة اللي تحت."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, welcome to the building! I'm Mike.",
+        "ar": "أوه، أهلاً بيك في العمارة! أنا مايك."
+      },
+      {
+        "speaker": "B",
+        "en": "Nice to meet you. Could you turn down the music a little?",
+        "ar": "اتشرفت بيك. ممكن توطّي المزيكا شوية؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, sorry! Is it that loud downstairs?",
+        "ar": "أوه، آسف! هو الصوت عالي أوي تحت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "A little. I start work at seven, so I sleep early.",
+        "ar": "شوية. أنا بنزل الشغل الساعة سبعة، فبنام بدري."
+      },
+      {
+        "speaker": "A",
+        "en": "No problem. I'll turn it down after ten.",
+        "ar": "مفيش مشكلة. هوطّيه بعد الساعة عشرة."
+      },
+      {
+        "speaker": "B",
+        "en": "Thanks a lot. I want to get along with everyone here.",
+        "ar": "شكراً جداً. أنا عايز أبقى كويس مع الكل هنا."
+      },
+      {
+        "speaker": "A",
+        "en": "Me too. Come over for coffee sometime!",
+        "ar": "وأنا كمان. تعالى اشرب قهوة عندي في أي وقت!"
+      },
+      {
+        "speaker": "B",
+        "en": "I'd love to. Have a good night!",
+        "ar": "يا ريت. تصبح على خير!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The music is too loud. Could you ___ it ___, please?",
+      "options": [
+        "look / after",
+        "turn / down",
+        "get / along",
+        "come / over"
+      ],
+      "answer": "turn / down"
+    },
+    {
+      "type": "fill",
+      "sentence": "My neighbor is going to look ___ my cat while I'm on vacation.",
+      "answer": "after",
+      "hint": "يعتني بـ"
+    },
+    {
+      "type": "order",
+      "words": [
+        "along",
+        "I",
+        "neighbors.",
+        "with",
+        "my",
+        "get"
+      ],
+      "answer": "I get along with my neighbors."
+    },
+    {
+      "type": "mcq",
+      "question": "Who owns the apartment and gets the rent every month?",
+      "options": [
+        "The tenant",
+        "The neighbor",
+        "The landlord",
+        "The community"
+      ],
+      "answer": "The landlord"
+    },
+    {
+      "type": "fill",
+      "sentence": "I can't put up ___ the noise anymore.",
+      "answer": "with",
+      "hint": "يتحمّل"
+    },
+    {
+      "type": "order",
+      "words": [
+        "me",
+        "do",
+        "you",
+        "favor?",
+        "Could",
+        "a"
+      ],
+      "answer": "Could you do me a favor?"
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Please turn down it.",
+        "Please turn it down.",
+        "Please down turn it.",
+        "Please it turn down."
+      ],
+      "answer": "Please turn it down."
+    },
+    {
+      "type": "listen",
+      "audioText": "Why don't you come over for dinner on Friday?",
+      "answer": "Why don't you come over for dinner on Friday?"
+    }
+  ]
+}

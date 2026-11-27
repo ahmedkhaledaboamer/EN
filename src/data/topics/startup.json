@@ -1,0 +1,357 @@
+{
+  "slug": "startup",
+  "title": "Starting a Business",
+  "titleAr": "بدء مشروع",
+  "emoji": "🚀",
+  "level": "B2",
+  "description": "Talk about ideas, funding, customers, and growth.",
+  "descriptionAr": "تحدّث عن الأفكار والتمويل والعملاء ونمو المشروع.",
+  "words": [
+    {
+      "en": "launch",
+      "ar": "يطلق (منتجاً أو مشروعاً) / إطلاق",
+      "phonetic": "/lɔntʃ/",
+      "example": "We plan to launch the app in early March."
+    },
+    {
+      "en": "business plan",
+      "ar": "خطة عمل",
+      "phonetic": "/ˈbɪznəs ˌplæn/",
+      "example": "Every investor will ask to see your business plan."
+    },
+    {
+      "en": "investor",
+      "ar": "مستثمر",
+      "phonetic": "/ɪnˈvɛstər/",
+      "example": "An investor from Dubai offered us half a million dollars."
+    },
+    {
+      "en": "raise funding",
+      "ar": "يجمع تمويلاً",
+      "phonetic": "/ˈreɪz ˈfʌndɪŋ/",
+      "example": "It took us a year to raise funding for the project."
+    },
+    {
+      "en": "break even",
+      "ar": "يغطي تكاليفه (بلا ربح ولا خسارة)",
+      "phonetic": "/ˌbreɪk ˈivən/",
+      "example": "Most new restaurants don't break even in their first year."
+    },
+    {
+      "en": "target market",
+      "ar": "السوق المستهدف / الشريحة المستهدفة",
+      "phonetic": "/ˈtɑrɡɪt ˈmɑrkɪt/",
+      "example": "Our target market is university students in big cities."
+    },
+    {
+      "en": "co-founder",
+      "ar": "شريك مؤسس",
+      "phonetic": "/koʊˈfaʊndər/",
+      "example": "My co-founder handles the marketing, and I write the code."
+    },
+    {
+      "en": "revenue",
+      "ar": "الإيرادات",
+      "phonetic": "/ˈrɛvəˌnu/",
+      "example": "Our revenue grew by forty percent this year."
+    },
+    {
+      "en": "profit margin",
+      "ar": "هامش الربح",
+      "phonetic": "/ˈprɑfɪt ˌmɑrdʒɪn/",
+      "example": "The profit margin on coffee is surprisingly high."
+    },
+    {
+      "en": "user feedback",
+      "ar": "آراء المستخدمين / تقييمات المستخدمين",
+      "phonetic": "/ˈjuzər ˈfidˌbæk/",
+      "example": "We changed the design based on user feedback."
+    },
+    {
+      "en": "pitch",
+      "ar": "عرض تقديمي قصير لإقناع المستثمرين / يعرض فكرته",
+      "phonetic": "/pɪtʃ/",
+      "example": "She has three minutes to pitch her idea to the judges."
+    },
+    {
+      "en": "scale up",
+      "ar": "يوسّع (المشروع) / يكبّر حجم العمل",
+      "phonetic": "/ˌskeɪl ˈʌp/",
+      "example": "We need more engineers before we can scale up."
+    },
+    {
+      "en": "competitor",
+      "ar": "منافس",
+      "phonetic": "/kəmˈpɛtɪtər/",
+      "example": "Our biggest competitor just lowered its prices."
+    },
+    {
+      "en": "take a risk",
+      "ar": "يخاطر / يجازف",
+      "phonetic": "/ˈteɪk ə ˈrɪsk/",
+      "example": "If you never take a risk, you will never start a business."
+    },
+    {
+      "en": "customer retention",
+      "ar": "الاحتفاظ بالعملاء",
+      "phonetic": "/ˈkʌstəmər rɪˈtɛnʃən/",
+      "example": "Good customer service improves customer retention."
+    },
+    {
+      "en": "sign up",
+      "ar": "يسجّل / يشترك",
+      "phonetic": "/ˌsaɪn ˈʌp/",
+      "example": "More than a thousand people decided to sign up on the first day."
+    },
+    {
+      "en": "bootstrap",
+      "ar": "يموّل المشروع ذاتياً (بدون مستثمرين)",
+      "phonetic": "/ˈbutˌstræp/",
+      "example": "We chose to bootstrap the company with our own savings."
+    },
+    {
+      "en": "go out of business",
+      "ar": "يفلس / يقفل (المشروع)",
+      "phonetic": "/ɡoʊ ˈaʊt əv ˈbɪznəs/",
+      "example": "Many small shops go out of business when a big mall opens nearby."
+    },
+    {
+      "en": "word of mouth",
+      "ar": "التسويق بالكلام المتناقل بين الناس",
+      "phonetic": "/ˌwərd əv ˈmaʊθ/",
+      "example": "Most of our customers find us through word of mouth."
+    },
+    {
+      "en": "pivot",
+      "ar": "يغيّر اتجاه المشروع / تحويل المسار",
+      "phonetic": "/ˈpɪvət/",
+      "example": "When sales stayed low, the founders decided to pivot to online courses."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The launch must have cost a lot of money.",
+      "ar": "لا بد أن الإطلاق كلّف أموالاً كثيرة."
+    },
+    {
+      "en": "Our users might have found the app too complicated.",
+      "ar": "ربما وجد المستخدمون التطبيق معقداً جداً."
+    },
+    {
+      "en": "He can't have read our business plan; his questions were too basic.",
+      "ar": "من المستحيل أن يكون قد قرأ خطة عملنا؛ أسئلته كانت بسيطة جداً."
+    },
+    {
+      "en": "They must have raised funding from a big investor.",
+      "ar": "لا بد أنهم جمعوا تمويلاً من مستثمر كبير."
+    },
+    {
+      "en": "Our competitor may have copied our idea.",
+      "ar": "ربما يكون منافسنا قد نسخ فكرتنا."
+    },
+    {
+      "en": "Sales couldn't have dropped that fast without a reason.",
+      "ar": "لا يمكن أن تكون المبيعات قد انخفضت بهذه السرعة بدون سبب."
+    },
+    {
+      "en": "We need to break even before we can scale up.",
+      "ar": "نحتاج أن نغطي تكاليفنا قبل أن نتمكن من التوسع."
+    },
+    {
+      "en": "Who is your target market, and what problem are you solving?",
+      "ar": "من هو السوق المستهدف لديك، وما المشكلة التي تحلّها؟"
+    },
+    {
+      "en": "I'm going to pitch my idea to three investors next week.",
+      "ar": "سأعرض فكرتي على ثلاثة مستثمرين الأسبوع القادم."
+    },
+    {
+      "en": "Most of our new customers come through word of mouth.",
+      "ar": "معظم عملائنا الجدد يأتون عن طريق الكلام المتناقل بين الناس."
+    }
+  ],
+  "story": {
+    "title": "Why Were Users Leaving?",
+    "text": "Youssef and Salma, two software developers from Cairo, quit their jobs to launch a fitness app called FitNile. They didn't raise funding from investors; instead, they decided to bootstrap the company with their own savings. On launch day, hundreds of people decided to sign up, and the co-founders were thrilled. But after two weeks, most users had stopped opening the app. \"They must have found a better app,\" Salma said. Youssef shook his head. \"They can't have left because of our competitors. Our features are much better.\" To find the real reason, they studied the data and asked for user feedback. The answer surprised them. Almost everyone had quit on the same screen: a long form that asked for their weight, height, goals, and credit card details. \"People might have thought we wanted their money before they even tried the app,\" Youssef admitted. \"We must have scared them away.\" They removed the form, made the first month free, and asked new users to try one quick workout instead. Within a month, customer retention doubled, and new users came through word of mouth. By the end of the year, FitNile began to break even, and an investor invited them to pitch their idea.",
+    "translation": "يوسف وسلمى، مطوّرا برمجيات من القاهرة، تركا وظيفتيهما ليطلقا تطبيق لياقة بدنية اسمه FitNile. لم يجمعا تمويلاً من مستثمرين، بل قرّرا تمويل الشركة ذاتياً من مدخراتهما. وفي يوم الإطلاق، قرر مئات الأشخاص التسجيل، وكان الشريكان المؤسسان في غاية السعادة. لكن بعد أسبوعين، كان معظم المستخدمين قد توقفوا عن فتح التطبيق. قالت سلمى: «لا بد أنهم وجدوا تطبيقاً أفضل.» هزّ يوسف رأسه وقال: «مستحيل أن يكونوا قد تركونا بسبب المنافسين. مزايانا أفضل بكثير.» ولكي يعرفا السبب الحقيقي، درسا البيانات وطلبا آراء المستخدمين. وفاجأتهما الإجابة. فقد ترك الجميع تقريباً التطبيق عند الشاشة نفسها: استمارة طويلة تطلب الوزن والطول والأهداف وبيانات بطاقة الائتمان. اعترف يوسف: «ربما ظن الناس أننا نريد أموالهم قبل أن يجرّبوا التطبيق أصلاً. لا بد أننا أخفناهم.» حذفا الاستمارة، وجعلا الشهر الأول مجانياً، وطلبا من المستخدمين الجدد أن يجرّبوا تمريناً سريعاً واحداً بدلاً منها. وخلال شهر، تضاعف معدل الاحتفاظ بالعملاء، وجاء مستخدمون جدد عن طريق الكلام المتناقل بين الناس. وبحلول نهاية العام، بدأ FitNile يغطي تكاليفه، ودعاهما أحد المستثمرين لعرض فكرتهما."
+  },
+  "grammar": {
+    "title": "Modals of deduction about the past",
+    "explanationAr": "نستخدم أفعال الاستنتاج مع have + V3 لنخمّن ما حدث في الماضي بناءً على الأدلة. نستخدم must have + V3 عندما نكون شبه متأكدين أن شيئاً حدث، مثل: They must have found a better app (أكيد لقوا تطبيق أحسن). ونستخدم might have / may have / could have + V3 عندما نرى أن الشيء محتمل فقط، مثل: The price might have been too high. ونستخدم can't have / couldn't have + V3 عندما نكون متأكدين أن الشيء لم يحدث، مثل: He can't have read the plan. لاحظ أن عكس must have هو can't have وليس mustn't have.",
+    "rule": "must have + past participle = I'm almost sure it happened\nmight have / may have / could have + past participle = it possibly happened\ncan't have / couldn't have + past participle = I'm sure it didn't happen\nNot: mustn't have (use can't have instead)",
+    "examples": [
+      {
+        "en": "The investor must have liked our pitch; he called us back the same day.",
+        "ar": "لا بد أن المستثمر أعجبه عرضنا؛ فقد اتصل بنا في نفس اليوم."
+      },
+      {
+        "en": "Our revenue dropped in May. Our prices might have been too high.",
+        "ar": "انخفضت إيراداتنا في مايو. ربما كانت أسعارنا مرتفعة جداً."
+      },
+      {
+        "en": "They can't have broken even so quickly; they only launched last month.",
+        "ar": "من المستحيل أن يكونوا قد غطّوا تكاليفهم بهذه السرعة؛ لقد أطلقوا المشروع الشهر الماضي فقط."
+      },
+      {
+        "en": "Our competitor may have heard about our plans from a former employee.",
+        "ar": "ربما سمع منافسنا عن خططنا من موظف سابق."
+      },
+      {
+        "en": "The users couldn't have understood the new design without a tutorial.",
+        "ar": "لا يمكن أن يكون المستخدمون قد فهموا التصميم الجديد بدون شرح."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Meeting an Investor",
+    "settingAr": "إنت مؤسس شركة ناشئة عاملة تطبيق للمطاعم، وقاعد مع مستثمر بيسألك عن السوق والأرقام والمشاكل اللي حصلت.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Investor",
+        "nameAr": "المستثمر"
+      },
+      {
+        "id": "B",
+        "name": "Founder",
+        "nameAr": "المؤسس (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Thanks for coming. So, tell me about your startup.",
+        "ar": "شكراً إنك جيت. احكيلي بقى عن شركتك."
+      },
+      {
+        "speaker": "B",
+        "en": "We built an app that helps small restaurants manage their orders online.",
+        "ar": "عملنا تطبيق بيساعد المطاعم الصغيرة تنظّم طلباتها أونلاين."
+      },
+      {
+        "speaker": "A",
+        "en": "Interesting. Who is your target market?",
+        "ar": "حلو. مين السوق المستهدف بتاعكم؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Family-owned restaurants in Cairo and Alexandria. There are thousands of them.",
+        "ar": "المطاعم العائلية في القاهرة وإسكندرية. وعددهم بالآلاف."
+      },
+      {
+        "speaker": "A",
+        "en": "I saw your numbers. Your users dropped sharply in March. What happened?",
+        "ar": "شفت أرقامكم. المستخدمين قلّوا جامد في مارس. إيه اللي حصل؟"
+      },
+      {
+        "speaker": "B",
+        "en": "We think a bug in our update must have frustrated many users.",
+        "ar": "إحنا شايفين إن أكيد في مشكلة في التحديث ضايقت مستخدمين كتير."
+      },
+      {
+        "speaker": "A",
+        "en": "Couldn't they have just switched to a competitor?",
+        "ar": "مش ممكن يكونوا راحوا لمنافس تاني وخلاص؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Some might have, but most came back after we fixed it.",
+        "ar": "ممكن شوية منهم، بس أغلبهم رجعوا بعد ما صلّحناها."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay. When do you expect to break even?",
+        "ar": "تمام. متوقع تغطّوا تكاليفكم إمتى؟"
+      },
+      {
+        "speaker": "B",
+        "en": "By the end of next year, if we raise funding now.",
+        "ar": "مع آخر السنة الجاية، لو جمعنا تمويل دلوقتي."
+      },
+      {
+        "speaker": "A",
+        "en": "Send me your business plan, and let's talk again next week.",
+        "ar": "ابعتلي خطة العمل، ونتكلم تاني الأسبوع الجاي."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The app crashed for every user. There ___ a serious bug in the code.",
+      "options": [
+        "can't have been",
+        "must have been",
+        "shouldn't have been",
+        "won't be"
+      ],
+      "answer": "must have been"
+    },
+    {
+      "type": "fill",
+      "sentence": "We hope to ___ even by the end of the year.",
+      "answer": "break",
+      "hint": "نغطي التكاليف (بلا ربح ولا خسارة)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "found",
+        "They",
+        "app.",
+        "have",
+        "a",
+        "must",
+        "better"
+      ],
+      "answer": "They must have found a better app."
+    },
+    {
+      "type": "mcq",
+      "question": "The money a company receives from its sales is called ___.",
+      "options": [
+        "a pitch",
+        "a competitor",
+        "feedback",
+        "revenue"
+      ],
+      "answer": "revenue"
+    },
+    {
+      "type": "fill",
+      "sentence": "Most of our customers found us through word of ___.",
+      "answer": "mouth",
+      "hint": "الكلام المتناقل بين الناس"
+    },
+    {
+      "type": "order",
+      "words": [
+        "read",
+        "can't",
+        "plan.",
+        "He",
+        "business",
+        "have",
+        "our"
+      ],
+      "answer": "He can't have read our business plan."
+    },
+    {
+      "type": "mcq",
+      "question": "I'm not sure why sales dropped. Our prices ___ too high.",
+      "options": [
+        "might have been",
+        "can't have been",
+        "must be",
+        "mustn't have been"
+      ],
+      "answer": "might have been"
+    },
+    {
+      "type": "listen",
+      "audioText": "We need to raise funding before we can scale up.",
+      "answer": "We need to raise funding before we can scale up."
+    }
+  ]
+}

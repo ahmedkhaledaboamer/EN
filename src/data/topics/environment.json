@@ -1,0 +1,362 @@
+{
+  "slug": "environment",
+  "title": "Climate & Environment",
+  "titleAr": "المناخ والبيئة",
+  "emoji": "🌍",
+  "level": "B2",
+  "description": "Discuss climate change, recycling, energy, and what individuals can do.",
+  "descriptionAr": "ناقش تغيّر المناخ وإعادة التدوير والطاقة وما يستطيع كل فرد أن يفعله.",
+  "words": [
+    {
+      "en": "carbon footprint",
+      "ar": "البصمة الكربونية",
+      "phonetic": "/ˈkɑrbən ˈfʊtprɪnt/",
+      "example": "Flying less is one way to reduce your carbon footprint."
+    },
+    {
+      "en": "climate change",
+      "ar": "تغيّر المناخ",
+      "phonetic": "/ˈklaɪmət tʃeɪndʒ/",
+      "example": "Climate change is making our summers hotter."
+    },
+    {
+      "en": "greenhouse gases",
+      "ar": "غازات الاحتباس الحراري",
+      "phonetic": "/ˈɡrinhaʊs ˈɡæsɪz/",
+      "example": "Cars and factories release greenhouse gases into the air."
+    },
+    {
+      "en": "renewable energy",
+      "ar": "الطاقة المتجددة",
+      "phonetic": "/rɪˈnuəbəl ˈɛnərdʒi/",
+      "example": "Egypt is investing heavily in renewable energy."
+    },
+    {
+      "en": "single-use plastic",
+      "ar": "البلاستيك أحادي الاستخدام",
+      "phonetic": "/ˌsɪŋɡəl ˈjus ˈplæstɪk/",
+      "example": "Many cafés have stopped using single-use plastic."
+    },
+    {
+      "en": "reduce waste",
+      "ar": "يقلّل النفايات",
+      "phonetic": "/rɪˈdus ˈweɪst/",
+      "example": "Cooking only what you need helps reduce waste."
+    },
+    {
+      "en": "recycle",
+      "ar": "يعيد التدوير",
+      "phonetic": "/riˈsaɪkəl/",
+      "example": "We recycle glass, paper, and plastic at home."
+    },
+    {
+      "en": "fossil fuels",
+      "ar": "الوقود الأحفوري",
+      "phonetic": "/ˈfɑsəl ˈfjuəlz/",
+      "example": "Most of our electricity still comes from fossil fuels."
+    },
+    {
+      "en": "sustainable",
+      "ar": "مستدام",
+      "phonetic": "/səˈsteɪnəbəl/",
+      "example": "The company only uses sustainable materials."
+    },
+    {
+      "en": "raise awareness",
+      "ar": "ينشر الوعي",
+      "phonetic": "/reɪz əˈwɛrnəs/",
+      "example": "The campaign aims to raise awareness about clean water."
+    },
+    {
+      "en": "sea levels",
+      "ar": "مستوى سطح البحر",
+      "phonetic": "/ˈsi ˌlɛvəlz/",
+      "example": "Rising sea levels are a real danger for Alexandria."
+    },
+    {
+      "en": "drought",
+      "ar": "جفاف",
+      "phonetic": "/draʊt/",
+      "example": "The long drought destroyed the farmers' crops."
+    },
+    {
+      "en": "heat wave",
+      "ar": "موجة حارة",
+      "phonetic": "/ˈhit weɪv/",
+      "example": "Stay inside during the heat wave and drink plenty of water."
+    },
+    {
+      "en": "cut emissions",
+      "ar": "يخفّض الانبعاثات",
+      "phonetic": "/kʌt ɪˈmɪʃənz/",
+      "example": "Every country has promised to cut emissions."
+    },
+    {
+      "en": "biodegradable",
+      "ar": "قابل للتحلّل الطبيعي",
+      "phonetic": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+      "example": "These bags are biodegradable, so they don't harm the sea."
+    },
+    {
+      "en": "solar panels",
+      "ar": "ألواح الطاقة الشمسية",
+      "phonetic": "/ˈsoʊlər ˈpænəlz/",
+      "example": "We put solar panels on the roof last year."
+    },
+    {
+      "en": "reusable bag",
+      "ar": "شنطة قابلة لإعادة الاستخدام",
+      "phonetic": "/riˈjuzəbəl ˈbæɡ/",
+      "example": "I always keep a reusable bag in my backpack."
+    },
+    {
+      "en": "phase out",
+      "ar": "يتخلّص تدريجياً من",
+      "phonetic": "/feɪz ˈaʊt/",
+      "example": "The government plans to phase out plastic straws."
+    },
+    {
+      "en": "take action",
+      "ar": "يتخذ إجراءً / يتحرّك",
+      "phonetic": "/teɪk ˈækʃən/",
+      "example": "We need to take action before it's too late."
+    },
+    {
+      "en": "water scarcity",
+      "ar": "ندرة المياه / شُح المياه",
+      "phonetic": "/ˈwɔtər ˈskɛrsəti/",
+      "example": "Water scarcity is one of Egypt's biggest challenges."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "By 2030, Egypt will have built many new solar farms.",
+      "ar": "بحلول عام 2030، ستكون مصر قد بنت العديد من محطات الطاقة الشمسية الجديدة."
+    },
+    {
+      "en": "This time next year, I will be using only reusable bags.",
+      "ar": "في مثل هذا الوقت من العام القادم، سأكون أستخدم الشنط القابلة لإعادة الاستخدام فقط."
+    },
+    {
+      "en": "By the end of the century, sea levels will have risen even more.",
+      "ar": "بحلول نهاية القرن، سيكون مستوى سطح البحر قد ارتفع أكثر."
+    },
+    {
+      "en": "In twenty years, most people will be driving electric cars.",
+      "ar": "بعد عشرين عاماً، سيكون معظم الناس يقودون سيارات كهربائية."
+    },
+    {
+      "en": "By 2050, many countries will have phased out fossil fuels.",
+      "ar": "بحلول عام 2050، ستكون دول كثيرة قد تخلّصت تدريجياً من الوقود الأحفوري."
+    },
+    {
+      "en": "Will you be joining the beach clean-up on Saturday?",
+      "ar": "هل ستشارك في تنظيف الشاطئ يوم السبت؟"
+    },
+    {
+      "en": "We need to cut emissions before it's too late.",
+      "ar": "نحتاج إلى خفض الانبعاثات قبل فوات الأوان."
+    },
+    {
+      "en": "How can I reduce my carbon footprint at home?",
+      "ar": "كيف يمكنني أن أقلّل بصمتي الكربونية في المنزل؟"
+    },
+    {
+      "en": "Recycling alone won't solve climate change.",
+      "ar": "إعادة التدوير وحدها لن تحلّ مشكلة تغيّر المناخ."
+    },
+    {
+      "en": "Water scarcity will affect millions of farmers in the coming years.",
+      "ar": "ستؤثر ندرة المياه على ملايين المزارعين في السنوات القادمة."
+    }
+  ],
+  "story": {
+    "title": "Alexandria Says No to Plastic",
+    "text": "Last spring, the city of Alexandria launched a campaign to phase out single-use plastic. Every summer, thousands of plastic bags end up on the beaches and in the sea, and the local fish are disappearing. Salma, a nineteen-year-old engineering student, saw a poster asking for volunteers and decided to take action. On her first day, the campaign leader explained the plan. \"By the end of this year, we will have handed out fifty thousand reusable bags,\" he said. \"And next summer, shops will be using biodegradable packaging instead of plastic.\" Salma's job was to raise awareness in schools. She showed children how small choices can reduce waste and shrink their carbon footprint. At first, some shop owners complained that the new bags were too expensive. Salma listened, then showed them that customers were happy to pay a little more for sustainable products. Slowly, things started to change. Families began to recycle, and a café near the Corniche installed solar panels. Salma knows that one city cannot stop climate change alone. Still, she is optimistic. \"By the time I graduate,\" she says, \"we will have cleaned every beach in Alexandria. And I'll be working on the next project.\"",
+    "translation": "في الربيع الماضي، أطلقت مدينة الإسكندرية حملة للتخلّص تدريجياً من البلاستيك أحادي الاستخدام. ففي كل صيف، ينتهي الأمر بآلاف الأكياس البلاستيكية على الشواطئ وفي البحر، والأسماك المحلية تختفي. رأت سلمى، وهي طالبة هندسة عمرها تسعة عشر عاماً، ملصقاً يطلب متطوعين، فقررت أن تتحرّك. في يومها الأول، شرح قائد الحملة الخطة قائلاً: «بحلول نهاية هذا العام، سنكون قد وزّعنا خمسين ألف شنطة قابلة لإعادة الاستخدام. وفي الصيف القادم، ستكون المحلات تستخدم تغليفاً قابلاً للتحلّل بدلاً من البلاستيك.» كانت مهمة سلمى أن تنشر الوعي في المدارس. أوضحت للأطفال كيف يمكن للاختيارات الصغيرة أن تقلّل النفايات وتصغّر بصمتهم الكربونية. في البداية، اشتكى بعض أصحاب المحلات من أن الشنط الجديدة غالية جداً. استمعت سلمى إليهم، ثم أوضحت لهم أن الزبائن سعداء بدفع مبلغ أكبر قليلاً مقابل منتجات مستدامة. وببطء، بدأت الأمور تتغيّر. بدأت الأسر في إعادة التدوير، وركّب مقهى بالقرب من الكورنيش ألواحاً للطاقة الشمسية. تعرف سلمى أن مدينة واحدة لا تستطيع أن توقف تغيّر المناخ وحدها. ومع ذلك، فهي متفائلة. تقول: «بحلول الوقت الذي أتخرّج فيه، سنكون قد نظّفنا كل شاطئ في الإسكندرية. وسأكون أعمل على المشروع التالي.»"
+  },
+  "grammar": {
+    "title": "Future Continuous & Future Perfect",
+    "explanationAr": "نستخدم المستقبل المستمر Future continuous (will be + verb-ing) للحديث عن حدث سيكون مستمراً في وقت معيّن في المستقبل، مثل: This time next year, I will be studying renewable energy. أما المستقبل التام Future perfect (will have + past participle) فنستخدمه لحدث سيكون قد اكتمل قبل وقت معيّن في المستقبل، مثل: By 2050, we will have cut emissions by half. وغالباً يأتي المستقبل التام مع by مثل By 2030 و By the end of the year و By the time. وفي النفي نقول won't be + verb-ing و won't have + past participle.",
+    "rule": "Future continuous: will be + verb-ing\n(an action in progress at a future time)\nThis time next year, I will be working on solar energy.\nFuture perfect: will have + past participle\n(an action finished before a future time)\nBy 2050, we will have phased out fossil fuels.\nby + time / by the time + present simple",
+    "examples": [
+      {
+        "en": "By 2030, the city will have banned single-use plastic.",
+        "ar": "بحلول عام 2030، ستكون المدينة قد منعت البلاستيك أحادي الاستخدام."
+      },
+      {
+        "en": "This time tomorrow, we will be cleaning the beach.",
+        "ar": "في مثل هذا الوقت غداً، سنكون ننظّف الشاطئ."
+      },
+      {
+        "en": "By the end of the year, we will have recycled ten tons of plastic.",
+        "ar": "بحلول نهاية العام، سنكون قد أعدنا تدوير عشرة أطنان من البلاستيك."
+      },
+      {
+        "en": "In ten years, most homes will be using solar panels.",
+        "ar": "بعد عشر سنوات، ستكون معظم المنازل تستخدم ألواح الطاقة الشمسية."
+      },
+      {
+        "en": "Unfortunately, sea levels won't have stopped rising by 2100.",
+        "ar": "للأسف، لن يكون مستوى سطح البحر قد توقّف عن الارتفاع بحلول عام 2100."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Joining the Clean-Up Campaign",
+    "settingAr": "إنت طالب وعايز تنضم لحملة بتحارب البلاستيك في مدينتك، ومسؤول الحملة بيشرحلك الخطة.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Campaign Leader",
+        "nameAr": "مسؤول الحملة"
+      },
+      {
+        "id": "B",
+        "name": "Student",
+        "nameAr": "الطالب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Thanks for joining the campaign. Why are you interested?",
+        "ar": "شكراً إنك انضميت للحملة. إيه اللي شدّك ليها؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I want to take action against plastic pollution in our city.",
+        "ar": "عايز أعمل حاجة ضد التلوث بالبلاستيك في مدينتنا."
+      },
+      {
+        "speaker": "A",
+        "en": "Great. This weekend, we'll be cleaning the beach near the Corniche.",
+        "ar": "هايل. آخر الأسبوع ده هنكون بننضّف الشط اللي جنب الكورنيش."
+      },
+      {
+        "speaker": "B",
+        "en": "Sounds good. What time will you be starting?",
+        "ar": "حلو. هتبدأوا الساعة كام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "At seven, before the heat gets too bad.",
+        "ar": "الساعة سبعة، قبل ما الحر يبقى صعب."
+      },
+      {
+        "speaker": "B",
+        "en": "How many bags do you expect to collect?",
+        "ar": "متوقعين تجمعوا كام شنطة؟"
+      },
+      {
+        "speaker": "A",
+        "en": "By Sunday evening, we will have collected about two hundred bags.",
+        "ar": "على بالليل يوم الحد، هنكون جمعنا حوالي ميتين شنطة."
+      },
+      {
+        "speaker": "B",
+        "en": "That's a lot. What happens to the plastic after that?",
+        "ar": "ده كتير. وبعد كده البلاستيك بيروح فين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "We recycle most of it, and we raise awareness in schools.",
+        "ar": "بنعيد تدوير أغلبه، وكمان بنعمل توعية في المدارس."
+      },
+      {
+        "speaker": "B",
+        "en": "I'd love to help with the schools. I'll be studying education next year.",
+        "ar": "نفسي أساعد في المدارس. أنا هدرس تربية السنة الجاية."
+      },
+      {
+        "speaker": "A",
+        "en": "Perfect. By June, you'll have visited ten schools with us.",
+        "ar": "تمام جداً. لحد يونيو هتكون زرت عشر مدارس معانا."
+      },
+      {
+        "speaker": "B",
+        "en": "I can't wait. I'll bring my own reusable bags too.",
+        "ar": "مستني على نار. وهجيب الشنط القماش بتاعتي كمان."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "By 2050, we ___ fossil fuels completely.",
+      "options": [
+        "phase out",
+        "will have phased out",
+        "have phased out",
+        "phasing out"
+      ],
+      "answer": "will have phased out"
+    },
+    {
+      "type": "fill",
+      "sentence": "Taking the bus instead of driving can reduce your carbon ___.",
+      "answer": "footprint",
+      "hint": "البصمة"
+    },
+    {
+      "type": "order",
+      "words": [
+        "be",
+        "year,",
+        "I",
+        "This",
+        "studying.",
+        "next",
+        "will",
+        "time"
+      ],
+      "answer": "This time next year, I will be studying."
+    },
+    {
+      "type": "mcq",
+      "question": "Energy from the sun and the wind is called ___ energy.",
+      "options": [
+        "fossil",
+        "nuclear",
+        "renewable",
+        "plastic"
+      ],
+      "answer": "renewable"
+    },
+    {
+      "type": "fill",
+      "sentence": "By the end of the month, we will ___ collected five hundred bags.",
+      "answer": "have",
+      "hint": "قد (المستقبل التام: will have + التصريف الثالث)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "emissions",
+        "to",
+        "now.",
+        "We",
+        "cut",
+        "need"
+      ],
+      "answer": "We need to cut emissions now."
+    },
+    {
+      "type": "mcq",
+      "question": "Tomorrow at nine a.m., we ___ the beach, so we can't meet you.",
+      "options": [
+        "clean",
+        "cleaned",
+        "have cleaned",
+        "will be cleaning"
+      ],
+      "answer": "will be cleaning"
+    },
+    {
+      "type": "listen",
+      "audioText": "Most families will be using solar panels in the future.",
+      "answer": "Most families will be using solar panels in the future."
+    }
+  ]
+}

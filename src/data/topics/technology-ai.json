@@ -1,0 +1,362 @@
+{
+  "slug": "technology-ai",
+  "title": "Technology & AI",
+  "titleAr": "التكنولوجيا والذكاء الاصطناعي",
+  "emoji": "🤖",
+  "level": "B2",
+  "description": "Discuss AI, automation, privacy, and how technology changes jobs.",
+  "descriptionAr": "ناقش الذكاء الاصطناعي والأتمتة والخصوصية، وكيف تغيّر التكنولوجيا الوظائف.",
+  "words": [
+    {
+      "en": "artificial intelligence",
+      "ar": "الذكاء الاصطناعي (AI)",
+      "phonetic": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+      "example": "Artificial intelligence is changing the way doctors diagnose diseases."
+    },
+    {
+      "en": "automation",
+      "ar": "الأتمتة / التشغيل الآلي (automation)",
+      "phonetic": "/ˌɔtəˈmeɪʃən/",
+      "example": "Automation has made car factories much faster."
+    },
+    {
+      "en": "data privacy",
+      "ar": "خصوصية البيانات",
+      "phonetic": "/ˈdeɪtə ˈpraɪvəsi/",
+      "example": "Many users are worried about data privacy on social media."
+    },
+    {
+      "en": "algorithm",
+      "ar": "خوارزمية (algorithm)",
+      "phonetic": "/ˈælɡəˌrɪðəm/",
+      "example": "The algorithm decides which videos you see first."
+    },
+    {
+      "en": "chatbot",
+      "ar": "روبوت محادثة (chatbot)",
+      "phonetic": "/ˈtʃætˌbɑt/",
+      "example": "The bank's chatbot answered my question in seconds."
+    },
+    {
+      "en": "machine learning",
+      "ar": "تعلّم الآلة (machine learning)",
+      "phonetic": "/məˈʃin ˈlərnɪŋ/",
+      "example": "She is taking an online course in machine learning."
+    },
+    {
+      "en": "replace jobs",
+      "ar": "يحلّ محل الوظائف / يلغي وظائف",
+      "phonetic": "/rɪˈpleɪs ˈdʒɑbz/",
+      "example": "Some experts think robots will replace jobs in warehouses."
+    },
+    {
+      "en": "cybersecurity",
+      "ar": "الأمن السيبراني (cybersecurity)",
+      "phonetic": "/ˌsaɪbərsɪˈkjʊrəti/",
+      "example": "Banks spend millions of dollars on cybersecurity."
+    },
+    {
+      "en": "software update",
+      "ar": "تحديث البرنامج / تحديث النظام",
+      "phonetic": "/ˈsɔftˌwɛr ˈʌpˌdeɪt/",
+      "example": "Restart your phone after the software update."
+    },
+    {
+      "en": "user-friendly",
+      "ar": "سهل الاستخدام",
+      "phonetic": "/ˈjuzər ˈfrɛndli/",
+      "example": "The new app is so user-friendly that my grandmother uses it."
+    },
+    {
+      "en": "cloud storage",
+      "ar": "التخزين السحابي (cloud)",
+      "phonetic": "/ˈklaʊd ˈstɔrɪdʒ/",
+      "example": "All my photos are saved in cloud storage."
+    },
+    {
+      "en": "streamline",
+      "ar": "يبسّط ويسرّع (إجراءات العمل)",
+      "phonetic": "/ˈstrimˌlaɪn/",
+      "example": "The new system will streamline the hiring process."
+    },
+    {
+      "en": "accuracy",
+      "ar": "الدقة",
+      "phonetic": "/ˈækjərəsi/",
+      "example": "Always check the accuracy of the answers an AI gives you."
+    },
+    {
+      "en": "ethical concerns",
+      "ar": "مخاوف أخلاقية",
+      "phonetic": "/ˈɛθɪkəl kənˈsərnz/",
+      "example": "Face recognition cameras raise serious ethical concerns."
+    },
+    {
+      "en": "digital skills",
+      "ar": "المهارات الرقمية",
+      "phonetic": "/ˈdɪdʒɪtəl ˈskɪlz/",
+      "example": "Employers now expect digital skills in almost every job."
+    },
+    {
+      "en": "tech-savvy",
+      "ar": "شاطر في التكنولوجيا / ملمّ بالتقنية",
+      "phonetic": "/ˈtɛk ˌsævi/",
+      "example": "My nephew is very tech-savvy, so he set up my new laptop."
+    },
+    {
+      "en": "generate",
+      "ar": "يُولِّد / يُنتج",
+      "phonetic": "/ˈdʒɛnəˌreɪt/",
+      "example": "This tool can generate a full report in two minutes."
+    },
+    {
+      "en": "get hacked",
+      "ar": "يتعرّض للاختراق (يتهكّر)",
+      "phonetic": "/ɡɛt ˈhækt/",
+      "example": "Use a strong password, or your account might get hacked."
+    },
+    {
+      "en": "job market",
+      "ar": "سوق العمل",
+      "phonetic": "/ˈdʒɑb ˌmɑrkɪt/",
+      "example": "The job market is changing quickly because of AI."
+    },
+    {
+      "en": "back up",
+      "ar": "ياخد نسخة احتياطية",
+      "phonetic": "/ˌbæk ˈʌp/",
+      "example": "Don't forget to back up your files every week."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I had my laptop repaired at a shop downtown.",
+      "ar": "صلّحت حاسوبي المحمول عند محل في وسط البلد."
+    },
+    {
+      "en": "A new AI model is being developed by our team.",
+      "ar": "يجري تطوير نموذج ذكاء اصطناعي جديد على يد فريقنا."
+    },
+    {
+      "en": "My email account got hacked last week.",
+      "ar": "تعرّض حساب بريدي الإلكتروني للاختراق الأسبوع الماضي."
+    },
+    {
+      "en": "Thousands of jobs are expected to be replaced by automation.",
+      "ar": "من المتوقع أن تحلّ الأتمتة محل آلاف الوظائف."
+    },
+    {
+      "en": "We need to get our website redesigned before the launch.",
+      "ar": "نحتاج أن نعيد تصميم موقعنا الإلكتروني قبل الإطلاق."
+    },
+    {
+      "en": "All our files are backed up to cloud storage every night.",
+      "ar": "يتم حفظ نسخة احتياطية من كل ملفاتنا على التخزين السحابي كل ليلة."
+    },
+    {
+      "en": "It is said that AI will change every industry.",
+      "ar": "يُقال إن الذكاء الاصطناعي سيغيّر كل الصناعات."
+    },
+    {
+      "en": "How does this algorithm decide what I see?",
+      "ar": "كيف تقرر هذه الخوارزمية ما أراه؟"
+    },
+    {
+      "en": "Is this app user-friendly enough for my parents?",
+      "ar": "هل هذا التطبيق سهل الاستخدام بما يكفي لوالديّ؟"
+    },
+    {
+      "en": "Digital skills are essential in today's job market.",
+      "ar": "المهارات الرقمية ضرورية في سوق العمل اليوم."
+    }
+  ],
+  "story": {
+    "title": "The New Team Member",
+    "text": "Last month, Bright Ads, a small marketing company in Giza, had an AI assistant installed on every computer. The manager, Mr. Adel, believed the tool would streamline their work. Within days, reports that used to take hours were being generated in minutes, and customer emails were answered by a chatbot. Not everyone was happy, though. At the weekly meeting, Rania, the designer, raised some ethical concerns. \"Our clients' files are being uploaded to a server we know nothing about,\" she said. \"What about data privacy?\" Tamer, the youngest and most tech-savvy member of the team, disagreed. \"The data is encrypted, and the system is being tested by a cybersecurity company right now.\" Then Mona from accounting asked the question everyone was thinking: \"Will automation replace jobs here?\" Mr. Adel smiled. \"Nobody is going to be fired. But everyone will be trained to use the tool properly.\" He also admitted that the AI wasn't perfect; its accuracy depended on the information it was given. In the end, the team agreed on a few rules. Sensitive files would never be shared with the assistant, and every AI-generated text would be checked by a human before it was sent. \"AI is a great assistant,\" Rania said, \"but it's a terrible boss.\"",
+    "translation": "في الشهر الماضي، قامت شركة Bright Ads، وهي شركة تسويق صغيرة في الجيزة، بتثبيت مساعد ذكاء اصطناعي على كل أجهزة الكمبيوتر. كان المدير، الأستاذ عادل، يؤمن بأن هذه الأداة ستبسّط عملهم وتسرّعه. وخلال أيام، أصبحت التقارير التي كانت تستغرق ساعات تُنتَج في دقائق، وصار روبوت محادثة يرد على رسائل العملاء. لكن لم يكن الجميع سعداء. ففي الاجتماع الأسبوعي، أثارت رانيا، المصمّمة، بعض المخاوف الأخلاقية. قالت: «ملفات عملائنا تُرفع على خادم لا نعرف عنه شيئاً. ماذا عن خصوصية البيانات؟» لم يوافقها تامر، أصغر أعضاء الفريق وأكثرهم إلماماً بالتكنولوجيا، وقال: «البيانات مشفّرة، والنظام يتم اختباره الآن من قِبل شركة أمن سيبراني.» ثم سألت منى من قسم الحسابات السؤال الذي كان يدور في ذهن الجميع: «هل ستحلّ الأتمتة محل الوظائف هنا؟» ابتسم الأستاذ عادل وقال: «لن يُفصل أحد. لكن سيتم تدريب الجميع على استخدام الأداة بشكل صحيح.» واعترف أيضاً بأن الذكاء الاصطناعي ليس مثالياً، وأن دقته تعتمد على المعلومات التي تُعطى له. وفي النهاية، اتفق الفريق على بعض القواعد: لن تُشارَك الملفات الحساسة مع المساعد أبداً، وسيراجع إنسانٌ كل نص يكتبه الذكاء الاصطناعي قبل إرساله. قالت رانيا: «الذكاء الاصطناعي مساعد رائع، لكنه مدير سيئ جداً.»"
+  },
+  "grammar": {
+    "title": "Advanced passive and causative",
+    "explanationAr": "نستخدم المبني للمجهول عندما يكون الحدث أهم من الفاعل، ويمكن استخدامه مع كل الأزمنة، مثل المضارع المستمر is being + V3 في The app is being developed، ومع الأفعال الناقصة مثل can be + V3 و will be + V3. ويمكن استخدام get + V3 بدلاً من be في الكلام اليومي، خاصة مع الأحداث المفاجئة أو السيئة مثل My account got hacked. أما التركيب السببي (causative) فنستخدمه عندما ندفع لشخص آخر ليقوم بالعمل لنا: have / get + something + V3 مثل I had my phone repaired (صلّحت موبايلي عند حد). وهناك أيضاً تركيب It is said / expected that ... للحديث عن آراء الناس بشكل عام.",
+    "rule": "is / are being + past participle = passive in progress (is being developed)\nwill / can / should + be + past participle (will be replaced)\nget + past participle = informal passive (got hacked)\nhave / get + object + past participle = someone does it for you (have my laptop fixed)\nIt is said / expected / believed that ... = general opinion",
+    "examples": [
+      {
+        "en": "A new chatbot is being tested by our customer service team.",
+        "ar": "يجري اختبار روبوت محادثة جديد من قِبل فريق خدمة العملاء."
+      },
+      {
+        "en": "Many factory jobs will be replaced by automation.",
+        "ar": "ستحلّ الأتمتة محل كثير من وظائف المصانع."
+      },
+      {
+        "en": "I need to get my phone fixed before my trip.",
+        "ar": "لازم أصلّح موبايلي قبل سفري."
+      },
+      {
+        "en": "We had a cybersecurity expert check our network.",
+        "ar": "خلّينا خبير أمن سيبراني يفحص شبكتنا."
+      },
+      {
+        "en": "It is expected that AI will create new jobs in the job market.",
+        "ar": "من المتوقع أن يخلق الذكاء الاصطناعي وظائف جديدة في سوق العمل."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "My Account Got Hacked",
+    "settingAr": "إنت موظف في شركة وحاسس إن حسابك اتهكر، فبتكلم الدعم الفني عشان يساعدوك.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "IT Specialist",
+        "nameAr": "موظف الدعم الفني"
+      },
+      {
+        "id": "B",
+        "name": "Employee",
+        "nameAr": "الموظف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hi, I think my work account got hacked this morning.",
+        "ar": "أهلاً، أنا حاسس إن حساب الشغل بتاعي اتهكر الصبح."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh no. What makes you think that?",
+        "ar": "يا ساتر. ليه بتقول كده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Strange emails were sent from my account to all our clients.",
+        "ar": "اتبعت إيميلات غريبة من حسابي لكل العملاء."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay, your password is being reset right now. Please don't log in.",
+        "ar": "طيب، الباسورد بتاعك بيتغيّر دلوقتي. ما تدخلش على الحساب لو سمحت."
+      },
+      {
+        "speaker": "B",
+        "en": "Thanks. Should I have my laptop checked as well?",
+        "ar": "شكراً. أخلّي حد يفحص اللابتوب كمان؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes. Bring it here, and we'll get it scanned for viruses.",
+        "ar": "أيوه. هاته هنا، وهنخلّيه يتفحص من الفيروسات."
+      },
+      {
+        "speaker": "B",
+        "en": "Were any of our files stolen? I'm worried about data privacy.",
+        "ar": "هو اتسرق أي ملفات؟ أنا قلقان على خصوصية البيانات."
+      },
+      {
+        "speaker": "A",
+        "en": "I don't think so. Everything is backed up to cloud storage.",
+        "ar": "ما أظنش. كل حاجة متاخد منها نسخة احتياطية على الكلاود."
+      },
+      {
+        "speaker": "B",
+        "en": "That's a relief. How can I avoid this in the future?",
+        "ar": "الحمد لله. أعمل إيه عشان ده ما يتكررش؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Install every software update and turn on two-factor authentication.",
+        "ar": "نزّل كل تحديث للبرامج وشغّل التحقق بخطوتين."
+      },
+      {
+        "speaker": "B",
+        "en": "Got it. I'll do that today. Thanks for your help.",
+        "ar": "تمام. هعمل كده النهارده. شكراً على مساعدتك."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "I can't fix my phone myself, so I'm going to have it ___.",
+      "options": [
+        "repair",
+        "repairing",
+        "repaired",
+        "to repair"
+      ],
+      "answer": "repaired"
+    },
+    {
+      "type": "fill",
+      "sentence": "Always ___ up your files before a software update.",
+      "answer": "back",
+      "hint": "تاخد نسخة احتياطية"
+    },
+    {
+      "type": "order",
+      "words": [
+        "developed",
+        "app",
+        "our",
+        "A",
+        "is",
+        "team.",
+        "new",
+        "by",
+        "being"
+      ],
+      "answer": "A new app is being developed by our team."
+    },
+    {
+      "type": "mcq",
+      "question": "Protecting computers and networks from attacks is called ___.",
+      "options": [
+        "cybersecurity",
+        "automation",
+        "an algorithm",
+        "cloud storage"
+      ],
+      "answer": "cybersecurity"
+    },
+    {
+      "type": "fill",
+      "sentence": "Many people worry that automation will ___ jobs in factories.",
+      "answer": "replace",
+      "hint": "يحلّ محل",
+      "accept": [
+        "eliminate"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "website",
+        "We",
+        "month.",
+        "redesigned",
+        "our",
+        "last",
+        "got"
+      ],
+      "answer": "We got our website redesigned last month."
+    },
+    {
+      "type": "mcq",
+      "question": "Experts say thousands of jobs ___ by AI in the next ten years.",
+      "options": [
+        "will replace",
+        "are replacing",
+        "replaced",
+        "could be replaced"
+      ],
+      "answer": "could be replaced"
+    },
+    {
+      "type": "listen",
+      "audioText": "Our personal data is being collected all the time.",
+      "answer": "Our personal data is being collected all the time."
+    }
+  ]
+}

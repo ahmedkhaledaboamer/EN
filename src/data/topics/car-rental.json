@@ -1,0 +1,356 @@
+{
+  "slug": "car-rental",
+  "title": "Renting a Car",
+  "titleAr": "تأجير عربية",
+  "emoji": "🚗",
+  "level": "B1",
+  "description": "Book a rental car, understand insurance, and deal with problems on the road.",
+  "descriptionAr": "احجز سيارة مستأجرة، وافهم التأمين، وتعامل مع المشاكل على الطريق.",
+  "words": [
+    {
+      "en": "rental agreement",
+      "ar": "عقد الإيجار",
+      "phonetic": "/ˈrɛntəl əˈɡrimənt/",
+      "example": "Please read the rental agreement before you sign it."
+    },
+    {
+      "en": "driver's license",
+      "ar": "رخصة القيادة",
+      "phonetic": "/ˈdraɪvərz ˈlaɪsəns/",
+      "example": "Can I see your driver's license, please?"
+    },
+    {
+      "en": "insurance",
+      "ar": "تأمين",
+      "phonetic": "/ɪnˈʃʊrəns/",
+      "example": "Full insurance costs fifteen dollars a day."
+    },
+    {
+      "en": "deposit",
+      "ar": "تأمين (مبلغ بيرجعلك)",
+      "phonetic": "/dɪˈpɑzɪt/",
+      "example": "You get your deposit back when you return the car."
+    },
+    {
+      "en": "pick up",
+      "ar": "يستلم",
+      "phonetic": "/ˌpɪk ˈʌp/",
+      "example": "We can pick up the car at the airport."
+    },
+    {
+      "en": "drop off",
+      "ar": "يسلّم / يرجّع",
+      "phonetic": "/ˌdrɑp ˈɔf/",
+      "example": "You can drop off the car at any of our offices."
+    },
+    {
+      "en": "mileage",
+      "ar": "عدد الأميال المقطوعة",
+      "phonetic": "/ˈmaɪlɪdʒ/",
+      "example": "This rental comes with unlimited mileage."
+    },
+    {
+      "en": "full tank",
+      "ar": "خزان وقود ممتلئ",
+      "phonetic": "/ˈfʊl ˈtæŋk/",
+      "example": "The car has a full tank, so please return it full."
+    },
+    {
+      "en": "scratch",
+      "ar": "خدش",
+      "phonetic": "/skrætʃ/",
+      "example": "There is a small scratch on the back door."
+    },
+    {
+      "en": "dent",
+      "ar": "انبعاج / خبطة",
+      "phonetic": "/dɛnt/",
+      "example": "I noticed a dent near the front light."
+    },
+    {
+      "en": "damage",
+      "ar": "ضرر / تلف",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "example": "Who pays for the damage if I have an accident?"
+    },
+    {
+      "en": "automatic",
+      "ar": "أوتوماتيك (ناقل حركة آلي)",
+      "phonetic": "/ˌɔtəˈmætɪk/",
+      "example": "I'd prefer an automatic, please."
+    },
+    {
+      "en": "manual",
+      "ar": "مانيوال (ناقل حركة يدوي)",
+      "phonetic": "/ˈmænjuəl/",
+      "example": "I can't drive a manual car."
+    },
+    {
+      "en": "flat tire",
+      "ar": "إطار فارغ من الهواء / كاوتش نايم",
+      "phonetic": "/ˌflæt ˈtaɪər/",
+      "example": "We got a flat tire on the highway."
+    },
+    {
+      "en": "breakdown",
+      "ar": "عطل (في السيارة)",
+      "phonetic": "/ˈbreɪkˌdaʊn/",
+      "example": "Call this number in case of a breakdown."
+    },
+    {
+      "en": "roadside assistance",
+      "ar": "خدمة المساعدة على الطريق",
+      "phonetic": "/ˈroʊdˌsaɪd əˈsɪstəns/",
+      "example": "Roadside assistance is free with this rental."
+    },
+    {
+      "en": "late fee",
+      "ar": "غرامة تأخير",
+      "phonetic": "/ˌleɪt ˈfi/",
+      "example": "If you return the car late, there is a late fee."
+    },
+    {
+      "en": "extra charge",
+      "ar": "رسوم إضافية",
+      "phonetic": "/ˈɛkstrə ˈtʃɑrdʒ/",
+      "example": "Is there an extra charge for a second driver?"
+    },
+    {
+      "en": "inspect",
+      "ar": "يفحص / يعاين",
+      "phonetic": "/ɪnˈspɛkt/",
+      "example": "Always inspect the car before you drive away."
+    },
+    {
+      "en": "gas station",
+      "ar": "محطة بنزين",
+      "phonetic": "/ˈɡæs ˌsteɪʃən/",
+      "example": "Is there a gas station near the airport?"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'd like to rent a small car for five days.",
+      "ar": "أريد أن أستأجر سيارة صغيرة لمدة خمسة أيام."
+    },
+    {
+      "en": "Do I have to pay a deposit?",
+      "ar": "هل يجب عليّ أن أدفع تأميناً مسترداً؟"
+    },
+    {
+      "en": "You need to show your driver's license and a credit card.",
+      "ar": "تحتاج إلى إظهار رخصة القيادة وبطاقة ائتمان."
+    },
+    {
+      "en": "You don't need to return the car to the same office.",
+      "ar": "لا داعي لإرجاع السيارة إلى نفس المكتب."
+    },
+    {
+      "en": "You mustn't smoke inside the car.",
+      "ar": "ممنوع التدخين داخل السيارة."
+    },
+    {
+      "en": "You have to return it with a full tank.",
+      "ar": "يجب أن ترجعها وخزان الوقود ممتلئ."
+    },
+    {
+      "en": "Does the price include insurance?",
+      "ar": "هل السعر يشمل التأمين؟"
+    },
+    {
+      "en": "There's already a scratch on the driver's door.",
+      "ar": "يوجد خدش بالفعل على باب السائق."
+    },
+    {
+      "en": "We have a flat tire. Can you send someone?",
+      "ar": "عندنا إطار فارغ. هل يمكنكم إرسال أحد؟"
+    },
+    {
+      "en": "Where do I drop off the car?",
+      "ar": "أين أسلّم السيارة؟"
+    }
+  ],
+  "story": {
+    "title": "The Mystery Scratch",
+    "text": "Omar and Laila wanted a road trip along the coast, so they rented a small automatic car. At the airport office, the agent said, \"You have to show your driver's license, and you need to return the car with a full tank.\" Omar signed the rental agreement and paid a two-hundred-dollar deposit. They were excited and didn't inspect the car carefully. The trip was wonderful. They had unlimited mileage, so they drove everywhere. On the last day, they stopped at a gas station and filled the tank. When they went to drop off the car, the agent walked around it and pointed at the back door. \"There's a scratch here. We have to keep part of your deposit for the damage.\" Laila was upset. \"We didn't do that!\" Luckily, she remembered a photo. She had taken a picture at the airport, and the scratch was already there. The agent checked the photo and said, \"You're right. You don't need to pay anything.\" Next time, they will inspect the car first.",
+    "translation": "أراد عمر وليلى رحلة بالسيارة على طول الساحل، فاستأجرا سيارة صغيرة أوتوماتيك. في مكتب المطار، قال الموظف: «يجب أن تُظهر رخصة القيادة، وتحتاج إلى إرجاع السيارة وخزان الوقود ممتلئ.» وقّع عمر عقد الإيجار ودفع تأميناً مسترداً قدره مئتا دولار. كانا متحمسين ولم يفحصا السيارة جيداً. كانت الرحلة رائعة. كان عدد الأميال غير محدود، فقادا إلى كل مكان. في اليوم الأخير، توقفا عند محطة بنزين وملآ الخزان. وعندما ذهبا لتسليم السيارة، دار الموظف حولها وأشار إلى الباب الخلفي. «يوجد خدش هنا. يجب أن نحتفظ بجزء من التأمين مقابل الضرر.» انزعجت ليلى. «لم نفعل ذلك!» ولحسن الحظ، تذكرت صورة. كانت قد التقطت صورة في المطار، وكان الخدش موجوداً بالفعل. فحص الموظف الصورة وقال: «معكِ حق. لا داعي لأن تدفعا أي شيء.» في المرة القادمة، سيفحصان السيارة أولاً."
+  },
+  "grammar": {
+    "title": "have to / need to / don't need to / mustn't",
+    "explanationAr": "نستخدم have to و need to للتعبير عن شيء ضروري أو قاعدة لازم تلتزم بها، مثل: You have to show your license. أما don't have to و don't need to فمعناهما أن الشيء غير ضروري وأنت حر، مثل: You don't need to pay for GPS. ونستخدم mustn't للمنع، أي أن الشيء ممنوع تماماً، مثل: You mustn't smoke in the car. انتبه: don't have to (مش لازم) تختلف تماماً عن mustn't (ممنوع). وللسؤال نقول: Do I have to...? أو Do I need to...?",
+    "rule": "have to / need to + verb = it is necessary\ndon't have to / don't need to + verb = it is not necessary\nmustn't + verb = it is not allowed\nQuestion: Do I have to / need to + verb?",
+    "examples": [
+      {
+        "en": "You have to return the car with a full tank.",
+        "ar": "يجب أن ترجع السيارة وخزان الوقود ممتلئ."
+      },
+      {
+        "en": "Do I need to pay a deposit?",
+        "ar": "هل أحتاج إلى دفع تأمين مسترد؟"
+      },
+      {
+        "en": "You don't need to buy extra insurance.",
+        "ar": "لا تحتاج إلى شراء تأمين إضافي."
+      },
+      {
+        "en": "You mustn't drive without your driver's license.",
+        "ar": "ممنوع أن تقود بدون رخصة القيادة."
+      },
+      {
+        "en": "We have to drop off the car before noon.",
+        "ar": "يجب أن نسلّم السيارة قبل الظهر."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the Rental Desk",
+    "settingAr": "إنت في مكتب تأجير العربيات في المطار وعايز تأجر عربية لأسبوع.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Rental Agent",
+        "nameAr": "موظف التأجير"
+      },
+      {
+        "id": "B",
+        "name": "Customer",
+        "nameAr": "الزبون (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hi, I'd like to rent a car for one week, please.",
+        "ar": "أهلاً، عايز أأجر عربية لمدة أسبوع لو سمحت."
+      },
+      {
+        "speaker": "A",
+        "en": "Sure. Do you want an automatic or a manual?",
+        "ar": "أكيد. عايزها أوتوماتيك ولا مانيوال؟"
+      },
+      {
+        "speaker": "B",
+        "en": "An automatic, please. Do I have to pay a deposit?",
+        "ar": "أوتوماتيك لو سمحت. لازم أدفع تأمين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, two hundred dollars. You get it back when you return the car.",
+        "ar": "أيوه، ميتين دولار. بترجعلك لما ترجّع العربية."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay. Does the price include insurance?",
+        "ar": "تمام. السعر شامل التأمين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Basic insurance, yes. You don't need to buy extra.",
+        "ar": "التأمين الأساسي أيوه. مش محتاج تشتري إضافي."
+      },
+      {
+        "speaker": "B",
+        "en": "Great. Do I need to return it with a full tank?",
+        "ar": "حلو. لازم أرجّعها والتانك مليان؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, you do. And you mustn't smoke inside the car.",
+        "ar": "أيوه لازم. وممنوع التدخين جوه العربية."
+      },
+      {
+        "speaker": "B",
+        "en": "No problem. Can I inspect the car before I leave?",
+        "ar": "مفيش مشكلة. ممكن أعاين العربية قبل ما أمشي؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. It's in parking spot twelve. Here are the keys.",
+        "ar": "طبعاً. هي في الركنة رقم اتناشر. اتفضل المفاتيح."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Smoking in the car is not allowed. You ___ smoke in the car.",
+      "options": [
+        "don't have to",
+        "don't need to",
+        "mustn't",
+        "need to"
+      ],
+      "answer": "mustn't"
+    },
+    {
+      "type": "fill",
+      "sentence": "Please check the car for any ___ before you drive away.",
+      "answer": "damage",
+      "hint": "ضرر / تلف",
+      "accept": [
+        "scratches",
+        "dents"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "pay",
+        "Do",
+        "deposit?",
+        "have",
+        "a",
+        "I",
+        "to"
+      ],
+      "answer": "Do I have to pay a deposit?"
+    },
+    {
+      "type": "mcq",
+      "question": "What do you call a tire with no air in it?",
+      "options": [
+        "A flat tire",
+        "A full tank",
+        "A late fee",
+        "A dent"
+      ],
+      "answer": "A flat tire"
+    },
+    {
+      "type": "fill",
+      "sentence": "If you return the car two hours late, you have to pay a late ___.",
+      "answer": "fee",
+      "hint": "غرامة / رسوم"
+    },
+    {
+      "type": "order",
+      "words": [
+        "need",
+        "the",
+        "You",
+        "car.",
+        "don't",
+        "wash",
+        "to"
+      ],
+      "answer": "You don't need to wash the car."
+    },
+    {
+      "type": "mcq",
+      "question": "Our car stopped on the highway. Who should we call?",
+      "options": [
+        "The gas station",
+        "Our neighbor",
+        "The deposit",
+        "Roadside assistance"
+      ],
+      "answer": "Roadside assistance"
+    },
+    {
+      "type": "listen",
+      "audioText": "You have to return the car with a full tank.",
+      "answer": "You have to return the car with a full tank."
+    }
+  ]
+}

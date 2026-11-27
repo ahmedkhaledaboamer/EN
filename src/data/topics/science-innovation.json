@@ -1,0 +1,362 @@
+{
+  "slug": "science-innovation",
+  "title": "Science & Innovation",
+  "titleAr": "العلم والابتكار",
+  "emoji": "🔬",
+  "level": "C2",
+  "description": "Discuss discoveries, research, breakthroughs, and their impact.",
+  "descriptionAr": "ناقش الاكتشافات والأبحاث والإنجازات العلمية الكبرى وتأثيرها.",
+  "words": [
+    {
+      "en": "peer-reviewed",
+      "ar": "مُحكَّم (راجعه خبراء مستقلون)",
+      "phonetic": "/ˈpɪr rɪˌvjud/",
+      "example": "The study was published in a peer-reviewed journal."
+    },
+    {
+      "en": "breakthrough",
+      "ar": "اختراق علمي / إنجاز كبير",
+      "phonetic": "/ˈbreɪkˌθru/",
+      "example": "The new vaccine was hailed as a major breakthrough."
+    },
+    {
+      "en": "hypothesis",
+      "ar": "فرضية",
+      "phonetic": "/haɪˈpɑθəsɪs/",
+      "example": "The data did not support their original hypothesis."
+    },
+    {
+      "en": "replicate",
+      "ar": "يكرّر (التجربة) ويحصل على النتائج نفسها",
+      "phonetic": "/ˈrɛplɪˌkeɪt/",
+      "example": "Other teams have failed to replicate the experiment."
+    },
+    {
+      "en": "reproducibility",
+      "ar": "قابلية إعادة الإنتاج / إمكانية تكرار النتائج",
+      "phonetic": "/ˌriprəˌdusəˈbɪləti/",
+      "example": "Reproducibility is the foundation of good science."
+    },
+    {
+      "en": "empirical evidence",
+      "ar": "دليل تجريبي / أدلة قائمة على التجربة",
+      "phonetic": "/ɛmˈpɪrɪkəl ˈɛvədəns/",
+      "example": "There is little empirical evidence for that claim."
+    },
+    {
+      "en": "cutting-edge",
+      "ar": "متطور جداً / في طليعة التقنية",
+      "phonetic": "/ˈkʌtɪŋ ˈɛdʒ/",
+      "example": "The lab uses cutting-edge gene-editing tools."
+    },
+    {
+      "en": "groundbreaking",
+      "ar": "رائد / غير مسبوق",
+      "phonetic": "/ˈɡraʊndˌbreɪkɪŋ/",
+      "example": "Her groundbreaking research changed how we treat cancer."
+    },
+    {
+      "en": "paradigm shift",
+      "ar": "تحوّل جذري في المفاهيم / نقلة نوعية",
+      "phonetic": "/ˈpærəˌdaɪm ʃɪft/",
+      "example": "The internet caused a paradigm shift in how we learn."
+    },
+    {
+      "en": "sample size",
+      "ar": "حجم العيّنة",
+      "phonetic": "/ˈsæmpəl saɪz/",
+      "example": "With such a small sample size, the results are unreliable."
+    },
+    {
+      "en": "statistically significant",
+      "ar": "ذو دلالة إحصائية",
+      "phonetic": "/stəˈtɪstɪkli sɪɡˈnɪfɪkənt/",
+      "example": "The difference between the two groups was statistically significant."
+    },
+    {
+      "en": "margin of error",
+      "ar": "هامش الخطأ",
+      "phonetic": "/ˈmɑrdʒən əv ˈɛrər/",
+      "example": "The poll has a margin of error of three percent."
+    },
+    {
+      "en": "anomaly",
+      "ar": "شذوذ / نتيجة غير طبيعية",
+      "phonetic": "/əˈnɑməli/",
+      "example": "At first, the strange reading was dismissed as an anomaly."
+    },
+    {
+      "en": "skepticism",
+      "ar": "تشكُّك / شكّ علمي",
+      "phonetic": "/ˈskɛptəˌsɪzəm/",
+      "example": "The claim was met with widespread skepticism."
+    },
+    {
+      "en": "findings",
+      "ar": "نتائج (البحث)",
+      "phonetic": "/ˈfaɪndɪŋz/",
+      "example": "The findings will be presented at a conference in May."
+    },
+    {
+      "en": "methodology",
+      "ar": "المنهجية",
+      "phonetic": "/ˌmɛθəˈdɑlədʒi/",
+      "example": "Reviewers questioned the study's methodology."
+    },
+    {
+      "en": "proof of concept",
+      "ar": "إثبات صحة الفكرة / نموذج إثبات المفهوم",
+      "phonetic": "/ˈpruf əv ˈkɑnsɛpt/",
+      "example": "The small prototype is only a proof of concept."
+    },
+    {
+      "en": "unintended consequences",
+      "ar": "عواقب غير مقصودة",
+      "phonetic": "/ˌʌnɪnˈtɛndɪd ˈkɑnsəˌkwɛnsɪz/",
+      "example": "New technologies often have unintended consequences."
+    },
+    {
+      "en": "scale up",
+      "ar": "يوسّع نطاق (الإنتاج أو التطبيق)",
+      "phonetic": "/skeɪl ˈʌp/",
+      "example": "The startup needs more funding to scale up production."
+    },
+    {
+      "en": "corroborate",
+      "ar": "يؤكّد / يدعم بالأدلة",
+      "phonetic": "/kəˈrɑbəˌreɪt/",
+      "example": "New data from Japan seems to corroborate their results."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The publication of the findings caused widespread skepticism.",
+      "ar": "أثار نشر النتائج تشكّكاً واسع النطاق."
+    },
+    {
+      "en": "Has the study been peer-reviewed yet?",
+      "ar": "هل خضعت الدراسة للتحكيم بعد؟"
+    },
+    {
+      "en": "The failure to replicate the results raised serious questions.",
+      "ar": "أثار الفشل في تكرار النتائج تساؤلات جدية."
+    },
+    {
+      "en": "This discovery could lead to a paradigm shift in medicine.",
+      "ar": "قد يؤدي هذا الاكتشاف إلى تحوّل جذري في الطب."
+    },
+    {
+      "en": "A thorough assessment of the risks is required before approval.",
+      "ar": "يلزم إجراء تقييم شامل للمخاطر قبل الموافقة."
+    },
+    {
+      "en": "The increase in funding accelerated the development of the technology.",
+      "ar": "سرّعت زيادة التمويل تطوير هذه التقنية."
+    },
+    {
+      "en": "The results were statistically significant, but the sample size was small.",
+      "ar": "كانت النتائج ذات دلالة إحصائية، لكن حجم العينة كان صغيراً."
+    },
+    {
+      "en": "What's the margin of error in this survey?",
+      "ar": "ما هامش الخطأ في هذا الاستطلاع؟"
+    },
+    {
+      "en": "The lack of empirical evidence weakens the argument.",
+      "ar": "غياب الأدلة التجريبية يُضعف الحجة."
+    },
+    {
+      "en": "Many cutting-edge technologies have unintended consequences.",
+      "ar": "كثير من التقنيات المتطورة لها عواقب غير مقصودة."
+    }
+  ],
+  "story": {
+    "title": "Rejected, Then Confirmed",
+    "text": "When Dr. Rania Fouad's team in Alexandria discovered that a common soil bacterium could break down plastic in days rather than centuries, they knew the claim would face skepticism. Their findings suggested a potential breakthrough in the treatment of plastic waste. However, the first journal they approached rejected the paper within a week. \"The rapid degradation of the polymer is most likely an anomaly,\" one reviewer wrote. \"The sample size is too small, and the methodology lacks sufficient controls.\" Rania was disappointed but not discouraged. \"Rejection is part of science,\" she told her students. \"Our job now is the improvement of our evidence, not the defense of our pride.\" For eight months, the team repeated the experiment with larger samples and stricter controls. The results remained statistically significant. Then something unexpected happened. A laboratory in Osaka, working independently, managed to replicate the effect using bacteria from a different continent. Soon, two more groups were able to corroborate the results. The accumulation of empirical evidence made the original objections difficult to sustain. The revised paper was finally published in a leading peer-reviewed journal, and journalists began calling the discovery groundbreaking. Rania remained cautious. \"It's a proof of concept, not a solution,\" she said in an interview. \"Before we scale up, we need a careful assessment of the unintended consequences. Releasing bacteria into the environment is never simple.\" Still, on the evening of the publication, the whole team went out for dinner by the sea. For once, nobody talked about data.",
+    "translation": "عندما اكتشف فريق الدكتورة رانيا فؤاد في الإسكندرية أن نوعاً شائعاً من بكتيريا التربة يستطيع تحليل البلاستيك في أيام بدلاً من قرون، كانوا يعلمون أن هذا الادعاء سيواجه التشكك. أشارت نتائجهم إلى إنجاز محتمل في معالجة النفايات البلاستيكية. لكن أول مجلة تواصلوا معها رفضت البحث في غضون أسبوع. كتب أحد المحكّمين: «التحلّل السريع للبوليمر هو على الأرجح نتيجة شاذة. حجم العينة صغير جداً، والمنهجية تفتقر إلى ضوابط كافية.» شعرت رانيا بخيبة أمل لكنها لم تيأس. قالت لطلابها: «الرفض جزء من العلم. مهمتنا الآن هي تحسين أدلتنا، لا الدفاع عن كبريائنا.» على مدى ثمانية أشهر، كرر الفريق التجربة بعينات أكبر وضوابط أكثر صرامة. وظلت النتائج ذات دلالة إحصائية. ثم حدث شيء غير متوقع. تمكّن مختبر في أوساكا، يعمل بشكل مستقل، من تكرار التأثير نفسه باستخدام بكتيريا من قارة أخرى. وسرعان ما تمكنت مجموعتان أخريان من تأكيد النتائج. جعل تراكم الأدلة التجريبية الاعتراضات الأصلية صعبة الصمود. نُشر البحث المنقّح أخيراً في مجلة محكّمة رائدة، وبدأ الصحفيون يصفون الاكتشاف بأنه غير مسبوق. لكن رانيا ظلت حذرة. قالت في مقابلة: «إنه إثبات لصحة الفكرة، وليس حلاً. قبل أن نوسّع نطاق التطبيق، نحتاج إلى تقييم دقيق للعواقب غير المقصودة. إطلاق البكتيريا في البيئة ليس أمراً بسيطاً أبداً.» ومع ذلك، في مساء يوم النشر، خرج الفريق بأكمله لتناول العشاء على البحر. ولأول مرة، لم يتحدث أحد عن البيانات."
+  },
+  "grammar": {
+    "title": "Nominalization and Dense Noun Phrases",
+    "explanationAr": "النومينالايزيشن (nominalization) يعني تحويل الفعل أو الصفة إلى اسم، وهو سمة أساسية في الكتابة العلمية والأكاديمية. فبدلاً من We analyzed the data carefully نكتب A careful analysis of the data was carried out. ومن الأمثلة: discover → discovery، و develop → development، و fail → failure، و accurate → accuracy. وينتج عن ذلك عبارات اسمية كثيفة مثل the rapid development of new vaccines بدلاً من «تطورت اللقاحات بسرعة». هذا الأسلوب يجعل النص أكثر رسمية وموضوعية ويركّز على العملية لا على الأشخاص، لكن الإفراط فيه يجعل النص ثقيلاً.",
+    "rule": "verb → noun: discover → discovery, analyze → analysis, fail → failure\nadjective → noun: accurate → accuracy, reliable → reliability\nthe + noun + of + noun phrase → the replication of the results\nadjective + noun + of / in → a careful assessment of, a sharp increase in\nWe tested the drug. → The testing of the drug was completed.",
+    "examples": [
+      {
+        "en": "The replication of the findings by independent labs confirmed the breakthrough.",
+        "ar": "أكّد تكرار النتائج من قِبل مختبرات مستقلة هذا الإنجاز."
+      },
+      {
+        "en": "A lack of reproducibility undermined confidence in the study.",
+        "ar": "أضعف غياب قابلية تكرار النتائج الثقة في الدراسة."
+      },
+      {
+        "en": "The rapid development of cutting-edge vaccines saved millions of lives.",
+        "ar": "أنقذ التطوير السريع للقاحات المتطورة ملايين الأرواح."
+      },
+      {
+        "en": "An increase in the sample size reduced the margin of error.",
+        "ar": "قلّلت زيادة حجم العينة من هامش الخطأ."
+      },
+      {
+        "en": "The discovery of the anomaly led to a paradigm shift in the field.",
+        "ar": "أدى اكتشاف تلك النتيجة الشاذة إلى تحوّل جذري في هذا المجال."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Explaining Your Research",
+    "settingAr": "إنت باحث، وصحفية علمية بتعمل معاك لقاء عن اكتشاف فريقك الجديد.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Journalist",
+        "nameAr": "الصحفية"
+      },
+      {
+        "id": "B",
+        "name": "Researcher",
+        "nameAr": "الباحث (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Thanks for joining us. Can you explain your team's discovery in simple terms?",
+        "ar": "شكراً إنك معانا. ممكن تشرح اكتشاف فريقك بشكل بسيط؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Sure. We found a way to detect early diabetes with a simple breath test.",
+        "ar": "أكيد. لقينا طريقة نكتشف بيها السكر بدري باختبار نَفَس بسيط."
+      },
+      {
+        "speaker": "A",
+        "en": "That sounds groundbreaking. How reliable are the results?",
+        "ar": "ده شكله إنجاز كبير. النتايج دي موثوقة لأي درجة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "The results are statistically significant, and the study has been peer-reviewed.",
+        "ar": "النتايج ليها دلالة إحصائية، والدراسة اتراجعت من خبراء مستقلين."
+      },
+      {
+        "speaker": "A",
+        "en": "Some experts have expressed skepticism. How do you respond?",
+        "ar": "فيه خبراء عندهم شك. بترد عليهم بإيه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Skepticism is healthy. The replication of our findings by other labs is essential.",
+        "ar": "الشك حاجة صحية. إن معامل تانية تكرر نتايجنا ده أمر أساسي."
+      },
+      {
+        "speaker": "A",
+        "en": "When could patients actually benefit from this technology?",
+        "ar": "إمتى المرضى ممكن يستفيدوا فعلاً من التكنولوجيا دي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "First, we need a large-scale evaluation of its accuracy in real hospitals.",
+        "ar": "الأول، محتاجين تقييم واسع لدقتها في مستشفيات حقيقية."
+      },
+      {
+        "speaker": "A",
+        "en": "Are you worried about any unintended consequences?",
+        "ar": "إنت قلقان من أي عواقب مش محسوبة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Mainly false positives. Careful interpretation of the data will be crucial.",
+        "ar": "أساساً النتايج الإيجابية الغلط. تفسير البيانات بحرص هيكون مهم جداً."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which is the more formal, nominalized version of \"We analyzed the samples carefully\"?",
+      "options": [
+        "We were analyzing the samples carefully.",
+        "A careful analysis of the samples was carried out.",
+        "The samples analyzed carefully by us.",
+        "Carefully, the samples we analyzed."
+      ],
+      "answer": "A careful analysis of the samples was carried out."
+    },
+    {
+      "type": "fill",
+      "sentence": "Other labs were unable to ___ the results, so the claim was withdrawn.",
+      "answer": "replicate",
+      "hint": "يكرّر (التجربة) ويحصل على النتائج نفسها",
+      "accept": [
+        "reproduce"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "two",
+        "The",
+        "results",
+        "of",
+        "years.",
+        "replication",
+        "took",
+        "the"
+      ],
+      "answer": "The replication of the results took two years."
+    },
+    {
+      "type": "mcq",
+      "question": "A result that is very unlikely to be due to chance is ___.",
+      "options": [
+        "peer-reviewed",
+        "cutting-edge",
+        "statistically significant",
+        "anecdotal"
+      ],
+      "answer": "statistically significant"
+    },
+    {
+      "type": "fill",
+      "sentence": "Before publication, the paper must be ___ by independent experts in the field.",
+      "answer": "peer-reviewed",
+      "hint": "مُحكَّم (يراجعه خبراء مستقلون)",
+      "accept": [
+        "reviewed"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "development",
+        "funding",
+        "the",
+        "A",
+        "vaccine.",
+        "delayed",
+        "of",
+        "lack",
+        "of",
+        "the"
+      ],
+      "answer": "A lack of funding delayed the development of the vaccine."
+    },
+    {
+      "type": "mcq",
+      "question": "Choose the noun form: \"The ___ of the new drug took ten years.\"",
+      "options": [
+        "development",
+        "develop",
+        "developing",
+        "developed"
+      ],
+      "answer": "development"
+    },
+    {
+      "type": "listen",
+      "audioText": "Independent labs have since corroborated these groundbreaking findings.",
+      "answer": "Independent labs have since corroborated these groundbreaking findings."
+    }
+  ]
+}

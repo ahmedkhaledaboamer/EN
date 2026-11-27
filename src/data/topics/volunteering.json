@@ -1,0 +1,354 @@
+{
+  "slug": "volunteering",
+  "title": "Volunteering & Charity",
+  "titleAr": "التطوع والعمل الخيري",
+  "emoji": "🤲",
+  "level": "B1",
+  "description": "Talk about helping others, charities, and community projects.",
+  "descriptionAr": "تحدّث عن مساعدة الآخرين والجمعيات الخيرية ومشروعات المجتمع.",
+  "words": [
+    {
+      "en": "volunteer",
+      "ar": "متطوّع / يتطوّع",
+      "phonetic": "/ˌvɑlənˈtɪr/",
+      "example": "I volunteer at the hospital every Friday."
+    },
+    {
+      "en": "charity",
+      "ar": "جمعية خيرية / عمل خيري",
+      "phonetic": "/ˈtʃɛrəti/",
+      "example": "This charity helps children who can't afford school."
+    },
+    {
+      "en": "donate",
+      "ar": "يتبرّع",
+      "phonetic": "/ˈdoʊneɪt/",
+      "example": "We donate our old clothes every winter."
+    },
+    {
+      "en": "donation",
+      "ar": "تبرّع",
+      "phonetic": "/doʊˈneɪʃən/",
+      "example": "Thank you for your generous donation."
+    },
+    {
+      "en": "food drive",
+      "ar": "حملة جمع الطعام",
+      "phonetic": "/ˈfud draɪv/",
+      "example": "Our school is organizing a food drive this month."
+    },
+    {
+      "en": "community",
+      "ar": "المجتمع (المحلي)",
+      "phonetic": "/kəˈmjunəti/",
+      "example": "Everyone in the community came to help."
+    },
+    {
+      "en": "raise money",
+      "ar": "يجمع المال / التبرعات",
+      "phonetic": "/reɪz ˈmʌni/",
+      "example": "They ran a marathon to raise money for the hospital."
+    },
+    {
+      "en": "in need",
+      "ar": "محتاج / في حاجة",
+      "phonetic": "/ɪn ˈnid/",
+      "example": "We send food boxes to families in need."
+    },
+    {
+      "en": "fundraiser",
+      "ar": "فعالية لجمع التبرعات",
+      "phonetic": "/ˈfʌndˌreɪzər/",
+      "example": "The fundraiser collected more than ten thousand pounds."
+    },
+    {
+      "en": "nonprofit",
+      "ar": "منظمة غير هادفة للربح",
+      "phonetic": "/ˌnɑnˈprɑfɪt/",
+      "example": "She works for a nonprofit that protects animals."
+    },
+    {
+      "en": "sign up",
+      "ar": "يسجّل (اسمه)",
+      "phonetic": "/saɪn ˈʌp/",
+      "example": "You can sign up online to join the team."
+    },
+    {
+      "en": "make a difference",
+      "ar": "يُحدث فرقاً",
+      "phonetic": "/meɪk ə ˈdɪfərəns/",
+      "example": "Even a small gift can make a difference."
+    },
+    {
+      "en": "give back",
+      "ar": "يردّ الجميل (للمجتمع)",
+      "phonetic": "/ɡɪv ˈbæk/",
+      "example": "I want to give back to the town where I grew up."
+    },
+    {
+      "en": "organize",
+      "ar": "ينظّم",
+      "phonetic": "/ˈɔrɡəˌnaɪz/",
+      "example": "Who is going to organize the event?"
+    },
+    {
+      "en": "hand out",
+      "ar": "يوزّع",
+      "phonetic": "/hænd ˈaʊt/",
+      "example": "We hand out meals before sunset."
+    },
+    {
+      "en": "orphanage",
+      "ar": "دار أيتام",
+      "phonetic": "/ˈɔrfənɪdʒ/",
+      "example": "We visited an orphanage and played with the kids."
+    },
+    {
+      "en": "food package",
+      "ar": "كرتونة / شنطة مواد غذائية",
+      "phonetic": "/ˈfud ˌpækɪdʒ/",
+      "example": "Each food package has rice, oil, sugar, and dates."
+    },
+    {
+      "en": "homeless",
+      "ar": "بلا مأوى / مشرّد",
+      "phonetic": "/ˈhoʊmləs/",
+      "example": "The shelter gives homeless people a warm bed."
+    },
+    {
+      "en": "spare time",
+      "ar": "وقت الفراغ",
+      "phonetic": "/ˌspɛr ˈtaɪm/",
+      "example": "What do you do in your spare time?"
+    },
+    {
+      "en": "the elderly",
+      "ar": "كبار السن",
+      "phonetic": "/ði ˈɛldərli/",
+      "example": "Our group visits the elderly every Saturday."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I enjoy helping people in my community.",
+      "ar": "أستمتع بمساعدة الناس في مجتمعي."
+    },
+    {
+      "en": "We decided to organize a food drive this Ramadan.",
+      "ar": "قررنا أن ننظّم حملة لجمع الطعام في رمضان هذا العام."
+    },
+    {
+      "en": "Would you like to volunteer with us on Saturday?",
+      "ar": "هل تحب أن تتطوع معنا يوم السبت؟"
+    },
+    {
+      "en": "I want to sign up as a volunteer.",
+      "ar": "أريد أن أسجّل كمتطوع."
+    },
+    {
+      "en": "She stopped to help an old man cross the street.",
+      "ar": "توقّفت لتساعد رجلاً عجوزاً على عبور الشارع."
+    },
+    {
+      "en": "Do you mind carrying these boxes to the car?",
+      "ar": "هل تمانع أن تحمل هذه الصناديق إلى السيارة؟"
+    },
+    {
+      "en": "They hope to collect five hundred food packages.",
+      "ar": "يأملون أن يجمعوا خمسمائة كرتونة مواد غذائية."
+    },
+    {
+      "en": "How can I donate to your charity?",
+      "ar": "كيف يمكنني أن أتبرّع لجمعيتكم الخيرية؟"
+    },
+    {
+      "en": "We are raising money for families in need.",
+      "ar": "نحن نجمع المال للأسر المحتاجة."
+    },
+    {
+      "en": "Volunteering in my spare time makes me feel useful.",
+      "ar": "التطوع في وقت فراغي يجعلني أشعر بأنني مفيد."
+    }
+  ],
+  "story": {
+    "title": "The Ramadan Food Drive",
+    "text": "Every Ramadan, Omar and his friends want to give back to their community. This year, they decided to organize a food drive for families in need. First, they asked a local charity for advice. The manager suggested starting small, so they planned to prepare two hundred food packages. Omar's sister Laila enjoys designing posters, so she made a beautiful one for social media. Soon, people started to send donations. Some neighbors offered to help with the shopping, and a bakery promised to donate bread every evening. The friends spent their spare time packing rice, oil, sugar, and dates. One night, on the way to the warehouse, Omar stopped to buy water for a tired delivery man. \"Thank you, son,\" the man said. By the last week of Ramadan, the volunteers had handed out more than three hundred packages. Omar felt proud. \"We made a real difference,\" he said. \"Let's keep doing this every year.\"",
+    "translation": "في كل رمضان، يريد عمر وأصدقاؤه أن يردّوا الجميل لمجتمعهم. هذا العام، قرروا أن ينظّموا حملة لجمع الطعام للأسر المحتاجة. في البداية، طلبوا النصيحة من جمعية خيرية محلية. اقترح المدير أن يبدأوا بشكل صغير، لذلك خططوا لتجهيز مائتي كرتونة مواد غذائية. ليلى، أخت عمر، تستمتع بتصميم البوسترات، فصمّمت بوستراً جميلاً للسوشيال ميديا. وسرعان ما بدأ الناس في إرسال التبرعات. عرض بعض الجيران أن يساعدوا في التسوق، ووعد أحد المخابز بأن يتبرّع بالخبز كل مساء. قضى الأصدقاء وقت فراغهم في تعبئة الأرز والزيت والسكر والتمر. وفي إحدى الليالي، وهو في طريقه إلى المخزن، توقّف عمر ليشتري ماءً لعامل توصيل متعب. قال الرجل: «شكراً يا ابني.» وبحلول الأسبوع الأخير من رمضان، كان المتطوعون قد وزّعوا أكثر من ثلاثمائة كرتونة. شعر عمر بالفخر وقال: «لقد أحدثنا فرقاً حقيقياً. هيا نستمر في فعل هذا كل عام.»"
+  },
+  "grammar": {
+    "title": "Verb + Gerund or Infinitive",
+    "explanationAr": "بعض الأفعال في الإنجليزية يأتي بعدها فعل بصيغة ing (gerund) مثل enjoy و finish و mind و keep و suggest، فنقول: I enjoy helping people. وأفعال أخرى يأتي بعدها to + الفعل (infinitive) مثل decide و want و hope و plan و offer، فنقول: We decided to join the charity. وهناك أفعال يتغير معناها حسب الصيغة مثل stop، فجملة stop helping تعني «توقّف عن المساعدة»، أما stop to help فتعني «توقّف لكي يساعد». لا توجد قاعدة ثابتة لكل الأفعال، لذلك احفظ كل فعل مع الصيغة التي تأتي بعده.",
+    "rule": "enjoy / finish / mind / keep / suggest + verb-ing\nI enjoy helping people.\ndecide / want / hope / plan / offer + to + verb\nWe decided to organize a food drive.\nstop + verb-ing = no longer do something\nstop + to + verb = stop in order to do something",
+    "examples": [
+      {
+        "en": "I enjoy volunteering at the orphanage.",
+        "ar": "أستمتع بالتطوع في دار الأيتام."
+      },
+      {
+        "en": "We decided to raise money for the children's hospital.",
+        "ar": "قررنا أن نجمع المال لمستشفى الأطفال."
+      },
+      {
+        "en": "She offered to hand out the food packages.",
+        "ar": "عرضت أن توزّع كراتين المواد الغذائية."
+      },
+      {
+        "en": "He stopped to help a homeless man.",
+        "ar": "توقّف ليساعد رجلاً بلا مأوى."
+      },
+      {
+        "en": "They kept collecting donations until midnight.",
+        "ar": "استمروا في جمع التبرعات حتى منتصف الليل."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Signing Up to Volunteer",
+    "settingAr": "إنت رايح جمعية خيرية عشان تسجّل كمتطوع، ومنسّق المتطوعين بيسألك عن اللي بتحب تعمله.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Coordinator",
+        "nameAr": "منسّق المتطوعين"
+      },
+      {
+        "id": "B",
+        "name": "Volunteer",
+        "nameAr": "المتطوع (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hi, I'd like to sign up as a volunteer.",
+        "ar": "أهلاً، حابب أسجّل كمتطوع."
+      },
+      {
+        "speaker": "A",
+        "en": "Great! What kind of work do you enjoy doing?",
+        "ar": "هايل! بتحب تعمل شغل من أنهي نوع؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I enjoy working with children and organizing events.",
+        "ar": "بحب أشتغل مع الأطفال وأنظّم فعاليات."
+      },
+      {
+        "speaker": "A",
+        "en": "Perfect. We're planning to visit an orphanage next Friday.",
+        "ar": "تمام جداً. إحنا ناويين نزور دار أيتام الجمعة الجاية."
+      },
+      {
+        "speaker": "B",
+        "en": "I'd love to come. What time should I be there?",
+        "ar": "يا ريت آجي. المفروض أكون هناك الساعة كام؟"
+      },
+      {
+        "speaker": "A",
+        "en": "At ten. Do you mind bringing some games for the kids?",
+        "ar": "الساعة عشرة. يضايقك تجيب شوية ألعاب للأطفال؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Not at all. I can also help with the food packages.",
+        "ar": "خالص. وممكن كمان أساعد في كراتين الأكل."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank you. We hope to finish packing them by Thursday.",
+        "ar": "شكراً. إحنا ناويين نخلّص تعبئتها قبل الخميس."
+      },
+      {
+        "speaker": "B",
+        "en": "Can I donate some money too?",
+        "ar": "ينفع أتبرّع بشوية فلوس كمان؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. Every donation helps families in need.",
+        "ar": "طبعاً. كل تبرّع بيساعد أسر محتاجة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "I enjoy ___ at the food bank.",
+      "options": [
+        "volunteer",
+        "to volunteer",
+        "volunteering",
+        "volunteered"
+      ],
+      "answer": "volunteering"
+    },
+    {
+      "type": "fill",
+      "sentence": "We want to ___ money for the children's hospital.",
+      "answer": "raise",
+      "hint": "نجمع (فلوس)",
+      "accept": [
+        "collect"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "a",
+        "organize",
+        "We",
+        "drive.",
+        "to",
+        "food",
+        "decided"
+      ],
+      "answer": "We decided to organize a food drive."
+    },
+    {
+      "type": "mcq",
+      "question": "A person who works for free to help others is a ___.",
+      "options": [
+        "volunteer",
+        "customer",
+        "manager",
+        "stranger"
+      ],
+      "answer": "volunteer"
+    },
+    {
+      "type": "fill",
+      "sentence": "On the way home, she stopped ___ help an old woman with her bags.",
+      "answer": "to",
+      "hint": "لكي (تساعد)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "carrying",
+        "Do",
+        "boxes?",
+        "mind",
+        "these",
+        "you"
+      ],
+      "answer": "Do you mind carrying these boxes?"
+    },
+    {
+      "type": "mcq",
+      "question": "They hope ___ two hundred food packages.",
+      "options": [
+        "collecting",
+        "collect",
+        "collected",
+        "to collect"
+      ],
+      "answer": "to collect"
+    },
+    {
+      "type": "listen",
+      "audioText": "Every donation helps a family in need.",
+      "answer": "Every donation helps a family in need."
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "slug": "university-life",
+  "title": "University & Studying Abroad",
+  "titleAr": "الجامعة والدراسة بالخارج",
+  "emoji": "🎓",
+  "level": "B2",
+  "description": "Apply to universities, talk about courses, scholarships, and student life abroad.",
+  "descriptionAr": "تقدّم للجامعات، وتحدّث عن المواد الدراسية والمنح الدراسية وحياة الطلاب في الخارج.",
+  "words": [
+    {
+      "en": "apply for a scholarship",
+      "ar": "يتقدّم لمنحة دراسية",
+      "phonetic": "/əˈplaɪ fər ə ˈskɑlərˌʃɪp/",
+      "example": "She decided to apply for a scholarship to study in Canada."
+    },
+    {
+      "en": "tuition fees",
+      "ar": "المصروفات الدراسية / رسوم الدراسة",
+      "phonetic": "/tuˈɪʃən ˌfiz/",
+      "example": "The tuition fees for international students are much higher."
+    },
+    {
+      "en": "admission",
+      "ar": "القبول (في الجامعة)",
+      "phonetic": "/ədˈmɪʃən/",
+      "example": "The university sends admission decisions in April."
+    },
+    {
+      "en": "acceptance letter",
+      "ar": "خطاب القبول",
+      "phonetic": "/əkˈsɛptəns ˌlɛtər/",
+      "example": "I cried with joy when I opened my acceptance letter."
+    },
+    {
+      "en": "master's degree",
+      "ar": "درجة الماجستير",
+      "phonetic": "/ˈmæstərz dɪˌɡri/",
+      "example": "He is doing a master's degree in public health."
+    },
+    {
+      "en": "undergraduate",
+      "ar": "طالب في المرحلة الجامعية الأولى / مرحلة البكالوريوس",
+      "phonetic": "/ˌʌndərˈɡrædʒuɪt/",
+      "example": "Most undergraduate students live on campus in their first year."
+    },
+    {
+      "en": "semester",
+      "ar": "فصل دراسي / ترم",
+      "phonetic": "/səˈmɛstər/",
+      "example": "The fall semester starts in early September."
+    },
+    {
+      "en": "major in",
+      "ar": "يتخصّص في (دراسياً)",
+      "phonetic": "/ˈmeɪdʒər ɪn/",
+      "example": "My brother wants to major in economics."
+    },
+    {
+      "en": "enroll in",
+      "ar": "يسجّل / يلتحق بـ (مادة أو برنامج)",
+      "phonetic": "/ɪnˈroʊl ɪn/",
+      "example": "I want to enroll in an intensive German course before I travel."
+    },
+    {
+      "en": "student visa",
+      "ar": "تأشيرة طالب",
+      "phonetic": "/ˈstudənt ˌvizə/",
+      "example": "It took six weeks to get my student visa."
+    },
+    {
+      "en": "dormitory",
+      "ar": "المدينة الجامعية / سكن الطلاب",
+      "phonetic": "/ˈdɔrməˌtɔri/",
+      "example": "My room in the dormitory is small but comfortable."
+    },
+    {
+      "en": "academic advisor",
+      "ar": "المرشد الأكاديمي",
+      "phonetic": "/ˌækəˈdɛmɪk ədˈvaɪzər/",
+      "example": "My academic advisor helped me choose the right courses."
+    },
+    {
+      "en": "meet a deadline",
+      "ar": "يلتزم بموعد نهائي / يسلّم في الميعاد",
+      "phonetic": "/ˈmit ə ˈdɛdˌlaɪn/",
+      "example": "I stayed up all night to meet a deadline for my research paper."
+    },
+    {
+      "en": "thesis",
+      "ar": "رسالة (ماجستير أو دكتوراه) / أطروحة",
+      "phonetic": "/ˈθisɪs/",
+      "example": "She is writing her thesis on renewable energy."
+    },
+    {
+      "en": "lecture",
+      "ar": "محاضرة",
+      "phonetic": "/ˈlɛktʃər/",
+      "example": "The first lecture of the day starts at eight o'clock."
+    },
+    {
+      "en": "seminar",
+      "ar": "حلقة نقاش (سيمينار)",
+      "phonetic": "/ˈsɛməˌnɑr/",
+      "example": "In the seminar, every student has to share an opinion."
+    },
+    {
+      "en": "culture shock",
+      "ar": "صدمة ثقافية",
+      "phonetic": "/ˈkʌltʃər ˌʃɑk/",
+      "example": "Many students experience culture shock in their first month abroad."
+    },
+    {
+      "en": "adapt to",
+      "ar": "يتأقلم مع / يتكيّف مع",
+      "phonetic": "/əˈdæpt tu/",
+      "example": "It took me a few months to adapt to the cold weather."
+    },
+    {
+      "en": "transcript",
+      "ar": "كشف الدرجات / بيان الدرجات الرسمي",
+      "phonetic": "/ˈtrænˌskrɪpt/",
+      "example": "Please upload an official transcript with your application."
+    },
+    {
+      "en": "international student",
+      "ar": "طالب أجنبي / طالب وافد",
+      "phonetic": "/ˌɪntərˈnæʃənəl ˈstudənt/",
+      "example": "As an international student, I can work twenty hours a week."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "My cousin, who studies medicine in Berlin, helped me with my application.",
+      "ar": "ابن عمي، الذي يدرس الطب في برلين، ساعدني في طلب التقديم."
+    },
+    {
+      "en": "The University of Toronto, which accepted me last week, offers generous scholarships.",
+      "ar": "جامعة تورنتو، التي قبلتني الأسبوع الماضي، تقدّم منحاً دراسية سخية."
+    },
+    {
+      "en": "Having finished my undergraduate degree, I want to do a master's abroad.",
+      "ar": "بعد أن أنهيت دراستي الجامعية، أريد أن أدرس الماجستير في الخارج."
+    },
+    {
+      "en": "Living in a dormitory, you meet students from all over the world.",
+      "ar": "عندما تعيش في السكن الجامعي، تقابل طلاباً من كل أنحاء العالم."
+    },
+    {
+      "en": "Our professor, whose lectures are always full, is retiring next year.",
+      "ar": "أستاذنا، الذي تكون محاضراته ممتلئة دائماً، سيتقاعد العام القادم."
+    },
+    {
+      "en": "Founded in 1386, Heidelberg University is the oldest university in Germany.",
+      "ar": "جامعة هايدلبرغ، التي تأسست عام 1386، هي أقدم جامعة في ألمانيا."
+    },
+    {
+      "en": "Do I need a student visa for a one-semester exchange program?",
+      "ar": "هل أحتاج إلى تأشيرة طالب لبرنامج تبادل مدته فصل دراسي واحد؟"
+    },
+    {
+      "en": "When is the deadline for admission to the master's program?",
+      "ar": "متى آخر موعد للتقديم على القبول في برنامج الماجستير؟"
+    },
+    {
+      "en": "How much are the tuition fees for international students?",
+      "ar": "كم تبلغ المصروفات الدراسية للطلاب الأجانب؟"
+    },
+    {
+      "en": "I'm thinking of majoring in computer science or engineering.",
+      "ar": "أفكر في التخصص في علوم الحاسب أو الهندسة."
+    }
+  ],
+  "story": {
+    "title": "A New Start in Munich",
+    "text": "Last spring, Omar, who had studied engineering at Cairo University, decided to apply for a scholarship in Germany. Having prepared his transcript and two recommendation letters, he sent his application just before the deadline. Three months later, he received an acceptance letter from the Technical University of Munich, which is one of the best engineering schools in Europe. The scholarship covered his tuition fees and part of his rent. After getting his student visa, Omar flew to Munich and moved into a small dormitory near the campus. The first semester was not easy. In Egypt, his professors had given him detailed notes, but in Germany students were expected to read on their own and discuss ideas in seminars. Feeling lost, Omar went to see his academic advisor, who gave him some useful advice. \"Don't just listen in lectures,\" she said. \"Ask questions and share your opinion.\" Omar started speaking up in class, and slowly his confidence grew. He also joined a group of international students, most of whom were going through the same culture shock. By the end of the year, Omar had adapted to his new life, and he was already planning his master's thesis.",
+    "translation": "في الربيع الماضي، قرر عمر، الذي كان قد درس الهندسة في جامعة القاهرة، أن يتقدّم لمنحة دراسية في ألمانيا. وبعد أن جهّز كشف درجاته وخطابَي توصية، أرسل طلبه قبل الموعد النهائي بقليل. وبعد ثلاثة أشهر، تلقّى خطاب قبول من الجامعة التقنية في ميونخ، وهي واحدة من أفضل كليات الهندسة في أوروبا. غطّت المنحة المصروفات الدراسية وجزءاً من الإيجار. وبعد حصوله على تأشيرة الطالب، سافر عمر إلى ميونخ وانتقل إلى سكن طلابي صغير قرب الحرم الجامعي. لم يكن الفصل الدراسي الأول سهلاً. ففي مصر، كان أساتذته يعطونه ملاحظات مفصّلة، أما في ألمانيا فكان يُتوقع من الطلاب أن يقرؤوا بأنفسهم ويناقشوا الأفكار في حلقات النقاش. ولأنه شعر بالضياع، ذهب عمر لمقابلة مرشدته الأكاديمية، التي قدّمت له نصيحة مفيدة. قالت: «لا تكتفِ بالاستماع في المحاضرات. اسأل وشارك برأيك.» بدأ عمر يتكلم في الفصل، ونمت ثقته بنفسه شيئاً فشيئاً. كما انضم إلى مجموعة من الطلاب الأجانب، كان معظمهم يمرّون بنفس الصدمة الثقافية. وبحلول نهاية العام، كان عمر قد تأقلم مع حياته الجديدة، وبدأ بالفعل يخطط لرسالة الماجستير."
+  },
+  "grammar": {
+    "title": "Non-defining relative clauses and participle clauses",
+    "explanationAr": "الجملة الوصفية غير المحدِّدة (non-defining relative clause) تضيف معلومة إضافية عن شخص أو شيء معروف بالفعل، وتوضع بين فاصلتين، مثل: My advisor, who is from Spain, is very helpful. نستخدم who للأشخاص و which للأشياء و whose للملكية، ولا يجوز استخدام that في هذا النوع من الجمل. أما جملة اسم الفاعل (participle clause) فتختصر الجملة: نستخدم -ing للمعنى النشط مثل Living abroad, I learned a lot، و Having + V3 لحدث انتهى قبل حدث آخر مثل Having finished my degree, I moved to Germany. ونستخدم V3 للمعنى المبني للمجهول مثل Founded in 1386, the university is very famous.",
+    "rule": "Noun, who / which / whose + clause, + rest of sentence (never \"that\")\nV-ing + ..., main clause = active meaning (Living abroad, ...)\nHaving + past participle, main clause = finished earlier (Having finished my degree, ...)\nPast participle, main clause = passive meaning (Founded in 1386, ...)",
+    "examples": [
+      {
+        "en": "My academic advisor, who studied in London, gave me great advice.",
+        "ar": "مرشدي الأكاديمي، الذي درس في لندن، أعطاني نصيحة رائعة."
+      },
+      {
+        "en": "The dormitory, which is next to the library, is always quiet.",
+        "ar": "السكن الجامعي، الذي يقع بجوار المكتبة، هادئ دائماً."
+      },
+      {
+        "en": "Having received my acceptance letter, I applied for a student visa.",
+        "ar": "بعد أن استلمت خطاب القبول، تقدّمت بطلب تأشيرة طالب."
+      },
+      {
+        "en": "Studying in a foreign language, international students often feel tired at first.",
+        "ar": "لأن الطلاب الأجانب يدرسون بلغة أجنبية، يشعرون غالباً بالتعب في البداية."
+      },
+      {
+        "en": "Written in just six months, her thesis won a national prize.",
+        "ar": "رسالتها، التي كُتبت في ستة أشهر فقط، فازت بجائزة وطنية."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the Admissions Office",
+    "settingAr": "إنت طالب مصري عايز تقدّم على ماجستير في جامعة برّه، وبتسأل موظفة القبول عن الأوراق والمنحة والسكن.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Admissions Officer",
+        "nameAr": "موظفة القبول"
+      },
+      {
+        "id": "B",
+        "name": "Student",
+        "nameAr": "الطالب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Hi, I'm an international student, and I'd like to ask about admission.",
+        "ar": "أهلاً، أنا طالب أجنبي وعايز أسأل عن القبول."
+      },
+      {
+        "speaker": "A",
+        "en": "Welcome! Which program are you interested in?",
+        "ar": "أهلاً بيك! مهتم بأنهي برنامج؟"
+      },
+      {
+        "speaker": "B",
+        "en": "The master's program in data science, which starts in September.",
+        "ar": "برنامج الماجستير في علم البيانات، اللي بيبدأ في سبتمبر."
+      },
+      {
+        "speaker": "A",
+        "en": "Great. Have you sent us your transcript and your language certificate?",
+        "ar": "تمام. بعتلنا كشف الدرجات وشهادة اللغة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes. Having finished my degree in June, I sent everything last week.",
+        "ar": "أيوه. بعد ما خلّصت الكلية في يونيو، بعت كل حاجة الأسبوع اللي فات."
+      },
+      {
+        "speaker": "A",
+        "en": "Perfect. Are you also planning to apply for a scholarship?",
+        "ar": "ممتاز. وناوي كمان تقدّم على منحة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, definitely. Without a scholarship, I can't afford the tuition fees.",
+        "ar": "أيوه طبعاً. من غير منحة مش هقدر أدفع المصاريف."
+      },
+      {
+        "speaker": "A",
+        "en": "Our main scholarship, which covers full tuition, closes on March first.",
+        "ar": "المنحة الأساسية عندنا، اللي بتغطي المصاريف كلها، التقديم فيها بيقفل أول مارس."
+      },
+      {
+        "speaker": "B",
+        "en": "Thanks. Can I live in a dormitory during my first semester?",
+        "ar": "شكراً. ينفع أسكن في المدينة الجامعية في أول ترم؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, but rooms are limited, so book one as soon as possible.",
+        "ar": "أيوه، بس الأوض محدودة، فاحجز في أسرع وقت."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you so much. I'll send my scholarship application this week.",
+        "ar": "شكراً جداً. هبعت طلب المنحة الأسبوع ده."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "My professor, ___ is from Spain, speaks four languages.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "that"
+      ],
+      "answer": "who"
+    },
+    {
+      "type": "fill",
+      "sentence": "I need to ___ for a scholarship before the deadline in March.",
+      "answer": "apply",
+      "hint": "يتقدّم بطلب"
+    },
+    {
+      "type": "order",
+      "words": [
+        "degree,",
+        "abroad.",
+        "Having",
+        "I",
+        "my",
+        "moved",
+        "finished"
+      ],
+      "answer": "Having finished my degree, I moved abroad."
+    },
+    {
+      "type": "mcq",
+      "question": "What do you call the official record of all your grades?",
+      "options": [
+        "A thesis",
+        "A seminar",
+        "A transcript",
+        "A dormitory"
+      ],
+      "answer": "A transcript"
+    },
+    {
+      "type": "fill",
+      "sentence": "The tuition ___ for international students are very high.",
+      "answer": "fees",
+      "hint": "رسوم / مصروفات"
+    },
+    {
+      "type": "order",
+      "words": [
+        "covers",
+        "is",
+        "The",
+        "competitive.",
+        "tuition,",
+        "scholarship,",
+        "very",
+        "which"
+      ],
+      "answer": "The scholarship, which covers tuition, is very competitive."
+    },
+    {
+      "type": "mcq",
+      "question": "___ in 1386, Heidelberg University is the oldest university in Germany.",
+      "options": [
+        "Building",
+        "Builds",
+        "Having built",
+        "Founded"
+      ],
+      "answer": "Founded"
+    },
+    {
+      "type": "listen",
+      "audioText": "Living abroad, I learned to adapt to new situations.",
+      "answer": "Living abroad, I learned to adapt to new situations."
+    }
+  ]
+}

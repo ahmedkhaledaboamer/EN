@@ -1,0 +1,360 @@
+{
+  "slug": "future-of-work",
+  "title": "The Future of Work",
+  "titleAr": "مستقبل العمل",
+  "emoji": "🏠",
+  "level": "C1",
+  "description": "Discuss remote work, gig economy, automation, and work-life balance.",
+  "descriptionAr": "ناقش العمل عن بُعد، واقتصاد العمل الحر، والأتمتة، والتوازن بين العمل والحياة.",
+  "words": [
+    {
+      "en": "remote work",
+      "ar": "العمل عن بُعد",
+      "phonetic": "/rɪˈmoʊt wərk/",
+      "example": "Remote work became the norm for millions of people almost overnight."
+    },
+    {
+      "en": "hybrid model",
+      "ar": "نظام العمل الهجين (بين المكتب والبيت)",
+      "phonetic": "/ˈhaɪbrɪd ˈmɑdəl/",
+      "example": "Most tech companies have adopted a hybrid model."
+    },
+    {
+      "en": "gig economy",
+      "ar": "اقتصاد العمل الحر / الأعمال المؤقتة",
+      "phonetic": "/ɡɪɡ ɪˈkɑnəmi/",
+      "example": "Delivery apps are a major part of the gig economy."
+    },
+    {
+      "en": "automation",
+      "ar": "الأتمتة / التشغيل الآلي",
+      "phonetic": "/ˌɔtəˈmeɪʃən/",
+      "example": "Automation has already transformed the car industry."
+    },
+    {
+      "en": "work-life balance",
+      "ar": "التوازن بين العمل والحياة الشخصية",
+      "phonetic": "/ˈwərk ˈlaɪf ˈbæləns/",
+      "example": "She left her bank job to achieve a better work-life balance."
+    },
+    {
+      "en": "burnout",
+      "ar": "الإرهاق الوظيفي / الاحتراق النفسي",
+      "phonetic": "/ˈbərnˌaʊt/",
+      "example": "Long hours and constant emails often lead to burnout."
+    },
+    {
+      "en": "upskill",
+      "ar": "يطوّر مهاراته / يكتسب مهارات جديدة",
+      "phonetic": "/ˈʌpˌskɪl/",
+      "example": "Companies need to upskill their staff to keep up with new technology."
+    },
+    {
+      "en": "productivity",
+      "ar": "الإنتاجية",
+      "phonetic": "/ˌproʊdəkˈtɪvəti/",
+      "example": "Surprisingly, productivity rose when employees worked from home."
+    },
+    {
+      "en": "freelancer",
+      "ar": "عامل مستقل / فريلانسر",
+      "phonetic": "/ˈfriˌlænsər/",
+      "example": "As a freelancer, he works for clients in five different countries."
+    },
+    {
+      "en": "obsolete",
+      "ar": "عفا عليه الزمن / متقادم",
+      "phonetic": "/ˌɑbsəˈlit/",
+      "example": "Some job titles from twenty years ago are now completely obsolete."
+    },
+    {
+      "en": "flexible hours",
+      "ar": "ساعات عمل مرنة",
+      "phonetic": "/ˈflɛksəbəl aʊərz/",
+      "example": "Flexible hours allow parents to pick up their kids from school."
+    },
+    {
+      "en": "commute",
+      "ar": "التنقل اليومي إلى العمل / مشوار الشغل",
+      "phonetic": "/kəˈmjut/",
+      "example": "My commute takes over an hour each way."
+    },
+    {
+      "en": "job security",
+      "ar": "الأمان الوظيفي",
+      "phonetic": "/dʒɑb sɪˈkjʊrəti/",
+      "example": "Many young people value job security less than freedom."
+    },
+    {
+      "en": "workforce",
+      "ar": "القوى العاملة",
+      "phonetic": "/ˈwərkˌfɔrs/",
+      "example": "Women now make up almost half of the workforce."
+    },
+    {
+      "en": "disrupt",
+      "ar": "يُحدث تغييراً جذرياً / يُربك",
+      "phonetic": "/dɪsˈrʌpt/",
+      "example": "New apps continue to disrupt traditional industries."
+    },
+    {
+      "en": "collaboration",
+      "ar": "التعاون / العمل المشترك",
+      "phonetic": "/kəˌlæbəˈreɪʃən/",
+      "example": "Good collaboration is harder when the team never meets in person."
+    },
+    {
+      "en": "artificial intelligence",
+      "ar": "الذكاء الاصطناعي",
+      "phonetic": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+      "example": "Artificial intelligence can now write reports in seconds."
+    },
+    {
+      "en": "digital nomad",
+      "ar": "رحّال رقمي (يعمل أونلاين وهو يتنقل بين البلدان)",
+      "phonetic": "/ˈdɪdʒɪtəl ˈnoʊmæd/",
+      "example": "She lives as a digital nomad, working from a laptop in Bali."
+    },
+    {
+      "en": "four-day workweek",
+      "ar": "أسبوع عمل من أربعة أيام",
+      "phonetic": "/ˈfɔr deɪ ˈwərkˌwik/",
+      "example": "Several companies in the UK are testing a four-day workweek."
+    },
+    {
+      "en": "layoffs",
+      "ar": "تسريح العمال / الاستغناء عن موظفين",
+      "phonetic": "/ˈleɪˌɔfs/",
+      "example": "The company announced layoffs after a difficult year."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Automation is bound to replace many routine jobs.",
+      "ar": "لا بد أن تحلّ الأتمتة محل كثير من الوظائف الروتينية."
+    },
+    {
+      "en": "The company is set to introduce a four-day workweek next year.",
+      "ar": "من المقرر أن تطبّق الشركة أسبوع عمل من أربعة أيام العام المقبل."
+    },
+    {
+      "en": "Many traditional industries are on the verge of a major transformation.",
+      "ar": "كثير من الصناعات التقليدية على وشك تحوّل كبير."
+    },
+    {
+      "en": "If you don't upskill, your role is bound to become obsolete.",
+      "ar": "إذا لم تطوّر مهاراتك، فمن المؤكد أن يصبح دورك متقادماً."
+    },
+    {
+      "en": "Artificial intelligence is set to disrupt the way we work.",
+      "ar": "من المتوقع أن يُحدث الذكاء الاصطناعي تغييراً جذرياً في طريقة عملنا."
+    },
+    {
+      "en": "Our team is on the verge of signing a deal with a major client.",
+      "ar": "فريقنا على وشك توقيع صفقة مع عميل كبير."
+    },
+    {
+      "en": "Remote work is likely to remain popular among young professionals.",
+      "ar": "من المرجح أن يظل العمل عن بُعد شائعاً بين المهنيين الشباب."
+    },
+    {
+      "en": "The gig economy offers freedom, but it rarely offers job security.",
+      "ar": "يوفّر اقتصاد العمل الحر الحرية، لكنه نادراً ما يوفّر الأمان الوظيفي."
+    },
+    {
+      "en": "A hybrid model gives employees the best of both worlds.",
+      "ar": "يمنح نظام العمل الهجين الموظفين أفضل ما في الخيارين."
+    },
+    {
+      "en": "Burnout is becoming a serious problem in many workplaces.",
+      "ar": "أصبح الإرهاق الوظيفي مشكلة خطيرة في كثير من أماكن العمل."
+    }
+  ],
+  "story": {
+    "title": "Back to the Office?",
+    "text": "At Nile Digital, the Monday meeting was unusually tense. After four years of remote work, the CEO, Tarek, had an announcement. \"Our new office lease starts next month,\" he said. \"From January, everyone is set to return three days a week.\" The video call went completely silent. Then Dina from marketing unmuted. \"With respect, our productivity has never been higher. Forcing people to commute two hours a day is bound to cause burnout.\" Tarek nodded. \"I understand. But collaboration has suffered. New hires barely know their teams, and some of our best ideas used to come from casual chats by the coffee machine.\" Omar, the head of engineering, added another worry. \"Two of my developers are on the verge of resigning. One is living as a digital nomad in Portugal. If we cancel flexible hours, we're bound to lose talent to our competitors.\" Someone else pointed out that automation and artificial intelligence were already changing their jobs. \"The workforce of the future will expect choice,\" she said. \"Companies that ignore that are set to fall behind.\" After an hour of debate, Tarek proposed a compromise: a hybrid model with two office days, chosen by each team, and a trial of a four-day workweek in the summer. \"Work-life balance matters,\" he admitted, \"but so does feeling like a real team.\" For the first time that morning, Dina smiled. \"That,\" she said, \"sounds like the future of work.\"",
+    "translation": "في شركة «نايل ديجيتال»، كان اجتماع يوم الاثنين متوتراً على غير العادة. بعد أربع سنوات من العمل عن بُعد، كان لدى المدير التنفيذي، طارق، إعلان. قال: «عقد إيجار مكتبنا الجديد يبدأ الشهر المقبل. واعتباراً من يناير، من المقرر أن يعود الجميع إلى المكتب ثلاثة أيام في الأسبوع.» ساد صمت تام في مكالمة الفيديو. ثم فتحت دينا من قسم التسويق الميكروفون وقالت: «مع احترامي، إنتاجيتنا لم تكن يوماً أعلى مما هي عليه الآن. وإجبار الناس على التنقل ساعتين يومياً سيؤدي حتماً إلى الإرهاق الوظيفي.» أومأ طارق برأسه وقال: «أفهم ذلك. لكن التعاون تأثّر. الموظفون الجدد بالكاد يعرفون فرقهم، وبعض أفضل أفكارنا كانت تأتي من الأحاديث العفوية بجانب ماكينة القهوة.» وأضاف عمر، رئيس قسم الهندسة، قلقاً آخر: «اثنان من مطوّريّ على وشك الاستقالة. أحدهما يعيش كرحّال رقمي في البرتغال. إذا ألغينا ساعات العمل المرنة، فسنخسر حتماً مواهبنا لصالح منافسينا.» وأشارت موظفة أخرى إلى أن الأتمتة والذكاء الاصطناعي يغيّران وظائفهم بالفعل، وقالت: «القوى العاملة في المستقبل ستتوقع حرية الاختيار. والشركات التي تتجاهل ذلك من المتوقع أن تتأخر عن الركب.» بعد ساعة من النقاش، اقترح طارق حلاً وسطاً: نظام عمل هجين بيومين في المكتب يختارهما كل فريق، وتجربة أسبوع عمل من أربعة أيام في الصيف. واعترف قائلاً: «التوازن بين العمل والحياة مهم، لكن الشعور بأننا فريق حقيقي مهم أيضاً.» ولأول مرة في ذلك الصباح، ابتسمت دينا وقالت: «هذا يبدو فعلاً مثل مستقبل العمل.»"
+  },
+  "grammar": {
+    "title": "Predicting the Future: bound to, set to, on the verge of",
+    "explanationAr": "نستخدم be bound to + الفعل في صورته الأصلية للتعبير عن شيء نراه شبه مؤكد في المستقبل، بمعنى «لا بد أن / حتماً سـ». ونستخدم be set to + الفعل لشيء مخطط له أو متوقع بشكل رسمي، وكثيراً ما نقرؤه في الأخبار: The company is set to open a new office. أما be on the verge of + اسم أو فعل بصيغة ing فتعني «على وشك»، وتصف شيئاً سيحدث قريباً جداً. ويمكن أيضاً استخدام be likely to للتعبير عن احتمال قوي، لكنه أقل يقيناً من bound to.",
+    "rule": "be bound to + base verb = almost certain\nbe set to + base verb = planned or officially expected (common in news)\nbe on the verge of + noun / verb-ing = very close to happening\nbe likely to + base verb = probable",
+    "examples": [
+      {
+        "en": "Artificial intelligence is bound to change the job market.",
+        "ar": "لا بد أن يغيّر الذكاء الاصطناعي سوق العمل."
+      },
+      {
+        "en": "The government is set to announce new rules for the gig economy.",
+        "ar": "من المقرر أن تعلن الحكومة قواعد جديدة لاقتصاد العمل الحر."
+      },
+      {
+        "en": "After months of overtime, she was on the verge of burnout.",
+        "ar": "بعد شهور من العمل الإضافي، كانت على وشك الاحتراق النفسي."
+      },
+      {
+        "en": "Without upskilling, many workers are likely to lose their jobs.",
+        "ar": "بدون تطوير المهارات، من المرجح أن يفقد كثير من العمال وظائفهم."
+      },
+      {
+        "en": "The startup is on the verge of hiring its first remote team.",
+        "ar": "الشركة الناشئة على وشك توظيف أول فريق يعمل عن بُعد."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "The Return-to-Office Talk",
+    "settingAr": "الشركة بتاعتك ناوية ترجّع الموظفين المكتب، ومديرة الموارد البشرية بتتكلم معاك عن الجدول الجديد.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "HR manager",
+        "nameAr": "مديرة الموارد البشرية"
+      },
+      {
+        "id": "B",
+        "name": "Employee",
+        "nameAr": "الموظف (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "As you know, the company is set to reopen the office in January.",
+        "ar": "زي ما إنت عارف، الشركة هتفتح المكتب تاني في يناير."
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, I heard. Will we have to come in every day?",
+        "ar": "أيوه، سمعت. هو إحنا هنضطر نيجي كل يوم؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Not every day. We're considering a hybrid model with three office days.",
+        "ar": "مش كل يوم. إحنا بنفكر في نظام هجين بتلات أيام في المكتب."
+      },
+      {
+        "speaker": "B",
+        "en": "Honestly, a long commute is bound to affect my productivity.",
+        "ar": "بصراحة، المشوار الطويل أكيد هيأثّر على إنتاجيتي."
+      },
+      {
+        "speaker": "A",
+        "en": "I understand. What would work better for you and your team?",
+        "ar": "فاهماك. إيه اللي ممكن يناسبك إنت وفريقك أكتر؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Two office days would be ideal, with flexible hours on the others.",
+        "ar": "يومين في المكتب يبقوا مثاليين، وساعات مرنة في باقي الأيام."
+      },
+      {
+        "speaker": "A",
+        "en": "That's reasonable. Collaboration is the main reason we want people back.",
+        "ar": "ده كلام معقول. التعاون هو السبب الأساسي إننا عايزين الناس ترجع."
+      },
+      {
+        "speaker": "B",
+        "en": "That makes sense. Our team is on the verge of launching a big project.",
+        "ar": "ده منطقي. فريقنا على وشك يطلق مشروع كبير."
+      },
+      {
+        "speaker": "A",
+        "en": "Then meeting in person could really help you plan it together.",
+        "ar": "يبقى إنكم تتقابلوا وش لوش ممكن يساعدكم فعلاً تخططوا له سوا."
+      },
+      {
+        "speaker": "B",
+        "en": "True. I'm happy to try it if the schedule stays flexible.",
+        "ar": "صح. أنا موافق أجرّب لو الجدول فضل مرن."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "With so many changes coming, prices are ___ rise next year.",
+      "options": [
+        "on the verge of",
+        "bound to",
+        "set for",
+        "likely"
+      ],
+      "answer": "bound to"
+    },
+    {
+      "type": "fill",
+      "sentence": "Working long hours without rest can easily lead to ___.",
+      "answer": "burnout",
+      "hint": "الإرهاق الوظيفي / الاحتراق النفسي",
+      "accept": [
+        "exhaustion"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "open",
+        "company",
+        "a",
+        "The",
+        "set",
+        "office.",
+        "is",
+        "new",
+        "to"
+      ],
+      "answer": "The company is set to open a new office."
+    },
+    {
+      "type": "mcq",
+      "question": "Which word describes a skill or machine that is no longer useful?",
+      "options": [
+        "flexible",
+        "hybrid",
+        "productive",
+        "obsolete"
+      ],
+      "answer": "obsolete"
+    },
+    {
+      "type": "fill",
+      "sentence": "Many employees want a healthier work-life ___.",
+      "answer": "balance",
+      "hint": "توازن"
+    },
+    {
+      "type": "order",
+      "words": [
+        "verge",
+        "deal.",
+        "Our",
+        "of",
+        "is",
+        "a",
+        "startup",
+        "on",
+        "closing",
+        "the"
+      ],
+      "answer": "Our startup is on the verge of closing a deal."
+    },
+    {
+      "type": "mcq",
+      "question": "A ___ works for different clients instead of one employer.",
+      "options": [
+        "freelancer",
+        "supervisor",
+        "commuter",
+        "workforce"
+      ],
+      "answer": "freelancer"
+    },
+    {
+      "type": "listen",
+      "audioText": "Artificial intelligence is set to change the way we work.",
+      "answer": "Artificial intelligence is set to change the way we work."
+    }
+  ]
+}

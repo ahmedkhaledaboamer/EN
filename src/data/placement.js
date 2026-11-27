@@ -5,6 +5,8 @@
 //  `audio` questions play the sentence (the text is shown if audio isn't supported).
 // ─────────────────────────────────────────────────────────────
 
+import { LEVEL_IDS } from './levels';
+
 export const STAGES = ['A1', 'A2', 'B1', 'B2'];
 export const PASS_PER_STAGE = 4; // out of 6
 export const DONT_KNOW = "I don't know";
@@ -90,8 +92,8 @@ export function scorePlacement(scores) {
     if ((scores[stage] ?? 0) >= PASS_PER_STAGE) level = stage;
     else break;
   }
-  const i = level ? STAGES.indexOf(level) : -1;
-  // Study the first stage you didn't pass (A1 if none passed; B2 if all passed)
-  const startLevel = STAGES[Math.min(i + 1, STAGES.length - 1)];
+  // Study the level after the highest one passed (A1 if none; C1 if every stage up to B2 was passed)
+  const i = level ? LEVEL_IDS.indexOf(level) : -1;
+  const startLevel = LEVEL_IDS[Math.min(i + 1, LEVEL_IDS.length - 1)];
   return { level, startLevel, scores };
 }

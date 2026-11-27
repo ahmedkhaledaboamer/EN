@@ -1,0 +1,358 @@
+{
+  "slug": "culture-identity",
+  "title": "Culture & Identity",
+  "titleAr": "الثقافة والهوية",
+  "emoji": "🌐",
+  "level": "C1",
+  "description": "Discuss traditions, multiculturalism, language, and belonging.",
+  "descriptionAr": "ناقش التقاليد، والتعددية الثقافية، واللغة، والشعور بالانتماء.",
+  "words": [
+    {
+      "en": "heritage",
+      "ar": "تراث / إرث ثقافي",
+      "phonetic": "/ˈhɛrɪtɪdʒ/",
+      "example": "She is proud of her Egyptian heritage."
+    },
+    {
+      "en": "sense of belonging",
+      "ar": "الشعور بالانتماء",
+      "phonetic": "/sɛns əv bɪˈlɔŋɪŋ/",
+      "example": "Joining a local community group gave him a sense of belonging."
+    },
+    {
+      "en": "assimilate",
+      "ar": "يندمج كلياً / يذوب في ثقافة أخرى",
+      "phonetic": "/əˈsɪməˌleɪt/",
+      "example": "Some immigrants feel pressure to assimilate and forget their own language."
+    },
+    {
+      "en": "multicultural",
+      "ar": "متعدد الثقافات",
+      "phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+      "example": "Toronto is one of the most multicultural cities in the world."
+    },
+    {
+      "en": "diaspora",
+      "ar": "الجالية في المهجر / الشتات",
+      "phonetic": "/daɪˈæspərə/",
+      "example": "The Egyptian diaspora in Canada has grown rapidly in recent years."
+    },
+    {
+      "en": "cultural norms",
+      "ar": "الأعراف الثقافية",
+      "phonetic": "/ˈkʌltʃərəl nɔrmz/",
+      "example": "Cultural norms around punctuality vary widely from country to country."
+    },
+    {
+      "en": "preserve traditions",
+      "ar": "يحافظ على التقاليد",
+      "phonetic": "/prɪˈzərv trəˈdɪʃənz/",
+      "example": "Many families abroad work hard to preserve traditions for their children."
+    },
+    {
+      "en": "stereotype",
+      "ar": "صورة نمطية",
+      "phonetic": "/ˈstɛriəˌtaɪp/",
+      "example": "The film challenges the stereotype of the silent, obedient wife."
+    },
+    {
+      "en": "integrate",
+      "ar": "يندمج (مع الاحتفاظ بهويته) / يتكامل",
+      "phonetic": "/ˈɪntəˌɡreɪt/",
+      "example": "Learning the language is the best way to integrate into a new society."
+    },
+    {
+      "en": "mother tongue",
+      "ar": "اللغة الأم",
+      "phonetic": "/ˈmʌðər tʌŋ/",
+      "example": "Arabic is my mother tongue, but I dream in English now."
+    },
+    {
+      "en": "bicultural",
+      "ar": "ثنائي الثقافة",
+      "phonetic": "/baɪˈkʌltʃərəl/",
+      "example": "Growing up bicultural taught me to see both sides of an argument."
+    },
+    {
+      "en": "identity crisis",
+      "ar": "أزمة هوية",
+      "phonetic": "/aɪˈdɛntəti ˈkraɪsɪs/",
+      "example": "He went through an identity crisis after moving abroad as a teenager."
+    },
+    {
+      "en": "customs",
+      "ar": "عادات وتقاليد",
+      "phonetic": "/ˈkʌstəmz/",
+      "example": "Wedding customs in Upper Egypt are very different from those in Cairo."
+    },
+    {
+      "en": "uprooted",
+      "ar": "مُقتلَع من جذوره / مُنتزَع من بيئته",
+      "phonetic": "/ʌpˈrutɪd/",
+      "example": "The war uprooted thousands of families from their homes."
+    },
+    {
+      "en": "cultural clash",
+      "ar": "صدام ثقافي",
+      "phonetic": "/ˈkʌltʃərəl klæʃ/",
+      "example": "The argument was less about money and more about a cultural clash."
+    },
+    {
+      "en": "embrace",
+      "ar": "يتقبّل بحماس / يتبنّى",
+      "phonetic": "/ɛmˈbreɪs/",
+      "example": "My parents finally learned to embrace Canadian winters."
+    },
+    {
+      "en": "roots",
+      "ar": "جذور / أصول",
+      "phonetic": "/ruts/",
+      "example": "No matter where I live, I never forget my roots."
+    },
+    {
+      "en": "second-generation",
+      "ar": "من الجيل الثاني (من المهاجرين)",
+      "phonetic": "/ˌsɛkənd ˌdʒɛnəˈreɪʃən/",
+      "example": "As a second-generation immigrant, she feels at home in both cultures."
+    },
+    {
+      "en": "tolerance",
+      "ar": "تسامح / تقبّل الآخر",
+      "phonetic": "/ˈtɑlərəns/",
+      "example": "Living abroad increased my tolerance for different opinions."
+    },
+    {
+      "en": "nostalgia",
+      "ar": "حنين إلى الماضي / إلى الوطن",
+      "phonetic": "/nəˈstældʒə/",
+      "example": "The smell of fresh bread filled him with nostalgia for Alexandria."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Much as I love living abroad, I miss my family terribly.",
+      "ar": "رغم حبي الشديد للعيش في الخارج، فإنني أفتقد عائلتي كثيراً."
+    },
+    {
+      "en": "She adapted quickly, albeit with some difficulty at first.",
+      "ar": "تأقلمت بسرعة، وإن كان ذلك ببعض الصعوبة في البداية."
+    },
+    {
+      "en": "My parents speak Arabic at home, whereas I usually speak English.",
+      "ar": "يتحدث والداي العربية في البيت، بينما أتحدث أنا الإنجليزية عادةً."
+    },
+    {
+      "en": "The move was challenging; nonetheless, it opened many doors for us.",
+      "ar": "كان الانتقال صعباً؛ ومع ذلك فتح لنا أبواباً كثيرة."
+    },
+    {
+      "en": "Whereas some immigrants assimilate completely, others hold on to their customs.",
+      "ar": "بينما يندمج بعض المهاجرين كلياً، يتمسك آخرون بعاداتهم."
+    },
+    {
+      "en": "Much as he tried to fit in, he never lost his accent.",
+      "ar": "رغم كل محاولاته للتأقلم، لم يفقد لهجته أبداً."
+    },
+    {
+      "en": "Although he was born in Canada, he feels deeply connected to his Egyptian roots.",
+      "ar": "رغم أنه وُلد في كندا، فإنه يشعر بارتباط عميق بجذوره المصرية."
+    },
+    {
+      "en": "It's possible to integrate into a new society without losing your identity.",
+      "ar": "من الممكن أن تندمج في مجتمع جديد دون أن تفقد هويتك."
+    },
+    {
+      "en": "Stereotypes often say more about the speaker than about the culture.",
+      "ar": "كثيراً ما تكشف الصور النمطية عن قائلها أكثر مما تكشف عن الثقافة نفسها."
+    },
+    {
+      "en": "Growing up bicultural gave me a broader perspective on the world.",
+      "ar": "منحتني نشأتي بين ثقافتين نظرة أوسع إلى العالم."
+    }
+  ],
+  "story": {
+    "title": "Eid in the Snow",
+    "text": "Every year, Eid arrives in Toronto quietly, albeit with snow instead of sunshine. For the Hassan family, it is the day their two worlds meet. Mona, the mother, wakes before dawn to bake kahk, determined to preserve traditions she learned from her grandmother in Alexandria. Her husband, Karim, feels a wave of nostalgia as he video-calls his brothers in Cairo. Their daughter, Laila, is second-generation. She speaks Arabic, her mother tongue, at home, whereas she speaks English with her friends at school. Much as she loves Eid prayers, she sometimes struggles with her sense of belonging. \"Am I Egyptian or Canadian?\" she once asked her father. \"Both,\" he replied. \"Your roots are in Egypt, but your life is here.\" This year, Laila decided to invite her classmates to the Eid lunch. Some of them had a stereotype of Arab families as closed and strict. Nonetheless, they arrived curious and left full of molokhia and laughter. Laila's best friend, Emma, said, \"I didn't know your heritage was so rich and generous.\" That evening, Mona watched her daughter explain Eid customs in perfect English. She realized that being bicultural was not an identity crisis but a gift. Her family did not have to assimilate completely to be accepted; they could integrate while still keeping their own colors. As the snow kept falling, the house felt warm, multicultural, and unmistakably Egyptian.",
+    "translation": "في كل عام، يأتي العيد إلى تورونتو بهدوء، وإن كان مصحوباً بالثلج بدلاً من الشمس. بالنسبة لعائلة حسن، إنه اليوم الذي يلتقي فيه عالَماها. تستيقظ منى، الأم، قبل الفجر لتخبز الكحك، مصممةً على الحفاظ على التقاليد التي تعلّمتها من جدتها في الإسكندرية. ويشعر زوجها كريم بموجة من الحنين وهو يتحدث مع إخوته في القاهرة عبر مكالمة فيديو. أما ابنتهما ليلى فهي من الجيل الثاني. تتحدث العربية، لغتها الأم، في البيت، بينما تتحدث الإنجليزية مع صديقاتها في المدرسة. ورغم حبها لصلاة العيد، فإنها تعاني أحياناً مع شعورها بالانتماء. سألت والدها ذات مرة: «هل أنا مصرية أم كندية؟» فأجاب: «الاثنتان. جذورك في مصر، لكن حياتك هنا.» هذا العام، قررت ليلى أن تدعو زملاءها في الفصل إلى غداء العيد. كان لدى بعضهم صورة نمطية عن العائلات العربية بأنها منغلقة وصارمة. ومع ذلك، جاؤوا فضوليين وغادروا وقد امتلأوا بالملوخية والضحك. قالت إيما، أعز صديقات ليلى: «لم أكن أعرف أن تراثكم غني وكريم إلى هذا الحد.» في ذلك المساء، شاهدت منى ابنتها وهي تشرح عادات العيد بإنجليزية متقنة. وأدركت أن كونها ثنائية الثقافة ليس أزمة هوية بل هبة. لم يكن على عائلتها أن تذوب تماماً لكي تُقبَل؛ بل كان بإمكانها أن تندمج مع الاحتفاظ بألوانها الخاصة. وبينما استمر الثلج في التساقط، كان البيت دافئاً، ومتعدد الثقافات، ومصرياً بلا أدنى شك."
+  },
+  "grammar": {
+    "title": "Concession and Contrast: albeit, nonetheless, whereas, much as",
+    "explanationAr": "نستخدم أدوات التنازل والمقابلة للربط بين فكرتين متعارضتين بأسلوب راقٍ. تأتي albeit بمعنى «وإن كان» ويتبعها اسم أو صفة أو عبارة قصيرة وليس جملة كاملة: She adapted quickly, albeit slowly at first. أما nonetheless فتعني «ومع ذلك»، وتأتي عادةً في بداية جملة جديدة أو بعد فاصلة منقوطة. ونستخدم whereas للمقارنة بين حقيقتين متقابلتين بمعنى «بينما». أما much as فتعني «رغم أن / بقدر ما»، وتأتي في بداية الجملة غالباً مع أفعال المشاعر مثل love و want: Much as I love Canada, Egypt is home.",
+    "rule": "albeit + adjective / adverb / short phrase (not a full clause)\nClause. / Clause; nonetheless, + clause\nClause, whereas + contrasting clause\nMuch as + subject + verb (love, like, want), + main clause",
+    "examples": [
+      {
+        "en": "They chose to integrate, albeit at their own pace.",
+        "ar": "اختاروا أن يندمجوا، وإن كان ذلك بالسرعة التي تناسبهم."
+      },
+      {
+        "en": "Much as I admire their culture, I could never give up my mother tongue.",
+        "ar": "رغم إعجابي بثقافتهم، لا يمكنني أبداً أن أتخلى عن لغتي الأم."
+      },
+      {
+        "en": "My grandparents preserve traditions strictly, whereas my parents are more flexible.",
+        "ar": "يحافظ أجدادي على التقاليد بصرامة، بينما والداي أكثر مرونة."
+      },
+      {
+        "en": "The cultural clash was painful. Nonetheless, it taught us tolerance.",
+        "ar": "كان الصدام الثقافي مؤلماً. ومع ذلك، علّمنا التسامح."
+      },
+      {
+        "en": "She felt uprooted at first; nonetheless, she found a new sense of belonging.",
+        "ar": "شعرت في البداية بأنها اقتُلعت من جذورها؛ ومع ذلك وجدت شعوراً جديداً بالانتماء."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Coffee with a Canadian Colleague",
+    "settingAr": "إنت مصري عايش في كندا بقالك سنين، وزميلتك في الشغل بتسألك عن إحساسك بين الثقافتين.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Colleague",
+        "nameAr": "الزميلة"
+      },
+      {
+        "id": "B",
+        "name": "Egyptian expat",
+        "nameAr": "المغترب المصري (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "So, how long have you been living here in Toronto now?",
+        "ar": "هو إنت بقالك قد إيه عايش هنا في تورونتو؟"
+      },
+      {
+        "speaker": "B",
+        "en": "About six years. I've settled in well, albeit slowly at first.",
+        "ar": "حوالي ست سنين. اتأقلمت كويس، وإن كان ببطء في الأول."
+      },
+      {
+        "speaker": "A",
+        "en": "Do you still feel strongly connected to your Egyptian roots?",
+        "ar": "لسه حاسس إنك مرتبط قوي بأصولك المصرية؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Definitely. Much as I love Canada, Egypt will always be home.",
+        "ar": "أكيد. مع إني بحب كندا جداً، مصر هتفضل دايماً بيتي."
+      },
+      {
+        "speaker": "A",
+        "en": "What about your kids? Do they speak Arabic at home?",
+        "ar": "وولادك؟ بيتكلموا عربي في البيت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "My son speaks it fluently, whereas my daughter prefers English.",
+        "ar": "ابني بيتكلمه بطلاقة، إنما بنتي بتفضّل الإنجليزي."
+      },
+      {
+        "speaker": "A",
+        "en": "That must make it hard to preserve traditions at home.",
+        "ar": "أكيد ده بيصعّب عليكم تحافظوا على العادات في البيت."
+      },
+      {
+        "speaker": "B",
+        "en": "It's a challenge. Nonetheless, we celebrate Eid together every single year.",
+        "ar": "هي صعبة فعلاً. ومع ذلك، بنحتفل بالعيد مع بعض كل سنة من غير ما نفوّت."
+      },
+      {
+        "speaker": "A",
+        "en": "Have you ever had to deal with stereotypes since moving here?",
+        "ar": "عمرك اضطريت تتعامل مع صور نمطية من ساعة ما جيت هنا؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Occasionally, but most people here are curious and genuinely open-minded.",
+        "ar": "ساعات، بس أغلب الناس هنا عندهم فضول وعقلهم مفتوح بجد."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "She settled in quickly, ___ with some help from her neighbors.",
+      "options": [
+        "whereas",
+        "albeit",
+        "much as",
+        "nonetheless"
+      ],
+      "answer": "albeit"
+    },
+    {
+      "type": "fill",
+      "sentence": "Arabic is my mother ___, but I often think in English at work.",
+      "answer": "tongue",
+      "hint": "لسان (اللغة الأم)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "prefer",
+        "Cairo,",
+        "Much",
+        "Toronto.",
+        "I",
+        "as",
+        "love",
+        "I"
+      ],
+      "answer": "Much as I love Cairo, I prefer Toronto."
+    },
+    {
+      "type": "mcq",
+      "question": "Which word describes a person who grew up with two cultures?",
+      "options": [
+        "uprooted",
+        "assimilated",
+        "tolerant",
+        "bicultural"
+      ],
+      "answer": "bicultural"
+    },
+    {
+      "type": "fill",
+      "sentence": "Many families struggle to ___ their traditions after emigrating.",
+      "answer": "preserve",
+      "hint": "يحافظ على",
+      "accept": [
+        "keep",
+        "maintain"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "his",
+        "Arabic,",
+        "speaks",
+        "French.",
+        "He",
+        "sister",
+        "whereas",
+        "speaks"
+      ],
+      "answer": "He speaks Arabic, whereas his sister speaks French."
+    },
+    {
+      "type": "mcq",
+      "question": "The journey was exhausting. ___, it was worth every minute.",
+      "options": [
+        "Nonetheless",
+        "Whereas",
+        "Albeit",
+        "Much as"
+      ],
+      "answer": "Nonetheless"
+    },
+    {
+      "type": "listen",
+      "audioText": "Being bicultural is a gift, not an identity crisis.",
+      "answer": "Being bicultural is a gift, not an identity crisis."
+    }
+  ]
+}

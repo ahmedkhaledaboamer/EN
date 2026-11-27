@@ -1,0 +1,368 @@
+{
+  "slug": "academic-writing",
+  "title": "Academic Writing & Research",
+  "titleAr": "الكتابة الأكاديمية والبحث",
+  "emoji": "📝",
+  "level": "C1",
+  "description": "Write and discuss research: sources, methods, findings, and limitations.",
+  "descriptionAr": "اكتب عن البحث العلمي وناقشه: المصادر، والمناهج، والنتائج، وحدود الدراسة.",
+  "words": [
+    {
+      "en": "literature review",
+      "ar": "مراجعة الأدبيات / الدراسات السابقة",
+      "phonetic": "/ˈlɪtərətʃər rɪˈvju/",
+      "example": "Her literature review covers more than fifty studies from the last decade."
+    },
+    {
+      "en": "methodology",
+      "ar": "منهجية البحث",
+      "phonetic": "/ˌmɛθəˈdɑlədʒi/",
+      "example": "The committee asked him to justify his methodology in more detail."
+    },
+    {
+      "en": "hypothesis",
+      "ar": "فرضية",
+      "phonetic": "/haɪˈpɑθəsɪs/",
+      "example": "The results did not support our original hypothesis."
+    },
+    {
+      "en": "sample size",
+      "ar": "حجم العينة",
+      "phonetic": "/ˈsæmpəl saɪz/",
+      "example": "A larger sample size would make the results more reliable."
+    },
+    {
+      "en": "findings",
+      "ar": "النتائج (نتائج البحث)",
+      "phonetic": "/ˈfaɪndɪŋz/",
+      "example": "The main findings are summarized in Table 3."
+    },
+    {
+      "en": "limitations",
+      "ar": "حدود الدراسة / أوجه القصور",
+      "phonetic": "/ˌlɪmɪˈteɪʃənz/",
+      "example": "Every good paper openly discusses its limitations."
+    },
+    {
+      "en": "peer-reviewed",
+      "ar": "مُحكَّم (راجعه باحثون متخصصون)",
+      "phonetic": "/ˌpɪr rɪˈvjud/",
+      "example": "Only peer-reviewed articles were included in the analysis."
+    },
+    {
+      "en": "cite",
+      "ar": "يستشهد بـ / يوثّق مصدراً",
+      "phonetic": "/saɪt/",
+      "example": "You must cite every source you use, even websites."
+    },
+    {
+      "en": "plagiarism",
+      "ar": "سرقة أدبية / انتحال",
+      "phonetic": "/ˈpleɪdʒəˌrɪzəm/",
+      "example": "The university uses software to detect plagiarism."
+    },
+    {
+      "en": "empirical evidence",
+      "ar": "دليل تجريبي / دليل قائم على الملاحظة",
+      "phonetic": "/ɛmˈpɪrɪkəl ˈɛvɪdəns/",
+      "example": "There is little empirical evidence to support this claim."
+    },
+    {
+      "en": "qualitative",
+      "ar": "نوعي / كيفي",
+      "phonetic": "/ˈkwɑləˌteɪtɪv/",
+      "example": "She chose a qualitative approach based on in-depth interviews."
+    },
+    {
+      "en": "quantitative",
+      "ar": "كمّي",
+      "phonetic": "/ˈkwɑntəˌteɪtɪv/",
+      "example": "Quantitative data were collected through an online survey."
+    },
+    {
+      "en": "draw conclusions",
+      "ar": "يستخلص استنتاجات",
+      "phonetic": "/drɔ kənˈkluʒənz/",
+      "example": "It is too early to draw conclusions from such limited data."
+    },
+    {
+      "en": "variable",
+      "ar": "متغيّر",
+      "phonetic": "/ˈvɛriəbəl/",
+      "example": "Age was treated as an independent variable."
+    },
+    {
+      "en": "abstract",
+      "ar": "ملخص البحث",
+      "phonetic": "/ˈæbstrækt/",
+      "example": "The abstract should not be longer than 250 words."
+    },
+    {
+      "en": "bias",
+      "ar": "تحيّز",
+      "phonetic": "/ˈbaɪəs/",
+      "example": "The researchers took several steps to reduce bias."
+    },
+    {
+      "en": "attributed to",
+      "ar": "يُعزى إلى / يُنسب إلى",
+      "phonetic": "/əˈtrɪbjətɪd tu/",
+      "example": "The rise in scores may be attributed to the new teaching method."
+    },
+    {
+      "en": "thesis",
+      "ar": "رسالة علمية (ماجستير / دكتوراه) / أطروحة",
+      "phonetic": "/ˈθisɪs/",
+      "example": "He is writing his thesis on urban poverty in Cairo."
+    },
+    {
+      "en": "data collection",
+      "ar": "جمع البيانات",
+      "phonetic": "/ˈdeɪtə kəˈlɛkʃən/",
+      "example": "Data collection took place over six months."
+    },
+    {
+      "en": "supervisor",
+      "ar": "المشرف (على الرسالة العلمية)",
+      "phonetic": "/ˈsupərˌvaɪzər/",
+      "example": "My supervisor sent back the chapter with dozens of comments."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It could be argued that online learning widens the gap between students.",
+      "ar": "يمكن القول إن التعلم عبر الإنترنت يوسّع الفجوة بين الطلاب."
+    },
+    {
+      "en": "This decline may be attributed to changes in government policy.",
+      "ar": "قد يُعزى هذا التراجع إلى تغييرات في السياسة الحكومية."
+    },
+    {
+      "en": "It should be noted that the sample size was relatively small.",
+      "ar": "تجدر الإشارة إلى أن حجم العينة كان صغيراً نسبياً."
+    },
+    {
+      "en": "These findings must be interpreted with caution.",
+      "ar": "يجب تفسير هذه النتائج بحذر."
+    },
+    {
+      "en": "It can be concluded that the intervention had a positive effect.",
+      "ar": "يمكن الاستنتاج بأن التدخل كان له أثر إيجابي."
+    },
+    {
+      "en": "The results might be explained by a lack of funding.",
+      "ar": "ربما يمكن تفسير النتائج بنقص التمويل."
+    },
+    {
+      "en": "Further research is needed to confirm these results.",
+      "ar": "هناك حاجة إلى مزيد من البحث لتأكيد هذه النتائج."
+    },
+    {
+      "en": "The data were collected through semi-structured interviews.",
+      "ar": "جُمعت البيانات من خلال مقابلات شبه منظَّمة."
+    },
+    {
+      "en": "Please make sure you cite all your sources correctly.",
+      "ar": "يُرجى التأكد من توثيق جميع مصادرك بشكل صحيح."
+    },
+    {
+      "en": "The study has several limitations that need to be acknowledged.",
+      "ar": "للدراسة عدة أوجه قصور ينبغي الاعتراف بها."
+    }
+  ],
+  "story": {
+    "title": "Defending the Method",
+    "text": "Nour had spent two years on her thesis, but this meeting with her supervisor, Professor Grant, felt like the real test. He was famous for being polite, precise, and impossible to impress. \"Let's start with your methodology,\" he said, turning the pages slowly. \"Why interviews? Why not a survey?\" Nour took a breath. \"It could be argued that a survey would reach more people,\" she began. \"However, my question is about how teachers experience burnout, so a qualitative approach seemed more appropriate.\" He frowned. \"Your sample size is only fifteen. How can you draw conclusions from that?\" \"That's a fair point,\" she replied. \"It should be noted that I don't claim my findings are representative. They are meant to offer depth, not breadth. This is clearly stated in my limitations section.\" \"And bias? You worked at two of these schools yourself.\" \"Yes. That risk was reduced by using a second coder and by keeping a reflective journal during data collection.\" Professor Grant was silent for a moment. Then he pointed to one paragraph. \"You write that the teachers' stress may be attributed to workload. Do you have empirical evidence for that?\" \"Three peer-reviewed studies support it,\" Nour said, \"and I cite them in my literature review.\" Finally, he closed the folder and almost smiled. \"It might be suggested,\" he said dryly, \"that you are ready to submit.\" Nour walked out of his office feeling, for the first time, like a real researcher.",
+    "translation": "قضت نور عامين في إعداد رسالتها، لكن هذا الاجتماع مع مشرفها، البروفيسور جرانت، كان يبدو وكأنه الاختبار الحقيقي. كان مشهوراً بأنه مهذب ودقيق ومن المستحيل إبهاره. قال وهو يقلّب الصفحات ببطء: «لنبدأ بمنهجيتك. لماذا المقابلات؟ لماذا ليس استبياناً؟» أخذت نور نفساً عميقاً وبدأت: «يمكن القول إن الاستبيان سيصل إلى عدد أكبر من الناس. لكن سؤالي البحثي يتعلق بكيفية معايشة المعلمين للإرهاق، لذلك بدا المنهج النوعي أكثر ملاءمة.» عبس وقال: «حجم عينتك خمسة عشر فقط. كيف يمكنك أن تستخلص استنتاجات من ذلك؟» ردّت: «هذه نقطة وجيهة. تجدر الإشارة إلى أنني لا أدّعي أن نتائجي تمثّل الجميع. الهدف منها هو تقديم العمق لا الاتساع. وهذا مذكور بوضوح في قسم حدود الدراسة.» «والتحيّز؟ لقد عملتِ بنفسك في مدرستين من هذه المدارس.» «نعم. وقد قُلِّل هذا الخطر بالاستعانة بمرمِّز ثانٍ وبالاحتفاظ بيوميات تأملية أثناء جمع البيانات.» صمت البروفيسور جرانت لحظة. ثم أشار إلى فقرة واحدة وقال: «تكتبين أن ضغط المعلمين قد يُعزى إلى عبء العمل. هل لديكِ دليل تجريبي على ذلك؟» قالت نور: «ثلاث دراسات محكَّمة تدعم ذلك، وأنا أستشهد بها في مراجعة الأدبيات.» وأخيراً أغلق الملف وكاد يبتسم، وقال بجفاف: «ربما يمكن القول إنكِ مستعدة لتسليم الرسالة.» خرجت نور من مكتبه وهي تشعر، لأول مرة، بأنها باحثة حقيقية."
+  },
+  "grammar": {
+    "title": "Academic Hedging: It could be argued that... / Passive with Modals",
+    "explanationAr": "في الكتابة الأكاديمية نتجنب الأحكام القاطعة ونستخدم صيغاً حذرة تُظهر الموضوعية. من أشهرها It could be argued that... بمعنى «يمكن القول إن...»، و It should be noted that... بمعنى «تجدر الإشارة إلى أن...». ونستخدم المبني للمجهول مع الأفعال المساعدة (modal + be + past participle) لننقل التركيز من الباحث إلى الفكرة نفسها، مثل This may be attributed to... بمعنى «قد يُعزى ذلك إلى...». واختيار الفعل المساعد يحدد درجة اليقين: must أقوى من should، بينما may و might و could أضعف وأكثر تحفظاً.",
+    "rule": "It + modal + be + past participle + that... (It could be argued that...)\nSubject + modal (may / might / could / can / should / must) + be + past participle\nmay / might / could = possible (cautious)\nshould = recommended; must = necessary or very certain",
+    "examples": [
+      {
+        "en": "It could be argued that the sample size was too small.",
+        "ar": "يمكن القول إن حجم العينة كان صغيراً جداً."
+      },
+      {
+        "en": "The difference may be attributed to bias in the data collection.",
+        "ar": "قد يُعزى الفرق إلى تحيّز في جمع البيانات."
+      },
+      {
+        "en": "These findings should be compared with earlier peer-reviewed studies.",
+        "ar": "ينبغي مقارنة هذه النتائج بدراسات محكَّمة سابقة."
+      },
+      {
+        "en": "It must be acknowledged that the methodology has some limitations.",
+        "ar": "لا بد من الاعتراف بأن للمنهجية بعض أوجه القصور."
+      },
+      {
+        "en": "The hypothesis can be tested with quantitative data.",
+        "ar": "يمكن اختبار الفرضية باستخدام بيانات كمّية."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Meeting the Supervisor",
+    "settingAr": "إنت طالب ماجستير وقاعد مع المشرف بتاعك عشان تدافع عن منهجية البحث قبل ما تسلّم الرسالة.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Supervisor",
+        "nameAr": "المشرف"
+      },
+      {
+        "id": "B",
+        "name": "Master's student",
+        "nameAr": "طالب الماجستير (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Let's begin. Can you briefly explain your research question?",
+        "ar": "يلا نبدأ. ممكن تشرح لي سؤال البحث بتاعك باختصار؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Of course. I'm examining how remote learning affects student motivation.",
+        "ar": "طبعاً. أنا بدرس إزاي التعليم عن بُعد بيأثّر على حماس الطلبة."
+      },
+      {
+        "speaker": "A",
+        "en": "Why did you choose a qualitative methodology rather than a survey?",
+        "ar": "ليه اخترت منهجية نوعية بدل ما تعمل استبيان؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It could be argued that interviews capture students' experiences in more depth.",
+        "ar": "ممكن نقول إن المقابلات بتوصل لتجارب الطلبة بعمق أكتر."
+      },
+      {
+        "speaker": "A",
+        "en": "But your sample size is quite small, isn't it?",
+        "ar": "بس حجم العينة بتاعتك صغير شوية، مش كده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, and it should be noted that I discuss this in my limitations.",
+        "ar": "أيوه، وخلّي بالك إني ذاكر النقطة دي في حدود الدراسة."
+      },
+      {
+        "speaker": "A",
+        "en": "How did you deal with possible bias in your data collection?",
+        "ar": "اتعاملت إزاي مع التحيّز المحتمل في جمع البيانات؟"
+      },
+      {
+        "speaker": "B",
+        "en": "A second researcher coded the interviews independently to check for consistency.",
+        "ar": "باحث تاني رمّز المقابلات لوحده عشان نتأكد إن النتايج متسقة."
+      },
+      {
+        "speaker": "A",
+        "en": "Your findings show lower motivation. What caused that, in your view?",
+        "ar": "نتايجك بتبيّن إن الحماس قلّ. إيه السبب في رأيك؟"
+      },
+      {
+        "speaker": "B",
+        "en": "This may be attributed to isolation, as several peer-reviewed studies suggest.",
+        "ar": "ممكن يكون السبب العزلة، زي ما دراسات محكَّمة كتير بتقول."
+      },
+      {
+        "speaker": "A",
+        "en": "Good. Make sure you cite those studies in your literature review.",
+        "ar": "كويس. اتأكد إنك توثّق الدراسات دي في مراجعة الأدبيات."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you, I'll add them before I submit the final draft.",
+        "ar": "شكراً، هضيفها قبل ما أسلّم النسخة النهائية."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "The drop in sales ___ attributed to the new tax.",
+      "options": [
+        "may",
+        "can attribute",
+        "may be",
+        "might being"
+      ],
+      "answer": "may be"
+    },
+    {
+      "type": "fill",
+      "sentence": "Always ___ your sources to avoid plagiarism.",
+      "answer": "cite",
+      "hint": "يستشهد بـ / يوثّق",
+      "accept": [
+        "reference",
+        "acknowledge"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "that",
+        "results",
+        "It",
+        "argued",
+        "are",
+        "could",
+        "biased.",
+        "the",
+        "be"
+      ],
+      "answer": "It could be argued that the results are biased."
+    },
+    {
+      "type": "mcq",
+      "question": "Which type of research mainly uses numbers and statistics?",
+      "options": [
+        "quantitative",
+        "qualitative",
+        "peer-reviewed",
+        "theoretical"
+      ],
+      "answer": "quantitative"
+    },
+    {
+      "type": "fill",
+      "sentence": "Copying someone else's work without giving credit is called ___.",
+      "answer": "plagiarism",
+      "hint": "سرقة أدبية / انتحال"
+    },
+    {
+      "type": "order",
+      "words": [
+        "with",
+        "findings",
+        "be",
+        "These",
+        "caution.",
+        "should",
+        "interpreted"
+      ],
+      "answer": "These findings should be interpreted with caution."
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is the most appropriate for academic writing?",
+      "options": [
+        "We totally proved that stress causes illness.",
+        "Stress causes illness, no doubt about it.",
+        "Everyone knows stress makes you sick.",
+        "It could be argued that stress contributes to illness."
+      ],
+      "answer": "It could be argued that stress contributes to illness."
+    },
+    {
+      "type": "listen",
+      "audioText": "This may be attributed to the small sample size.",
+      "answer": "This may be attributed to the small sample size."
+    }
+  ]
+}

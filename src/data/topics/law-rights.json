@@ -1,0 +1,359 @@
+{
+  "slug": "law-rights",
+  "title": "Law & Rights",
+  "titleAr": "القانون والحقوق",
+  "emoji": "⚖️",
+  "level": "C1",
+  "description": "Understand contracts, consumer rights, and legal procedures.",
+  "descriptionAr": "افهم العقود وحقوق المستهلك والإجراءات القانونية.",
+  "words": [
+    {
+      "en": "breach of contract",
+      "ar": "إخلال بالعقد / خرق العقد",
+      "phonetic": "/britʃ əv ˈkɑnˌtrækt/",
+      "example": "Failing to deliver the goods on time is a breach of contract."
+    },
+    {
+      "en": "clause",
+      "ar": "بند (في عقد)",
+      "phonetic": "/klɔz/",
+      "example": "Clause 7 explains what happens if either party cancels."
+    },
+    {
+      "en": "fine print",
+      "ar": "الشروط المكتوبة بخط صغير / التفاصيل الدقيقة",
+      "phonetic": "/ˈfaɪn ˌprɪnt/",
+      "example": "Always read the fine print before you sign anything."
+    },
+    {
+      "en": "tenant",
+      "ar": "مستأجر",
+      "phonetic": "/ˈtɛnənt/",
+      "example": "The tenant is responsible for paying the electricity bill."
+    },
+    {
+      "en": "landlord",
+      "ar": "المؤجّر / صاحب العقار",
+      "phonetic": "/ˈlændˌlɔrd/",
+      "example": "Our landlord finally agreed to fix the heating."
+    },
+    {
+      "en": "security deposit",
+      "ar": "مبلغ التأمين (في الإيجار)",
+      "phonetic": "/sɪˈkjʊrəti dɪˈpɑzɪt/",
+      "example": "You'll get your security deposit back if the apartment is undamaged."
+    },
+    {
+      "en": "terminate a contract",
+      "ar": "يُنهي عقداً / يفسخ عقداً",
+      "phonetic": "/ˈtərməˌneɪt ə ˈkɑnˌtrækt/",
+      "example": "Either party may terminate a contract with thirty days' written notice."
+    },
+    {
+      "en": "legally binding",
+      "ar": "مُلزِم قانوناً",
+      "phonetic": "/ˈliɡəli ˈbaɪndɪŋ/",
+      "example": "Once you sign it, the agreement is legally binding."
+    },
+    {
+      "en": "liable",
+      "ar": "مسؤول قانونياً",
+      "phonetic": "/ˈlaɪəbəl/",
+      "example": "The company was found liable for the accident."
+    },
+    {
+      "en": "consumer rights",
+      "ar": "حقوق المستهلك",
+      "phonetic": "/kənˈsumər raɪts/",
+      "example": "Under consumer rights law, you can return faulty products."
+    },
+    {
+      "en": "file a complaint",
+      "ar": "يقدّم شكوى رسمية",
+      "phonetic": "/faɪl ə kəmˈpleɪnt/",
+      "example": "If they don't refund you, you can file a complaint with the regulator."
+    },
+    {
+      "en": "unenforceable",
+      "ar": "غير قابل للتنفيذ قانونياً / باطل",
+      "phonetic": "/ˌʌnɪnˈfɔrsəbəl/",
+      "example": "A clause that breaks the law is unenforceable."
+    },
+    {
+      "en": "notice period",
+      "ar": "فترة الإخطار المسبق / مهلة الإنذار",
+      "phonetic": "/ˈnoʊtɪs ˈpɪriəd/",
+      "example": "My contract has a notice period of two months."
+    },
+    {
+      "en": "seek legal advice",
+      "ar": "يطلب استشارة قانونية",
+      "phonetic": "/sik ˈliɡəl ədˈvaɪs/",
+      "example": "If you're unsure about the terms, you should seek legal advice."
+    },
+    {
+      "en": "in writing",
+      "ar": "كتابياً / بشكل مكتوب",
+      "phonetic": "/ɪn ˈraɪtɪŋ/",
+      "example": "Please confirm the new terms in writing."
+    },
+    {
+      "en": "dispute",
+      "ar": "نزاع / خلاف",
+      "phonetic": "/dɪˈspjut/",
+      "example": "The dispute between the neighbors lasted for years."
+    },
+    {
+      "en": "compensation",
+      "ar": "تعويض",
+      "phonetic": "/ˌkɑmpənˈseɪʃən/",
+      "example": "The airline offered passengers compensation for the delay."
+    },
+    {
+      "en": "waive the right",
+      "ar": "يتنازل عن الحق",
+      "phonetic": "/weɪv ðə raɪt/",
+      "example": "By signing this form, you waive the right to a refund."
+    },
+    {
+      "en": "small claims court",
+      "ar": "محكمة الدعاوى الصغيرة (للمبالغ البسيطة)",
+      "phonetic": "/smɔl kleɪmz kɔrt/",
+      "example": "She took the shop to small claims court and won."
+    },
+    {
+      "en": "burden of proof",
+      "ar": "عبء الإثبات",
+      "phonetic": "/ˈbərdən əv pruf/",
+      "example": "In this case, the burden of proof lies with the landlord."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I would like to request the termination of my contract.",
+      "ar": "أودّ أن أطلب إنهاء عقدي."
+    },
+    {
+      "en": "The landlord's refusal to return my deposit is a breach of contract.",
+      "ar": "رفض المؤجّر إعادة مبلغ التأمين يُعدّ إخلالاً بالعقد."
+    },
+    {
+      "en": "Could you confirm the cancellation of my subscription in writing?",
+      "ar": "هل يمكنك تأكيد إلغاء اشتراكي كتابياً؟"
+    },
+    {
+      "en": "The failure to give proper notice makes this clause unenforceable.",
+      "ar": "عدم تقديم إخطار مسبق مناسب يجعل هذا البند غير قابل للتنفيذ."
+    },
+    {
+      "en": "Please note that the payment of rent is due on the first of each month.",
+      "ar": "يُرجى العلم بأن دفع الإيجار مستحق في اليوم الأول من كل شهر."
+    },
+    {
+      "en": "I am requesting compensation for the damage caused by the delay.",
+      "ar": "أطالب بتعويض عن الضرر الناتج عن التأخير."
+    },
+    {
+      "en": "Under consumer protection law, I am entitled to a full refund.",
+      "ar": "بموجب قانون حماية المستهلك، يحقّ لي استرداد المبلغ كاملاً."
+    },
+    {
+      "en": "I'd like to file a complaint about the service I received.",
+      "ar": "أودّ أن أقدّم شكوى بشأن الخدمة التي تلقيتها."
+    },
+    {
+      "en": "Before signing anything, I'd recommend that you seek legal advice.",
+      "ar": "قبل أن توقّع على أي شيء، أنصحك بأن تطلب استشارة قانونية."
+    },
+    {
+      "en": "Who is liable for the repairs, the tenant or the landlord?",
+      "ar": "من المسؤول قانونياً عن الإصلاحات، المستأجر أم المؤجّر؟"
+    }
+  ],
+  "story": {
+    "title": "The Fine Print",
+    "text": "When Yasmin found a bright apartment near her new office, she was ready to sign the lease immediately. Her father, a retired accountant, insisted that she read the fine print first. \"A lease is legally binding,\" he reminded her. \"Once you sign, it's too late to complain.\" That evening, Yasmin went through the document line by line. Most of it seemed reasonable until she reached Clause 14. It stated that the landlord could end the agreement at any time with only seven days' notice, while the tenant would be liable for a penalty of three months' rent in the event of early termination. Another clause allowed the landlord to keep the entire security deposit for \"general wear and tear.\" Yasmin decided to seek legal advice. A lawyer at a free tenants' association explained that such terms were probably unenforceable under local housing law. \"The imbalance between the two notice periods is significant,\" he said. \"Moreover, the retention of a deposit for normal wear and tear is not permitted.\" The next day, Yasmin contacted the landlord and raised her concerns in writing. She politely requested the amendment of both clauses and an equal notice period for both parties. At first, the landlord refused and threatened to rent the apartment to someone else. However, when Yasmin mentioned that she was prepared to file a complaint with the housing authority, his tone changed completely. A week later, she signed a revised lease. The dispute had been resolved without a single day in court.",
+    "translation": "عندما وجدت ياسمين شقة مشرقة قريبة من مكتبها الجديد، كانت مستعدة لتوقيع عقد الإيجار على الفور. لكن والدها، وهو محاسب متقاعد، أصرّ على أن تقرأ الشروط المكتوبة بخط صغير أولاً. وذكّرها قائلاً: «عقد الإيجار مُلزِم قانوناً. وبمجرد أن توقّعي، يكون الوقت قد فات على الاعتراض.» وفي ذلك المساء، راجعت ياسمين المستند سطراً سطراً. بدا معظمه معقولاً إلى أن وصلت إلى البند الرابع عشر. فقد نصّ على أن المؤجّر يمكنه إنهاء الاتفاق في أي وقت بإخطار مدته سبعة أيام فقط، بينما يكون المستأجر مسؤولاً قانونياً عن دفع غرامة تعادل إيجار ثلاثة أشهر في حال الإنهاء المبكر. وكان هناك بند آخر يسمح للمؤجّر بالاحتفاظ بمبلغ التأمين كاملاً مقابل «الاستهلاك العام». فقررت ياسمين أن تطلب استشارة قانونية. وأوضح لها محامٍ في جمعية مجانية للمستأجرين أن مثل هذه الشروط على الأرجح غير قابلة للتنفيذ بموجب قانون الإسكان المحلي. وقال: «إن عدم التوازن بين فترتي الإخطار كبير. علاوة على ذلك، فإن الاحتفاظ بمبلغ التأمين مقابل الاستهلاك العادي غير مسموح به.» وفي اليوم التالي، تواصلت ياسمين مع المؤجّر وعرضت مخاوفها كتابياً. وطلبت بأدب تعديل البندين وتحديد فترة إخطار متساوية للطرفين. في البداية، رفض المؤجّر وهدّد بتأجير الشقة لشخص آخر. لكن عندما ذكرت ياسمين أنها مستعدة لتقديم شكوى رسمية لدى هيئة الإسكان، تغيّرت لهجته تماماً. وبعد أسبوع، وقّعت على عقد إيجار معدَّل. لقد حُلّ النزاع دون أن تقضي يوماً واحداً في المحكمة."
+  },
+  "grammar": {
+    "title": "Formal Register and Nominalisation",
+    "explanationAr": "في اللغة القانونية والرسمية نحوّل الأفعال إلى أسماء، وهذا يسمّى nominalisation، فيصبح الكلام أكثر رسمية وموضوعية. فبدلاً من They terminated the contract نقول The termination of the contract. ومن أشهر التحويلات: terminate تصبح termination، و refuse تصبح refusal، و fail تصبح failure، و pay تصبح payment، و amend تصبح amendment. وغالباً نستخدم التركيب the + اسم + of + المفعول به، ونفضّل الأفعال الرسمية مثل request و require و be entitled to بدلاً من ask و need و can have.",
+    "rule": "Verb → noun: terminate → termination, refuse → refusal, fail → failure, pay → payment, amend → amendment\nthe + noun + of + object: the termination of the contract\nPossessive + noun + to + verb: the landlord's refusal to pay\nFormal verbs: request, require, be entitled to, be liable for\nInformal: He didn't pay. → Formal: His failure to pay ...",
+    "examples": [
+      {
+        "en": "The termination of the contract requires thirty days' notice.",
+        "ar": "يتطلّب إنهاء العقد إخطاراً مسبقاً مدته ثلاثون يوماً."
+      },
+      {
+        "en": "The tenant's failure to pay rent constitutes a breach of contract.",
+        "ar": "يُعدّ عدم دفع المستأجر للإيجار إخلالاً بالعقد."
+      },
+      {
+        "en": "The retention of the security deposit was unjustified.",
+        "ar": "كان الاحتفاظ بمبلغ التأمين غير مبرَّر."
+      },
+      {
+        "en": "Any amendment to this agreement must be made in writing.",
+        "ar": "يجب أن يكون أي تعديل على هذا الاتفاق كتابياً."
+      },
+      {
+        "en": "We acknowledge receipt of your complaint.",
+        "ar": "نُقرّ باستلام شكواك."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Challenging an Unfair Clause",
+    "settingAr": "إنت هتأجّر شقة، ولقيت بند ظالم في العقد، فبتكلّم مدير العقار عشان يعدّله قبل ما توقّع.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Property Manager",
+        "nameAr": "مدير العقار"
+      },
+      {
+        "id": "B",
+        "name": "Tenant",
+        "nameAr": "المستأجر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Good morning. I'm calling about Clause 14 in the lease you sent me.",
+        "ar": "صباح الخير. أنا بكلّمك بخصوص البند ١٤ في عقد الإيجار اللي بعتهولي."
+      },
+      {
+        "speaker": "A",
+        "en": "Of course. Is there a problem with the terms?",
+        "ar": "طبعاً. فيه مشكلة في الشروط؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes. The termination of the contract requires only seven days' notice from you.",
+        "ar": "أيوه. إنهاء العقد من ناحيتك محتاج إخطار سبع أيام بس."
+      },
+      {
+        "speaker": "A",
+        "en": "That's our standard lease. Most tenants sign it without any issues.",
+        "ar": "ده العقد العادي بتاعنا. أغلب المستأجرين بيمضوه من غير أي مشاكل."
+      },
+      {
+        "speaker": "B",
+        "en": "With respect, a penalty of three months' rent for early termination seems unfair.",
+        "ar": "مع احترامي، غرامة إيجار تلات شهور على الإنهاء المبكر شكلها ظالمة."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm afraid those terms are legally binding once you sign.",
+        "ar": "للأسف الشروط دي بتبقى ملزمة قانونياً أول ما تمضي."
+      },
+      {
+        "speaker": "B",
+        "en": "That's why I'd like to request the amendment of both clauses before signing.",
+        "ar": "علشان كده عايز أطلب تعديل البندين قبل ما أمضي."
+      },
+      {
+        "speaker": "A",
+        "en": "And what exactly are you proposing?",
+        "ar": "وإنت بتقترح إيه بالظبط؟"
+      },
+      {
+        "speaker": "B",
+        "en": "An equal thirty-day notice period for both parties, confirmed in writing.",
+        "ar": "مهلة إخطار تلاتين يوم للطرفين بالتساوي، ويتكتب ده رسمي."
+      },
+      {
+        "speaker": "A",
+        "en": "Let me discuss it with the owner and get back to you tomorrow.",
+        "ar": "خليني أتكلم مع صاحب الشقة وأرد عليك بكرة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which sentence is the most formal?",
+      "options": [
+        "He didn't pay, so they ended the contract.",
+        "His failure to pay resulted in the termination of the contract.",
+        "He forgot to pay and they stopped the deal.",
+        "Because he didn't pay, the contract was over."
+      ],
+      "answer": "His failure to pay resulted in the termination of the contract."
+    },
+    {
+      "type": "fill",
+      "sentence": "Always read the fine ___ before you sign a lease.",
+      "answer": "print",
+      "hint": "الشروط المكتوبة بخط صغير"
+    },
+    {
+      "type": "order",
+      "words": [
+        "termination",
+        "would",
+        "my",
+        "I",
+        "request",
+        "contract.",
+        "like",
+        "the",
+        "to",
+        "of"
+      ],
+      "answer": "I would like to request the termination of my contract."
+    },
+    {
+      "type": "mcq",
+      "question": "If a tenant damages the apartment, the tenant is ___ for the repairs.",
+      "options": [
+        "entitled",
+        "binding",
+        "enforceable",
+        "liable"
+      ],
+      "answer": "liable"
+    },
+    {
+      "type": "fill",
+      "sentence": "The landlord's ___ to return the deposit led to a formal complaint.",
+      "answer": "refusal",
+      "hint": "رفض",
+      "accept": [
+        "failure"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "under",
+        "clause",
+        "law.",
+        "This",
+        "unenforceable",
+        "protection",
+        "is",
+        "consumer"
+      ],
+      "answer": "This clause is unenforceable under consumer protection law."
+    },
+    {
+      "type": "mcq",
+      "question": "What is the noun form of the verb \"compensate\"?",
+      "options": [
+        "compensation",
+        "compensating",
+        "compensatory",
+        "compensated"
+      ],
+      "answer": "compensation"
+    },
+    {
+      "type": "listen",
+      "audioText": "Any changes to this agreement must be made in writing.",
+      "answer": "Any changes to this agreement must be made in writing."
+    }
+  ]
+}

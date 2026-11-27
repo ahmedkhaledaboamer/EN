@@ -1,0 +1,353 @@
+{
+  "slug": "economy-finance",
+  "title": "Economy & Personal Finance",
+  "titleAr": "الاقتصاد والتمويل الشخصي",
+  "emoji": "📈",
+  "level": "C1",
+  "description": "Discuss inflation, investment, budgeting, and economic trends.",
+  "descriptionAr": "ناقش التضخم والاستثمار ووضع الميزانية والاتجاهات الاقتصادية.",
+  "words": [
+    {
+      "en": "disposable income",
+      "ar": "الدخل المتاح للإنفاق (بعد الضرائب والالتزامات)",
+      "phonetic": "/dɪˈspoʊzəbəl ˈɪnˌkʌm/",
+      "example": "Rising rents have eaten into our disposable income."
+    },
+    {
+      "en": "inflation rate",
+      "ar": "معدل التضخم",
+      "phonetic": "/ɪnˈfleɪʃən reɪt/",
+      "example": "The inflation rate reached its highest level in a decade."
+    },
+    {
+      "en": "cost of living",
+      "ar": "تكلفة المعيشة / غلاء المعيشة",
+      "phonetic": "/ˈkɔst əv ˈlɪvɪŋ/",
+      "example": "The cost of living in big cities keeps going up."
+    },
+    {
+      "en": "purchasing power",
+      "ar": "القوة الشرائية",
+      "phonetic": "/ˈpərtʃəsɪŋ ˈpaʊər/",
+      "example": "High inflation reduces the purchasing power of your savings."
+    },
+    {
+      "en": "diversify a portfolio",
+      "ar": "ينوّع محفظة استثمارية",
+      "phonetic": "/dɪˈvərsəˌfaɪ ə pɔrtˈfoʊliˌoʊ/",
+      "example": "The safest way to reduce risk is to diversify a portfolio across different assets."
+    },
+    {
+      "en": "interest rate",
+      "ar": "سعر الفائدة",
+      "phonetic": "/ˈɪntrəst reɪt/",
+      "example": "The central bank raised the interest rate again this month."
+    },
+    {
+      "en": "emergency fund",
+      "ar": "صندوق طوارئ / مدّخرات للطوارئ",
+      "phonetic": "/ɪˈmərdʒənsi fʌnd/",
+      "example": "Experts advise keeping an emergency fund worth six months of expenses."
+    },
+    {
+      "en": "recession",
+      "ar": "ركود اقتصادي",
+      "phonetic": "/rɪˈsɛʃən/",
+      "example": "Many economists believe a recession is coming next year."
+    },
+    {
+      "en": "make ends meet",
+      "ar": "يغطّي احتياجاته بالكاد / يدبّر أموره المادية",
+      "phonetic": "/meɪk ɛndz mit/",
+      "example": "With two kids and one salary, they struggle to make ends meet."
+    },
+    {
+      "en": "tighten your belt",
+      "ar": "يشدّ الحزام / يقلّل الإنفاق",
+      "phonetic": "/ˈtaɪtən jʊr bɛlt/",
+      "example": "When prices rise this fast, you have to tighten your belt."
+    },
+    {
+      "en": "long-term investment",
+      "ar": "استثمار طويل الأجل",
+      "phonetic": "/ˈlɔŋ ˌtərm ɪnˈvɛstmənt/",
+      "example": "Buying property is usually seen as a long-term investment."
+    },
+    {
+      "en": "compound interest",
+      "ar": "الفائدة المركّبة",
+      "phonetic": "/ˈkɑmpaʊnd ˈɪntrəst/",
+      "example": "Thanks to compound interest, small savings can grow enormously over time."
+    },
+    {
+      "en": "volatile",
+      "ar": "متقلّب / غير مستقر",
+      "phonetic": "/ˈvɑlətəl/",
+      "example": "Cryptocurrency prices are extremely volatile."
+    },
+    {
+      "en": "mortgage",
+      "ar": "قرض عقاري / رهن عقاري",
+      "phonetic": "/ˈmɔrɡɪdʒ/",
+      "example": "They took out a thirty-year mortgage to buy their first home."
+    },
+    {
+      "en": "index fund",
+      "ar": "صندوق مؤشرات (استثمار يتبع مؤشر السوق)",
+      "phonetic": "/ˈɪndɛks fʌnd/",
+      "example": "An index fund is a cheap and simple way to invest in the stock market."
+    },
+    {
+      "en": "fixed expenses",
+      "ar": "المصروفات الثابتة",
+      "phonetic": "/fɪkst ɪkˈspɛnsɪz/",
+      "example": "Rent, insurance and internet are our main fixed expenses."
+    },
+    {
+      "en": "return on investment",
+      "ar": "العائد على الاستثمار",
+      "phonetic": "/rɪˈtərn ɑn ɪnˈvɛstmənt/",
+      "example": "The return on investment was lower than we had hoped."
+    },
+    {
+      "en": "live within your means",
+      "ar": "يعيش في حدود إمكانياته",
+      "phonetic": "/lɪv wɪˈðɪn jʊr minz/",
+      "example": "The secret to financial peace is to live within your means."
+    },
+    {
+      "en": "economic downturn",
+      "ar": "تراجع اقتصادي / تباطؤ اقتصادي",
+      "phonetic": "/ˌɛkəˈnɑmɪk ˈdaʊnˌtərn/",
+      "example": "Small businesses suffered the most during the economic downturn."
+    },
+    {
+      "en": "pay off debt",
+      "ar": "يسدّد الديون",
+      "phonetic": "/peɪ ɔf dɛt/",
+      "example": "Our first goal is to pay off debt before we start investing."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It would appear that prices are rising faster than wages.",
+      "ar": "يبدو أن الأسعار ترتفع أسرع من الأجور."
+    },
+    {
+      "en": "Housing costs tend to increase during periods of high inflation.",
+      "ar": "تميل تكاليف السكن إلى الارتفاع في فترات التضخم المرتفع."
+    },
+    {
+      "en": "Interest rates are likely to stay high for the rest of the year.",
+      "ar": "من المرجّح أن تظل أسعار الفائدة مرتفعة طوال ما تبقّى من العام."
+    },
+    {
+      "en": "It seems that more families are struggling with the cost of living.",
+      "ar": "يبدو أن عدداً أكبر من الأسر يعاني من غلاء المعيشة."
+    },
+    {
+      "en": "The economy may well slow down in the next quarter.",
+      "ar": "من المحتمل جداً أن يتباطأ الاقتصاد في الربع القادم."
+    },
+    {
+      "en": "Index funds generally tend to be less risky than individual stocks.",
+      "ar": "تميل صناديق المؤشرات عموماً إلى أن تكون أقل خطورة من الأسهم الفردية."
+    },
+    {
+      "en": "We need to cut back if we want to make ends meet.",
+      "ar": "علينا أن نقلّل الإنفاق إذا أردنا أن نغطّي احتياجاتنا."
+    },
+    {
+      "en": "Have you thought about diversifying your portfolio?",
+      "ar": "هل فكّرت في تنويع محفظتك الاستثمارية؟"
+    },
+    {
+      "en": "I'd suggest building an emergency fund before you invest.",
+      "ar": "أقترح أن تكوّن صندوقاً للطوارئ قبل أن تستثمر."
+    },
+    {
+      "en": "What kind of return on investment can I realistically expect?",
+      "ar": "ما العائد على الاستثمار الذي يمكنني أن أتوقعه بشكل واقعي؟"
+    }
+  ],
+  "story": {
+    "title": "Rethinking the Budget",
+    "text": "For years, Mona and Tarek had never really worried about money. Then the inflation rate climbed to its highest level in a decade, and suddenly their two salaries no longer seemed enough. The cost of living had risen so quickly that their disposable income had almost disappeared. One Friday evening, they sat down with a laptop and a pot of tea to rethink everything. \"It would appear that we're spending more on groceries than on rent,\" Tarek said, staring at the spreadsheet. Mona nodded. \"Our fixed expenses tend to look small one by one, but together they're huge.\" They agreed to cut back. They canceled two streaming subscriptions, started cooking at home, and set a goal of building an emergency fund worth six months of expenses. Their first priority, however, was to pay off debt from a credit card with a painful interest rate. Next, they turned to their savings. Most of their money sat in an ordinary bank account, where inflation was quietly eating away at its purchasing power. A financial advisor suggested putting part of it into a low-cost index fund. \"Markets can be volatile in the short run,\" she explained, \"but over twenty years, a long-term investment is likely to outperform cash, thanks to compound interest.\" Six months later, the economy still looked uncertain, and some experts were warning of a possible recession. Yet Mona and Tarek felt calmer than ever. For the first time in their marriage, they were truly living within their means.",
+    "translation": "لسنوات طويلة، لم تكن منى وطارق يقلقان فعلاً بشأن المال. ثم ارتفع معدل التضخم إلى أعلى مستوى له منذ عشر سنوات، وفجأة لم يعد راتباهما يبدوان كافيين. فقد ارتفعت تكلفة المعيشة بسرعة كبيرة حتى كاد دخلهما المتاح للإنفاق يختفي تماماً. وفي إحدى أمسيات الجمعة، جلسا أمام الحاسوب ومعهما إبريق شاي ليعيدا التفكير في كل شيء. قال طارق وهو يحدّق في جدول البيانات: «يبدو أننا ننفق على البقالة أكثر مما ننفق على الإيجار.» فأومأت منى برأسها وقالت: «مصروفاتنا الثابتة تبدو صغيرة كلٌّ على حدة، لكنها مجتمعةً ضخمة.» فاتفقا على تقليل الإنفاق. ألغيا اشتراكين في منصات البث، وبدآ يطبخان في البيت، ووضعا هدفاً لتكوين صندوق طوارئ يكفي مصروفات ستة أشهر. لكن أولويتهما الأولى كانت سداد دين بطاقة ائتمان ذات سعر فائدة مرهق. بعد ذلك، التفتا إلى مدّخراتهما. كان معظم مالهما موضوعاً في حساب بنكي عادي، حيث كان التضخم يلتهم قوته الشرائية بهدوء. واقترحت عليهما مستشارة مالية أن يضعا جزءاً منه في صندوق مؤشرات منخفض التكلفة. وأوضحت قائلة: «قد تكون الأسواق متقلّبة على المدى القصير، لكن على مدى عشرين عاماً، من المرجّح أن يتفوّق الاستثمار طويل الأجل على الاحتفاظ بالنقود، بفضل الفائدة المركّبة.» وبعد ستة أشهر، كان الاقتصاد لا يزال يبدو غامضاً، وكان بعض الخبراء يحذّرون من ركود محتمل. ومع ذلك، شعرت منى وطارق بهدوء لم يعرفاه من قبل. فلأول مرة منذ زواجهما، كانا يعيشان حقاً في حدود إمكانياتهما."
+  },
+  "grammar": {
+    "title": "Hedging and Cautious Language",
+    "explanationAr": "عند الحديث عن الاقتصاد والمال لا نكون متأكدين من المستقبل، لذلك نستخدم لغة حذرة (hedging) بدلاً من الجزم. نستخدم It would appear that أو It seems that بمعنى «يبدو أن...»، ونستخدم tend to بمعنى «يميل إلى» للحديث عن شيء يحدث عادةً لكن ليس دائماً. ونستخدم is likely to أو is unlikely to بمعنى «من المرجّح / من غير المرجّح أن...». ويمكن أيضاً استخدام may و might و could، مثل may well بمعنى «من المحتمل جداً»، وهذه اللغة تجعل كلامك يبدو أكثر دقة واحترافية.",
+    "rule": "It would appear / It seems that + clause\nSubject + tend(s) to + base verb\nSubject + is / are (un)likely to + base verb\nmay / might / could (well) + base verb\nAdverbs: apparently, arguably, generally, presumably",
+    "examples": [
+      {
+        "en": "It would appear that disposable income is shrinking.",
+        "ar": "يبدو أن الدخل المتاح للإنفاق يتقلّص."
+      },
+      {
+        "en": "Volatile markets tend to make investors nervous.",
+        "ar": "تميل الأسواق المتقلّبة إلى إثارة قلق المستثمرين."
+      },
+      {
+        "en": "The central bank is likely to raise the interest rate again.",
+        "ar": "من المرجّح أن يرفع البنك المركزي سعر الفائدة مرة أخرى."
+      },
+      {
+        "en": "A long-term investment may well protect you from inflation.",
+        "ar": "من المحتمل جداً أن يحميك الاستثمار طويل الأجل من التضخم."
+      },
+      {
+        "en": "It seems that many families are struggling to make ends meet.",
+        "ar": "يبدو أن كثيراً من الأسر تجد صعوبة في تغطية احتياجاتها."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Meeting a Financial Advisor",
+    "settingAr": "إنت رايح لمستشارة مالية عشان تسألها تعمل إيه في فلوسك مع غلاء الأسعار.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Financial Advisor",
+        "nameAr": "المستشارة المالية"
+      },
+      {
+        "id": "B",
+        "name": "Client",
+        "nameAr": "العميل (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Welcome. So, what brings you in today?",
+        "ar": "أهلاً بيك. خير، إيه اللي جابك النهارده؟"
+      },
+      {
+        "speaker": "B",
+        "en": "With inflation this high, it would appear that our savings are losing value.",
+        "ar": "مع التضخم العالي ده، يبدو إن مدّخراتنا بتفقد قيمتها."
+      },
+      {
+        "speaker": "A",
+        "en": "You're right. Cash in a regular account tends to lose purchasing power over time.",
+        "ar": "عندك حق. الفلوس اللي في حساب عادي بتميل إنها تخسر قوتها الشرائية مع الوقت."
+      },
+      {
+        "speaker": "B",
+        "en": "So what would you recommend? We can't afford to take huge risks.",
+        "ar": "طب تنصحيني بإيه؟ إحنا مش قادرين ناخد مخاطرة كبيرة."
+      },
+      {
+        "speaker": "A",
+        "en": "First, make sure you have an emergency fund covering at least six months.",
+        "ar": "الأول، اتأكد إن عندك فلوس طوارئ تكفي ست شهور على الأقل."
+      },
+      {
+        "speaker": "B",
+        "en": "We have about three months saved. We're also trying to pay off debt.",
+        "ar": "إحنا محوّشين حوالي تلات شهور. وبنحاول كمان نسدّد الديون."
+      },
+      {
+        "speaker": "A",
+        "en": "Good. After that, a low-cost index fund is likely to suit your goals.",
+        "ar": "كويس. بعد كده، صندوق مؤشرات قليل التكلفة غالباً هيناسب أهدافكم."
+      },
+      {
+        "speaker": "B",
+        "en": "Isn't the stock market too volatile right now, though?",
+        "ar": "بس البورصة مش متقلّبة أوي اليومين دول؟"
+      },
+      {
+        "speaker": "A",
+        "en": "It can be in the short term, but long-term investors tend to benefit.",
+        "ar": "ممكن على المدى القصير، بس اللي بيستثمروا لمدة طويلة غالباً بيكسبوا."
+      },
+      {
+        "speaker": "B",
+        "en": "That makes sense. I think we're likely to start with a small monthly amount.",
+        "ar": "كلامك منطقي. أعتقد إننا غالباً هنبدأ بمبلغ صغير كل شهر."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Which sentence sounds the most cautious?",
+      "options": [
+        "Prices will definitely rise next year.",
+        "Prices must rise next year.",
+        "Prices are likely to rise next year.",
+        "Prices rise next year, no doubt."
+      ],
+      "answer": "Prices are likely to rise next year."
+    },
+    {
+      "type": "fill",
+      "sentence": "After rent and bills, we don't have much ___ income left for fun.",
+      "answer": "disposable",
+      "hint": "المتاح للإنفاق"
+    },
+    {
+      "type": "order",
+      "words": [
+        "rise",
+        "Interest",
+        "likely",
+        "again.",
+        "are",
+        "rates",
+        "to"
+      ],
+      "answer": "Interest rates are likely to rise again."
+    },
+    {
+      "type": "mcq",
+      "question": "If your income barely covers your basic needs, you struggle to ___.",
+      "options": [
+        "make ends meet",
+        "break the bank",
+        "cut corners",
+        "diversify a portfolio"
+      ],
+      "answer": "make ends meet"
+    },
+    {
+      "type": "fill",
+      "sentence": "Investors ___ to panic when the market falls suddenly.",
+      "answer": "tend",
+      "hint": "يميلون (إلى)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "inflation",
+        "would",
+        "slowing",
+        "It",
+        "that",
+        "down.",
+        "appear",
+        "is"
+      ],
+      "answer": "It would appear that inflation is slowing down."
+    },
+    {
+      "type": "mcq",
+      "question": "The percentage a bank charges you for borrowing money is the ___.",
+      "options": [
+        "inflation rate",
+        "return on investment",
+        "purchasing power",
+        "interest rate"
+      ],
+      "answer": "interest rate"
+    },
+    {
+      "type": "listen",
+      "audioText": "Consumer spending tends to fall during an economic downturn.",
+      "answer": "Consumer spending tends to fall during an economic downturn."
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "slug": "social-media",
+  "title": "Social Media",
+  "titleAr": "السوشيال ميديا",
+  "emoji": "📲",
+  "level": "B1",
+  "description": "Talk about posts, privacy, online friends, and screen time.",
+  "descriptionAr": "تحدّث عن المنشورات والخصوصية والأصدقاء على الإنترنت ووقت استخدام الشاشة.",
+  "words": [
+    {
+      "en": "post",
+      "ar": "منشور / بوست",
+      "phonetic": "/poʊst/",
+      "example": "Her last post got hundreds of likes."
+    },
+    {
+      "en": "share",
+      "ar": "يشارك (منشوراً)",
+      "phonetic": "/ʃɛr/",
+      "example": "Please don't share this photo with anyone."
+    },
+    {
+      "en": "comment",
+      "ar": "تعليق",
+      "phonetic": "/ˈkɑmɛnt/",
+      "example": "I left a nice comment on his video."
+    },
+    {
+      "en": "follower",
+      "ar": "متابِع",
+      "phonetic": "/ˈfɑloʊər/",
+      "example": "She has more than ten thousand followers."
+    },
+    {
+      "en": "go viral",
+      "ar": "ينتشر بسرعة كبيرة على الإنترنت",
+      "phonetic": "/ɡoʊ ˈvaɪrəl/",
+      "example": "Nobody expected the video to go viral."
+    },
+    {
+      "en": "privacy settings",
+      "ar": "إعدادات الخصوصية",
+      "phonetic": "/ˈpraɪvəsi ˈsɛtɪŋz/",
+      "example": "Check your privacy settings before you post photos."
+    },
+    {
+      "en": "profile",
+      "ar": "الملف الشخصي / البروفايل",
+      "phonetic": "/ˈproʊfaɪl/",
+      "example": "I changed my profile picture yesterday."
+    },
+    {
+      "en": "hashtag",
+      "ar": "هاشتاج / وسم",
+      "phonetic": "/ˈhæʃtæɡ/",
+      "example": "Use the hashtag so more people can find your post."
+    },
+    {
+      "en": "screen time",
+      "ar": "وقت استخدام الشاشة",
+      "phonetic": "/ˈskrin taɪm/",
+      "example": "My screen time was six hours yesterday."
+    },
+    {
+      "en": "notification",
+      "ar": "إشعار / تنبيه",
+      "phonetic": "/ˌnoʊtəfəˈkeɪʃən/",
+      "example": "I turned off every notification while I study."
+    },
+    {
+      "en": "upload",
+      "ar": "يرفع (ملفاً أو صورة)",
+      "phonetic": "/ˈʌpˌloʊd/",
+      "example": "It takes a minute to upload a long video."
+    },
+    {
+      "en": "block",
+      "ar": "يحظر / يعمل بلوك",
+      "phonetic": "/blɑk/",
+      "example": "You can block anyone who sends you rude messages."
+    },
+    {
+      "en": "unfollow",
+      "ar": "يلغي المتابعة",
+      "phonetic": "/ʌnˈfɑloʊ/",
+      "example": "I decided to unfollow accounts that make me feel bad."
+    },
+    {
+      "en": "fake news",
+      "ar": "أخبار كاذبة / مزيفة",
+      "phonetic": "/ˌfeɪk ˈnuz/",
+      "example": "Always check the source because fake news spreads fast."
+    },
+    {
+      "en": "account",
+      "ar": "حساب",
+      "phonetic": "/əˈkaʊnt/",
+      "example": "I made my account private last week."
+    },
+    {
+      "en": "tag",
+      "ar": "يعمل تاج / يُشير إلى شخص في منشور",
+      "phonetic": "/tæɡ/",
+      "example": "Don't tag me in that photo, please."
+    },
+    {
+      "en": "influencer",
+      "ar": "مؤثّر / إنفلونسر",
+      "phonetic": "/ˈɪnfluənsər/",
+      "example": "The influencer posted an ad for a new phone."
+    },
+    {
+      "en": "direct message",
+      "ar": "رسالة خاصة",
+      "phonetic": "/dəˈrɛkt ˈmɛsɪdʒ/",
+      "example": "Send me a direct message with the details."
+    },
+    {
+      "en": "scroll",
+      "ar": "يمرّر الشاشة (يقلّب)",
+      "phonetic": "/skroʊl/",
+      "example": "I often scroll through my feed before bed."
+    },
+    {
+      "en": "online friend",
+      "ar": "صديق على الإنترنت",
+      "phonetic": "/ˈɑnˌlaɪn frɛnd/",
+      "example": "I have never met my online friend in real life."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "She said that her post had a thousand likes.",
+      "ar": "قالت إن منشورها حصل على ألف إعجاب."
+    },
+    {
+      "en": "My mom told me to change my privacy settings.",
+      "ar": "أمي طلبت مني أن أغيّر إعدادات الخصوصية."
+    },
+    {
+      "en": "He said he didn't want to share his photos online.",
+      "ar": "قال إنه لا يريد أن يشارك صوره على الإنترنت."
+    },
+    {
+      "en": "My friend told me not to read the comments.",
+      "ar": "صديقي قال لي ألا أقرأ التعليقات."
+    },
+    {
+      "en": "She asked me if I had seen her new video.",
+      "ar": "سألتني إن كنت قد شاهدت الفيديو الجديد الخاص بها."
+    },
+    {
+      "en": "He told me that he was going to delete his account.",
+      "ar": "قال لي إنه سيحذف حسابه."
+    },
+    {
+      "en": "Can you tag me in that photo?",
+      "ar": "هل يمكنك أن تعمل لي تاج في تلك الصورة؟"
+    },
+    {
+      "en": "I try to limit my screen time to two hours a day.",
+      "ar": "أحاول أن أقلّل وقت استخدام الشاشة إلى ساعتين في اليوم."
+    },
+    {
+      "en": "Don't believe everything you see online; it might be fake news.",
+      "ar": "لا تصدّق كل ما تراه على الإنترنت؛ قد تكون أخباراً كاذبة."
+    },
+    {
+      "en": "I turned off my notifications so I can focus on studying.",
+      "ar": "أوقفت الإشعارات حتى أستطيع التركيز في المذاكرة."
+    }
+  ],
+  "story": {
+    "title": "The Viral Video",
+    "text": "Nour is sixteen, and she loves making short videos. One evening, she uploaded a funny video of her grandmother dancing at a wedding. She added a hashtag and went to bed. In the morning, her phone was full of notifications. The video had gone viral! It had two million views and thousands of comments. Her best friend Mona called and said that Nour was famous now. Mona told her to post another video quickly. But her parents were not happy. Her father said that the whole world could see their family. Her mother told her to check her privacy settings and to delete the comments from strangers. Some online friends even sent her direct messages asking for her address. Nour felt confused. Then her grandmother smiled and said, \"I look great in that video. Keep it, but be careful.\" Nour made her account private and decided to limit her screen time. She learned that going viral is exciting, but it can also be scary.",
+    "translation": "نور عمرها ستة عشر عاماً، وتحب صناعة الفيديوهات القصيرة. في إحدى الأمسيات، رفعت فيديو مضحكاً لجدتها وهي ترقص في حفل زفاف. أضافت هاشتاج وذهبت إلى النوم. في الصباح، كان هاتفها ممتلئاً بالإشعارات. لقد انتشر الفيديو بسرعة كبيرة! كان عليه مليونا مشاهدة وآلاف التعليقات. اتصلت بها صديقتها المقربة منى وقالت إن نور أصبحت مشهورة الآن. وطلبت منها منى أن تنشر فيديو آخر بسرعة. لكن والديها لم يكونا سعيدين. قال والدها إن العالم كله يستطيع أن يرى عائلتهم. وطلبت منها والدتها أن تراجع إعدادات الخصوصية وأن تحذف تعليقات الغرباء. حتى إن بعض الأصدقاء على الإنترنت أرسلوا لها رسائل خاصة يسألون عن عنوانها. شعرت نور بالحيرة. ثم ابتسمت جدتها وقالت: «أبدو رائعة في هذا الفيديو. احتفظي به، لكن كوني حذرة.» جعلت نور حسابها خاصاً وقررت أن تقلّل وقت استخدام الشاشة. تعلّمت أن الانتشار الواسع على الإنترنت شيء مثير، لكنه قد يكون مخيفاً أيضاً."
+  },
+  "grammar": {
+    "title": "Reported Speech: said that / told me to",
+    "explanationAr": "نستخدم الكلام المنقول Reported speech عندما ننقل كلام شخص آخر. مع الجمل العادية نستخدم said (that) ونرجع الفعل خطوة إلى الماضي، فجملة \"I am tired\" تصبح She said that she was tired. ومع الأوامر والطلبات نستخدم told + شخص + to + فعل مثل He told me to delete the post، وفي النفي نقول told me not to + فعل. لاحظ أن told يأتي بعده دائماً شخص (told me)، أما said فلا يأتي بعده شخص مباشرة. وتتغير الضمائر أيضاً، فكلمة my قد تصبح her أو his حسب الشخص.",
+    "rule": "said (that) + subject + past verb\nShe said that she was tired.\ntold + person + to + verb\nHe told me to change my password.\ntold + person + not to + verb\nam / is → was, have → had, will → would, can → could",
+    "examples": [
+      {
+        "en": "She said that she loved my new profile picture.",
+        "ar": "قالت إنها أحبّت صورة البروفايل الجديدة الخاصة بي."
+      },
+      {
+        "en": "My dad told me to turn off my notifications at night.",
+        "ar": "أبي طلب مني أن أوقف الإشعارات بالليل."
+      },
+      {
+        "en": "He said that he couldn't find my account.",
+        "ar": "قال إنه لم يستطع أن يجد حسابي."
+      },
+      {
+        "en": "Our teacher told us not to believe fake news.",
+        "ar": "معلّمنا قال لنا ألا نصدّق الأخبار الكاذبة."
+      },
+      {
+        "en": "She said she would share the video later.",
+        "ar": "قالت إنها ستشارك الفيديو لاحقاً."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Your Post Went Viral",
+    "settingAr": "صورة نزّلتها انتشرت جامد على النت، وصاحبك بيكلمك عشان يعرف أهلك قالوا إيه.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Friend",
+        "nameAr": "الصاحب"
+      },
+      {
+        "id": "B",
+        "name": "Student",
+        "nameAr": "الطالب (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Hey, did you see your photo? It went viral last night!",
+        "ar": "إيه ده، شفت صورتك؟ انتشرت جامد امبارح بالليل!"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, I got hundreds of notifications this morning.",
+        "ar": "أيوه، جالي مئات الإشعارات الصبح."
+      },
+      {
+        "speaker": "A",
+        "en": "What did your parents say about it?",
+        "ar": "أهلك قالوا إيه عليها؟"
+      },
+      {
+        "speaker": "B",
+        "en": "My dad said that he wasn't happy about it.",
+        "ar": "بابا قال إنه مش مبسوط من الموضوع ده."
+      },
+      {
+        "speaker": "A",
+        "en": "Why? It's just a funny photo.",
+        "ar": "ليه؟ دي مجرد صورة تضحّك."
+      },
+      {
+        "speaker": "B",
+        "en": "He told me to change my privacy settings right away.",
+        "ar": "قالي أغيّر إعدادات الخصوصية حالاً."
+      },
+      {
+        "speaker": "A",
+        "en": "That's a good idea. Some comments were really rude.",
+        "ar": "فكرة كويسة. فيه تعليقات كانت قليلة الأدب جداً."
+      },
+      {
+        "speaker": "B",
+        "en": "I know. My mom told me not to read them.",
+        "ar": "عارف. ماما قالتلي ماقراهاش."
+      },
+      {
+        "speaker": "A",
+        "en": "Are you going to delete the post?",
+        "ar": "هتمسح البوست؟"
+      },
+      {
+        "speaker": "B",
+        "en": "No, but I'm going to block a few strangers.",
+        "ar": "لأ، بس هعمل بلوك لكام واحد غريب."
+      },
+      {
+        "speaker": "A",
+        "en": "Smart. And maybe take a break from your phone.",
+        "ar": "حلو. ويمكن تاخد بريك من الموبايل كمان."
+      },
+      {
+        "speaker": "B",
+        "en": "You're right. I'll limit my screen time this week.",
+        "ar": "عندك حق. هقلّل وقت الشاشة الأسبوع ده."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "My mom ___ me to turn off my phone.",
+      "options": [
+        "said",
+        "talked",
+        "told",
+        "spoke"
+      ],
+      "answer": "told"
+    },
+    {
+      "type": "fill",
+      "sentence": "I changed my privacy ___ so strangers can't see my photos.",
+      "answer": "settings",
+      "hint": "إعدادات"
+    },
+    {
+      "type": "order",
+      "words": [
+        "delete",
+        "told",
+        "the",
+        "She",
+        "post.",
+        "me",
+        "to"
+      ],
+      "answer": "She told me to delete the post."
+    },
+    {
+      "type": "mcq",
+      "question": "When a video spreads very fast online, we say it ___.",
+      "options": [
+        "goes viral",
+        "gets blocked",
+        "logs out",
+        "goes offline"
+      ],
+      "answer": "goes viral"
+    },
+    {
+      "type": "fill",
+      "sentence": "\"I am tired of social media.\" → He said that he ___ tired of social media.",
+      "answer": "was",
+      "hint": "كان"
+    },
+    {
+      "type": "order",
+      "words": [
+        "followers.",
+        "He",
+        "wanted",
+        "that",
+        "more",
+        "said",
+        "he"
+      ],
+      "answer": "He said that he wanted more followers."
+    },
+    {
+      "type": "mcq",
+      "question": "\"Don't share your password.\" → My friend told me ___ my password.",
+      "options": [
+        "don't share",
+        "not to share",
+        "not share",
+        "to not sharing"
+      ],
+      "answer": "not to share"
+    },
+    {
+      "type": "listen",
+      "audioText": "Please tag me in the photos from the party.",
+      "answer": "Please tag me in the photos from the party."
+    }
+  ]
+}

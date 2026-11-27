@@ -1,0 +1,354 @@
+{
+  "slug": "leadership",
+  "title": "Leadership & Management",
+  "titleAr": "القيادة والإدارة",
+  "emoji": "🧭",
+  "level": "C1",
+  "description": "Lead a team, delegate, give feedback, and manage change.",
+  "descriptionAr": "قُد فريقاً، وفوّض المهام، وقدّم الملاحظات، وأدِر التغيير.",
+  "words": [
+    {
+      "en": "delegate responsibility",
+      "ar": "يفوّض المسؤولية / يوزّع المهام",
+      "phonetic": "/ˈdɛləˌɡeɪt rɪˌspɑnsəˈbɪləti/",
+      "example": "A good manager knows when to delegate responsibility and when to step in."
+    },
+    {
+      "en": "constructive feedback",
+      "ar": "ملاحظات بنّاءة / نقد بنّاء",
+      "phonetic": "/kənˈstrʌktɪv ˈfidˌbæk/",
+      "example": "She gives constructive feedback without making people feel attacked."
+    },
+    {
+      "en": "take ownership",
+      "ar": "يتحمّل المسؤولية الكاملة / يتبنّى (المهمة)",
+      "phonetic": "/teɪk ˈoʊnərˌʃɪp/",
+      "example": "I want every team member to take ownership of their part of the project."
+    },
+    {
+      "en": "accountability",
+      "ar": "المساءلة / تحمّل نتيجة القرارات",
+      "phonetic": "/əˌkaʊntəˈbɪləti/",
+      "example": "Without accountability, deadlines quickly become meaningless."
+    },
+    {
+      "en": "empower",
+      "ar": "يمكّن / يمنح الصلاحية والثقة",
+      "phonetic": "/ɪmˈpaʊər/",
+      "example": "Great leaders empower their staff to make decisions on their own."
+    },
+    {
+      "en": "morale",
+      "ar": "الروح المعنوية",
+      "phonetic": "/məˈræl/",
+      "example": "Team morale dropped sharply after the layoffs were announced."
+    },
+    {
+      "en": "mediate",
+      "ar": "يتوسّط (لحل خلاف)",
+      "phonetic": "/ˈmidiˌeɪt/",
+      "example": "The director had to mediate between the two departments."
+    },
+    {
+      "en": "stakeholder",
+      "ar": "صاحب مصلحة / طرف معنيّ",
+      "phonetic": "/ˈsteɪkˌhoʊldər/",
+      "example": "We need to keep every stakeholder informed about the delay."
+    },
+    {
+      "en": "lead by example",
+      "ar": "يكون قدوة / يقود بالقدوة",
+      "phonetic": "/lid baɪ ɪɡˈzæmpəl/",
+      "example": "If you want punctual employees, you have to lead by example."
+    },
+    {
+      "en": "micromanage",
+      "ar": "يتدخّل في أدق التفاصيل / يدير بتحكّم مفرط",
+      "phonetic": "/ˌmaɪkroʊˈmænɪdʒ/",
+      "example": "Experienced engineers hate it when their boss tries to micromanage them."
+    },
+    {
+      "en": "buy-in",
+      "ar": "تأييد وقبول (من الفريق) / اقتناع",
+      "phonetic": "/ˈbaɪˌɪn/",
+      "example": "The plan will fail unless we get buy-in from senior staff."
+    },
+    {
+      "en": "change management",
+      "ar": "إدارة التغيير",
+      "phonetic": "/ˈtʃeɪndʒ ˈmænɪdʒmənt/",
+      "example": "Effective change management starts with clear communication."
+    },
+    {
+      "en": "set clear expectations",
+      "ar": "يحدّد توقعات واضحة",
+      "phonetic": "/sɛt klɪr ˌɛkspɛkˈteɪʃənz/",
+      "example": "On day one, it's important to set clear expectations with new hires."
+    },
+    {
+      "en": "defuse tension",
+      "ar": "يخفّف التوتر / ينزع فتيل التوتر",
+      "phonetic": "/diˈfjuz ˈtɛnʃən/",
+      "example": "He told a quick joke to defuse tension in the room."
+    },
+    {
+      "en": "track record",
+      "ar": "سجلّ الإنجازات / تاريخ الأداء",
+      "phonetic": "/ˈtræk ˌrɛkərd/",
+      "example": "She was promoted because of her excellent track record."
+    },
+    {
+      "en": "decisive",
+      "ar": "حاسم / قادر على اتخاذ القرار بسرعة",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "example": "In a crisis, people expect their leader to be decisive."
+    },
+    {
+      "en": "foster collaboration",
+      "ar": "يعزّز التعاون",
+      "phonetic": "/ˈfɑstər kəˌlæbəˈreɪʃən/",
+      "example": "Open-plan offices are supposed to foster collaboration between teams."
+    },
+    {
+      "en": "chain of command",
+      "ar": "التسلسل الإداري / تسلسل القيادة",
+      "phonetic": "/ˈtʃeɪn əv kəˈmænd/",
+      "example": "Please follow the chain of command and talk to your supervisor first."
+    },
+    {
+      "en": "step up",
+      "ar": "يتقدّم لتحمّل المسؤولية / يرتقي لمستوى التحدّي",
+      "phonetic": "/stɛp ˈʌp/",
+      "example": "When our manager left, Karim had to step up and lead the team."
+    },
+    {
+      "en": "common ground",
+      "ar": "أرضية مشتركة / نقاط اتفاق",
+      "phonetic": "/ˈkɑmən ˈɡraʊnd/",
+      "example": "After a long discussion, the two sides finally found common ground."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Not only did you meet the deadline, but you also exceeded our expectations.",
+      "ar": "لم تلتزم بالموعد النهائي فحسب، بل تجاوزت توقعاتنا أيضاً."
+    },
+    {
+      "en": "Under no circumstances should we share this information before the announcement.",
+      "ar": "لا ينبغي بأي حال من الأحوال أن نشارك هذه المعلومات قبل الإعلان."
+    },
+    {
+      "en": "Rarely have I seen a team handle pressure so well.",
+      "ar": "نادراً ما رأيت فريقاً يتعامل مع الضغط بهذه البراعة."
+    },
+    {
+      "en": "Never before have we faced such a major change in the company.",
+      "ar": "لم نواجه من قبل تغييراً بهذا الحجم في الشركة."
+    },
+    {
+      "en": "Only by working together can we hit this target.",
+      "ar": "لن نحقق هذا الهدف إلا بالعمل معاً."
+    },
+    {
+      "en": "I'd like to delegate this task to you because you have the right experience.",
+      "ar": "أودّ أن أفوّض إليك هذه المهمة لأن لديك الخبرة المناسبة."
+    },
+    {
+      "en": "Can I give you some constructive feedback on your presentation?",
+      "ar": "هل يمكنني أن أقدّم لك بعض الملاحظات البنّاءة على عرضك التقديمي؟"
+    },
+    {
+      "en": "Let's try to find some common ground before we make a decision.",
+      "ar": "لنحاول إيجاد أرضية مشتركة قبل أن نتخذ قراراً."
+    },
+    {
+      "en": "I need you to take ownership of this project from now on.",
+      "ar": "أحتاج منك أن تتحمّل مسؤولية هذا المشروع بالكامل من الآن فصاعداً."
+    },
+    {
+      "en": "What can I do to make you feel more empowered in your role?",
+      "ar": "ماذا يمكنني أن أفعل لتشعر بمزيد من الصلاحية والثقة في دورك؟"
+    }
+  ],
+  "story": {
+    "title": "The New Team Lead",
+    "text": "When Layla was promoted to team lead, she knew the hardest part of the job would not be technical. Within a week, two senior engineers, Omar and Daniel, were openly clashing over the design of a new payment system. Their arguments in meetings were hurting team morale, and the deadline was approaching fast. Layla's first instinct was to micromanage the project and make every decision herself. Instead, she decided to mediate. She invited both engineers to a private meeting and set clear expectations: \"You can disagree, but you have to disagree respectfully.\" Then she asked each of them to explain the other's point of view. Rarely had either of them listened so carefully. Slowly, they found common ground. Omar cared about speed; Daniel cared about security. Not only were their goals compatible, but they actually needed each other. Layla chose to delegate responsibility for the backend to Omar and the security review to Daniel, so that each could take ownership of his part. She also promised to lead by example. When she made a mistake in the sprint plan, she admitted it in front of everyone. \"Under no circumstances,\" she told the team, \"should anyone be afraid to say they were wrong.\" Two months later, the system launched on time. At the final review, Omar gave Daniel some constructive feedback, and Daniel thanked him for it. Never had Layla felt so proud of a team.",
+    "translation": "عندما رُقّيت ليلى إلى منصب قائدة فريق، كانت تعلم أن أصعب جزء في الوظيفة لن يكون الجانب التقني. ففي غضون أسبوع، كان اثنان من كبار المهندسين، عمر ودانيال، يتصادمان علناً حول تصميم نظام دفع جديد. كانت خلافاتهما في الاجتماعات تضرّ بالروح المعنوية للفريق، وكان الموعد النهائي يقترب بسرعة. كان أول ما خطر لليلى أن تتحكم في كل تفاصيل المشروع وتتخذ كل القرارات بنفسها. لكنها قررت بدلاً من ذلك أن تتوسّط. دعت المهندسَين إلى اجتماع خاص وحدّدت توقعات واضحة: «يمكنكما أن تختلفا، لكن يجب أن تختلفا باحترام.» ثم طلبت من كلٍّ منهما أن يشرح وجهة نظر الآخر. ونادراً ما كان أيٌّ منهما قد أصغى بهذا القدر من الانتباه. وببطء، وجدا أرضية مشتركة. كان عمر يهتم بالسرعة، ودانيال يهتم بالأمان. ولم تكن أهدافهما متوافقة فحسب، بل كان كلٌّ منهما يحتاج إلى الآخر فعلاً. فقررت ليلى أن تفوّض مسؤولية الجزء الخلفي من النظام إلى عمر ومراجعة الأمان إلى دانيال، حتى يتحمّل كلٌّ منهما مسؤولية جزئه بالكامل. ووعدت أيضاً بأن تكون قدوة. فعندما ارتكبت خطأً في خطة العمل، اعترفت به أمام الجميع. وقالت للفريق: «لا ينبغي بأي حال من الأحوال أن يخاف أحد من الاعتراف بأنه أخطأ.» وبعد شهرين، أُطلق النظام في موعده. وفي المراجعة النهائية، قدّم عمر لدانيال بعض الملاحظات البنّاءة، فشكره دانيال عليها. ولم تشعر ليلى قطّ بفخر كهذا بفريق."
+  },
+  "grammar": {
+    "title": "Inversion for Emphasis",
+    "explanationAr": "في الإنجليزية الرسمية نبدأ الجملة أحياناً بكلمة نفي أو تقييد مثل Never و Rarely و Not only و Under no circumstances و Only by لكي نؤكّد المعنى. وعندها نعكس ترتيب الجملة كأنها سؤال: الفعل المساعد أولاً ثم الفاعل، فنقول Rarely have I seen بدلاً من I have rarely seen. وإذا لم يكن في الجملة فعل مساعد نستخدم do أو does أو did، مثل Not only did she delegate responsibility. هذا الأسلوب شائع جداً في الخطابات والاجتماعات والتقارير الرسمية ويجعل كلامك يبدو أقوى وأكثر احترافية.",
+    "rule": "Negative / limiting expression + auxiliary + subject + main verb\nNot only + auxiliary + subject + verb ..., but (also) ...\nRarely / Seldom / Never (before) + have / had / do + subject + verb\nUnder no circumstances + should / will / can + subject + verb\nOnly by + -ing + auxiliary + subject + verb\nNo auxiliary? Use do / does / did: Not only did she ...",
+    "examples": [
+      {
+        "en": "Not only did she delegate responsibility, but she also trusted her team completely.",
+        "ar": "لم تفوّض المسؤولية فحسب، بل وثقت بفريقها ثقة كاملة أيضاً."
+      },
+      {
+        "en": "Rarely have I seen team morale this high.",
+        "ar": "نادراً ما رأيت الروح المعنوية للفريق بهذا الارتفاع."
+      },
+      {
+        "en": "Under no circumstances should a manager micromanage experienced engineers.",
+        "ar": "لا ينبغي بأي حال من الأحوال أن يتدخّل المدير في أدق تفاصيل عمل مهندسين ذوي خبرة."
+      },
+      {
+        "en": "Only by setting clear expectations can we avoid confusion.",
+        "ar": "لن نتجنّب الارتباك إلا بتحديد توقعات واضحة."
+      },
+      {
+        "en": "Never had the team felt so empowered.",
+        "ar": "لم يشعر الفريق قطّ بهذا القدر من التمكين والثقة."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Settling a Team Conflict",
+    "settingAr": "إنت قائد فريق جديد، وبتقعد مع مهندس كبير عشان تحلّوا خلاف بينه وبين زميله.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Senior Engineer",
+        "nameAr": "المهندس الكبير"
+      },
+      {
+        "id": "B",
+        "name": "Team Lead",
+        "nameAr": "قائد الفريق (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Thanks for coming, Omar. I wanted to talk about yesterday's meeting.",
+        "ar": "شكراً إنك جيت يا عمر. كنت عايز أتكلم معاك عن اجتماع امبارح."
+      },
+      {
+        "speaker": "A",
+        "en": "Honestly, I'm frustrated. Daniel keeps rejecting every idea I put forward.",
+        "ar": "بصراحة أنا متضايق. دانيال كل ما أقترح فكرة يرفضها."
+      },
+      {
+        "speaker": "B",
+        "en": "I understand. But rarely have I seen two people so passionate about one project.",
+        "ar": "فاهمك. بس نادراً لما شفت اتنين متحمسين أوي كده لنفس المشروع."
+      },
+      {
+        "speaker": "A",
+        "en": "Passion is fine, but his security reviews are slowing everything down.",
+        "ar": "الحماس حلو، بس مراجعات الأمان بتاعته معطّلة كل حاجة."
+      },
+      {
+        "speaker": "B",
+        "en": "Not only does security matter, but it's also something our clients insist on.",
+        "ar": "الأمان مش مهم وبس، ده كمان حاجة العملاء بتوعنا مصمّمين عليها."
+      },
+      {
+        "speaker": "A",
+        "en": "Fair enough. So what are you suggesting we do?",
+        "ar": "ماشي، عندك حق. طب إنت بتقترح نعمل إيه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I'd like you to take ownership of the backend, and Daniel will lead the security review.",
+        "ar": "عايزك تمسك الـ backend بالكامل، ودانيال هيمسك مراجعة الأمان."
+      },
+      {
+        "speaker": "A",
+        "en": "That could work, as long as he doesn't micromanage my code.",
+        "ar": "ممكن تنفع، بشرط إنه ميدخلش في كل تفصيلة في الكود بتاعي."
+      },
+      {
+        "speaker": "B",
+        "en": "Under no circumstances will I let anyone micromanage you. I'll set clear expectations for both of you.",
+        "ar": "مستحيل أسمح لحد يتحكم في شغلك كده. هحدد لكم إنتو الاتنين توقعات واضحة."
+      },
+      {
+        "speaker": "A",
+        "en": "Okay. I'm willing to give it a try and find some common ground.",
+        "ar": "تمام. أنا مستعد أجرّب ونلاقي أرضية مشتركة."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Rarely ___ such a motivated team.",
+      "options": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "seen I have"
+      ],
+      "answer": "have I seen"
+    },
+    {
+      "type": "fill",
+      "sentence": "A good manager knows when to ___ responsibility to the right people.",
+      "answer": "delegate",
+      "hint": "يفوّض"
+    },
+    {
+      "type": "order",
+      "words": [
+        "should",
+        "report.",
+        "Under",
+        "share",
+        "circumstances",
+        "you",
+        "no",
+        "this"
+      ],
+      "answer": "Under no circumstances should you share this report."
+    },
+    {
+      "type": "mcq",
+      "question": "Which word describes the overall confidence and enthusiasm of a team?",
+      "options": [
+        "accountability",
+        "stakeholder",
+        "morale",
+        "track record"
+      ],
+      "answer": "morale"
+    },
+    {
+      "type": "fill",
+      "sentence": "Not only ___ she meet the deadline, but she also stayed under budget.",
+      "answer": "did",
+      "hint": "فعل مساعد للماضي (لم ... فحسب)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "can",
+        "common",
+        "Only",
+        "find",
+        "listening",
+        "ground.",
+        "by",
+        "we"
+      ],
+      "answer": "Only by listening can we find common ground."
+    },
+    {
+      "type": "mcq",
+      "question": "A boss who controls every small detail of an employee's work tends to ___.",
+      "options": [
+        "empower",
+        "delegate",
+        "step up",
+        "micromanage"
+      ],
+      "answer": "micromanage"
+    },
+    {
+      "type": "listen",
+      "audioText": "Rarely have I worked with such a decisive leader.",
+      "answer": "Rarely have I worked with such a decisive leader."
+    }
+  ]
+}

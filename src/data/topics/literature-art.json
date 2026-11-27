@@ -1,0 +1,352 @@
+{
+  "slug": "literature-art",
+  "title": "Literature & Art",
+  "titleAr": "الأدب والفن",
+  "emoji": "🎭",
+  "level": "C2",
+  "description": "Discuss novels, films, paintings, and critical opinions with nuance.",
+  "descriptionAr": "ناقش الروايات والأفلام واللوحات والآراء النقدية بدقة وعمق.",
+  "words": [
+    {
+      "en": "thought-provoking",
+      "ar": "مثير للتفكير / يدعو للتأمل",
+      "phonetic": "/ˈθɔt prəˌvoʊkɪŋ/",
+      "example": "It's a thought-provoking film about memory and loss."
+    },
+    {
+      "en": "evocative",
+      "ar": "مُوحٍ / يستحضر المشاعر والذكريات",
+      "phonetic": "/ɪˈvɑkətɪv/",
+      "example": "Her evocative descriptions of old Alexandria are unforgettable."
+    },
+    {
+      "en": "derivative",
+      "ar": "مُقلِّد / يفتقر إلى الأصالة",
+      "phonetic": "/dɪˈrɪvətɪv/",
+      "example": "Critics dismissed his second album as derivative."
+    },
+    {
+      "en": "a tour de force",
+      "ar": "عمل بارع استثنائي / إنجاز فني باهر",
+      "phonetic": "/ə ˌtʊr də ˈfɔrs/",
+      "example": "Her performance as the grieving mother is a tour de force."
+    },
+    {
+      "en": "understated",
+      "ar": "هادئ ومتحفِّظ / غير مبالَغ فيه",
+      "phonetic": "/ˌʌndərˈsteɪtɪd/",
+      "example": "The director's understated style lets the actors shine."
+    },
+    {
+      "en": "contrived",
+      "ar": "مُفتعَل / مصطنع",
+      "phonetic": "/kənˈtraɪvd/",
+      "example": "The happy ending felt contrived and rushed."
+    },
+    {
+      "en": "poignant",
+      "ar": "مؤثِّر بعمق / يثير الشجن",
+      "phonetic": "/ˈpɔɪnjənt/",
+      "example": "The final letter is a poignant reminder of what war takes from us."
+    },
+    {
+      "en": "allegory",
+      "ar": "قصة رمزية / مجاز رمزي",
+      "phonetic": "/ˈæləˌɡɔri/",
+      "example": "The novel can be read as an allegory of political power."
+    },
+    {
+      "en": "narrative arc",
+      "ar": "مسار السرد / تطوّر الحبكة",
+      "phonetic": "/ˈnærətɪv ɑrk/",
+      "example": "The narrative arc loses momentum in the second half."
+    },
+    {
+      "en": "unreliable narrator",
+      "ar": "راوٍ غير موثوق",
+      "phonetic": "/ˌʌnrɪˈlaɪəbəl ˈnærˌeɪtər/",
+      "example": "The book's unreliable narrator keeps readers guessing until the end."
+    },
+    {
+      "en": "pretentious",
+      "ar": "متكلِّف / مدَّعٍ للعمق",
+      "phonetic": "/prɪˈtɛnʃəs/",
+      "example": "Some viewers found the long silent scenes pretentious."
+    },
+    {
+      "en": "masterpiece",
+      "ar": "تحفة فنية",
+      "phonetic": "/ˈmæstərˌpis/",
+      "example": "Many consider this painting his masterpiece."
+    },
+    {
+      "en": "critically acclaimed",
+      "ar": "مُشاد به من النقاد",
+      "phonetic": "/ˈkrɪtɪkli əˈkleɪmd/",
+      "example": "The series was critically acclaimed but rarely watched."
+    },
+    {
+      "en": "subtext",
+      "ar": "المعنى الضمني / ما بين السطور",
+      "phonetic": "/ˈsʌbˌtɛkst/",
+      "example": "The subtext of the conversation is far more interesting than the words."
+    },
+    {
+      "en": "resonate with",
+      "ar": "يلامس / يجد صدى لدى",
+      "phonetic": "/ˈrɛzəˌneɪt wɪð/",
+      "example": "Her poems resonate with anyone who has left home."
+    },
+    {
+      "en": "heavy-handed",
+      "ar": "فجّ / يفتقر إلى الدقة واللباقة",
+      "phonetic": "/ˌhɛviˈhændɪd/",
+      "example": "The film's message is important, but its symbolism is heavy-handed."
+    },
+    {
+      "en": "self-indulgent",
+      "ar": "منغمس في ذاته / يُرضي صاحبه أكثر من جمهوره",
+      "phonetic": "/ˌsɛlf ɪnˈdʌldʒənt/",
+      "example": "The three-hour director's cut is beautiful but self-indulgent."
+    },
+    {
+      "en": "polarizing",
+      "ar": "مثير للانقسام / يقسم الآراء",
+      "phonetic": "/ˈpoʊləˌraɪzɪŋ/",
+      "example": "The exhibition proved to be deeply polarizing."
+    },
+    {
+      "en": "a page-turner",
+      "ar": "كتاب مشوِّق لا يُترك",
+      "phonetic": "/ə ˈpeɪdʒ ˌtərnər/",
+      "example": "It's not great literature, but it's a page-turner."
+    },
+    {
+      "en": "aesthetic",
+      "ar": "جمالي / ذائقة فنية",
+      "phonetic": "/ɛsˈθɛtɪk/",
+      "example": "The gallery has a minimalist aesthetic."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I found the ending strikingly poignant.",
+      "ar": "وجدت النهاية مؤثرة على نحو لافت."
+    },
+    {
+      "en": "The plot is somewhat contrived, but the characters are utterly convincing.",
+      "ar": "الحبكة مفتعلة بعض الشيء، لكن الشخصيات مقنعة تماماً."
+    },
+    {
+      "en": "What did you make of the novel's subtext?",
+      "ar": "ما رأيك في المعنى الضمني للرواية؟"
+    },
+    {
+      "en": "It's a thought-provoking film, if a little self-indulgent.",
+      "ar": "إنه فيلم مثير للتفكير، وإن كان منغمساً في ذاته قليلاً."
+    },
+    {
+      "en": "Her latest exhibition is remarkably understated.",
+      "ar": "معرضها الأخير هادئ ومتحفظ بشكل ملحوظ."
+    },
+    {
+      "en": "The critics were deeply divided over his new play.",
+      "ar": "انقسم النقاد انقساماً حاداً حول مسرحيته الجديدة."
+    },
+    {
+      "en": "I wouldn't call it a masterpiece, but it's far from forgettable.",
+      "ar": "لن أسميها تحفة فنية، لكنها أبعد ما تكون عن النسيان."
+    },
+    {
+      "en": "The allegory felt rather heavy-handed to me.",
+      "ar": "بدت لي القصة الرمزية فجّة إلى حد ما."
+    },
+    {
+      "en": "Does the story resonate with younger readers?",
+      "ar": "هل تجد القصة صدى لدى القراء الأصغر سناً؟"
+    },
+    {
+      "en": "It's critically acclaimed, but I found it utterly pretentious.",
+      "ar": "لقد أشاد به النقاد، لكنني وجدته متكلفاً تماماً."
+    }
+  ],
+  "story": {
+    "title": "The Book Club Debate",
+    "text": "On Thursday evening, the Zamalek book club met to discuss The Salt Gardens, a debut novel that had become strikingly polarizing within weeks of its release. Mona, a veteran literary critic, opened the discussion. \"I found it utterly thought-provoking,\" she said. \"The unreliable narrator forces us to question every memory she shares, and the ending is quietly poignant.\" Karim, who reviews fiction for a weekly magazine, shook his head. \"I'm somewhat less convinced. The political allegory is heavy-handed, and the twist in the final chapter feels contrived.\" Mona smiled. \"Contrived? I'd call it a tour de force. The subtext about family silence is remarkably subtle.\" \"Subtle is hardly the word,\" Karim replied. \"Whole chapters are self-indulgent, and the style is fairly derivative of Mahfouz.\" The other members listened, clearly enjoying the debate. Finally, a young student named Laila spoke up. \"Maybe that's the point. The novel doesn't resonate with everyone in the same way, and that's precisely why we're still arguing about it.\" Karim laughed. \"Fair enough. It's deeply flawed, but I'll admit it's far from forgettable.\" Mona raised her cup of tea. \"From you, Karim, that's practically a rave review.\" Everyone laughed, and the club agreed to read Karim's favorite novel next month, just to see whether he could take criticism as well as he gave it.",
+    "translation": "مساء يوم الخميس، اجتمع نادي الكتاب في الزمالك لمناقشة «حدائق الملح»، وهي رواية أولى أصبحت مثيرة للانقسام على نحو لافت خلال أسابيع من صدورها. افتتحت منى، وهي ناقدة أدبية مخضرمة، النقاش قائلة: «وجدتها مثيرة للتفكير تماماً. الراوية غير الموثوقة تجبرنا على التشكيك في كل ذكرى ترويها، والنهاية مؤثرة بهدوء.» هزّ كريم، الذي يكتب مراجعات الأدب القصصي لمجلة أسبوعية، رأسه وقال: «أنا أقل اقتناعاً بعض الشيء. القصة الرمزية السياسية فجّة، والمفاجأة في الفصل الأخير تبدو مفتعلة.» ابتسمت منى وقالت: «مفتعلة؟ أنا أسميها عملاً بارعاً استثنائياً. المعنى الضمني عن صمت العائلة دقيق بشكل ملحوظ.» ردّ كريم: «كلمة دقيق ليست الوصف المناسب على الإطلاق. فصول كاملة منغمسة في ذاتها، والأسلوب مقلِّد لنجيب محفوظ إلى حد كبير.» استمع باقي الأعضاء وهم يستمتعون بالنقاش بوضوح. وأخيراً تكلمت طالبة شابة اسمها ليلى: «ربما هذا هو المقصود. الرواية لا تلامس الجميع بالطريقة نفسها، وهذا تحديداً سبب استمرارنا في الجدال حولها.» ضحك كريم وقال: «معك حق. إنها معيبة بشدة، لكنني أعترف أنها أبعد ما تكون عن النسيان.» رفعت منى فنجان الشاي وقالت: «منك يا كريم، هذا يكاد يكون مديحاً حاراً.» ضحك الجميع، واتفق أعضاء النادي على قراءة رواية كريم المفضلة الشهر القادم، فقط ليروا إن كان يستطيع تقبّل النقد كما يوجّهه."
+  },
+  "grammar": {
+    "title": "Nuanced Evaluation and Advanced Modifiers",
+    "explanationAr": "في المستوى المتقدم لا نكتفي بكلمات مثل good أو bad، بل نستخدم ظروفاً تضبط قوة الصفة بدقة. مع الصفات القابلة للتدرج مثل interesting و subtle نستخدم ظروفاً مثل somewhat و fairly و rather للتخفيف، و remarkably و strikingly و deeply للتقوية. أما مع الصفات المطلقة مثل brilliant و unforgettable فنستخدم utterly أو absolutely، فلا نقول very brilliant بل utterly brilliant. ولتلطيف النقد نستخدم not entirely و far from و hardly، مثل: The ending is not entirely convincing أو It's far from perfect.",
+    "rule": "somewhat / fairly / rather + gradable adjective → somewhat contrived\nremarkably / strikingly / deeply + gradable adjective → strikingly original\nutterly / absolutely + extreme adjective → utterly brilliant (NOT very brilliant)\nnot entirely / far from / hardly → polite, softened criticism\nadjective, if a little + adjective → thought-provoking, if a little long",
+    "examples": [
+      {
+        "en": "The novel is strikingly original, though somewhat derivative in places.",
+        "ar": "الرواية أصيلة على نحو لافت، وإن كانت مقلِّدة بعض الشيء في مواضع."
+      },
+      {
+        "en": "Her final scene was utterly poignant.",
+        "ar": "كان مشهدها الأخير مؤثراً تماماً."
+      },
+      {
+        "en": "The dialogue is fairly contrived, but the subtext is remarkably rich.",
+        "ar": "الحوار مفتعل إلى حد ما، لكن المعنى الضمني غني بشكل ملحوظ."
+      },
+      {
+        "en": "The film is far from a masterpiece, yet it's deeply thought-provoking.",
+        "ar": "الفيلم أبعد ما يكون عن التحفة الفنية، ومع ذلك فهو مثير للتفكير بعمق."
+      },
+      {
+        "en": "The ending is not entirely convincing.",
+        "ar": "النهاية ليست مقنعة تماماً."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "After the Gallery Opening",
+    "settingAr": "إنت خارج من افتتاح معرض فني مع صاحبتك الناقدة، وبتتناقشوا في رأيكم في الأعمال.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Art Critic",
+        "nameAr": "الناقدة الفنية"
+      },
+      {
+        "id": "B",
+        "name": "Visitor",
+        "nameAr": "الزائر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "So, what did you make of the exhibition? Be honest.",
+        "ar": "ها، إيه رأيك في المعرض؟ وخليك صريح."
+      },
+      {
+        "speaker": "B",
+        "en": "Honestly, I found the large portraits strikingly evocative, especially the fisherman.",
+        "ar": "بصراحة، البورتريهات الكبيرة كانت موحية جداً بشكل ملفت، خصوصاً بتاعة الصياد."
+      },
+      {
+        "speaker": "A",
+        "en": "Really? I thought they were somewhat derivative of early Egyptian modernism.",
+        "ar": "بجد؟ أنا شايفة إنها فيها تقليد شوية للحداثة المصرية الأولى."
+      },
+      {
+        "speaker": "B",
+        "en": "Maybe, but the use of light felt utterly original to me.",
+        "ar": "يمكن، بس استخدام الإضاءة كان أصلي تماماً بالنسبالي."
+      },
+      {
+        "speaker": "A",
+        "en": "Fair point. What about the video installation in the last room?",
+        "ar": "عندك حق. طب وعرض الفيديو اللي في آخر أوضة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "To be honest, it was a bit pretentious and rather heavy-handed.",
+        "ar": "بصراحة، كان فيه تكلّف شوية ومباشر زيادة عن اللزوم."
+      },
+      {
+        "speaker": "A",
+        "en": "I agree. The subtext about migration was hardly subtle.",
+        "ar": "موافقاك. المعنى الضمني عن الهجرة ماكانش خفي خالص."
+      },
+      {
+        "speaker": "B",
+        "en": "Still, the whole show was thought-provoking. It really stayed with me.",
+        "ar": "ومع ذلك، المعرض كله كان بيخلّيك تفكّر. فضل في دماغي فعلاً."
+      },
+      {
+        "speaker": "A",
+        "en": "Would you recommend it to someone who rarely visits galleries?",
+        "ar": "تنصح بيه حد نادراً لما بيروح معارض؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Absolutely. It's accessible, deeply moving, and far from a typical exhibition.",
+        "ar": "أكيد. سهل تفهمه، ومؤثر جداً، وبعيد خالص عن المعارض التقليدية."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Choose the most natural modifier: \"The final scene was ___ brilliant.\"",
+      "options": [
+        "very",
+        "utterly",
+        "fairly",
+        "somewhat"
+      ],
+      "answer": "utterly"
+    },
+    {
+      "type": "fill",
+      "sentence": "The plot twist felt ___, as if the author had forced it into the story.",
+      "answer": "contrived",
+      "hint": "مُفتعَل / مصطنع"
+    },
+    {
+      "type": "order",
+      "words": [
+        "entirely",
+        "The",
+        "convincing.",
+        "is",
+        "not",
+        "ending"
+      ],
+      "answer": "The ending is not entirely convincing."
+    },
+    {
+      "type": "mcq",
+      "question": "What do critics call a narrator whose account the reader cannot fully trust?",
+      "options": [
+        "A polarizing narrator",
+        "An understated narrator",
+        "A derivative narrator",
+        "An unreliable narrator"
+      ],
+      "answer": "An unreliable narrator"
+    },
+    {
+      "type": "fill",
+      "sentence": "Animal Farm is a political ___ about power and corruption.",
+      "answer": "allegory",
+      "hint": "قصة رمزية"
+    },
+    {
+      "type": "order",
+      "words": [
+        "yet",
+        "a",
+        "It's",
+        "original.",
+        "from",
+        "strikingly",
+        "masterpiece,",
+        "far"
+      ],
+      "answer": "It's far from a masterpiece, yet strikingly original."
+    },
+    {
+      "type": "mcq",
+      "question": "Which comment is the most nuanced piece of criticism?",
+      "options": [
+        "It's somewhat self-indulgent, though often poignant.",
+        "It's very terrible.",
+        "It's bad and boring.",
+        "It's the worst book ever."
+      ],
+      "answer": "It's somewhat self-indulgent, though often poignant."
+    },
+    {
+      "type": "listen",
+      "audioText": "Her debut novel was critically acclaimed but deeply polarizing.",
+      "answer": "Her debut novel was critically acclaimed but deeply polarizing."
+    }
+  ]
+}

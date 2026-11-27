@@ -1,0 +1,367 @@
+{
+  "slug": "presentations",
+  "title": "Giving a Presentation",
+  "titleAr": "تقديم عرض",
+  "emoji": "📊",
+  "level": "B2",
+  "description": "Structure a talk, guide the audience, and handle questions.",
+  "descriptionAr": "نظّم عرضك، ووجّه الحضور خطوة بخطوة، وتعامل مع الأسئلة.",
+  "words": [
+    {
+      "en": "agenda",
+      "ar": "جدول الأعمال / محاور العرض",
+      "phonetic": "/əˈdʒɛndə/",
+      "example": "Let me quickly go through today's agenda."
+    },
+    {
+      "en": "slide",
+      "ar": "شريحة (في العرض)",
+      "phonetic": "/slaɪd/",
+      "example": "The next slide shows our monthly sales."
+    },
+    {
+      "en": "key takeaway",
+      "ar": "الفكرة الأساسية / أهم ما يجب تذكّره",
+      "phonetic": "/ˌki ˈteɪkəˌweɪ/",
+      "example": "The key takeaway is that customers want a lower price."
+    },
+    {
+      "en": "visual aid",
+      "ar": "وسيلة إيضاح بصرية",
+      "phonetic": "/ˈvɪʒuəl ˈeɪd/",
+      "example": "A simple chart is often the best visual aid."
+    },
+    {
+      "en": "move on to",
+      "ar": "ينتقل إلى",
+      "phonetic": "/muv ˈɑn tu/",
+      "example": "Now let's move on to the budget."
+    },
+    {
+      "en": "to sum up",
+      "ar": "باختصار / للتلخيص",
+      "phonetic": "/tə ˈsʌm ˈʌp/",
+      "example": "So, to sum up, the project is on schedule."
+    },
+    {
+      "en": "Q&A session",
+      "ar": "فقرة الأسئلة والأجوبة",
+      "phonetic": "/ˌkjuənˈeɪ ˈsɛʃən/",
+      "example": "We'll have a short Q&A session at the end."
+    },
+    {
+      "en": "break the ice",
+      "ar": "يكسر الجليد / يلطّف الجو",
+      "phonetic": "/breɪk ði ˈaɪs/",
+      "example": "She told a short story to break the ice."
+    },
+    {
+      "en": "stage fright",
+      "ar": "رهبة المسرح / التوتر أمام الجمهور",
+      "phonetic": "/ˈsteɪdʒ fraɪt/",
+      "example": "Deep breathing helps me deal with stage fright."
+    },
+    {
+      "en": "handout",
+      "ar": "ورقة مطبوعة توزَّع على الحضور",
+      "phonetic": "/ˈhændaʊt/",
+      "example": "You'll find all the numbers in the handout."
+    },
+    {
+      "en": "sales projections",
+      "ar": "توقعات المبيعات",
+      "phonetic": "/ˈseɪlz prəˈdʒɛkʃənz/",
+      "example": "Our sales projections for next year look very strong."
+    },
+    {
+      "en": "as you can see",
+      "ar": "كما ترون",
+      "phonetic": "/æz ju kən ˈsi/",
+      "example": "Our costs, as you can see, have dropped by ten percent."
+    },
+    {
+      "en": "address a concern",
+      "ar": "يتناول / يعالج مخاوف",
+      "phonetic": "/əˈdrɛs ə kənˈsərn/",
+      "example": "I'd like to address a concern that was raised earlier."
+    },
+    {
+      "en": "back up a claim",
+      "ar": "يدعم ادعاءً (بالأدلة)",
+      "phonetic": "/bæk ˈʌp ə ˈkleɪm/",
+      "example": "You need real data to back up a claim like that."
+    },
+    {
+      "en": "rehearse",
+      "ar": "يتدرّب (على العرض) / يعمل بروفة",
+      "phonetic": "/rɪˈhərs/",
+      "example": "I always rehearse my talk in front of a mirror."
+    },
+    {
+      "en": "board of directors",
+      "ar": "مجلس الإدارة",
+      "phonetic": "/ˈbɔrd əv dəˈrɛktərz/",
+      "example": "The board of directors will make the final decision."
+    },
+    {
+      "en": "bear with me",
+      "ar": "اصبروا عليّ قليلاً",
+      "phonetic": "/ˈbɛr wɪð mi/",
+      "example": "Please bear with me while I fix the projector."
+    },
+    {
+      "en": "elaborate on",
+      "ar": "يتوسّع في الشرح / يوضّح بالتفصيل",
+      "phonetic": "/ɪˈlæbəˌreɪt ɑn/",
+      "example": "Could you elaborate on that last point?"
+    },
+    {
+      "en": "get the point across",
+      "ar": "يوصّل الفكرة بوضوح",
+      "phonetic": "/ɡɛt ðə ˈpɔɪnt əˈkrɔs/",
+      "example": "The video helped me get the point across."
+    },
+    {
+      "en": "launch date",
+      "ar": "موعد الإطلاق",
+      "phonetic": "/ˈlɔntʃ deɪt/",
+      "example": "The launch date has been moved to June."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Today I'd like to talk about our new product.",
+      "ar": "اليوم أودّ أن أتحدث عن منتجنا الجديد."
+    },
+    {
+      "en": "First, I'll give you some background, and then I'll move on to the results.",
+      "ar": "أولاً سأعطيكم بعض الخلفية، ثم سأنتقل إلى النتائج."
+    },
+    {
+      "en": "It is estimated that the market will grow by fifteen percent next year.",
+      "ar": "يُقدَّر أن السوق سينمو بنسبة خمسة عشر في المائة العام القادم."
+    },
+    {
+      "en": "As you can see from this chart, sales doubled in March.",
+      "ar": "كما ترون من هذا الرسم البياني، تضاعفت المبيعات في مارس."
+    },
+    {
+      "en": "It is widely believed that customers prefer simpler designs.",
+      "ar": "يُعتقد على نطاق واسع أن العملاء يفضّلون التصميمات الأبسط."
+    },
+    {
+      "en": "It has been reported that our competitors are cutting their prices.",
+      "ar": "أفادت التقارير بأن منافسينا يخفّضون أسعارهم."
+    },
+    {
+      "en": "To sum up, the project is on budget and on schedule.",
+      "ar": "باختصار، المشروع في حدود الميزانية وفي موعده."
+    },
+    {
+      "en": "That's a great question. Let me come back to it at the end.",
+      "ar": "هذا سؤال رائع. اسمحوا لي أن أعود إليه في النهاية."
+    },
+    {
+      "en": "Could you elaborate on the risks you mentioned?",
+      "ar": "هل يمكنك أن توضّح بالتفصيل المخاطر التي ذكرتها؟"
+    },
+    {
+      "en": "If you have any questions, please feel free to interrupt me.",
+      "ar": "إذا كانت لديكم أي أسئلة، فلا تتردّدوا في مقاطعتي."
+    }
+  ],
+  "story": {
+    "title": "The Tough Question",
+    "text": "Karim, a young engineer, had rehearsed his presentation a dozen times, but his hands were still shaking when he walked into the boardroom. The board of directors was waiting for him to present a new water filter for rural villages. To break the ice, he smiled and said, \"I promise this will be shorter than the last meeting.\" Everyone laughed, and his stage fright began to fade. He went through the agenda and then moved on to the technical details. \"As you can see on this slide, the filter removes ninety-nine percent of bacteria,\" he explained. \"It is estimated that two million families could benefit.\" His sales projections looked impressive. Then, during the Q&A session, the finance director raised her hand. \"It is often said that rural families can't afford new technology. How can you back up your claim that they will buy it?\" Karim paused. \"Please bear with me,\" he said. \"That's an important point.\" He admitted that the price was too high. After a short discussion, the board decided to rent the filter monthly instead of selling it. At the end, the chairman said, \"The key takeaway is simple: tough questions make better plans.\" Karim left the room smiling.",
+    "translation": "كان كريم، وهو مهندس شاب، قد تدرّب على عرضه اثنتي عشرة مرة، لكن يديه كانتا لا تزالان ترتجفان عندما دخل قاعة الاجتماعات. كان مجلس الإدارة في انتظاره ليعرض فلتر مياه جديداً للقرى الريفية. ولكي يكسر الجليد، ابتسم وقال: «أعدكم أن يكون هذا أقصر من الاجتماع الماضي.» ضحك الجميع، وبدأت رهبته تختفي. استعرض محاور العرض ثم انتقل إلى التفاصيل الفنية. وشرح قائلاً: «كما ترون في هذه الشريحة، يزيل الفلتر تسعة وتسعين في المائة من البكتيريا. ويُقدَّر أن مليوني أسرة يمكن أن تستفيد منه.» بدت توقعات المبيعات لديه مبهرة. ثم، خلال فقرة الأسئلة والأجوبة، رفعت المديرة المالية يدها وقالت: «يُقال كثيراً إن الأسر الريفية لا تستطيع تحمّل تكلفة التكنولوجيا الجديدة. كيف يمكنك أن تدعم ادعاءك بأنهم سيشترونه؟» توقّف كريم لحظة وقال: «اصبروا عليّ قليلاً من فضلكم. هذه نقطة مهمة.» واعترف بأن السعر مرتفع جداً. وبعد نقاش قصير، قرر المجلس تأجير الفلتر شهرياً بدلاً من بيعه. وفي النهاية، قال رئيس المجلس: «الفكرة الأساسية بسيطة: الأسئلة الصعبة تصنع خططاً أفضل.» وغادر كريم القاعة مبتسماً."
+  },
+  "grammar": {
+    "title": "Signposting & the Impersonal Passive",
+    "explanationAr": "في العروض التقديمية نستخدم عبارات إرشادية (signposting) لنوجّه الحضور ونخبرهم أين نحن في العرض، مثل First, I'll ... و Let's move on to ... و As you can see ... و To sum up .... كما نستخدم المبني للمجهول غير الشخصي (impersonal passive) لنقدّم معلومات أو آراء عامة بطريقة رسمية وموضوعية دون أن نذكر مصدرها مباشرة. التركيب هو It + is/was + past participle + that، مثل: It is estimated that sales will rise. ومن الأفعال الشائعة في هذا التركيب estimated و believed و expected و reported و said. هذا الأسلوب يجعل كلامك يبدو أكثر احترافية أمام الإدارة والعملاء.",
+    "rule": "Signposting:\nFirst, I'll ... / Then I'll move on to ...\nAs you can see (on this slide), ...\nTo sum up, ... / The key takeaway is ...\nImpersonal passive:\nIt + is / was + estimated / believed / expected / reported + that + clause\nIt is estimated that costs will fall by ten percent.",
+    "examples": [
+      {
+        "en": "Let's move on to the sales projections.",
+        "ar": "دعونا ننتقل إلى توقعات المبيعات."
+      },
+      {
+        "en": "As you can see on this slide, our costs have fallen.",
+        "ar": "كما ترون في هذه الشريحة، انخفضت تكاليفنا."
+      },
+      {
+        "en": "It is estimated that the new filter will reach two million homes.",
+        "ar": "يُقدَّر أن الفلتر الجديد سيصل إلى مليوني منزل."
+      },
+      {
+        "en": "It is expected that the launch date will be moved to May.",
+        "ar": "من المتوقع أن يتم تأجيل موعد الإطلاق إلى مايو."
+      },
+      {
+        "en": "To sum up, the key takeaway is that we need a lower price.",
+        "ar": "باختصار، الفكرة الأساسية هي أننا نحتاج إلى سعر أقل."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Presenting to the Board",
+    "settingAr": "إنت بتقدّم منتج جديد قدام مجلس الإدارة، وعضو في المجلس بيسألك أسئلة صعبة.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Board Member",
+        "nameAr": "عضو مجلس الإدارة"
+      },
+      {
+        "id": "B",
+        "name": "Presenter",
+        "nameAr": "المقدّم (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "B",
+        "en": "Good morning, everyone. Today I'd like to present our new water filter.",
+        "ar": "صباح الخير يا جماعة. النهارده حابب أعرض عليكم فلتر المية الجديد بتاعنا."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank you. How long will the presentation take?",
+        "ar": "شكراً. العرض هياخد قد إيه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "About fifteen minutes, and we'll have a Q&A session at the end.",
+        "ar": "حوالي ربع ساعة، وهيكون فيه وقت للأسئلة في الآخر."
+      },
+      {
+        "speaker": "A",
+        "en": "Great. Please go ahead.",
+        "ar": "تمام. اتفضل ابدأ."
+      },
+      {
+        "speaker": "B",
+        "en": "As you can see on this slide, demand is growing fast.",
+        "ar": "زي ما حضراتكم شايفين في السلايد دي، الطلب بيزيد بسرعة."
+      },
+      {
+        "speaker": "A",
+        "en": "Where do these numbers come from?",
+        "ar": "الأرقام دي جاية منين؟"
+      },
+      {
+        "speaker": "B",
+        "en": "It is estimated that two million families need clean water.",
+        "ar": "التقديرات بتقول إن فيه اتنين مليون أسرة محتاجين مية نضيفة."
+      },
+      {
+        "speaker": "A",
+        "en": "That's impressive, but isn't the price too high?",
+        "ar": "ده رقم كبير، بس مش السعر غالي أوي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "That's a fair point. Let me move on to the costs.",
+        "ar": "نقطة في محلها. خليني أنتقل للتكاليف."
+      },
+      {
+        "speaker": "A",
+        "en": "Could you elaborate on the monthly rental option?",
+        "ar": "ممكن توضّح أكتر فكرة الإيجار الشهري؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Of course. To sum up, renting makes the filter affordable for everyone.",
+        "ar": "طبعاً. باختصار، الإيجار بيخلّي الفلتر في متناول الكل."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank you. That was very clear.",
+        "ar": "شكراً. الكلام كان واضح جداً."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "It is ___ that the market will double in the next five years.",
+      "options": [
+        "estimate",
+        "estimating",
+        "estimated",
+        "estimation"
+      ],
+      "answer": "estimated"
+    },
+    {
+      "type": "fill",
+      "sentence": "That's all about the costs. Now let's ___ on to the next slide.",
+      "answer": "move",
+      "hint": "ننتقل",
+      "accept": [
+        "go"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "sales",
+        "can",
+        "doubled.",
+        "As",
+        "have",
+        "see,",
+        "you"
+      ],
+      "answer": "As you can see, sales have doubled."
+    },
+    {
+      "type": "mcq",
+      "question": "Which phrase do you use to finish a presentation?",
+      "options": [
+        "To sum up",
+        "First of all",
+        "Let me start by",
+        "Moving on"
+      ],
+      "answer": "To sum up"
+    },
+    {
+      "type": "fill",
+      "sentence": "It is widely ___ that customers prefer simple designs.",
+      "answer": "believed",
+      "hint": "يُعتقد",
+      "accept": [
+        "thought"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "that",
+        "elaborate",
+        "Could",
+        "point?",
+        "on",
+        "you"
+      ],
+      "answer": "Could you elaborate on that point?"
+    },
+    {
+      "type": "mcq",
+      "question": "Feeling very nervous before speaking in front of an audience is called ___.",
+      "options": [
+        "key takeaway",
+        "handout",
+        "agenda",
+        "stage fright"
+      ],
+      "answer": "stage fright"
+    },
+    {
+      "type": "listen",
+      "audioText": "Please feel free to ask questions at the end.",
+      "answer": "Please feel free to ask questions at the end."
+    }
+  ]
+}

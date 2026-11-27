@@ -186,7 +186,7 @@ function Result({ result, onRetake }) {
 
       <p className="mx-auto mt-8 max-w-md">
         {allPassed
-          ? 'Excellent! You are above our current topics. Use the B1 dialogues and the review to keep your English sharp.'
+          ? `Excellent! You passed every stage. Start with the ${start.id} · ${start.name} topics to push further.`
           : hasStartTopics
             ? `Start with the ${start.id} · ${start.name} topics. Today's topic on the Home page now starts there.`
             : `You're ready for ${start.id}. ${start.id} topics are coming soon. Until then, the highest available topics are your path.`}

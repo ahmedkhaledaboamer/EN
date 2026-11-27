@@ -1,0 +1,359 @@
+{
+  "slug": "travel-problems",
+  "title": "Travel Problems",
+  "titleAr": "مشاكل السفر",
+  "emoji": "🧳",
+  "level": "B1",
+  "description": "Handle lost luggage, delays, missed connections, and overbooked hotels.",
+  "descriptionAr": "تعامل مع الأمتعة المفقودة، والتأخير، وفوات رحلات الترانزيت، والفنادق المحجوزة بالكامل.",
+  "words": [
+    {
+      "en": "delay",
+      "ar": "تأخير",
+      "phonetic": "/dɪˈleɪ/",
+      "example": "There is a two-hour delay because of the weather."
+    },
+    {
+      "en": "cancellation",
+      "ar": "إلغاء",
+      "phonetic": "/ˌkænsəˈleɪʃən/",
+      "example": "After the cancellation, everyone ran to the airline desk."
+    },
+    {
+      "en": "connecting flight",
+      "ar": "رحلة الترانزيت / الرحلة التالية",
+      "phonetic": "/kəˈnɛktɪŋ ˌflaɪt/",
+      "example": "My connecting flight leaves from gate twelve."
+    },
+    {
+      "en": "layover",
+      "ar": "توقف مؤقت (ترانزيت)",
+      "phonetic": "/ˈleɪˌoʊvər/",
+      "example": "We have a three-hour layover in Frankfurt."
+    },
+    {
+      "en": "miss",
+      "ar": "يفوته (رحلة أو قطار)",
+      "phonetic": "/mɪs/",
+      "example": "Hurry up, or we'll miss the train!"
+    },
+    {
+      "en": "lost luggage",
+      "ar": "أمتعة مفقودة / شنط ضايعة",
+      "phonetic": "/ˌlɔst ˈlʌɡɪdʒ/",
+      "example": "I went to the lost luggage office to report my bag."
+    },
+    {
+      "en": "baggage claim",
+      "ar": "مكان استلام الحقائب",
+      "phonetic": "/ˈbæɡɪdʒ ˌkleɪm/",
+      "example": "I waited at baggage claim for an hour."
+    },
+    {
+      "en": "luggage tag",
+      "ar": "بطاقة الحقيبة / التاج",
+      "phonetic": "/ˈlʌɡɪdʒ ˌtæɡ/",
+      "example": "The number on your luggage tag helps them find your bag."
+    },
+    {
+      "en": "overbooked",
+      "ar": "محجوز أكثر من طاقته",
+      "phonetic": "/ˌoʊvərˈbʊkt/",
+      "example": "The hotel was overbooked, so they sent us to another one."
+    },
+    {
+      "en": "rebook",
+      "ar": "يعيد الحجز",
+      "phonetic": "/riˈbʊk/",
+      "example": "The airline will rebook you on the next flight."
+    },
+    {
+      "en": "boarding pass",
+      "ar": "بطاقة الصعود للطائرة",
+      "phonetic": "/ˈbɔrdɪŋ ˌpæs/",
+      "example": "Please show your boarding pass at the gate."
+    },
+    {
+      "en": "gate",
+      "ar": "بوابة (في المطار)",
+      "phonetic": "/ɡeɪt/",
+      "example": "The gate closes twenty minutes before departure."
+    },
+    {
+      "en": "voucher",
+      "ar": "قسيمة / كوبون",
+      "phonetic": "/ˈvaʊtʃər/",
+      "example": "They gave us a meal voucher for the delay."
+    },
+    {
+      "en": "compensation",
+      "ar": "تعويض",
+      "phonetic": "/ˌkɑmpənˈseɪʃən/",
+      "example": "You can ask for compensation if your flight is very late."
+    },
+    {
+      "en": "reservation",
+      "ar": "حجز",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
+      "example": "I have a reservation for two nights under the name Hassan."
+    },
+    {
+      "en": "itinerary",
+      "ar": "خط سير الرحلة / برنامج الرحلة",
+      "phonetic": "/aɪˈtɪnəˌrɛri/",
+      "example": "The new itinerary is in your email."
+    },
+    {
+      "en": "stranded",
+      "ar": "عالق / متعطل في مكان",
+      "phonetic": "/ˈstrændɪd/",
+      "example": "Hundreds of passengers were stranded at the airport."
+    },
+    {
+      "en": "departure",
+      "ar": "مغادرة / إقلاع",
+      "phonetic": "/dɪˈpɑrtʃər/",
+      "example": "Check the departure board for your gate."
+    },
+    {
+      "en": "check-in desk",
+      "ar": "مكتب تسجيل الوصول",
+      "phonetic": "/ˈtʃɛkˌɪn ˌdɛsk/",
+      "example": "There was a long line at the check-in desk."
+    },
+    {
+      "en": "travel insurance",
+      "ar": "تأمين السفر",
+      "phonetic": "/ˈtrævəl ɪnˌʃʊrəns/",
+      "example": "My travel insurance paid for new clothes."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "When I got to the gate, the plane had already left.",
+      "ar": "عندما وصلت إلى البوابة، كانت الطائرة قد أقلعت بالفعل."
+    },
+    {
+      "en": "I missed my connecting flight because of the delay.",
+      "ar": "فاتتني رحلة الترانزيت بسبب التأخير."
+    },
+    {
+      "en": "My suitcase didn't arrive. Where is the lost luggage office?",
+      "ar": "حقيبتي لم تصل. أين مكتب الأمتعة المفقودة؟"
+    },
+    {
+      "en": "Can you rebook me on the next flight?",
+      "ar": "هل يمكنك أن تعيد حجزي على الرحلة التالية؟"
+    },
+    {
+      "en": "I had booked the room two months before.",
+      "ar": "كنت قد حجزت الغرفة قبلها بشهرين."
+    },
+    {
+      "en": "By the time we landed, the last train had gone.",
+      "ar": "عندما هبطنا، كان آخر قطار قد غادر."
+    },
+    {
+      "en": "I'm sorry, but the hotel is overbooked tonight.",
+      "ar": "آسف، لكن الفندق محجوز بالكامل الليلة."
+    },
+    {
+      "en": "She realized she had left her passport in the taxi.",
+      "ar": "أدركت أنها كانت قد نسيت جواز سفرها في التاكسي."
+    },
+    {
+      "en": "Do I get a meal voucher for the delay?",
+      "ar": "هل أحصل على قسيمة وجبة بسبب التأخير؟"
+    },
+    {
+      "en": "Here is my luggage tag and my boarding pass.",
+      "ar": "هذه بطاقة حقيبتي وبطاقة الصعود."
+    }
+  ],
+  "story": {
+    "title": "One Trip, Two Cities",
+    "text": "Tarek was flying from Cairo to Toronto with a short layover in Paris. Everything was fine until his first flight had a two-hour delay. When he finally landed in Paris, he ran to the gate, but his connecting flight had already left. He felt stranded and alone. At the airline desk, the agent was kind. \"Don't worry, sir. We'll rebook you on the evening flight,\" she said, and she gave him a new boarding pass and a meal voucher. Tarek arrived in Toronto at midnight, very tired. He waited at baggage claim for thirty minutes, but his suitcase never appeared. At the lost luggage office, a man checked his luggage tag. \"I'm sorry,\" he said. \"Your bag went on a different plane. It's in Montreal now.\" Tarek laughed for the first time that day. Luckily, he had bought travel insurance before the trip. His bag arrived two days later, and the airline also offered him compensation.",
+    "translation": "كان طارق مسافراً من القاهرة إلى تورونتو مع توقف قصير في باريس. كان كل شيء على ما يرام حتى تأخرت رحلته الأولى ساعتين. وعندما هبط أخيراً في باريس، جرى إلى البوابة، لكن رحلة الترانزيت كانت قد أقلعت بالفعل. شعر بأنه عالق ووحيد. في مكتب شركة الطيران، كانت الموظفة لطيفة. قالت: «لا تقلق يا سيدي. سنعيد حجزك على رحلة المساء»، وأعطته بطاقة صعود جديدة وقسيمة وجبة. وصل طارق إلى تورونتو في منتصف الليل وهو متعب جداً. انتظر في مكان استلام الحقائب ثلاثين دقيقة، لكن حقيبته لم تظهر أبداً. في مكتب الأمتعة المفقودة، فحص رجل بطاقة حقيبته. قال: «أنا آسف. حقيبتك ذهبت على طائرة أخرى. إنها في مونتريال الآن.» ضحك طارق لأول مرة في ذلك اليوم. ولحسن الحظ، كان قد اشترى تأمين سفر قبل الرحلة. وصلت حقيبته بعد يومين، كما عرضت عليه شركة الطيران تعويضاً."
+  },
+  "grammar": {
+    "title": "Past perfect for earlier events",
+    "explanationAr": "نستخدم الـ past perfect عندما نتكلم عن حدثين في الماضي ونريد أن نوضح أي حدث وقع أولاً. التركيب هو had + التصريف الثالث للفعل (past participle)، مثل: had left و had gone و had booked. الحدث الأقدم يكون بالـ past perfect، والحدث الأحدث يكون بالماضي البسيط، مثل: When I arrived, the plane had already left. أي أن الطائرة أقلعت أولاً ثم وصلت أنا. وكثيراً ما نستخدم معه كلمات مثل already و by the time و before.",
+    "rule": "had + past participle = the earlier past action\npast simple = the later past action\nWhen I arrived, the plane had already left.\nNegative: hadn't + past participle\nOften with: already, by the time, before",
+    "examples": [
+      {
+        "en": "When we got to the gate, the boarding had already finished.",
+        "ar": "عندما وصلنا إلى البوابة، كان الصعود قد انتهى بالفعل."
+      },
+      {
+        "en": "I missed my connecting flight because the first flight had left late.",
+        "ar": "فاتتني رحلة الترانزيت لأن الرحلة الأولى كانت قد أقلعت متأخرة."
+      },
+      {
+        "en": "The hotel gave our room to someone else, but we had made a reservation.",
+        "ar": "أعطى الفندق غرفتنا لشخص آخر، مع أننا كنا قد حجزنا."
+      },
+      {
+        "en": "By the time I reached baggage claim, my suitcase had disappeared.",
+        "ar": "عندما وصلت إلى مكان استلام الحقائب، كانت حقيبتي قد اختفت."
+      },
+      {
+        "en": "Luckily, I had bought travel insurance before the trip.",
+        "ar": "لحسن الحظ، كنت قد اشتريت تأمين سفر قبل الرحلة."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the Lost Luggage Office",
+    "settingAr": "إنت لسه واصل المطار وشنطتك مطلعتش على السير. رحت مكتب الشنط الضايعة.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Airline Agent",
+        "nameAr": "موظف شركة الطيران"
+      },
+      {
+        "id": "B",
+        "name": "Passenger",
+        "nameAr": "المسافر (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Good evening. How can I help you?",
+        "ar": "مساء الخير. أقدر أساعدك إزاي؟"
+      },
+      {
+        "speaker": "B",
+        "en": "My suitcase didn't come out at baggage claim.",
+        "ar": "شنطتي مطلعتش في مكان استلام الشنط."
+      },
+      {
+        "speaker": "A",
+        "en": "I'm sorry. Can I see your boarding pass and luggage tag?",
+        "ar": "آسف جداً. ممكن أشوف بطاقة الصعود وتاج الشنطة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Here they are. My first flight had left Cairo two hours late.",
+        "ar": "اتفضل. الرحلة الأولى كانت طلعت من القاهرة متأخرة ساعتين."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh no. Did you miss your connecting flight?",
+        "ar": "يا خبر. فاتتك رحلة الترانزيت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes. When I got to the gate, the plane had already left.",
+        "ar": "أيوه. لما وصلت البوابة، كانت الطيارة طارت خلاص."
+      },
+      {
+        "speaker": "A",
+        "en": "I see. Your bag went to Madrid by mistake.",
+        "ar": "فهمت. شنطتك راحت مدريد بالغلط."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh no! When can I get it back?",
+        "ar": "يا نهار! هترجعلي إمتى؟"
+      },
+      {
+        "speaker": "A",
+        "en": "We can deliver it to your hotel tomorrow.",
+        "ar": "نقدر نوصّلهالك الفندق بكرة."
+      },
+      {
+        "speaker": "B",
+        "en": "Thank you. Do I get anything for tonight?",
+        "ar": "شكراً. هاخد أي حاجة للنهارده بالليل؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Yes, here's a voucher for basic things like a toothbrush.",
+        "ar": "أيوه، اتفضل قسيمة لحاجات أساسية زي فرشة السنان."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "When I arrived at the gate, the plane ___.",
+      "options": [
+        "has already left",
+        "had already left",
+        "already leaves",
+        "is already leaving"
+      ],
+      "answer": "had already left"
+    },
+    {
+      "type": "fill",
+      "sentence": "I waited at baggage ___ for an hour, but my suitcase never came.",
+      "answer": "claim",
+      "hint": "مكان استلام الحقائب"
+    },
+    {
+      "type": "order",
+      "words": [
+        "flight?",
+        "me",
+        "the",
+        "you",
+        "rebook",
+        "on",
+        "Can",
+        "next"
+      ],
+      "answer": "Can you rebook me on the next flight?"
+    },
+    {
+      "type": "mcq",
+      "question": "The hotel sold more rooms than it has. The hotel is ___.",
+      "options": [
+        "stranded",
+        "delayed",
+        "canceled",
+        "overbooked"
+      ],
+      "answer": "overbooked"
+    },
+    {
+      "type": "fill",
+      "sentence": "By the time we landed, the last train had ___.",
+      "answer": "gone",
+      "hint": "غادر / مشي",
+      "accept": [
+        "left"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "my",
+        "flight.",
+        "I",
+        "connecting",
+        "missed"
+      ],
+      "answer": "I missed my connecting flight."
+    },
+    {
+      "type": "mcq",
+      "question": "Your flight is five hours late. The airline gives you a ___ for a free meal.",
+      "options": [
+        "voucher",
+        "boarding pass",
+        "luggage tag",
+        "layover"
+      ],
+      "answer": "voucher"
+    },
+    {
+      "type": "listen",
+      "audioText": "My suitcase didn't arrive with my flight.",
+      "answer": "My suitcase didn't arrive with my flight."
+    }
+  ]
+}

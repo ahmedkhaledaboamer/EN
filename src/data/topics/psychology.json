@@ -1,0 +1,357 @@
+{
+  "slug": "psychology",
+  "title": "Psychology & Wellbeing",
+  "titleAr": "علم النفس والصحة النفسية",
+  "emoji": "🧠",
+  "level": "C1",
+  "description": "Talk about emotions, burnout, motivation, and mental health.",
+  "descriptionAr": "تحدّث عن المشاعر والاحتراق النفسي والدافعية والصحة النفسية.",
+  "words": [
+    {
+      "en": "burnout",
+      "ar": "الاحتراق النفسي / الإنهاك الوظيفي",
+      "phonetic": "/ˈbərnˌaʊt/",
+      "example": "Working eighty hours a week is a fast route to burnout."
+    },
+    {
+      "en": "emotional exhaustion",
+      "ar": "الإرهاق العاطفي / الاستنزاف النفسي",
+      "phonetic": "/ɪˈmoʊʃənəl ɪɡˈzɔstʃən/",
+      "example": "Nurses often suffer from emotional exhaustion after long shifts."
+    },
+    {
+      "en": "set boundaries",
+      "ar": "يضع حدوداً (في العلاقات أو العمل)",
+      "phonetic": "/sɛt ˈbaʊndəriz/",
+      "example": "You need to set boundaries with colleagues who call you at night."
+    },
+    {
+      "en": "resilience",
+      "ar": "المرونة النفسية / القدرة على التعافي",
+      "phonetic": "/rɪˈzɪliəns/",
+      "example": "Her resilience helped her recover after losing her job."
+    },
+    {
+      "en": "self-care",
+      "ar": "الرعاية الذاتية / الاهتمام بالنفس",
+      "phonetic": "/ˌsɛlf ˈkɛr/",
+      "example": "Getting enough sleep is the most basic form of self-care."
+    },
+    {
+      "en": "coping mechanism",
+      "ar": "آلية للتكيّف / وسيلة للتعامل مع الضغط",
+      "phonetic": "/ˈkoʊpɪŋ ˈmɛkəˌnɪzəm/",
+      "example": "For him, running is a healthy coping mechanism."
+    },
+    {
+      "en": "intrinsic motivation",
+      "ar": "الدافع الداخلي / الحافز الذاتي",
+      "phonetic": "/ɪnˈtrɪnzɪk ˌmoʊtəˈveɪʃən/",
+      "example": "Students with intrinsic motivation learn because they enjoy it, not for grades."
+    },
+    {
+      "en": "overwhelmed",
+      "ar": "مُثقَل / مغمور بالضغط",
+      "phonetic": "/ˌoʊvərˈwɛlmd/",
+      "example": "I felt completely overwhelmed by the number of emails."
+    },
+    {
+      "en": "anxiety",
+      "ar": "القلق",
+      "phonetic": "/æŋˈzaɪəti/",
+      "example": "Public speaking gives many people terrible anxiety."
+    },
+    {
+      "en": "work-life balance",
+      "ar": "التوازن بين العمل والحياة",
+      "phonetic": "/ˈwərk ˈlaɪf ˈbæləns/",
+      "example": "Flexible hours have really improved my work-life balance."
+    },
+    {
+      "en": "seek professional help",
+      "ar": "يطلب مساعدة متخصصة",
+      "phonetic": "/sik prəˈfɛʃənəl hɛlp/",
+      "example": "If the symptoms last more than two weeks, seek professional help."
+    },
+    {
+      "en": "therapist",
+      "ar": "معالج نفسي / أخصائي نفسي",
+      "phonetic": "/ˈθɛrəpɪst/",
+      "example": "My therapist taught me how to manage stressful situations."
+    },
+    {
+      "en": "perfectionism",
+      "ar": "الكمالية / السعي إلى الكمال",
+      "phonetic": "/pərˈfɛkʃəˌnɪzəm/",
+      "example": "Her perfectionism made it impossible to finish anything on time."
+    },
+    {
+      "en": "mindfulness",
+      "ar": "اليقظة الذهنية / التأمل الواعي",
+      "phonetic": "/ˈmaɪndfəlnəs/",
+      "example": "Ten minutes of mindfulness every morning helps me stay calm."
+    },
+    {
+      "en": "warning signs",
+      "ar": "علامات تحذيرية / مؤشرات خطر",
+      "phonetic": "/ˈwɔrnɪŋ saɪnz/",
+      "example": "Constant tiredness and irritability are warning signs of stress."
+    },
+    {
+      "en": "bottle up your emotions",
+      "ar": "يكبت مشاعره",
+      "phonetic": "/ˈbɑtəl ʌp jʊr ɪˈmoʊʃənz/",
+      "example": "It's unhealthy to bottle up your emotions for years."
+    },
+    {
+      "en": "stigma",
+      "ar": "وصمة (اجتماعية)",
+      "phonetic": "/ˈstɪɡmə/",
+      "example": "There is still a stigma around mental illness in many cultures."
+    },
+    {
+      "en": "recharge",
+      "ar": "يستعيد طاقته / يشحن طاقته",
+      "phonetic": "/riˈtʃɑrdʒ/",
+      "example": "I spend Saturdays alone so I can recharge."
+    },
+    {
+      "en": "impostor syndrome",
+      "ar": "متلازمة المحتال (الشعور بعدم استحقاق النجاح)",
+      "phonetic": "/ɪmˈpɑstər ˈsɪnˌdroʊm/",
+      "example": "Even successful doctors can suffer from impostor syndrome."
+    },
+    {
+      "en": "mental health",
+      "ar": "الصحة النفسية",
+      "phonetic": "/ˈmɛntəl hɛlθ/",
+      "example": "Our company now offers free mental health support to all employees."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It's essential that you take a break before you burn out.",
+      "ar": "من الضروري أن تأخذ استراحة قبل أن تصل إلى الاحتراق النفسي."
+    },
+    {
+      "en": "My doctor recommended that I see a therapist.",
+      "ar": "نصحني طبيبي بأن أذهب إلى معالج نفسي."
+    },
+    {
+      "en": "It's vital that he not ignore the warning signs.",
+      "ar": "من الضروري جداً ألّا يتجاهل العلامات التحذيرية."
+    },
+    {
+      "en": "I suggest that she talk to someone she trusts.",
+      "ar": "أقترح أن تتحدث إلى شخص تثق به."
+    },
+    {
+      "en": "It's important that every employee have access to mental health support.",
+      "ar": "من المهم أن يحصل كل موظف على دعم للصحة النفسية."
+    },
+    {
+      "en": "The company insists that managers be trained to spot burnout.",
+      "ar": "تُصرّ الشركة على أن يتدرّب المديرون على اكتشاف الاحتراق النفسي."
+    },
+    {
+      "en": "I've been feeling completely overwhelmed at work lately.",
+      "ar": "أشعر في الفترة الأخيرة بأنني مُثقَل تماماً بالضغط في العمل."
+    },
+    {
+      "en": "Talking about your feelings is a healthy coping mechanism.",
+      "ar": "التحدث عن مشاعرك وسيلة صحية للتعامل مع الضغط."
+    },
+    {
+      "en": "I need to set boundaries so I can recharge on weekends.",
+      "ar": "أحتاج إلى وضع حدود حتى أستطيع استعادة طاقتي في عطلات نهاية الأسبوع."
+    },
+    {
+      "en": "Have you ever experienced impostor syndrome at work?",
+      "ar": "هل سبق أن شعرت بمتلازمة المحتال في العمل؟"
+    }
+  ],
+  "story": {
+    "title": "Running on Empty",
+    "text": "Hana had always been the one everyone relied on. At thirty-two, she was the youngest director at her consulting firm, famous for answering emails at midnight and never missing a deadline. Her colleagues admired her; her friends barely saw her. The warning signs appeared slowly. First came the headaches and the sleepless nights. Then she started forgetting simple things, like her sister's birthday. Even small tasks left her feeling overwhelmed, and the work she had once loved now felt meaningless. When she burst into tears in a parking lot after a routine meeting, she finally admitted that something was wrong. Her doctor listened carefully. \"What you're describing sounds like burnout,\" she said. \"It is essential that you take some time off, and I'd strongly recommend that you see a therapist.\" At first, Hana resisted. She worried about the stigma and feared that her team would think she was weak. But after a few sessions, she began to understand how her perfectionism and impostor syndrome had pushed her to the edge. Her therapist suggested that she set boundaries at work and practice mindfulness every morning. \"It's vital that you stop hiding how you feel,\" she said gently. Three months later, Hana returned to the office with a new rule: no emails after seven. She now insists that every new employee be told about the company's mental health support. Burnout, she tells them, is not a sign of weakness. Asking for help is a sign of resilience.",
+    "translation": "كانت هناء دائماً الشخص الذي يعتمد عليه الجميع. ففي الثانية والثلاثين من عمرها، كانت أصغر مديرة في شركة الاستشارات التي تعمل بها، ومعروفة بالرد على الرسائل الإلكترونية في منتصف الليل وعدم تفويت أي موعد نهائي. كان زملاؤها معجبين بها، أما أصدقاؤها فنادراً ما كانوا يرونها. ظهرت العلامات التحذيرية ببطء. في البداية جاءت آلام الرأس والليالي التي لا تنام فيها. ثم بدأت تنسى أشياء بسيطة، مثل عيد ميلاد أختها. وحتى المهام الصغيرة كانت تتركها تشعر بأنها مُثقَلة بالضغط، وأصبح العمل الذي أحبّته يوماً ما يبدو بلا معنى. وعندما انفجرت في البكاء في موقف السيارات بعد اجتماع عادي، اعترفت أخيراً بأن هناك خطباً ما. أصغت إليها طبيبتها بعناية وقالت: «ما تصفينه يبدو احتراقاً نفسياً. من الضروري أن تأخذي إجازة، وأنصحك بشدة بأن تذهبي إلى معالج نفسي.» في البداية، قاومت هناء الفكرة. كانت قلقة من الوصمة وخائفة من أن يظن فريقها أنها ضعيفة. لكن بعد بضع جلسات، بدأت تفهم كيف دفعتها نزعتها إلى الكمال ومتلازمة المحتال إلى حافة الانهيار. واقترحت عليها معالجتها أن تضع حدوداً في العمل وأن تمارس التأمل الواعي كل صباح. وقالت لها بلطف: «من الضروري جداً أن تتوقفي عن إخفاء ما تشعرين به.» وبعد ثلاثة أشهر، عادت هناء إلى المكتب بقاعدة جديدة: لا رسائل إلكترونية بعد السابعة. وهي الآن تُصرّ على أن يُبلَّغ كل موظف جديد بدعم الصحة النفسية الذي تقدّمه الشركة. وتقول لهم إن الاحتراق النفسي ليس علامة ضعف، وإن طلب المساعدة علامة على المرونة النفسية."
+  },
+  "grammar": {
+    "title": "The Subjunctive: It Is Essential That...",
+    "explanationAr": "بعد عبارات مثل It is essential that و It is vital that و It is important that، وبعد أفعال مثل suggest و recommend و insist و demand، نستخدم الفعل في صورته الأساسية (base form) دون أي تغيير، وهذا يسمّى الـ subjunctive. فنقول It is essential that she take a break وليس she takes، حتى مع he و she و it. وفي النفي نضع not قبل الفعل مباشرة: that he not ignore. وفي المبني للمجهول نستخدم be: The company insists that managers be trained. هذا الأسلوب شائع في النصائح الطبية والرسمية ويبدو مهذباً وجاداً في نفس الوقت.",
+    "rule": "It is essential / vital / important / crucial that + subject + base verb\nsuggest / recommend / insist / demand that + subject + base verb\nNegative: that + subject + not + base verb\nPassive: that + subject + be + past participle\nNo -s, no past tense: that she take (NOT takes / took)",
+    "examples": [
+      {
+        "en": "It is essential that she take time off to recharge.",
+        "ar": "من الضروري أن تأخذ إجازة لتستعيد طاقتها."
+      },
+      {
+        "en": "The therapist recommended that he practice mindfulness daily.",
+        "ar": "نصحه المعالج بأن يمارس التأمل الواعي يومياً."
+      },
+      {
+        "en": "It's vital that you not bottle up your emotions.",
+        "ar": "من الضروري جداً ألّا تكبت مشاعرك."
+      },
+      {
+        "en": "HR insists that every case of burnout be taken seriously.",
+        "ar": "تُصرّ إدارة الموارد البشرية على أن تؤخذ كل حالة احتراق نفسي بجدية."
+      },
+      {
+        "en": "I suggest that he seek professional help as soon as possible.",
+        "ar": "أقترح أن يطلب مساعدة متخصصة في أقرب وقت ممكن."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "First Therapy Session",
+    "settingAr": "إنت رايح لأول جلسة مع معالجة نفسية علشان حاسس إنك مضغوط جداً في الشغل.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Therapist",
+        "nameAr": "المعالجة النفسية"
+      },
+      {
+        "id": "B",
+        "name": "Client",
+        "nameAr": "العميل (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Thanks for coming in today. How have you been feeling lately?",
+        "ar": "شكراً إنك جيت النهارده. حاسس بإيه الفترة اللي فاتت؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Honestly, I feel overwhelmed all the time, even on weekends.",
+        "ar": "بصراحة، أنا حاسس إني مضغوط على طول، حتى في الويك إند."
+      },
+      {
+        "speaker": "A",
+        "en": "That sounds exhausting. Are you sleeping well at night?",
+        "ar": "ده شكله مرهق جداً. بتنام كويس بالليل؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Not really. I keep thinking about work and checking my emails at midnight.",
+        "ar": "مش أوي. بفضل أفكر في الشغل وأشيّك على الإيميلات نص الليل."
+      },
+      {
+        "speaker": "A",
+        "en": "Those are common warning signs of burnout. You're not alone in this.",
+        "ar": "دي علامات تحذيرية معروفة للاحتراق النفسي. إنت مش لوحدك في ده."
+      },
+      {
+        "speaker": "B",
+        "en": "My manager suggested that I take a few days off, but I feel guilty.",
+        "ar": "مديري اقترح إني آخد كام يوم إجازة، بس أنا حاسس بالذنب."
+      },
+      {
+        "speaker": "A",
+        "en": "It's essential that you rest. Your mental health has to come first.",
+        "ar": "لازم ترتاح. صحتك النفسية لازم تيجي الأول."
+      },
+      {
+        "speaker": "B",
+        "en": "I know. Maybe I should also set boundaries with my team.",
+        "ar": "عارف. يمكن كمان لازم أحط حدود مع الفريق بتاعي."
+      },
+      {
+        "speaker": "A",
+        "en": "That's a great idea. I'd recommend that you stop working at seven.",
+        "ar": "فكرة ممتازة. أنصحك إنك تبطّل شغل الساعة سبعة."
+      },
+      {
+        "speaker": "B",
+        "en": "It's vital that I try. I'll start this week and see how it goes.",
+        "ar": "مهم جداً إني أجرّب. هبدأ الأسبوع ده وأشوف هيمشي إزاي."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "It is essential that he ___ professional help.",
+      "options": [
+        "seeks",
+        "seek",
+        "sought",
+        "is seeking"
+      ],
+      "answer": "seek"
+    },
+    {
+      "type": "fill",
+      "sentence": "After months of nonstop stress, she was suffering from ___ and could barely get out of bed.",
+      "answer": "burnout",
+      "hint": "الاحتراق النفسي",
+      "accept": [
+        "exhaustion"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "recommended",
+        "therapist.",
+        "My",
+        "a",
+        "that",
+        "see",
+        "doctor",
+        "I"
+      ],
+      "answer": "My doctor recommended that I see a therapist."
+    },
+    {
+      "type": "mcq",
+      "question": "The ability to recover quickly from difficult experiences is called ___.",
+      "options": [
+        "perfectionism",
+        "stigma",
+        "mindfulness",
+        "resilience"
+      ],
+      "answer": "resilience"
+    },
+    {
+      "type": "fill",
+      "sentence": "The manager insisted that every employee ___ given a mental health day.",
+      "answer": "be",
+      "hint": "يُمنَح (صيغة be الأساسية للمجهول)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "set",
+        "It's",
+        "work.",
+        "that",
+        "boundaries",
+        "vital",
+        "at",
+        "you"
+      ],
+      "answer": "It's vital that you set boundaries at work."
+    },
+    {
+      "type": "mcq",
+      "question": "Feeling like a fraud despite your achievements is known as ___.",
+      "options": [
+        "impostor syndrome",
+        "burnout",
+        "anxiety",
+        "work-life balance"
+      ],
+      "answer": "impostor syndrome"
+    },
+    {
+      "type": "listen",
+      "audioText": "It's important that you take care of your mental health.",
+      "answer": "It's important that you take care of your mental health."
+    }
+  ]
+}

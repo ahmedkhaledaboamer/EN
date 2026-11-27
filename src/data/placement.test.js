@@ -30,8 +30,8 @@ describe('scorePlacement', () => {
     expect(scorePlacement({ A1: 6, A2: 2, B1: 6 })).toMatchObject({ level: 'A1', startLevel: 'A2' });
   });
 
-  it('caps at B2 when everything is passed', () => {
-    expect(scorePlacement({ A1: 6, A2: 6, B1: 6, B2: 6 })).toMatchObject({ level: 'B2', startLevel: 'B2' });
+  it('sends learners who pass every stage to C1', () => {
+    expect(scorePlacement({ A1: 6, A2: 6, B1: 6, B2: 6 })).toMatchObject({ level: 'B2', startLevel: 'C1' });
   });
 });
 
@@ -45,10 +45,10 @@ describe("today's topic after placement", () => {
     expect(today.result.current.topic.level).toBe('B1');
   });
 
-  it('falls back to the highest available level when placed above the content', () => {
+  it('starts advanced learners at C1', () => {
     const today = renderHook(() => useTodayTopic());
     const placement = renderHook(() => usePlacement());
     act(() => placement.result.current.savePlacement(scorePlacement({ A1: 6, A2: 6, B1: 6, B2: 6 })));
-    expect(today.result.current.topic.level).toBe('B1');
+    expect(today.result.current.topic.level).toBe('C1');
   });
 });

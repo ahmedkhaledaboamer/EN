@@ -1,0 +1,359 @@
+{
+  "slug": "humor-wordplay",
+  "title": "Humor, Sarcasm & Wordplay",
+  "titleAr": "الفكاهة والسخرية واللعب بالكلمات",
+  "emoji": "😏",
+  "level": "C2",
+  "description": "Recognize sarcasm, irony, understatement, and puns.",
+  "descriptionAr": "تعرّف على السخرية والمفارقة والتهوين المقصود والتورية.",
+  "words": [
+    {
+      "en": "sarcasm",
+      "ar": "سخرية / تهكّم",
+      "phonetic": "/ˈsɑrˌkæzəm/",
+      "example": "I couldn't tell if he was serious or if it was sarcasm."
+    },
+    {
+      "en": "irony",
+      "ar": "مفارقة / سخرية (قول عكس المقصود)",
+      "phonetic": "/ˈaɪrəni/",
+      "example": "The irony is that the fire station burned down."
+    },
+    {
+      "en": "pun",
+      "ar": "تورية / لعب بالألفاظ",
+      "phonetic": "/pʌn/",
+      "example": "The headline was a clever pun on the coach's name."
+    },
+    {
+      "en": "understatement",
+      "ar": "تهوين مقصود / التقليل من شأن الشيء",
+      "phonetic": "/ˈʌndərˌsteɪtmənt/",
+      "example": "Calling the hurricane \"a bit windy\" was quite an understatement."
+    },
+    {
+      "en": "deadpan",
+      "ar": "بوجه جامد / بلا تعبير (عند المزاح)",
+      "phonetic": "/ˈdɛdˌpæn/",
+      "example": "She delivered the joke in a perfectly deadpan voice."
+    },
+    {
+      "en": "tongue-in-cheek",
+      "ar": "على سبيل المزاح / بنبرة ساخرة غير جادة",
+      "phonetic": "/ˌtʌŋ ɪn ˈtʃik/",
+      "example": "His tongue-in-cheek review praised the hotel's \"charming\" cockroaches."
+    },
+    {
+      "en": "dry sense of humor",
+      "ar": "حسّ فكاهي جاف / دعابة هادئة بلا انفعال",
+      "phonetic": "/ˈdraɪ ˈsɛns əv ˈhjumər/",
+      "example": "My boss has a dry sense of humor, so I never know when she's joking."
+    },
+    {
+      "en": "play on words",
+      "ar": "تلاعب بالكلمات",
+      "phonetic": "/ˈpleɪ ɑn ˈwərdz/",
+      "example": "The shop's name is a play on words."
+    },
+    {
+      "en": "punchline",
+      "ar": "الجملة الأخيرة في النكتة / مربط الفرس",
+      "phonetic": "/ˈpʌntʃˌlaɪn/",
+      "example": "He forgot the punchline halfway through the joke."
+    },
+    {
+      "en": "self-deprecating",
+      "ar": "يسخر من نفسه / متواضع بفكاهة",
+      "phonetic": "/ˌsɛlf ˈdɛprəˌkeɪtɪŋ/",
+      "example": "Her self-deprecating humor made the audience love her."
+    },
+    {
+      "en": "banter",
+      "ar": "مزاح ودّي / مناكفة لطيفة",
+      "phonetic": "/ˈbæntər/",
+      "example": "The office banter on Fridays is the best part of the week."
+    },
+    {
+      "en": "pull someone's leg",
+      "ar": "يمزح مع شخص / يضحك عليه (على سبيل الهزار)",
+      "phonetic": "/ˈpʊl ˈsʌmˌwʌnz ˈlɛɡ/",
+      "example": "It's unkind to pull someone's leg about something they're sensitive about."
+    },
+    {
+      "en": "lost in translation",
+      "ar": "ضاع في الترجمة / فقد معناه عند الترجمة",
+      "phonetic": "/ˈlɔst ɪn trænzˈleɪʃən/",
+      "example": "Most of the jokes were lost in translation."
+    },
+    {
+      "en": "Well, that went well",
+      "ar": "يا سلام، ده كان رائعاً (بسخرية = كان كارثة)",
+      "phonetic": "/wɛl ðæt wɛnt ˈwɛl/",
+      "example": "After the client walked out, Tom sighed, \"Well, that went well.\""
+    },
+    {
+      "en": "Oh, great",
+      "ar": "يا سلام! / عظيم! (بسخرية = مصيبة)",
+      "phonetic": "/oʊ ˈɡreɪt/",
+      "example": "Oh, great, the Wi-Fi is down again."
+    },
+    {
+      "en": "Tell me about it",
+      "ar": "قولّي عليه! / أنا أدرى (للموافقة بشدة)",
+      "phonetic": "/ˈtɛl mi əˈbaʊt ɪt/",
+      "example": "\"This traffic is unbelievable.\" \"Tell me about it.\""
+    },
+    {
+      "en": "not exactly",
+      "ar": "ليس تماماً (بتهوين = أبداً / بالعكس)",
+      "phonetic": "/nɑt ɪɡˈzæktli/",
+      "example": "The hotel was not exactly cheap."
+    },
+    {
+      "en": "Thanks for nothing",
+      "ar": "شكراً على ولا حاجة (بسخرية)",
+      "phonetic": "/ˈθæŋks fər ˈnʌθɪŋ/",
+      "example": "You knew about the delay and didn't tell me? Thanks for nothing."
+    },
+    {
+      "en": "keep a straight face",
+      "ar": "يحافظ على جدّية ملامحه / يمسك نفسه عن الضحك",
+      "phonetic": "/kip ə ˈstreɪt ˈfeɪs/",
+      "example": "I couldn't keep a straight face when he walked in wearing that hat."
+    },
+    {
+      "en": "witty",
+      "ar": "ظريف / سريع البديهة",
+      "phonetic": "/ˈwɪti/",
+      "example": "She's famous for her witty replies on social media."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Well, that went well. Nobody even clapped.",
+      "ar": "يا سلام، كان رائعاً فعلاً. لم يصفّق أحد حتى."
+    },
+    {
+      "en": "It's not exactly the best time to ask for a raise.",
+      "ar": "ليس هذا بالضبط أفضل وقت لطلب زيادة في الراتب."
+    },
+    {
+      "en": "Was that sarcasm, or are you being serious?",
+      "ar": "هل كان هذا سخرية، أم أنك جاد؟"
+    },
+    {
+      "en": "She has a very dry sense of humor.",
+      "ar": "لديها حسّ فكاهي جاف جداً."
+    },
+    {
+      "en": "Oh, great, the elevator is broken again.",
+      "ar": "يا سلام! المصعد معطّل مرة أخرى."
+    },
+    {
+      "en": "I'm not the world's greatest cook, as you can probably tell.",
+      "ar": "لست أعظم طباخ في العالم، كما تلاحظ على الأرجح."
+    },
+    {
+      "en": "Don't worry, I'm just pulling your leg.",
+      "ar": "لا تقلق، أنا أمزح معك فقط."
+    },
+    {
+      "en": "The joke was a clever play on words.",
+      "ar": "كانت النكتة تلاعباً ذكياً بالكلمات."
+    },
+    {
+      "en": "We've hit a bit of a snag with the budget.",
+      "ar": "واجهتنا عقبة صغيرة في الميزانية (أي مشكلة كبيرة)."
+    },
+    {
+      "en": "His comments were tongue-in-cheek, so don't take them literally.",
+      "ar": "كانت تعليقاته على سبيل المزاح، فلا تأخذها حرفياً."
+    }
+  ],
+  "story": {
+    "title": "Lovely Weather for a Picnic",
+    "text": "When Omar, an Egyptian engineer, joined a design firm in Manchester, he expected technical challenges. He didn't expect the humor. On his first Monday, it rained heavily, and his colleague James looked out the window and said, \"Lovely weather for a picnic.\" Omar checked the forecast in confusion. Later, when the printer jammed for the third time, James sighed, \"Oh, great. My favorite machine.\" Omar politely offered to fix it, unaware that it was sarcasm. The real misunderstanding came during a project meeting. Their presentation crashed halfway through, the client left early, and James turned to Omar and said, completely deadpan, \"Well, that went well.\" Omar replied seriously, \"Really? I thought it was a disaster.\" The whole team burst out laughing. Afterward, James explained. \"British humor is mostly understatement and irony. If I say something is 'not bad,' I probably love it. If I say a crisis is 'a bit of a problem,' run.\" Omar realized that his colleagues weren't being rude; it was simply their dry sense of humor. Slowly, he started to join in the banter. A few weeks later, when James spilled coffee all over his keyboard, Omar tried hard to keep a straight face and said, \"That's not exactly your finest moment.\" James grinned. \"Was that sarcasm? I'm so proud.\" Omar even taught them an Egyptian joke, though the pun was completely lost in translation. \"Don't worry,\" James laughed. \"Half my jokes don't survive a trip across the street.\"",
+    "translation": "عندما انضم عمر، وهو مهندس مصري، إلى شركة تصميم في مانشستر، توقّع تحديات تقنية، لكنه لم يتوقع الفكاهة. في أول يوم اثنين له، هطل المطر بغزارة، فنظر زميله جيمس من النافذة وقال: «طقس رائع للنزهة.» تحقق عمر من النشرة الجوية في حيرة. وفي وقت لاحق، عندما تعطلت الطابعة للمرة الثالثة، تنهّد جيمس قائلاً: «يا سلام. آلتي المفضلة.» عرض عمر بأدب أن يصلحها، دون أن يدرك أن كلامه كان سخرية. أما سوء الفهم الحقيقي فحدث خلال اجتماع لمشروع. فقد توقف العرض التقديمي في منتصفه، وغادر العميل مبكراً، فالتفت جيمس إلى عمر وقال بوجه جامد تماماً: «يا سلام، كان ذلك رائعاً.» ردّ عمر بجدية: «حقاً؟ ظننت أنه كان كارثة.» انفجر الفريق كله ضاحكاً. بعد ذلك، شرح جيمس قائلاً: «الفكاهة البريطانية في معظمها تهوين مقصود ومفارقة. إذا قلت إن شيئاً ما ‹ليس سيئاً›، فأنا على الأرجح أحبه. وإذا قلت إن أزمة ما ‹مشكلة صغيرة›، فاهرب.» أدرك عمر أن زملاءه لم يكونوا وقحين؛ بل كان ذلك ببساطة حسّهم الفكاهي الجاف. وبالتدريج، بدأ يشاركهم المزاح. وبعد بضعة أسابيع، عندما سكب جيمس القهوة على لوحة مفاتيحه، حاول عمر جاهداً أن يمسك نفسه عن الضحك وقال: «هذه ليست بالضبط أفضل لحظاتك.» ابتسم جيمس ابتسامة عريضة وقال: «هل كانت تلك سخرية؟ أنا فخور بك جداً.» بل إن عمر علّمهم نكتة مصرية، لكن التورية فيها ضاعت تماماً في الترجمة. ضحك جيمس وقال: «لا تقلق. نصف نكاتي لا تصمد حتى عند عبور الشارع.»"
+  },
+  "grammar": {
+    "title": "Irony and Understatement",
+    "explanationAr": "في الإنجليزية، وخاصة في الثقافة البريطانية والأمريكية، كثيراً ما يقول المتحدث عكس ما يقصده (irony أو sarcasm)، أو يقلّل من قوة المعنى عمداً (understatement). فجملة Well, that went well بعد اجتماع فاشل تعني «كان كارثة». ومن أشهر أدوات التهوين: not exactly + صفة إيجابية، مثل It's not exactly cheap أي «غالٍ جداً»، و not the most + صفة، و a bit of a + اسم، مثل It's a bit of a problem. نبرة الصوت والسياق هما ما يكشفان المعنى الحقيقي، لذلك انتبه إلى الموقف لا إلى الكلمات وحدها.",
+    "rule": "Irony: say the opposite → Well, that went well. (= It went badly.)\nnot exactly + positive adjective → It's not exactly cheap. (= It's very expensive.)\nnot the most + adjective + noun → He's not the most patient person.\na bit of a + noun → It's a bit of a problem. (= a big problem)\nnot bad / not bad at all → quite good, even excellent",
+    "examples": [
+      {
+        "en": "The restaurant is not exactly cheap, but the food is amazing.",
+        "ar": "المطعم ليس رخيصاً بالضبط (أي غالٍ جداً)، لكن الطعام رائع."
+      },
+      {
+        "en": "Oh, great, another meeting that could have been an email.",
+        "ar": "يا سلام، اجتماع آخر كان يمكن أن يكون مجرد رسالة بريد إلكتروني."
+      },
+      {
+        "en": "He's not the most punctual person I've ever met.",
+        "ar": "ليس أكثر شخص منضبط في مواعيده قابلته في حياتي (أي يتأخر دائماً)."
+      },
+      {
+        "en": "We have a bit of a problem: the server is on fire.",
+        "ar": "لدينا مشكلة صغيرة: الخادم يحترق."
+      },
+      {
+        "en": "Ninety-eight percent on the exam? Not bad, not bad at all.",
+        "ar": "ثمانية وتسعون في المئة في الامتحان؟ ليس سيئاً، ليس سيئاً على الإطلاق (أي ممتاز)."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Learning the Office Humor",
+    "settingAr": "إنت موظف جديد في شركة في إنجلترا، وزميلة بريطانية بتهزر معاك بسخرية وإنت بتحاول ترد بنفس الأسلوب.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "British Colleague",
+        "nameAr": "الزميلة البريطانية"
+      },
+      {
+        "id": "B",
+        "name": "New Employee",
+        "nameAr": "الموظف الجديد (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "So, how was your first week? Living the dream yet?",
+        "ar": "ها، أول أسبوع كان عامل إزاي؟ عايش الحلم ولا لسه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Well, my laptop crashed twice, so it hasn't exactly been smooth.",
+        "ar": "بص، اللابتوب وقع مني مرتين، فمش بالظبط كان ماشي حلو."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, brilliant. Tech support here is famously fast, by the way.",
+        "ar": "يا سلام. على فكرة، الدعم الفني هنا مشهور إنه سريع جداً."
+      },
+      {
+        "speaker": "B",
+        "en": "Is that sarcasm? I waited three days for them to reply.",
+        "ar": "ده تريقة؟ أنا استنيت تلات أيام لحد ما ردوا."
+      },
+      {
+        "speaker": "A",
+        "en": "Ha, you're catching on quickly. Yes, that was sarcasm.",
+        "ar": "هههه، إنت بتفهم بسرعة. أيوه، كانت تريقة."
+      },
+      {
+        "speaker": "B",
+        "en": "And yesterday the client walked out of my presentation. Well, that went well.",
+        "ar": "وامبارح العميل مشي من نص العرض بتاعي. يا سلام، كان عظيم."
+      },
+      {
+        "speaker": "A",
+        "en": "Exactly! That's the deadpan tone you need. You're a natural.",
+        "ar": "بالظبط! هي دي النبرة الجامدة اللي محتاجها. إنت موهوب."
+      },
+      {
+        "speaker": "B",
+        "en": "Tell me about it. I've been practicing my poker face all week.",
+        "ar": "ما تقوليش. أنا بتمرن على الوش الجامد طول الأسبوع."
+      },
+      {
+        "speaker": "A",
+        "en": "Careful, soon nobody will know when you're pulling their leg.",
+        "ar": "خلي بالك، قريب محدش هيعرف إمتى إنت بتهزر معاه."
+      },
+      {
+        "speaker": "B",
+        "en": "Don't worry, I'll only keep a straight face on Fridays.",
+        "ar": "ما تقلقيش، هعمل الوش الجد ده يوم الجمعة بس."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "After a terrible presentation, your colleague says, \"Well, that went well.\" What does he mean?",
+      "options": [
+        "The presentation went badly.",
+        "The presentation was a success.",
+        "He wants to give it again.",
+        "He didn't see the presentation."
+      ],
+      "answer": "The presentation went badly."
+    },
+    {
+      "type": "fill",
+      "sentence": "The hotel was not ___ cheap; it cost us a small fortune.",
+      "answer": "exactly",
+      "hint": "بالضبط / تماماً (للتهوين الساخر)",
+      "accept": [
+        "really"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "best",
+        "not",
+        "time",
+        "It's",
+        "complain.",
+        "exactly",
+        "to",
+        "the"
+      ],
+      "answer": "It's not exactly the best time to complain."
+    },
+    {
+      "type": "mcq",
+      "question": "\"Why did the scarecrow win an award? Because he was outstanding in his field.\" This joke is based on a ___.",
+      "options": [
+        "sarcasm",
+        "understatement",
+        "pun",
+        "deadpan"
+      ],
+      "answer": "pun"
+    },
+    {
+      "type": "fill",
+      "sentence": "He told the joke with a completely ___ expression, so nobody realized he was joking.",
+      "answer": "deadpan",
+      "hint": "جامد / بلا تعبير",
+      "accept": [
+        "straight"
+      ]
+    },
+    {
+      "type": "order",
+      "words": [
+        "leg.",
+        "worry,",
+        "pulling",
+        "Don't",
+        "just",
+        "your",
+        "I'm"
+      ],
+      "answer": "Don't worry, I'm just pulling your leg."
+    },
+    {
+      "type": "mcq",
+      "question": "Which sentence is an understatement?",
+      "options": [
+        "I'm absolutely furious!",
+        "This is the worst day of my life.",
+        "I love this weather so much.",
+        "The flood caused a bit of a problem."
+      ],
+      "answer": "The flood caused a bit of a problem."
+    },
+    {
+      "type": "listen",
+      "audioText": "Oh, great, the train is delayed again. Just what I needed.",
+      "answer": "Oh, great, the train is delayed again. Just what I needed."
+    }
+  ]
+}

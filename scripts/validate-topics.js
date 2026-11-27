@@ -19,7 +19,15 @@ const INDEX_FILE = path.join(TOPICS_DIR, 'index.js');
 const COUNTS = { words: 20, sentences: 10, exercises: 8 };
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 const EXERCISE_TYPES = ['mcq', 'fill', 'order', 'listen'];
-const STORY_WORDS = { min: 120, max: 180 };
+// Story length target grows with the level
+const STORY_WORDS = {
+  A1: { min: 120, max: 180 },
+  A2: { min: 120, max: 180 },
+  B1: { min: 120, max: 180 },
+  B2: { min: 150, max: 220 },
+  C1: { min: 180, max: 260 },
+  C2: { min: 180, max: 260 },
+};
 const ARABIC_RE = /[؀-ۿ]/;
 
 const c = {
@@ -100,8 +108,9 @@ function validateTopic(file) {
     arabic(t.story.translation, 'story.translation');
     if (isNonEmptyString(t.story.text)) {
       const n = tokens(t.story.text).length;
-      if (n < STORY_WORDS.min || n > STORY_WORDS.max) {
-        warn(`story has ${n} words (target ${STORY_WORDS.min}-${STORY_WORDS.max})`);
+      const range = STORY_WORDS[t.level] ?? STORY_WORDS.A1;
+      if (n < range.min || n > range.max) {
+        warn(`story has ${n} words (target ${range.min}-${range.max} for ${t.level})`);
       }
     }
   }

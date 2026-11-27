@@ -1,0 +1,352 @@
+{
+  "slug": "healthy-lifestyle",
+  "title": "Healthy Lifestyle",
+  "titleAr": "نمط حياة صحي",
+  "emoji": "🥗",
+  "level": "B1",
+  "description": "Talk about food, sleep, stress, and healthy habits.",
+  "descriptionAr": "تحدّث عن الأكل والنوم والضغط النفسي والعادات الصحية.",
+  "words": [
+    {
+      "en": "habit",
+      "ar": "عادة",
+      "phonetic": "/ˈhæbɪt/",
+      "example": "Drinking water in the morning is a good habit."
+    },
+    {
+      "en": "balanced diet",
+      "ar": "نظام غذائي متوازن",
+      "phonetic": "/ˈbælənst ˈdaɪət/",
+      "example": "A balanced diet includes fruit, vegetables, and protein."
+    },
+    {
+      "en": "junk food",
+      "ar": "الأكل غير الصحي / الوجبات السريعة",
+      "phonetic": "/ˈdʒʌŋk ˌfud/",
+      "example": "I eat too much junk food when I'm busy."
+    },
+    {
+      "en": "portion",
+      "ar": "حصة / كمية الطعام",
+      "phonetic": "/ˈpɔrʃən/",
+      "example": "Restaurant portions are often too big."
+    },
+    {
+      "en": "processed food",
+      "ar": "الأطعمة المصنّعة",
+      "phonetic": "/ˈprɑsɛst ˌfud/",
+      "example": "Processed food usually has a lot of salt."
+    },
+    {
+      "en": "hydrated",
+      "ar": "مُرتوٍ (جسمه فيه مياه كفاية)",
+      "phonetic": "/ˈhaɪdreɪtɪd/",
+      "example": "Drink water during the day to stay hydrated."
+    },
+    {
+      "en": "stress",
+      "ar": "ضغط نفسي / توتر",
+      "phonetic": "/strɛs/",
+      "example": "Walking helps me deal with stress."
+    },
+    {
+      "en": "burnout",
+      "ar": "إرهاق شديد من العمل / احتراق نفسي",
+      "phonetic": "/ˈbərnˌaʊt/",
+      "example": "Working twelve hours a day can lead to burnout."
+    },
+    {
+      "en": "workout",
+      "ar": "تمرين رياضي",
+      "phonetic": "/ˈwərkˌaʊt/",
+      "example": "I do a short workout before breakfast."
+    },
+    {
+      "en": "stretch",
+      "ar": "يتمطّع / يعمل تمارين إطالة",
+      "phonetic": "/strɛtʃ/",
+      "example": "Stand up and stretch every hour."
+    },
+    {
+      "en": "energy",
+      "ar": "طاقة / نشاط",
+      "phonetic": "/ˈɛnərdʒi/",
+      "example": "I have more energy when I sleep well."
+    },
+    {
+      "en": "exhausted",
+      "ar": "منهك / مرهق جداً",
+      "phonetic": "/ɪɡˈzɔstɪd/",
+      "example": "I felt exhausted after the long week."
+    },
+    {
+      "en": "screen time",
+      "ar": "وقت استخدام الشاشات",
+      "phonetic": "/ˈskrin ˌtaɪm/",
+      "example": "Too much screen time at night hurts my sleep."
+    },
+    {
+      "en": "routine",
+      "ar": "روتين",
+      "phonetic": "/ruˈtin/",
+      "example": "My morning routine starts with a glass of water."
+    },
+    {
+      "en": "sleep schedule",
+      "ar": "مواعيد النوم",
+      "phonetic": "/ˈslip ˌskɛdʒul/",
+      "example": "A regular sleep schedule is good for your health."
+    },
+    {
+      "en": "caffeine",
+      "ar": "كافيين",
+      "phonetic": "/kæˈfin/",
+      "example": "I try not to have caffeine after four o'clock."
+    },
+    {
+      "en": "skip",
+      "ar": "يفوّت / يتخطى (وجبة مثلاً)",
+      "phonetic": "/skɪp/",
+      "example": "I often skip breakfast when I'm late."
+    },
+    {
+      "en": "posture",
+      "ar": "وضعية الجسم / طريقة القعدة",
+      "phonetic": "/ˈpɑstʃər/",
+      "example": "Bad posture at the desk gives me back pain."
+    },
+    {
+      "en": "cut down on",
+      "ar": "يقلل من",
+      "phonetic": "/ˌkʌt ˈdaʊn ɑn/",
+      "example": "I want to cut down on sugar."
+    },
+    {
+      "en": "get in shape",
+      "ar": "يحسّن لياقته",
+      "phonetic": "/ˌɡɛt ɪn ˈʃeɪp/",
+      "example": "She started swimming to get in shape."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "If I drink coffee at night, I can't sleep.",
+      "ar": "إذا شربت القهوة في الليل، لا أستطيع النوم."
+    },
+    {
+      "en": "Eating late makes me tired the next morning.",
+      "ar": "الأكل في وقت متأخر يجعلني متعباً في الصباح التالي."
+    },
+    {
+      "en": "Walking every day helps me deal with stress.",
+      "ar": "المشي كل يوم يساعدني على التعامل مع التوتر."
+    },
+    {
+      "en": "If you skip breakfast, you feel hungry all morning.",
+      "ar": "إذا فوّتّ الإفطار، تشعر بالجوع طوال الصباح."
+    },
+    {
+      "en": "Sleeping eight hours gives me more energy.",
+      "ar": "النوم ثماني ساعات يعطيني طاقة أكثر."
+    },
+    {
+      "en": "I'm trying to cut down on junk food.",
+      "ar": "أحاول أن أقلل من الأكل غير الصحي."
+    },
+    {
+      "en": "How many hours do you usually sleep?",
+      "ar": "كم ساعة تنام عادةً؟"
+    },
+    {
+      "en": "When I sit for too long, my back hurts.",
+      "ar": "عندما أجلس لفترة طويلة، يؤلمني ظهري."
+    },
+    {
+      "en": "Drinking enough water is important.",
+      "ar": "شرب كمية كافية من الماء أمر مهم."
+    },
+    {
+      "en": "I go to the gym three times a week to get in shape.",
+      "ar": "أذهب إلى النادي ثلاث مرات في الأسبوع لأحسّن لياقتي."
+    }
+  ],
+  "story": {
+    "title": "Karim Changes His Code",
+    "text": "Karim is a software developer. Last year, he felt exhausted all the time. He worked late, drank five cups of coffee a day, and often skipped lunch. At night, he ate junk food in front of his laptop. His back hurt because of his bad posture. One day his doctor said, \"Your body is tired, not your brain. If you don't change your habits, you will get burnout.\" So Karim made a plan. First, he cut down on caffeine. He noticed something simple: if he drinks coffee after four, he can't sleep. Next, he started a new sleep schedule and went to bed at eleven every night. Eating a real lunch with his team became part of his routine. He also set an alarm to stand up and stretch every hour. On weekends, he does a short workout in the park. Now Karim says, \"Sleeping well gives me more energy than any cup of coffee.\"",
+    "translation": "كريم مطوّر برمجيات. في العام الماضي، كان يشعر بالإرهاق الشديد طوال الوقت. كان يعمل حتى وقت متأخر، ويشرب خمسة أكواب قهوة في اليوم، وغالباً ما يفوّت الغداء. وفي الليل، كان يأكل أكلاً غير صحي أمام اللابتوب. وكان ظهره يؤلمه بسبب وضعية جلوسه السيئة. وفي يوم قال له الطبيب: «جسمك هو المتعب، وليس عقلك. إذا لم تغيّر عاداتك، ستصاب بالاحتراق النفسي.» فوضع كريم خطة. أولاً، قلّل من الكافيين. ولاحظ شيئاً بسيطاً: إذا شرب القهوة بعد الساعة الرابعة، لا يستطيع النوم. بعد ذلك، بدأ مواعيد نوم جديدة وصار ينام في الحادية عشرة كل ليلة. وأصبح تناول غداء حقيقي مع فريقه جزءاً من روتينه. كما ضبط منبهاً ليقف ويتمطّع كل ساعة. وفي عطلات نهاية الأسبوع، يقوم بتمرين قصير في الحديقة. والآن يقول كريم: «النوم الجيد يعطيني طاقة أكثر من أي كوب قهوة.»"
+  },
+  "grammar": {
+    "title": "Zero conditional and gerunds as subjects",
+    "explanationAr": "نستخدم الـ zero conditional للحديث عن حقائق ونتائج تحدث دائماً، والتركيب هو If + مضارع بسيط، ثم مضارع بسيط، مثل: If I drink coffee at night, I can't sleep. ويمكن استخدام When بدلاً من If بنفس المعنى تقريباً. ونستخدم أيضاً الفعل + ing كفاعل في أول الجملة للحديث عن نشاط، مثل: Eating late makes me tired. لاحظ أن الـ gerund يُعامل كاسم مفرد، لذلك نقول makes و gives وليس make و give.",
+    "rule": "Zero conditional: If / When + present simple, present simple\nIf I skip breakfast, I feel hungry.\nGerund as subject: verb-ing + singular verb\nEating late makes me tired.",
+    "examples": [
+      {
+        "en": "If you sleep well, you have more energy.",
+        "ar": "إذا نمت جيداً، يكون لديك طاقة أكثر."
+      },
+      {
+        "en": "When I skip lunch, I eat junk food later.",
+        "ar": "عندما أفوّت الغداء، آكل أكلاً غير صحي لاحقاً."
+      },
+      {
+        "en": "Drinking water keeps you hydrated.",
+        "ar": "شرب الماء يحافظ على ارتواء جسمك."
+      },
+      {
+        "en": "Too much screen time makes it hard to sleep.",
+        "ar": "الوقت الطويل أمام الشاشات يجعل النوم صعباً."
+      },
+      {
+        "en": "Stretching every hour helps your posture.",
+        "ar": "التمطّع كل ساعة يحسّن وضعية جسمك."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "Talking to a Fitness Coach",
+    "settingAr": "إنت رايح الجيم لأول مرة وبتتكلم مع المدرب عن عاداتك اليومية.",
+    "roles": [
+      {
+        "id": "A",
+        "name": "Coach",
+        "nameAr": "المدرب"
+      },
+      {
+        "id": "B",
+        "name": "New Member",
+        "nameAr": "العضو الجديد (إنت)"
+      }
+    ],
+    "learnerRole": "B",
+    "lines": [
+      {
+        "speaker": "A",
+        "en": "Welcome! So, why do you want to join the gym?",
+        "ar": "أهلاً بيك! قولي بقى، عايز تشترك في الجيم ليه؟"
+      },
+      {
+        "speaker": "B",
+        "en": "I want to get in shape. I feel tired all the time.",
+        "ar": "عايز أحسّن لياقتي. أنا تعبان طول الوقت."
+      },
+      {
+        "speaker": "A",
+        "en": "I see. How many hours do you sleep?",
+        "ar": "فاهم. بتنام كام ساعة؟"
+      },
+      {
+        "speaker": "B",
+        "en": "About five. If I go to bed early, I can't sleep.",
+        "ar": "حوالي خمسة. لو نمت بدري، مش بعرف أنام."
+      },
+      {
+        "speaker": "A",
+        "en": "Do you drink a lot of coffee?",
+        "ar": "بتشرب قهوة كتير؟"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, about four cups. Drinking coffee helps me work.",
+        "ar": "أيوه، حوالي أربع فناجين. شرب القهوة بيساعدني أشتغل."
+      },
+      {
+        "speaker": "A",
+        "en": "Try to cut down on caffeine after lunch.",
+        "ar": "حاول تقلل الكافيين بعد الغدا."
+      },
+      {
+        "speaker": "B",
+        "en": "Okay. What kind of workout should I start with?",
+        "ar": "ماشي. أبدأ بأنهي نوع تمرين؟"
+      },
+      {
+        "speaker": "A",
+        "en": "Three short workouts a week. Walking also reduces stress.",
+        "ar": "تلات تمرينات قصيرة في الأسبوع. والمشي كمان بيقلل التوتر."
+      },
+      {
+        "speaker": "B",
+        "en": "Sounds good. I'll start on Monday.",
+        "ar": "كلام حلو. هبدأ يوم الاتنين."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Eating late make me tired.",
+        "Eat late makes me tired.",
+        "Eating late makes me tired.",
+        "Eating late making me tired."
+      ],
+      "answer": "Eating late makes me tired."
+    },
+    {
+      "type": "fill",
+      "sentence": "If I drink coffee at night, I ___ sleep.",
+      "answer": "can't",
+      "hint": "لا أستطيع",
+      "accept": ["cannot"]
+    },
+    {
+      "type": "order",
+      "words": [
+        "on",
+        "to",
+        "I",
+        "down",
+        "want",
+        "sugar.",
+        "cut"
+      ],
+      "answer": "I want to cut down on sugar."
+    },
+    {
+      "type": "mcq",
+      "question": "You feel extremely tired after working twelve hours a day for months. This is called ___.",
+      "options": [
+        "burnout",
+        "posture",
+        "a portion",
+        "a routine"
+      ],
+      "answer": "burnout"
+    },
+    {
+      "type": "fill",
+      "sentence": "Drink water during the day to stay ___.",
+      "answer": "hydrated",
+      "hint": "مُرتوٍ (جسمك فيه مياه كفاية)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "me",
+        "energy.",
+        "gives",
+        "Sleeping",
+        "more",
+        "well"
+      ],
+      "answer": "Sleeping well gives me more energy."
+    },
+    {
+      "type": "mcq",
+      "question": "If you skip breakfast, you ___ hungry all morning.",
+      "options": [
+        "felt",
+        "feel",
+        "will felt",
+        "feeling"
+      ],
+      "answer": "feel"
+    },
+    {
+      "type": "listen",
+      "audioText": "Walking every day helps me deal with stress.",
+      "answer": "Walking every day helps me deal with stress."
+    }
+  ]
+}
