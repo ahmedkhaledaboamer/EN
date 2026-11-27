@@ -4,6 +4,7 @@ import Hero from '../components/home/Hero';
 import StatsRow from '../components/home/StatsRow';
 import TodayTopic from '../components/home/TodayTopic';
 import ReviewBanner from '../components/home/ReviewBanner';
+import GamesStrip from '../components/home/GamesStrip';
 import PlacementBanner from '../components/home/PlacementBanner';
 import TopicsGrid from '../components/topics/TopicsGrid';
 import LevelGroupedGrid from '../components/topics/LevelGroupedGrid';
@@ -77,6 +78,8 @@ export default function Home() {
         progress={todayTopic ? getTopicProgress(todayTopic) : null}
         allDone={allDone}
       />
+
+      <GamesStrip />
 
       <section id="topics" aria-labelledby="topics-title" className="mt-20 scroll-mt-24 pb-10 sm:mt-28">
         <SectionHeading

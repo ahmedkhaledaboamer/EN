@@ -13,6 +13,7 @@ import Pronunciation from './pages/Pronunciation';
 import SoundGroupPage from './pages/SoundGroupPage';
 import ProgressPage from './pages/ProgressPage';
 import DailySession from './pages/DailySession';
+import Games from './pages/Games';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -32,6 +33,7 @@ export default function App() {
         <Route path="pronunciation/:id" element={<SoundGroupPage />} />
         <Route path="progress" element={<ProgressPage />} />
         <Route path="today" element={<DailySession />} />
+        <Route path="games" element={<Games />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

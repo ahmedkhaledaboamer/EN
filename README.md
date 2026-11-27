@@ -179,6 +179,9 @@ with `--topics` or `--essentials`.
   accepted) and 75% counts as correct. Added to every topic's Practice and to the daily session.
 - **Shadowing**: in the Story and Dialogue tabs, hear each sentence then repeat it into the microphone, with a score
   per sentence.
+- **Games (/games)**: Match (pair words with meanings, fastest time), Speed round (60 seconds, combo counter) and
+  Spelling (hear the word, type it, wrong letters marked). Play with your learned/saved words, today's topic, any topic
+  or any essentials category. Best scores are saved in `ebs:games`; helpers live in `src/utils/games.js`.
 - **Sounds (/pronunciation)**: 6 minimal-pair groups that Arabic speakers mix up (p/b, f/v, th/s, th/d, ship/sheep,
   pen/pin) with an Arabic tip, a listening quiz ("which word did you hear?") and a "say it" microphone check.
   Content lives in `src/data/pronunciation.js`.
@@ -201,7 +204,7 @@ with `--topics` or `--essentials`.
   from topics, and the Home stats show completed categories and learned items.
 - **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`,
   `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`, `ebs:placement`,
-  `ebs:pronunciation`, `ebs:activity`, `ebs:session`.
+  `ebs:pronunciation`, `ebs:activity`, `ebs:session`, `ebs:games`.
   Every access is wrapped in try/catch.
 
 ### Performance

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { ArrowRight, Menu, Settings as SettingsIcon, Trophy, X } from 'lucide-react';
+import { ArrowRight, Gamepad2, Menu, Settings as SettingsIcon, Trophy, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
 import Button from '../ui/Button';
 import { useTheme } from '../../hooks/useTheme';
@@ -100,6 +100,14 @@ export default function Navbar() {
         {/* Right side */}
         <div className="flex items-center gap-2 sm:gap-3">
           <Link
+            to="/games"
+            aria-label="Games"
+            title="Games"
+            className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-ink transition-colors hover:bg-neutral-200/70 sm:flex dark:text-white dark:hover:bg-white/10"
+          >
+            <Gamepad2 size={20} aria-hidden="true" />
+          </Link>
+          <Link
             to="/progress"
             aria-label="My progress"
             title="My progress"
@@ -170,6 +178,18 @@ export default function Navbar() {
                   <CountBadge count={countFor({ badge })} />
                 </NavLink>
               ))}
+              <NavLink
+                to="/games"
+                className={({ isActive }) =>
+                  `rounded-2xl px-4 py-3 text-sm font-medium ${
+                    isActive
+                      ? 'bg-neutral-200/80 text-brand-ink dark:bg-white/10 dark:text-white'
+                      : 'text-neutral-600 dark:text-neutral-300'
+                  }`
+                }
+              >
+                {t('Games')}
+              </NavLink>
               <NavLink
                 to="/progress"
                 className={({ isActive }) =>
