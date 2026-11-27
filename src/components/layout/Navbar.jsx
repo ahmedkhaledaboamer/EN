@@ -78,10 +78,10 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           to="/"
-          className="font-display text-[11px] font-extrabold uppercase tracking-logo text-brand-gold sm:text-xs dark:text-brand-yellow"
+          className="shrink-0 font-display text-xl font-extrabold tracking-tight text-brand-ink sm:text-2xl dark:text-white"
           aria-label="Yasmina Khaled — home"
         >
-          Yasmina <span className="text-brand-ink/40 dark:text-white/40">Khaled</span>
+          Yasmina <span className="text-highlight">Khaled</span>
         </Link>
 
         {/* Center links (desktop) */}
