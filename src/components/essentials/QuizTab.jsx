@@ -1,6 +1,8 @@
 import { useMemo, useState } from 'react';
 import QuizRunner from '../practice/QuizRunner';
 import { buildEssentialsQuiz } from '../../utils/quiz';
+import { isSpeechSupported } from '../../utils/speech';
+import { isRecognitionSupported } from '../../hooks/useSpeechRecognition';
 import { useEssentialsProgress } from '../../hooks/useEssentialsProgress';
 import { useStreak } from '../../hooks/useStreak';
 import { getNextEssential } from '../../data/essentials';
@@ -14,7 +16,8 @@ export default function QuizTab({ essential, onReview }) {
   const [round, setRound] = useState(0);
 
   const questions = useMemo(
-    () => buildEssentialsQuiz(essential.items, QUESTIONS),
+    () =>
+      buildEssentialsQuiz(essential.items, QUESTIONS, { listen: isSpeechSupported, speak: isRecognitionSupported }),
     // `round` forces a new random quiz on retry
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [essential.items, round],

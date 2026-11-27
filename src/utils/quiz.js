@@ -1,10 +1,12 @@
-// Auto-generated quiz for essentials categories.
-// Three question kinds, all multiple choice (rendered by McqExercise):
-//   en-ar : English word → pick the Arabic meaning
-//   ar-en : Arabic meaning → pick the English word
-//   fill  : example sentence with the word blanked → pick the word
-//           (the Arabic translation of the example is shown as a hint,
-//            so similar items like "Monday"/"Tuesday" stay unambiguous)
+// Auto-generated quiz for essentials categories and saved words.
+// Question kinds:
+//   en-ar  : English word → pick the Arabic meaning
+//   ar-en  : Arabic meaning → pick the English word
+//   fill   : example sentence with the word blanked → pick the word
+//            (the Arabic translation of the example is shown as a hint,
+//             so similar items like "Monday"/"Tuesday" stay unambiguous)
+//   listen : hear the word (not shown) → pick the Arabic meaning   [voice]
+//   say    : see the Arabic meaning → say the English word         [voice]
 import { shuffle } from './answers';
 
 const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -65,13 +67,41 @@ const MAKERS = {
       answer: item.en,
     };
   },
+  // Voice: hear the word (not shown), pick its meaning. Needs text-to-speech.
+  listen: (item, items) => {
+    const wrong = distractors(items, item, 'ar');
+    if (!wrong.length) return null;
+    return {
+      type: 'mcq',
+      label: 'Listen & choose',
+      prompt: 'Listen and choose the meaning:',
+      audio: item.en,
+      question: '',
+      options: [item.ar, ...wrong],
+      answer: item.ar,
+      optionsDir: 'rtl',
+    };
+  },
+  // Voice: see the Arabic meaning, say the English word. Needs speech recognition.
+  say: (item) => ({
+    type: 'speak',
+    label: 'Say it',
+    answer: item.en,
+    note: item.ar,
+    hideAnswer: true,
+  }),
 };
 
-const KINDS = Object.keys(MAKERS);
+const TEXT_KINDS = ['en-ar', 'ar-en', 'fill'];
 
-/** Build `count` questions (mixed kinds, no repeated item+kind pair). */
-export function buildEssentialsQuiz(items, count = 10) {
+/**
+ * Build `count` questions (mixed kinds, no repeated item+kind pair).
+ *   options.listen – add "Listen & choose" questions (browser can speak)
+ *   options.speak  – add "Say it" questions (browser can recognize speech)
+ */
+export function buildEssentialsQuiz(items, count = 10, { listen = false, speak = false } = {}) {
   if (!items?.length) return [];
+  const KINDS = [...TEXT_KINDS, ...(listen ? ['listen'] : []), ...(speak ? ['say'] : [])];
   const pool = shuffle(items);
   const used = new Set();
   const questions = [];

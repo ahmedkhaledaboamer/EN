@@ -17,6 +17,8 @@ import { useProgress } from '../hooks/useProgress';
 import { useEssentialsProgress } from '../hooks/useEssentialsProgress';
 import { useStreak } from '../hooks/useStreak';
 import { buildEssentialsQuiz } from '../utils/quiz';
+import { isSpeechSupported } from '../utils/speech';
+import { isRecognitionSupported } from '../hooks/useSpeechRecognition';
 
 const TABS = [
   { id: 'list', label: 'List', icon: List },
@@ -236,7 +238,10 @@ export default function Saved() {
   };
 
   const questions = useMemo(
-    () => (unique.length >= MIN_QUIZ_WORDS ? buildEssentialsQuiz(unique, 10) : []),
+    () =>
+      unique.length >= MIN_QUIZ_WORDS
+        ? buildEssentialsQuiz(unique, 10, { listen: isSpeechSupported, speak: isRecognitionSupported })
+        : [],
     // `round` builds a fresh quiz on retry
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [unique, round],

@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Check, X } from 'lucide-react';
 import { shuffle } from '../../utils/answers';
 import GapText from './GapText';
+import SpeakButton from '../speech/SpeakButton';
 
 export default function McqExercise({ exercise, locked, onSubmit }) {
   const [options] = useState(() => shuffle(exercise.options));
@@ -18,19 +19,37 @@ export default function McqExercise({ exercise, locked, onSubmit }) {
   //   questionDir – 'rtl' when the question is Arabic
   //   note        – small Arabic helper line under the question
   //   optionsDir  – 'rtl' when the options are Arabic
+  //   audio       – play this text instead of showing a question (listening question)
   const rtlQuestion = exercise.questionDir === 'rtl';
   const rtlOptions = exercise.optionsDir === 'rtl';
 
   return (
     <div>
       {exercise.prompt && <p className="mb-2 text-sm font-medium">{exercise.prompt}</p>}
-      <p
-        dir={rtlQuestion ? 'rtl' : undefined}
-        lang={rtlQuestion ? 'ar' : undefined}
-        className="text-xl font-semibold leading-relaxed text-brand-ink sm:text-2xl dark:text-white"
-      >
-        <GapText text={exercise.question} />
-      </p>
+      {exercise.audio ? (
+        // Listening question: the word is played, not shown (it appears after answering)
+        <div className="flex items-center gap-4">
+          <SpeakButton text={exercise.audio} id="mcq-audio" label="Play the word" className="!h-16 !w-16" />
+          <SpeakButton text={exercise.audio} id="mcq-audio-slow" rate={0.6} size="sm" label="Play slowly" />
+          <span className="text-sm text-neutral-500 dark:text-neutral-400">
+            {locked ? (
+              <>
+                The word was <strong className="text-brand-ink dark:text-white">{exercise.audio}</strong>
+              </>
+            ) : (
+              'Tap to listen (small button = slow)'
+            )}
+          </span>
+        </div>
+      ) : (
+        <p
+          dir={rtlQuestion ? 'rtl' : undefined}
+          lang={rtlQuestion ? 'ar' : undefined}
+          className="text-xl font-semibold leading-relaxed text-brand-ink sm:text-2xl dark:text-white"
+        >
+          <GapText text={exercise.question} />
+        </p>
+      )}
       {exercise.note && (
         <p dir="rtl" lang="ar" className="mt-2 text-neutral-500 dark:text-neutral-400">
           {exercise.note}

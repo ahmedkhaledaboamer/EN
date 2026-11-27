@@ -22,10 +22,10 @@ const TYPES = {
 
 /** Short description of an exercise, for the mistakes list. */
 function promptOf(ex) {
-  if (ex.type === 'mcq') return ex.question;
+  if (ex.type === 'mcq') return ex.audio ? `Listen: ${ex.audio}` : ex.question;
   if (ex.type === 'fill') return ex.sentence;
   if (ex.type === 'order') return 'Put the words in order';
-  if (ex.type === 'speak') return `Say: ${ex.answer}`;
+  if (ex.type === 'speak') return ex.hideAnswer ? `Say in English: ${ex.note}` : `Say: ${ex.answer}`;
   return 'Listen & type';
 }
 

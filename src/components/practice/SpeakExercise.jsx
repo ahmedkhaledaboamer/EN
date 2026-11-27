@@ -19,21 +19,32 @@ export default function SpeakExercise({ exercise, locked, onSubmit }) {
   const submit = () =>
     onSubmit({ correct: (result?.score ?? 0) >= SPEAK_PASS, given: result?.heard || '(nothing heard)' });
 
+  // hideAnswer: recall mode — only the Arabic meaning is shown, you say the English word
+  const hidden = Boolean(exercise.hideAnswer) && !locked;
+
   return (
     <div>
       <p className="flex items-center gap-2 text-sm font-medium">
-        <Mic size={16} aria-hidden="true" /> Say this sentence out loud:
+        <Mic size={16} aria-hidden="true" /> {exercise.hideAnswer ? 'Say it in English:' : 'Say this sentence out loud:'}
       </p>
-      <div className="mt-3 flex items-start gap-3">
-        <p className="flex-1 text-xl font-semibold leading-relaxed text-brand-ink sm:text-2xl dark:text-white">
-          {exercise.answer}
-        </p>
-        <SpeakButton text={exercise.answer} id="speak-exercise-model" label="Listen first" />
-      </div>
-      {exercise.note && (
-        <p dir="rtl" lang="ar" className="mt-2 text-neutral-500 dark:text-neutral-400">
+      {hidden ? (
+        <p dir="rtl" lang="ar" className="mt-3 text-2xl font-bold text-brand-ink sm:text-3xl dark:text-white">
           {exercise.note}
         </p>
+      ) : (
+        <>
+          <div className="mt-3 flex items-start gap-3">
+            <p className="flex-1 text-xl font-semibold leading-relaxed text-brand-ink sm:text-2xl dark:text-white">
+              {exercise.answer}
+            </p>
+            <SpeakButton text={exercise.answer} id="speak-exercise-model" label="Listen first" />
+          </div>
+          {exercise.note && (
+            <p dir="rtl" lang="ar" className="mt-2 text-neutral-500 dark:text-neutral-400">
+              {exercise.note}
+            </p>
+          )}
+        </>
       )}
 
       <div className="mt-6 flex items-center gap-4">
@@ -43,7 +54,7 @@ export default function SpeakExercise({ exercise, locked, onSubmit }) {
         </p>
       </div>
 
-      <SpeakFeedback check={check} />
+      <SpeakFeedback check={check} hideTarget={hidden} />
 
       <div className="mt-5 flex flex-wrap gap-3">
         <Button onClick={submit} disabled={locked || !result || check.listening}>

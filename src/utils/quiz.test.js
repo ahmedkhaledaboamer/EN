@@ -43,6 +43,28 @@ describe('buildEssentialsQuiz', () => {
     expect(new Set(keys).size).toBe(keys.length);
   });
 
+  it('adds voice questions when the browser supports them', () => {
+    const qs = buildEssentialsQuiz(ITEMS, 10, { listen: true, speak: true });
+    expect(qs).toHaveLength(10);
+    const labels = new Set(qs.map((q) => q.label));
+    expect(labels.has('Listen & choose')).toBe(true);
+    expect(labels.has('Say it')).toBe(true);
+
+    const listen = qs.find((q) => q.label === 'Listen & choose');
+    expect(listen.audio).toBeTruthy();
+    expect(listen.question).toBe(''); // the word is heard, not shown
+    expect(listen.options).toContain(listen.answer);
+
+    const say = qs.find((q) => q.label === 'Say it');
+    expect(say).toMatchObject({ type: 'speak', hideAnswer: true });
+    expect(ITEMS.find((i) => i.en === say.answer).ar).toBe(say.note);
+  });
+
+  it('has no voice questions by default', () => {
+    const qs = buildEssentialsQuiz(ITEMS, 10);
+    expect(qs.some((q) => q.audio || q.type === 'speak')).toBe(false);
+  });
+
   it('returns an empty quiz for no items', () => {
     expect(buildEssentialsQuiz([], 10)).toEqual([]);
   });

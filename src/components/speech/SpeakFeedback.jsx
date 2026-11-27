@@ -11,8 +11,9 @@ const VERDICTS = {
 /**
  * Shows what happened after a 🎤 attempt: listening state, error, or the
  * target sentence with each word green (heard) or red (missed).
+ * hideTarget: do not print the target words (used when the answer must stay secret).
  */
-export default function SpeakFeedback({ check, compact = false, onRetry, className = '' }) {
+export default function SpeakFeedback({ check, compact = false, onRetry, hideTarget = false, className = '' }) {
   const { listening, interim, error, result } = check;
   const visible = listening || error || result;
 
@@ -59,7 +60,7 @@ export default function SpeakFeedback({ check, compact = false, onRetry, classNa
                     </button>
                   )}
                 </div>
-                {!compact || result.words.length > 1 ? (
+                {!hideTarget && (!compact || result.words.length > 1) ? (
                   <p className={`mt-2 font-semibold leading-relaxed ${compact ? '' : 'text-lg'}`}>
                     {result.words.map((w, i) => (
                       <span

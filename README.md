@@ -129,7 +129,9 @@ Tips:
 }
 ```
 
-- The **quiz** is generated automatically: English → Arabic, Arabic → English, and fill the blank.
+- The **quiz** is generated automatically: English → Arabic, Arabic → English, fill the blank, and two voice
+  question types when the browser supports them: **Listen & choose** (hear the word, pick its meaning) and
+  **Say it** (see the Arabic meaning, say the English word). The saved-words quiz uses the same generator.
   For fill the blank, the item is removed from its `example`, so each example must **contain the item exactly**
   (the validator warns if it doesn't). `exampleAr` is shown as a hint, so similar items stay unambiguous.
 - Give items **different `ar` values**, so a quiz question never has two correct options.
