@@ -19,6 +19,7 @@ import { useSavedWords } from '../hooks/useSavedWords';
 import { useStreak } from '../hooks/useStreak';
 import { useTodayTopic } from '../hooks/useTodayTopic';
 import { useDailyGoal } from '../hooks/useDailyGoal';
+import { usePlacement } from '../hooks/usePlacement';
 
 const PATH_SIZE = 6;
 
@@ -38,6 +39,7 @@ export default function Home() {
   const { savedCount } = useSavedWords();
   const { streak, best } = useStreak();
   const daily = useDailyGoal();
+  const { placement } = usePlacement();
   const { topic: todayTopic, allDone } = useTodayTopic();
   const [level, setLevel] = useState('All');
 
@@ -47,6 +49,9 @@ export default function Home() {
   return (
     <>
       <Hero todayTopic={todayTopic} streak={streak} />
+
+      {/* Big invitation right under the hero until the placement test is taken */}
+      {!placement && <PlacementBanner />}
 
       <StatsRow
         streak={streak}
@@ -62,7 +67,7 @@ export default function Home() {
         }}
       />
 
-      <PlacementBanner />
+      {placement && <PlacementBanner />}
       <ReviewBanner />
 
       <TodayTopic

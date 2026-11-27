@@ -1,5 +1,7 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, BookOpen, Flame, Volume2 } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { ArrowRight, BookOpen, ClipboardCheck, Flame, Volume2 } from 'lucide-react';
+import { usePlacement } from '../../hooks/usePlacement';
 import Button from '../ui/Button';
 import IntroLine from '../ui/IntroLine';
 import MonoLine from '../ui/MonoLine';
@@ -16,6 +18,7 @@ const fadeUp = {
 };
 
 export default function Hero({ todayTopic, streak }) {
+  const { placement } = usePlacement();
   const firstWord = todayTopic?.preview?.[0];
   const codeData = todayTopic
     ? { name: todayTopic.title, words: todayTopic.wordsCount, level: todayTopic.level }
@@ -72,6 +75,19 @@ export default function Hero({ todayTopic, streak }) {
             Browse Topics
           </Button>
         </motion.div>
+
+        {!placement && (
+          <motion.div variants={fadeUp} initial="hidden" animate="show" custom={4} className="mt-5">
+            <Link
+              to="/placement"
+              className="group inline-flex items-center gap-2 rounded-full border-2 border-dashed border-brand-yellow px-4 py-2 text-sm font-semibold text-brand-ink transition-colors hover:bg-brand-yellow/15 dark:text-white"
+            >
+              <ClipboardCheck size={16} className="text-brand-gold dark:text-brand-yellow" aria-hidden="true" />
+              Not sure of your level? Take the 5-minute test
+              <ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
+            </Link>
+          </motion.div>
+        )}
       </div>
 
       {/* Signature code window + floating badges */}
