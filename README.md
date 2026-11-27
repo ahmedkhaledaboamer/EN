@@ -166,6 +166,10 @@ with `--topics` or `--essentials`.
 - **Dialogue tab (role-play)**: every topic has an 8–12 line conversation (`dialogue` in the topic JSON:
   `title`, `settingAr`, two `roles`, `learnerRole`, `lines`). Listen to it, then play your role: the other side
   speaks automatically and you say your lines into the microphone (or say them from the Arabic only).
+- **Placement test (/placement)**: 4 stages (A1 → B2), 6 questions each (grammar, vocabulary, one listening
+  question), with an "I don't know" option. A stage is passed with 4/6; the test stops at the first failed stage.
+  The result sets your starting level, and Today's Topic skips topics below it. Questions live in
+  `src/data/placement.js`.
 - **Daily review (/review)**: spaced repetition (Leitner boxes: 1, 3, 7, 14, 30 days) over every word you marked
   "Got it" or saved. The **mistakes notebook** collects every wrong quiz answer; answering it correctly removes it.
 - **Settings (/settings)**: voice and speed, Arabic shown by default, text size, daily goal, backup / restore,
@@ -180,7 +184,7 @@ with `--topics` or `--essentials`.
 - **Essentials**: a category is completed at **70% or more** in its quiz. Its progress is stored separately
   from topics, and the Home stats show completed categories and learned items.
 - **localStorage keys**: `ebs:theme`, `ebs:progress`, `ebs:essentials-progress`, `ebs:saved-words`, `ebs:streak`,
-  `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`.
+  `ebs:review`, `ebs:mistakes`, `ebs:settings`, `ebs:daily`, `ebs:placement`.
   Every access is wrapped in try/catch.
 
 ### Performance

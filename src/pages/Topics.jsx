@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { useSearchParams } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { Search, X } from 'lucide-react';
 import LevelGroupedGrid from '../components/topics/LevelGroupedGrid';
 import IntroLine from '../components/ui/IntroLine';
@@ -61,6 +61,12 @@ export default function Topics() {
       </h1>
       <p className="mt-4 font-mono text-sm">
         {topics.length} situations · A1 → C2 · search by topic or by word
+      </p>
+      <p className="mt-2 text-sm">
+        Not sure which level?{' '}
+        <Link to="/placement" className="font-semibold text-brand-gold underline decoration-2 underline-offset-4 dark:text-brand-yellow">
+          Take the placement test
+        </Link>
       </p>
 
       {/* Filters */}

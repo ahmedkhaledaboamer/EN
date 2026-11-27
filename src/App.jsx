@@ -8,6 +8,7 @@ import EssentialPage from './pages/EssentialPage';
 import Saved from './pages/Saved';
 import Review from './pages/Review';
 import Settings from './pages/Settings';
+import Placement from './pages/Placement';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="saved" element={<Saved />} />
         <Route path="review" element={<Review />} />
         <Route path="settings" element={<Settings />} />
+        <Route path="placement" element={<Placement />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

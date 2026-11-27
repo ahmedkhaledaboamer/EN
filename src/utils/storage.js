@@ -12,6 +12,7 @@ export const STORAGE_KEYS = {
   mistakes: 'ebs:mistakes',
   settings: 'ebs:settings',
   daily: 'ebs:daily',
+  placement: 'ebs:placement',
 };
 
 /** Fired on window after every write so all hooks in the same tab re-read. */

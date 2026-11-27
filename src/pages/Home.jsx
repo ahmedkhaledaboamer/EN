@@ -4,6 +4,7 @@ import Hero from '../components/home/Hero';
 import StatsRow from '../components/home/StatsRow';
 import TodayTopic from '../components/home/TodayTopic';
 import ReviewBanner from '../components/home/ReviewBanner';
+import PlacementBanner from '../components/home/PlacementBanner';
 import TopicsGrid from '../components/topics/TopicsGrid';
 import LevelGroupedGrid from '../components/topics/LevelGroupedGrid';
 import LevelChips from '../components/ui/LevelChips';
@@ -61,6 +62,7 @@ export default function Home() {
         }}
       />
 
+      <PlacementBanner />
       <ReviewBanner />
 
       <TodayTopic
