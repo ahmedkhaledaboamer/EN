@@ -1,10 +1,14 @@
 import { useState } from 'react';
-import { motion } from 'framer-motion';
 import { Undo2 } from 'lucide-react';
 import Button from '../ui/Button';
 import { isSameAnswer, shuffleDifferent } from '../../utils/answers';
 
-/** Tap words to build the sentence; tap a placed word to send it back. */
+/**
+ * Tap words to build the sentence; tap a placed word to send it back.
+ * Note: no framer-motion `layout` on these buttons. Inside QuizRunner's
+ * AnimatePresence (mode="wait") it blocked the exit animation, so the next
+ * question never appeared.
+ */
 export default function OrderExercise({ exercise, locked, onSubmit }) {
   // Keep indices so repeated words ("the", "the") stay distinct
   const [bank] = useState(() => shuffleDifferent(exercise.words.map((w, i) => ({ w, i }))));
@@ -39,8 +43,7 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
       >
         {chosen.length === 0 && <span className="px-2 text-sm text-neutral-400">Tap the words below…</span>}
         {chosen.map((i) => (
-          <motion.button
-            layout
+          <button
             key={i}
             type="button"
             disabled={locked}
@@ -49,14 +52,13 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
             className={`${chip} border-brand-yellow bg-brand-yellow/25`}
           >
             {exercise.words[i]}
-          </motion.button>
+          </button>
         ))}
       </div>
 
       <div className="mt-4 flex min-h-[3rem] flex-wrap gap-2" aria-label="Available words">
         {available.map(({ w, i }) => (
-          <motion.button
-            layout
+          <button
             key={i}
             type="button"
             disabled={locked}
@@ -64,7 +66,7 @@ export default function OrderExercise({ exercise, locked, onSubmit }) {
             className={`${chip} border-neutral-200 bg-white/80 hover:border-brand-yellow dark:border-white/15 dark:bg-white/5`}
           >
             {w}
-          </motion.button>
+          </button>
         ))}
       </div>
 
